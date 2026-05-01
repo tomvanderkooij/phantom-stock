@@ -1,0 +1,50 @@
+name: Crawl Phantom Athletics stock
+
+on:
+  schedule:
+    - cron: "0 6,18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: phantom-stock-crawl
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run Phantom crawler
+        run: python3 phantom_crawler.py phantom_stock.csv
+
+      - name: Toon korte samenvatting
+        run: |
+          echo "Bestandsgrootte:"
+          ls -lh phantom_stock.csv
+          echo "Aantal rijen (excl. header):"
+          tail -n +2 phantom_stock.csv | wc -l
+          echo "Eerste 3 rijen:"
+          head -4 phantom_stock.csv
+
+      - name: Commit & push wijzigingen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add phantom_stock.csv
+          if git diff --cached --quiet; then
+            echo "Geen veranderingen — niets te committen."
+          else
+            git commit -m "Update phantom_stock.csv ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git push
+          fi
