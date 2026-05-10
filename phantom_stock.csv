@@ -754,7 +754,7 @@ PHSHO00702-SWS,in_stock,39.99,Trainingsshorts Eclipse,Small,https://phantom-athl
 PHSHO00702-SWM,in_stock,39.99,Trainingsshorts Eclipse,Medium,https://phantom-athletics.com/products/compression-shorts-eclipse
 PHSHO00702-SWL,in_stock,39.99,Trainingsshorts Eclipse,Large,https://phantom-athletics.com/products/compression-shorts-eclipse
 PHSHTR00705-SWXS,in_stock,29.99,Tank Top Eclipse,X-Small,https://phantom-athletics.com/products/tank-top-eclipse
-PHSHTR00705-SWS,in_stock,29.99,Tank Top Eclipse,Small,https://phantom-athletics.com/products/tank-top-eclipse
+PHSHTR00705-SWS,out_of_stock,29.99,Tank Top Eclipse,Small,https://phantom-athletics.com/products/tank-top-eclipse
 PHSHTR00705-SWM,in_stock,29.99,Tank Top Eclipse,Medium,https://phantom-athletics.com/products/tank-top-eclipse
 PHSHTR00705-SWL,out_of_stock,29.99,Tank Top Eclipse,Large,https://phantom-athletics.com/products/tank-top-eclipse
 PHSHO00703-SWXS,in_stock,39.99,Trainingsshorts Eclipse,X-Small,https://phantom-athletics.com/products/training-shorts-eclipse
@@ -3635,7 +3635,7 @@ PHWR2554,out_of_stock,9.99,Boxbandagen Apex - Blau (250 cm / 400 cm),400cm / Sch
 PHSHO2752-S,in_stock,29.99,Muay Thai Shorts Apex - Schwarz,S,https://phantom-athletics.com/products/muay-thai-shorts-apex
 PHSHO2752-M,in_stock,29.99,Muay Thai Shorts Apex - Schwarz,M,https://phantom-athletics.com/products/muay-thai-shorts-apex
 PHSHO2752-L,in_stock,29.99,Muay Thai Shorts Apex - Schwarz,L,https://phantom-athletics.com/products/muay-thai-shorts-apex
-PHSHO2752-XL,in_stock,29.99,Muay Thai Shorts Apex - Schwarz,XL,https://phantom-athletics.com/products/muay-thai-shorts-apex
+PHSHO2752-XL,out_of_stock,29.99,Muay Thai Shorts Apex - Schwarz,XL,https://phantom-athletics.com/products/muay-thai-shorts-apex
 PHSHO2752-XXL,in_stock,29.99,Muay Thai Shorts Apex - Schwarz,XXL,https://phantom-athletics.com/products/muay-thai-shorts-apex
 ASSHOEA050_601-42,out_of_stock,89.99,Ringerschuhe ASICS Split Elite - Rot,42,https://phantom-athletics.com/products/wrestling-shoes-asics-split-elite-red
 ASSHOEA050_601-425,out_of_stock,89.99,Ringerschuhe ASICS Split Elite - Rot,42.5,https://phantom-athletics.com/products/wrestling-shoes-asics-split-elite-red
@@ -4446,7 +4446,7 @@ PHMASK1020-L,in_stock,69.99,Phantom Trainingsmaske - Mystery Mask,Large,https://
 PHSHEVO2546-S,out_of_stock,19.99,Trainingsshirt EVO Tiger Unit - Schwarz,S,https://phantom-athletics.com/products/training-shirt-tiger-unit
 PHSHEVO2546-M,out_of_stock,19.99,Trainingsshirt EVO Tiger Unit - Schwarz,M,https://phantom-athletics.com/products/training-shirt-tiger-unit
 PHSHEVO2546-L,out_of_stock,19.99,Trainingsshirt EVO Tiger Unit - Schwarz,L,https://phantom-athletics.com/products/training-shirt-tiger-unit
-PHSHEVO2546-XL,in_stock,19.99,Trainingsshirt EVO Tiger Unit - Schwarz,XL,https://phantom-athletics.com/products/training-shirt-tiger-unit
+PHSHEVO2546-XL,out_of_stock,19.99,Trainingsshirt EVO Tiger Unit - Schwarz,XL,https://phantom-athletics.com/products/training-shirt-tiger-unit
 PHSHEVO2546-XXL,out_of_stock,19.99,Trainingsshirt EVO Tiger Unit - Schwarz,XXL,https://phantom-athletics.com/products/training-shirt-tiger-unit
 PHSHEVO2544-S,out_of_stock,19.99,Trainingsshirt EVO Supporter - Schwarz,S,https://phantom-athletics.com/products/training-shirt-supporter
 PHSHEVO2544-M,in_stock,19.99,Trainingsshirt EVO Supporter - Schwarz,M,https://phantom-athletics.com/products/training-shirt-supporter
