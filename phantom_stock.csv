@@ -13,7 +13,7 @@ ADSHOE2733-8,out_of_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Weiß/Blau,42,https
 ADSHOE2733-85,in_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Weiß/Blau,42 2/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-white-blue
 ADSHOE2733-9,in_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Weiß/Blau,43 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-white-blue
 ADSHOE2733-95,in_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Weiß/Blau,44,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-white-blue
-ADSHOE2733-10,in_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Weiß/Blau,44 2/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-white-blue
+ADSHOE2733-10,out_of_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Weiß/Blau,44 2/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-white-blue
 ADSHOE2733-105,in_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Weiß/Blau,45 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-white-blue
 ADSHOE2733-11,in_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Weiß/Blau,46,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-white-blue
 ADSHOE4996-29,out_of_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc - Neon Grün,29,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-havoc-neon-green
@@ -61,7 +61,7 @@ PHSH3866-XL,in_stock,39.99,Heavy Tee Elite,X-Large,https://phantom-athletics.com
 PHSH3866-XXL,in_stock,39.99,Heavy Tee Elite,XX-Large,https://phantom-athletics.com/products/heavy-tee-elite
 PHSH3865-S,out_of_stock,29.99,Heavy Tee Germany,Small,https://phantom-athletics.com/products/heavy-tee-germany
 PHSH3865-M,in_stock,29.99,Heavy Tee Germany,Medium,https://phantom-athletics.com/products/heavy-tee-germany
-PHSH3865-L,in_stock,29.99,Heavy Tee Germany,Large,https://phantom-athletics.com/products/heavy-tee-germany
+PHSH3865-L,out_of_stock,29.99,Heavy Tee Germany,Large,https://phantom-athletics.com/products/heavy-tee-germany
 PHSH3865-XL,out_of_stock,29.99,Heavy Tee Germany,X-Large,https://phantom-athletics.com/products/heavy-tee-germany
 PHSH3865-XXL,out_of_stock,29.99,Heavy Tee Germany,XX-Large,https://phantom-athletics.com/products/heavy-tee-germany
 PHSH3861-S,out_of_stock,32.99,Oversize Shirt FIGHTING CLUB,Small,https://phantom-athletics.com/products/oversize-shirt-fighting-club
@@ -1051,7 +1051,7 @@ PHMG3721,in_stock,49.99,Zahnschutz ELITE - Sak Yant,Default Title,https://phanto
 PHMG3720,out_of_stock,49.99,Zahnschutz ELITE - Sparring,Default Title,https://phantom-athletics.com/products/mouthguard-elite-sparring
 PHMG3719,in_stock,39.99,Zahnschutz ELITE - Two Serious,Default Title,https://phantom-athletics.com/products/mouthguard-elite-two-serious
 PHMG3718,in_stock,39.99,Zahnschutz ELITE - Demon,Default Title,https://phantom-athletics.com/products/mouthguard-elite-demon
-PHMG3717,in_stock,39.99,Zahnschutz ELITE - German Flag,Default Title,https://phantom-athletics.com/products/mouthguard-elite-german-flag
+PHMG3717,out_of_stock,39.99,Zahnschutz ELITE - German Flag,Default Title,https://phantom-athletics.com/products/mouthguard-elite-german-flag
 PHMG3716,out_of_stock,39.99,Zahnschutz ELITE - Germany,Default Title,https://phantom-athletics.com/products/mouthguard-elite-germany
 PHMG3715,in_stock,49.99,Zahnschutz ELITE - Ruthless,Default Title,https://phantom-athletics.com/products/mouthguard-elite-ruthless
 PHMG3714,in_stock,49.99,Zahnschutz ELITE - Vantage,Default Title,https://phantom-athletics.com/products/mouthguard-elite-vantage
@@ -1538,7 +1538,7 @@ PHMG3561-Y,in_stock,6.99,Kinder Zahnschutz APEX - Schwarz,Schwarz,https://phanto
 PHMG3559-Y,in_stock,6.99,Kinder Zahnschutz APEX - Schwarz,Clear,https://phantom-athletics.com/products/kids-mouthguard-apex-black
 PHMG3560-Y,in_stock,6.99,Kinder Zahnschutz APEX - Schwarz,Weiß,https://phantom-athletics.com/products/kids-mouthguard-apex-black
 PHMG3569-Y,out_of_stock,6.99,Kinder Zahnschutz APEX - Schwarz,Neon,https://phantom-athletics.com/products/kids-mouthguard-apex-black
-PHMG3568-Y,in_stock,6.99,Kinder Zahnschutz APEX - Schwarz,Blau,https://phantom-athletics.com/products/kids-mouthguard-apex-black
+PHMG3568-Y,out_of_stock,6.99,Kinder Zahnschutz APEX - Schwarz,Blau,https://phantom-athletics.com/products/kids-mouthguard-apex-black
 PHMG3563-Y,in_stock,6.99,Kinder Zahnschutz APEX - Schwarz,Gelb,https://phantom-athletics.com/products/kids-mouthguard-apex-black
 PHMG3564-Y,in_stock,6.99,Kinder Zahnschutz APEX - Schwarz,Orange,https://phantom-athletics.com/products/kids-mouthguard-apex-black
 PHMG3565-Y,in_stock,6.99,Kinder Zahnschutz APEX - Schwarz,Rot,https://phantom-athletics.com/products/kids-mouthguard-apex-black
@@ -2062,7 +2062,7 @@ PHGI00533-WA2,out_of_stock,99.99,BJJ Gi Tactic 2.0 - Weiß,A2,https://phantom-at
 PHGI00533-WA3,out_of_stock,99.99,BJJ Gi Tactic 2.0 - Weiß,A3,https://phantom-athletics.com/products/bjj-gi-tactic-2-0-white
 PHGI00533-WA4,in_stock,99.99,BJJ Gi Tactic 2.0 - Weiß,A4,https://phantom-athletics.com/products/bjj-gi-tactic-2-0-white
 PHGI00533-WA5,in_stock,99.99,BJJ Gi Tactic 2.0 - Weiß,A5,https://phantom-athletics.com/products/bjj-gi-tactic-2-0-white
-DCMG029,in_stock,45.99,Damage Control Zahnschutz - Extreme Impact Series - Blackarts 2.0,Default Title,https://phantom-athletics.com/products/damage-control-mouthguard-extreme-impact-series-blackarts-2-0
+DCMG029,out_of_stock,45.99,Damage Control Zahnschutz - Extreme Impact Series - Blackarts 2.0,Default Title,https://phantom-athletics.com/products/damage-control-mouthguard-extreme-impact-series-blackarts-2-0
 PHSH3382-S,out_of_stock,32.99,T-Shirt Boxing - Schwarz,S,https://phantom-athletics.com/products/t-shirt-boxing-schwarz
 PHSH3382-M,in_stock,32.99,T-Shirt Boxing - Schwarz,M,https://phantom-athletics.com/products/t-shirt-boxing-schwarz
 PHSH3382-L,in_stock,32.99,T-Shirt Boxing - Schwarz,L,https://phantom-athletics.com/products/t-shirt-boxing-schwarz
@@ -2203,7 +2203,7 @@ DCMG022,in_stock,39.99,Damage Control Zahnschutz - Extreme Impact Series - Savag
 DCMG021,out_of_stock,45.99,Damage Control Zahnschutz - Extreme Impact Series - BMF / Bad MotherFucker,Default Title,https://phantom-athletics.com/products/damage-control-zahnschutz-extreme-impact-series-bmf-bad-motherfucker
 DCMG020,in_stock,39.99,Damage Control Zahnschutz - Extreme Impact Series - Thug Life,Default Title,https://phantom-athletics.com/products/damage-control-zahnschutz-extreme-impact-series-thug-life
 DCMG019,in_stock,39.99,Damage Control Zahnschutz - Extreme Impact Series - SymBite,Default Title,https://phantom-athletics.com/products/damage-control-zahnschutz-extreme-impact-series-symbite
-DCMG018,in_stock,39.99,Damage Control Zahnschutz - Extreme Impact Series - X-Ray,Default Title,https://phantom-athletics.com/products/damage-control-zahnschutz-extreme-impact-series-x-ray
+DCMG018,out_of_stock,39.99,Damage Control Zahnschutz - Extreme Impact Series - X-Ray,Default Title,https://phantom-athletics.com/products/damage-control-zahnschutz-extreme-impact-series-x-ray
 DCMG017,in_stock,45.99,Damage Control Zahnschutz - Extreme Impact Series - HAHAHA,Default Title,https://phantom-athletics.com/products/damage-control-zahnschutz-extreme-impact-series-hahaha
 DCMG016,in_stock,45.99,Damage Control Zahnschutz - Extreme Impact Series - Champ,Default Title,https://phantom-athletics.com/products/damage-control-zahnschutz-extreme-impact-series-champ
 ADSHOE6869-6,in_stock,49.99,Ringerschuhe ADIDAS Havoc - Schwarz/Gold,39 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-black-gold
@@ -3416,7 +3416,7 @@ NISHOE2416-102-85,out_of_stock,59.99,Ringerschuhe NIKE Fury - Weiß,42,https://p
 NISHOE2416-102-9,in_stock,59.99,Ringerschuhe NIKE Fury - Weiß,42.5,https://phantom-athletics.com/products/wrestling-shoes-nike-fury-white
 NISHOE2416-102-95,out_of_stock,59.99,Ringerschuhe NIKE Fury - Weiß,43,https://phantom-athletics.com/products/wrestling-shoes-nike-fury-white
 NISHOE2416-102-10,out_of_stock,59.99,Ringerschuhe NIKE Fury - Weiß,44,https://phantom-athletics.com/products/wrestling-shoes-nike-fury-white
-NISHOE2416-102-105,in_stock,59.99,Ringerschuhe NIKE Fury - Weiß,44.5,https://phantom-athletics.com/products/wrestling-shoes-nike-fury-white
+NISHOE2416-102-105,out_of_stock,59.99,Ringerschuhe NIKE Fury - Weiß,44.5,https://phantom-athletics.com/products/wrestling-shoes-nike-fury-white
 NISHOE2416-102-11,out_of_stock,59.99,Ringerschuhe NIKE Fury - Weiß,45,https://phantom-athletics.com/products/wrestling-shoes-nike-fury-white
 NISHOE2416-102-115,out_of_stock,59.99,Ringerschuhe NIKE Fury - Weiß,45.5,https://phantom-athletics.com/products/wrestling-shoes-nike-fury-white
 NISHOE2416-102-12,out_of_stock,59.99,Ringerschuhe NIKE Fury - Weiß,46,https://phantom-athletics.com/products/wrestling-shoes-nike-fury-white
@@ -3596,7 +3596,7 @@ PHBG2883-12,in_stock,26.99,Boxhandschuhe APEX - Neon Blau,12 OZ / Neon Grün,htt
 PHBG2885-12,in_stock,26.99,Boxhandschuhe APEX - Neon Blau,12 OZ / Neon Gelb,https://phantom-athletics.com/products/boxing-gloves-apex-neon-blue
 PHBG2887-12,in_stock,26.99,Boxhandschuhe APEX - Neon Blau,12 OZ / Neon Rot,https://phantom-athletics.com/products/boxing-gloves-apex-neon-blue
 PHBG2889-12,in_stock,26.99,Boxhandschuhe APEX - Neon Blau,12 OZ / Neon Orange,https://phantom-athletics.com/products/boxing-gloves-apex-neon-blue
-PHBG2891-14,in_stock,26.99,Boxhandschuhe APEX - Neon Blau,14 OZ / Neon Blau,https://phantom-athletics.com/products/boxing-gloves-apex-neon-blue
+PHBG2891-14,out_of_stock,26.99,Boxhandschuhe APEX - Neon Blau,14 OZ / Neon Blau,https://phantom-athletics.com/products/boxing-gloves-apex-neon-blue
 PHBG2883-14,in_stock,26.99,Boxhandschuhe APEX - Neon Blau,14 OZ / Neon Grün,https://phantom-athletics.com/products/boxing-gloves-apex-neon-blue
 PHBG2885-14,in_stock,26.99,Boxhandschuhe APEX - Neon Blau,14 OZ / Neon Gelb,https://phantom-athletics.com/products/boxing-gloves-apex-neon-blue
 PHBG2887-14,in_stock,26.99,Boxhandschuhe APEX - Neon Blau,14 OZ / Neon Rot,https://phantom-athletics.com/products/boxing-gloves-apex-neon-blue
@@ -3899,7 +3899,7 @@ PHSHO2742-XXL,in_stock,49.99,Fightshorts FUSION Skull,XXL,https://phantom-athlet
 PHSHEVO2741-S,out_of_stock,19.99,Trainingsshirt EVO Skull,S,https://phantom-athletics.com/products/training-shirt-evo-skull
 PHSHEVO2741-M,in_stock,19.99,Trainingsshirt EVO Skull,M,https://phantom-athletics.com/products/training-shirt-evo-skull
 PHSHEVO2741-L,in_stock,19.99,Trainingsshirt EVO Skull,L,https://phantom-athletics.com/products/training-shirt-evo-skull
-PHSHEVO2741-XL,in_stock,19.99,Trainingsshirt EVO Skull,XL,https://phantom-athletics.com/products/training-shirt-evo-skull
+PHSHEVO2741-XL,out_of_stock,19.99,Trainingsshirt EVO Skull,XL,https://phantom-athletics.com/products/training-shirt-evo-skull
 PHSHEVO2741-XXL,in_stock,19.99,Trainingsshirt EVO Skull,XXL,https://phantom-athletics.com/products/training-shirt-evo-skull
 PHSHEVO2749-S,out_of_stock,19.99,Trainingsshirt EVO Silver Eagle,S,https://phantom-athletics.com/products/trainingsshirt-evo-silver-eagle-1
 PHSHEVO2749-M,in_stock,19.99,Trainingsshirt EVO Silver Eagle,M,https://phantom-athletics.com/products/trainingsshirt-evo-silver-eagle-1
@@ -4689,8 +4689,8 @@ PHSHOCOMP2424-XXL,in_stock,59.99,Tights APEX - Army,XXL,https://phantom-athletic
 PHSHOCOMP2425-S,out_of_stock,39.99,Tights APEX - Schwarz,S,https://phantom-athletics.com/products/tights-apex-black
 PHSHOCOMP2425-M,out_of_stock,39.99,Tights APEX - Schwarz,M,https://phantom-athletics.com/products/tights-apex-black
 PHSHOCOMP2425-L,out_of_stock,39.99,Tights APEX - Schwarz,L,https://phantom-athletics.com/products/tights-apex-black
-PHSHOCOMP2425-XL,in_stock,39.99,Tights APEX - Schwarz,XL,https://phantom-athletics.com/products/tights-apex-black
-PHSHOCOMP2425-XXL,in_stock,39.99,Tights APEX - Schwarz,XXL,https://phantom-athletics.com/products/tights-apex-black
+PHSHOCOMP2425-XL,out_of_stock,39.99,Tights APEX - Schwarz,XL,https://phantom-athletics.com/products/tights-apex-black
+PHSHOCOMP2425-XXL,out_of_stock,39.99,Tights APEX - Schwarz,XXL,https://phantom-athletics.com/products/tights-apex-black
 PHSHO2429-S,in_stock,49.99,Fightshorts VECTOR Apex - Army,S,https://phantom-athletics.com/products/fightshorts-vector-apex-army
 PHSHO2429-M,out_of_stock,49.99,Fightshorts VECTOR Apex - Army,M,https://phantom-athletics.com/products/fightshorts-vector-apex-army
 PHSHO2429-L,out_of_stock,49.99,Fightshorts VECTOR Apex - Army,L,https://phantom-athletics.com/products/fightshorts-vector-apex-army
@@ -4704,7 +4704,7 @@ PHSHO2428-XXL,in_stock,49.99,Fightshorts VECTOR Apex - Sand,XXL,https://phantom-
 PHSHO2430-S,out_of_stock,29.99,Fightshorts VECTOR Apex - Schwarz,S,https://phantom-athletics.com/products/fightshorts-vector-apex-black
 PHSHO2430-M,out_of_stock,29.99,Fightshorts VECTOR Apex - Schwarz,M,https://phantom-athletics.com/products/fightshorts-vector-apex-black
 PHSHO2430-L,out_of_stock,29.99,Fightshorts VECTOR Apex - Schwarz,L,https://phantom-athletics.com/products/fightshorts-vector-apex-black
-PHSHO2430-XL,in_stock,29.99,Fightshorts VECTOR Apex - Schwarz,XL,https://phantom-athletics.com/products/fightshorts-vector-apex-black
+PHSHO2430-XL,out_of_stock,29.99,Fightshorts VECTOR Apex - Schwarz,XL,https://phantom-athletics.com/products/fightshorts-vector-apex-black
 PHSHO2430-XXL,in_stock,29.99,Fightshorts VECTOR Apex - Schwarz,XXL,https://phantom-athletics.com/products/fightshorts-vector-apex-black
 PHSP2457,in_stock,29.99,Magnesium Citrat,Default Title,https://phantom-athletics.com/products/magnesium-citrat
 PHHG2402,in_stock,39.99,Kopfschutz APEX Full Face - Army,Default Title,https://phantom-athletics.com/products/headguard-apex-full-face-army
@@ -4976,7 +4976,7 @@ PHSHO1742-XL,out_of_stock,45.99,Trainingsshorts Shadow,XL,https://phantom-athlet
 PHSHO1742-XXL,out_of_stock,45.99,Trainingsshorts Shadow,XXL,https://phantom-athletics.com/products/training-shorts-shadow-army
 PHBALL1757,in_stock,69.99,Phantom Training Ball,Default Title,https://phantom-athletics.com/products/training-ball
 PHWR1726,in_stock,22.99,Boxbandagen Set Impact (250/400 cm),250cm,https://phantom-athletics.com/products/boxing-handwraps-set-impact
-PHWR1725,in_stock,22.99,Boxbandagen Set Impact (250/400 cm),400 cm,https://phantom-athletics.com/products/boxing-handwraps-set-impact
+PHWR1725,out_of_stock,22.99,Boxbandagen Set Impact (250/400 cm),400 cm,https://phantom-athletics.com/products/boxing-handwraps-set-impact
 PHWR1723,out_of_stock,9.99,Boxbandagen Impact - Schwarz (250/400 cm),250cm / Schwarz,https://phantom-athletics.com/products/boxing-handwraps-impact
 PHWR1724,in_stock,9.99,Boxbandagen Impact - Schwarz (250/400 cm),250cm / Weiss,https://phantom-athletics.com/products/boxing-handwraps-impact
 PHWR1721,out_of_stock,9.99,Boxbandagen Impact - Schwarz (250/400 cm),400cm / Schwarz,https://phantom-athletics.com/products/boxing-handwraps-impact
