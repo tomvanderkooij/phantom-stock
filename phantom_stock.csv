@@ -989,7 +989,7 @@ PHSH3699-XXL,out_of_stock,19.99,T-Shirt APEX 2 - Schwarz,XX-Large,https://phanto
 PHSH3698-S,out_of_stock,19.99,T-Shirt APEX - Schwarz,Small,https://phantom-athletics.com/products/t-shirt-apex-black-gray
 PHSH3698-M,out_of_stock,19.99,T-Shirt APEX - Schwarz,Medium,https://phantom-athletics.com/products/t-shirt-apex-black-gray
 PHSH3698-L,out_of_stock,19.99,T-Shirt APEX - Schwarz,Large,https://phantom-athletics.com/products/t-shirt-apex-black-gray
-PHSH3698-XL,in_stock,19.99,T-Shirt APEX - Schwarz,X-Large,https://phantom-athletics.com/products/t-shirt-apex-black-gray
+PHSH3698-XL,out_of_stock,19.99,T-Shirt APEX - Schwarz,X-Large,https://phantom-athletics.com/products/t-shirt-apex-black-gray
 PHSH3698-XXL,in_stock,19.99,T-Shirt APEX - Schwarz,XX-Large,https://phantom-athletics.com/products/t-shirt-apex-black-gray
 PHHO3697-S,out_of_stock,69.99,Hoodie Zero - Schwarz/Grau,S,https://phantom-athletics.com/products/hoodie-zero-black-gray
 PHHO3697-M,in_stock,69.99,Hoodie Zero - Schwarz/Grau,M,https://phantom-athletics.com/products/hoodie-zero-black-gray
@@ -1528,7 +1528,7 @@ NISHOE2831-900-9,out_of_stock,84.99,Boxschuhe NIKE Machomai 3 - SE,42.5,https://
 NISHOE2831-900-95,out_of_stock,84.99,Boxschuhe NIKE Machomai 3 - SE,43,https://phantom-athletics.com/products/boxing-shoes-nike-machomai-3-se
 NISHOE2831-900-10,out_of_stock,84.99,Boxschuhe NIKE Machomai 3 - SE,44,https://phantom-athletics.com/products/boxing-shoes-nike-machomai-3-se
 NISHOE2831-900-105,out_of_stock,84.99,Boxschuhe NIKE Machomai 3 - SE,44.5,https://phantom-athletics.com/products/boxing-shoes-nike-machomai-3-se
-NISHOE2831-900-11,in_stock,84.99,Boxschuhe NIKE Machomai 3 - SE,45,https://phantom-athletics.com/products/boxing-shoes-nike-machomai-3-se
+NISHOE2831-900-11,out_of_stock,84.99,Boxschuhe NIKE Machomai 3 - SE,45,https://phantom-athletics.com/products/boxing-shoes-nike-machomai-3-se
 NISHOE2831-900-115,out_of_stock,84.99,Boxschuhe NIKE Machomai 3 - SE,45.5,https://phantom-athletics.com/products/boxing-shoes-nike-machomai-3-se
 NISHOE2831-900-12,out_of_stock,84.99,Boxschuhe NIKE Machomai 3 - SE,46,https://phantom-athletics.com/products/boxing-shoes-nike-machomai-3-se
 NISHOE2831-900-125,in_stock,84.99,Boxschuhe NIKE Machomai 3 - SE,47,https://phantom-athletics.com/products/boxing-shoes-nike-machomai-3-se
@@ -3782,7 +3782,7 @@ ADSHOE2473-85,out_of_stock,49.99,Ringerschuhe ADIDAS Havoc - Blau,42 2/3,https:/
 ADSHOE2473-9,out_of_stock,49.99,Ringerschuhe ADIDAS Havoc - Blau,43 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-blue
 ADSHOE2473-95,in_stock,49.99,Ringerschuhe ADIDAS Havoc - Blau,44,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-blue
 ADSHOE2473-10,in_stock,49.99,Ringerschuhe ADIDAS Havoc - Blau,44 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-blue
-ADSHOE2473-105,in_stock,49.99,Ringerschuhe ADIDAS Havoc - Blau,45 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-blue
+ADSHOE2473-105,out_of_stock,49.99,Ringerschuhe ADIDAS Havoc - Blau,45 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-blue
 ADSHOE2473-11,out_of_stock,49.99,Ringerschuhe ADIDAS Havoc - Blau,46,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-blue
 ADSHOE2473-115,in_stock,49.99,Ringerschuhe ADIDAS Havoc - Blau,46 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-blue
 PHSH2872-S,out_of_stock,32.99,T-Shirt Punchy - Schwarz,S,https://phantom-athletics.com/products/t-shirt-punchy-black
@@ -4383,7 +4383,7 @@ PHSP2341,out_of_stock,29.99,BCAA Amino Pulver - Orange,Default Title,https://pha
 PHSHEVO2595-S,in_stock,19.99,Trainingsshirt EVO Germany - Schwarz,S,https://phantom-athletics.com/products/trainingsshirt-evo-germany
 PHSHEVO2595-M,in_stock,19.99,Trainingsshirt EVO Germany - Schwarz,M,https://phantom-athletics.com/products/trainingsshirt-evo-germany
 PHSHEVO2595-L,in_stock,19.99,Trainingsshirt EVO Germany - Schwarz,L,https://phantom-athletics.com/products/trainingsshirt-evo-germany
-PHSHEVO2595-XL,in_stock,19.99,Trainingsshirt EVO Germany - Schwarz,XL,https://phantom-athletics.com/products/trainingsshirt-evo-germany
+PHSHEVO2595-XL,out_of_stock,19.99,Trainingsshirt EVO Germany - Schwarz,XL,https://phantom-athletics.com/products/trainingsshirt-evo-germany
 PHSHEVO2595-XXL,in_stock,19.99,Trainingsshirt EVO Germany - Schwarz,XXL,https://phantom-athletics.com/products/trainingsshirt-evo-germany
 PHSHOCOMP2603-S,in_stock,29.99,Tights Germany,S,https://phantom-athletics.com/products/tights-germany-1
 PHSHOCOMP2603-M,in_stock,29.99,Tights Germany,M,https://phantom-athletics.com/products/tights-germany-1
@@ -4403,7 +4403,7 @@ PHRG2605-XXL,in_stock,29.99,Rashguard Germany - Kurzarm,XXL,https://phantom-athl
 PHSHO2604-S,in_stock,29.99,Fightshorts VECTOR -  Germany,S,https://phantom-athletics.com/products/fightshorts-vector-germany
 PHSHO2604-M,out_of_stock,29.99,Fightshorts VECTOR -  Germany,M,https://phantom-athletics.com/products/fightshorts-vector-germany
 PHSHO2604-L,out_of_stock,29.99,Fightshorts VECTOR -  Germany,L,https://phantom-athletics.com/products/fightshorts-vector-germany
-PHSHO2604-XL,in_stock,29.99,Fightshorts VECTOR -  Germany,XL,https://phantom-athletics.com/products/fightshorts-vector-germany
+PHSHO2604-XL,out_of_stock,29.99,Fightshorts VECTOR -  Germany,XL,https://phantom-athletics.com/products/fightshorts-vector-germany
 PHSHO2604-XXL,in_stock,29.99,Fightshorts VECTOR -  Germany,XXL,https://phantom-athletics.com/products/fightshorts-vector-germany
 PHSHO2606-S,in_stock,29.99,Fightshorts EVO Germany,S,https://phantom-athletics.com/products/fightshorts-evo-germany
 PHSHO2606-M,in_stock,29.99,Fightshorts EVO Germany,M,https://phantom-athletics.com/products/fightshorts-evo-germany
@@ -5011,7 +5011,7 @@ PHSHEVOPT568-SXL,in_stock,21.99,Trainingsshirt EVO Germany,XL / Schwarz,https://
 PHSHEVOGERMANY-WXXL,in_stock,21.99,Trainingsshirt EVO Germany,XXL / Weiß,https://phantom-athletics.com/products/training-shirt-evo-germany-white-1
 PHSHEVOPT568-SXXL,in_stock,21.99,Trainingsshirt EVO Germany,XXL / Schwarz,https://phantom-athletics.com/products/training-shirt-evo-germany-white-1
 PHSHEVOPT00737S,in_stock,21.99,Trainingsshirt EVO Germany - Weiß,S,https://phantom-athletics.com/products/training-shirt-evo-germany-white
-PHSHEVOPT00737M,in_stock,21.99,Trainingsshirt EVO Germany - Weiß,M,https://phantom-athletics.com/products/training-shirt-evo-germany-white
+PHSHEVOPT00737M,out_of_stock,21.99,Trainingsshirt EVO Germany - Weiß,M,https://phantom-athletics.com/products/training-shirt-evo-germany-white
 PHSHEVOPT00737L,in_stock,21.99,Trainingsshirt EVO Germany - Weiß,L,https://phantom-athletics.com/products/training-shirt-evo-germany-white
 PHSHEVOPT00737XL,out_of_stock,21.99,Trainingsshirt EVO Germany - Weiß,XL,https://phantom-athletics.com/products/training-shirt-evo-germany-white
 PHSHEVOPT00737XXL,out_of_stock,21.99,Trainingsshirt EVO Germany - Weiß,XXL,https://phantom-athletics.com/products/training-shirt-evo-germany-white
