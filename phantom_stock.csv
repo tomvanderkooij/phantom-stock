@@ -147,7 +147,7 @@ NISHOE6696-002-12,out_of_stock,219.99,Boxschuhe NIKE HyperKO 3 - Black / Magenta
 PHSH3886-S,in_stock,32.99,T-Shirt SEND LOCATION,Small,https://phantom-athletics.com/products/t-shirt-send-location
 PHSH3886-M,in_stock,32.99,T-Shirt SEND LOCATION,Medium,https://phantom-athletics.com/products/t-shirt-send-location
 PHSH3886-L,in_stock,32.99,T-Shirt SEND LOCATION,Large,https://phantom-athletics.com/products/t-shirt-send-location
-PHSH3886-XL,in_stock,32.99,T-Shirt SEND LOCATION,X-Large,https://phantom-athletics.com/products/t-shirt-send-location
+PHSH3886-XL,out_of_stock,32.99,T-Shirt SEND LOCATION,X-Large,https://phantom-athletics.com/products/t-shirt-send-location
 PHSH3886-XXL,in_stock,32.99,T-Shirt SEND LOCATION,XX-Large,https://phantom-athletics.com/products/t-shirt-send-location
 ADSHOE4685-75,out_of_stock,109.99,Boxschuhe ADIDAS Box Hog 4 - Weiß/Silber,41 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-white-silver
 ADSHOE4685-8,out_of_stock,109.99,Boxschuhe ADIDAS Box Hog 4 - Weiß/Silber,42,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-white-silver
@@ -1634,7 +1634,7 @@ PHSHEVO+3519-M,in_stock,19.99,Trainingsshirt EVO+ Team Germany - Schwarz,M,https
 PHSHEVO+3519-L,in_stock,19.99,Trainingsshirt EVO+ Team Germany - Schwarz,L,https://phantom-athletics.com/products/training-shirt-evo-german-eagle
 PHSHEVO+3519-XL,in_stock,19.99,Trainingsshirt EVO+ Team Germany - Schwarz,XL,https://phantom-athletics.com/products/training-shirt-evo-german-eagle
 PHSHEVO+3519-XXL,in_stock,19.99,Trainingsshirt EVO+ Team Germany - Schwarz,XXL,https://phantom-athletics.com/products/training-shirt-evo-german-eagle
-PHSHEVO+3517-S,in_stock,19.99,Trainingsshirt EVO+ Germany - Schwarz,S,https://phantom-athletics.com/products/trainingsshirt-evo-germany-schwarz
+PHSHEVO+3517-S,out_of_stock,19.99,Trainingsshirt EVO+ Germany - Schwarz,S,https://phantom-athletics.com/products/trainingsshirt-evo-germany-schwarz
 PHSHEVO+3517-M,in_stock,19.99,Trainingsshirt EVO+ Germany - Schwarz,M,https://phantom-athletics.com/products/trainingsshirt-evo-germany-schwarz
 PHSHEVO+3517-L,in_stock,19.99,Trainingsshirt EVO+ Germany - Schwarz,L,https://phantom-athletics.com/products/trainingsshirt-evo-germany-schwarz
 PHSHEVO+3517-XL,in_stock,19.99,Trainingsshirt EVO+ Germany - Schwarz,XL,https://phantom-athletics.com/products/trainingsshirt-evo-germany-schwarz
@@ -2373,7 +2373,7 @@ PHSH2373-L,in_stock,32.99,T-Shirt Supporter - Schwarz,Large,https://phantom-athl
 PHSH2373-XL,in_stock,32.99,T-Shirt Supporter - Schwarz,X-Large,https://phantom-athletics.com/products/t-shirt-supporter-schwarz
 PHSH2373-XXL,in_stock,32.99,T-Shirt Supporter - Schwarz,XX-Large,https://phantom-athletics.com/products/t-shirt-supporter-schwarz
 PHSHOCOMP2940-S,in_stock,39.99,Tights 3/4 APEX - Schwarz,S,https://phantom-athletics.com/products/tights-apex-3-4
-PHSHOCOMP2940-M,in_stock,39.99,Tights 3/4 APEX - Schwarz,M,https://phantom-athletics.com/products/tights-apex-3-4
+PHSHOCOMP2940-M,out_of_stock,39.99,Tights 3/4 APEX - Schwarz,M,https://phantom-athletics.com/products/tights-apex-3-4
 PHSHOCOMP2940-L,in_stock,39.99,Tights 3/4 APEX - Schwarz,L,https://phantom-athletics.com/products/tights-apex-3-4
 PHSHOCOMP2940-XL,in_stock,39.99,Tights 3/4 APEX - Schwarz,XL,https://phantom-athletics.com/products/tights-apex-3-4
 PHSHOCOMP2940-XXL,in_stock,39.99,Tights 3/4 APEX - Schwarz,XXL,https://phantom-athletics.com/products/tights-apex-3-4
@@ -3412,7 +3412,7 @@ PHSHO2993-L,out_of_stock,49.99,Fightshorts FUSION Aztec,L,https://phantom-athlet
 PHSHO2993-XL,in_stock,49.99,Fightshorts FUSION Aztec,XL,https://phantom-athletics.com/products/fightshorts-fusion-aztec
 PHSHO2993-XXL,in_stock,49.99,Fightshorts FUSION Aztec,XXL,https://phantom-athletics.com/products/fightshorts-fusion-aztec
 PHSHEVO2992-S,out_of_stock,21.99,Trainingsshirt EVO Aztec,S,https://phantom-athletics.com/products/training-shirt-evo-aztec
-PHSHEVO2992-M,in_stock,21.99,Trainingsshirt EVO Aztec,M,https://phantom-athletics.com/products/training-shirt-evo-aztec
+PHSHEVO2992-M,out_of_stock,21.99,Trainingsshirt EVO Aztec,M,https://phantom-athletics.com/products/training-shirt-evo-aztec
 PHSHEVO2992-L,out_of_stock,21.99,Trainingsshirt EVO Aztec,L,https://phantom-athletics.com/products/training-shirt-evo-aztec
 PHSHEVO2992-XL,out_of_stock,21.99,Trainingsshirt EVO Aztec,XL,https://phantom-athletics.com/products/training-shirt-evo-aztec
 PHSHEVO2992-XXL,out_of_stock,21.99,Trainingsshirt EVO Aztec,XXL,https://phantom-athletics.com/products/training-shirt-evo-aztec
@@ -4742,7 +4742,7 @@ PHSHOCOMP2424-XL,in_stock,59.99,Tights APEX - Army,XL,https://phantom-athletics.
 PHSHOCOMP2424-XXL,in_stock,59.99,Tights APEX - Army,XXL,https://phantom-athletics.com/products/tights-apex-army
 PHSHOCOMP2425-S,out_of_stock,39.99,Tights APEX - Schwarz,S,https://phantom-athletics.com/products/tights-apex-black
 PHSHOCOMP2425-M,in_stock,39.99,Tights APEX - Schwarz,M,https://phantom-athletics.com/products/tights-apex-black
-PHSHOCOMP2425-L,in_stock,39.99,Tights APEX - Schwarz,L,https://phantom-athletics.com/products/tights-apex-black
+PHSHOCOMP2425-L,out_of_stock,39.99,Tights APEX - Schwarz,L,https://phantom-athletics.com/products/tights-apex-black
 PHSHOCOMP2425-XL,out_of_stock,39.99,Tights APEX - Schwarz,XL,https://phantom-athletics.com/products/tights-apex-black
 PHSHOCOMP2425-XXL,out_of_stock,39.99,Tights APEX - Schwarz,XXL,https://phantom-athletics.com/products/tights-apex-black
 PHSHO2429-S,in_stock,49.99,Fightshorts VECTOR Apex - Army,S,https://phantom-athletics.com/products/fightshorts-vector-apex-army
@@ -4865,7 +4865,7 @@ PHSHO2113-L,out_of_stock,19.99,Badeshorts Solar - Schwarz,L,https://phantom-athl
 PHSHO2113-XL,out_of_stock,19.99,Badeshorts Solar - Schwarz,XL,https://phantom-athletics.com/products/swimshorts-solar
 PHSHO2113-XXL,out_of_stock,19.99,Badeshorts Solar - Schwarz,XXL,https://phantom-athletics.com/products/swimshorts-solar
 PHSHO2113-XXXL,out_of_stock,19.99,Badeshorts Solar - Schwarz,XXXL,https://phantom-athletics.com/products/swimshorts-solar
-PHHG2026,in_stock,29.99,Kopfschutz APEX Full Face - Schwarz,Default Title,https://phantom-athletics.com/products/headguard-apex-full-face
+PHHG2026,out_of_stock,29.99,Kopfschutz APEX Full Face - Schwarz,Default Title,https://phantom-athletics.com/products/headguard-apex-full-face
 PHHG2028,in_stock,39.99,Kopfschutz APEX Open Face,Default Title,https://phantom-athletics.com/products/headguard-apex-open-face
 PHHG2029,in_stock,39.99,Kopfschutz APEX Face Saver,Default Title,https://phantom-athletics.com/products/headguard-apex-face-saver
 PHHG2027,in_stock,39.99,Kopfschutz APEX Cage,Default Title,https://phantom-athletics.com/products/headguard-apex-cage
@@ -5059,7 +5059,7 @@ PHSHEVOPT568-SXXL,in_stock,21.99,Trainingsshirt EVO Germany,XXL / Schwarz,https:
 PHSHEVOPT00737S,out_of_stock,21.99,Trainingsshirt EVO Germany - Weiß,S,https://phantom-athletics.com/products/training-shirt-evo-germany-white
 PHSHEVOPT00737M,out_of_stock,21.99,Trainingsshirt EVO Germany - Weiß,M,https://phantom-athletics.com/products/training-shirt-evo-germany-white
 PHSHEVOPT00737L,out_of_stock,21.99,Trainingsshirt EVO Germany - Weiß,L,https://phantom-athletics.com/products/training-shirt-evo-germany-white
-PHSHEVOPT00737XL,in_stock,21.99,Trainingsshirt EVO Germany - Weiß,XL,https://phantom-athletics.com/products/training-shirt-evo-germany-white
+PHSHEVOPT00737XL,out_of_stock,21.99,Trainingsshirt EVO Germany - Weiß,XL,https://phantom-athletics.com/products/training-shirt-evo-germany-white
 PHSHEVOPT00737XXL,out_of_stock,21.99,Trainingsshirt EVO Germany - Weiß,XXL,https://phantom-athletics.com/products/training-shirt-evo-germany-white
 PHRG1635-S,out_of_stock,49.99,Rashguard Tactic - Langarm,S,https://phantom-athletics.com/products/compression-shirt-tactic
 PHRG1635-M,out_of_stock,49.99,Rashguard Tactic - Langarm,M,https://phantom-athletics.com/products/compression-shirt-tactic
