@@ -2178,7 +2178,7 @@ OPGOLD-S,out_of_stock,24.99,OPRO Zahnschutz - UFC Gold Level - Schwarz,Default T
 OPGOLD-RS,in_stock,24.99,OPRO Zahnschutz - UFC Gold Level - Rot/Silber,Default Title,https://phantom-athletics.com/products/opro-mouthguard-ufc-gold-level-red-silver
 OPGOLDBRACES-S,in_stock,24.99,OPRO Zahnschutz für Zahnspange - UFC Gold Level - Schwarz,Default Title,https://phantom-athletics.com/products/opro-mouthguard-braces-ufc-gold-level-black
 OPSILVER-RS,out_of_stock,14.99,OPRO Zahnschutz - UFC Silver Level - Rot/Schwarz,Default Title,https://phantom-athletics.com/products/opro-mouthguard-ufc-silver-level-red-black
-OPSILVER-SR,in_stock,14.99,OPRO Zahnschutz - UFC Silver Level - Schwarz/Rot,Default Title,https://phantom-athletics.com/products/opro-zahnschutz-ufc-silver-level-black-red
+OPSILVER-SR,out_of_stock,14.99,OPRO Zahnschutz - UFC Silver Level - Schwarz/Rot,Default Title,https://phantom-athletics.com/products/opro-zahnschutz-ufc-silver-level-black-red
 OPBRONZE-W,out_of_stock,9.99,OPRO Zahnschutz - UFC Bronze Level - Weiß,Default Title,https://phantom-athletics.com/products/opro-mouthguard-ufc-bronze-level-white
 OPBRONZE-S,out_of_stock,9.99,OPRO Zahnschutz - UFC Bronze Level - Schwarz,Default Title,https://phantom-athletics.com/products/opro-mouthguard-ufc-bronze-level-black
 SJCAPTAIN-B,in_stock,21.99,Safejawz Zahnschutz - Marvel Captain America,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-marvel-captain-america
@@ -2191,7 +2191,7 @@ SJINTRO-W,out_of_stock,12.99,Safejawz Zahnschutz - Intro Series - Weiß,Default 
 SJINTRO-S,out_of_stock,12.99,Safejawz Zahnschutz - Intro Series - Schwarz,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-intro-series-black
 KPBSG2-S,out_of_stock,119.99,Schienbeinschutz KPB / King Pro Boxing - SG-2,S,https://phantom-athletics.com/products/shinguards-kpb-king-pro-boxing-sg-2
 KPBSG2-M,in_stock,119.99,Schienbeinschutz KPB / King Pro Boxing - SG-2,M,https://phantom-athletics.com/products/shinguards-kpb-king-pro-boxing-sg-2
-KPBSG2-L,in_stock,119.99,Schienbeinschutz KPB / King Pro Boxing - SG-2,L,https://phantom-athletics.com/products/shinguards-kpb-king-pro-boxing-sg-2
+KPBSG2-L,out_of_stock,119.99,Schienbeinschutz KPB / King Pro Boxing - SG-2,L,https://phantom-athletics.com/products/shinguards-kpb-king-pro-boxing-sg-2
 KPBSG2-XL,in_stock,119.99,Schienbeinschutz KPB / King Pro Boxing - SG-2,XL,https://phantom-athletics.com/products/shinguards-kpb-king-pro-boxing-sg-2
 KPBSGREVO4-S,out_of_stock,73.99,Schienbeinschutz KPB / King Pro Boxing - Revo 4,S,https://phantom-athletics.com/products/shinguard-kpb-king-pro-boxing-revo-4
 KPBSGREVO4-M,in_stock,73.99,Schienbeinschutz KPB / King Pro Boxing - Revo 4,M,https://phantom-athletics.com/products/shinguard-kpb-king-pro-boxing-revo-4
@@ -3807,7 +3807,7 @@ ASSHOEA051_001-43,out_of_stock,59.99,Ringerschuhe ASICS Matflex 7 - Schwarz,43,h
 ASSHOEA051_001-435,in_stock,59.99,Ringerschuhe ASICS Matflex 7 - Schwarz,43.5,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-black
 ASSHOEA051_001-44,in_stock,59.99,Ringerschuhe ASICS Matflex 7 - Schwarz,44,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-black
 ASSHOEA051_001-445,out_of_stock,59.99,Ringerschuhe ASICS Matflex 7 - Schwarz,44.5,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-black
-ASSHOEA051_001-45,in_stock,59.99,Ringerschuhe ASICS Matflex 7 - Schwarz,45,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-black
+ASSHOEA051_001-45,out_of_stock,59.99,Ringerschuhe ASICS Matflex 7 - Schwarz,45,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-black
 ASSHOEA051_001-46,in_stock,59.99,Ringerschuhe ASICS Matflex 7 - Schwarz,46,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-black
 ASSHOEA051_100-42,out_of_stock,74.99,Ringerschuhe ASICS Matflex 7 - Weiß,42,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-white
 ASSHOEA051_100-425,out_of_stock,74.99,Ringerschuhe ASICS Matflex 7 - Weiß,42.5,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-white
@@ -4496,7 +4496,7 @@ PHSHOCOMP00594-SXL,out_of_stock,59.99,Tights Domination,XL,https://phantom-athle
 PHSHOCOMP00594-SXXL,out_of_stock,59.99,Tights Domination,XXL,https://phantom-athletics.com/products/tights-domination-black
 PHJOG2476-S,in_stock,49.99,Trainingshose DMC - Schwarz,S,https://phantom-athletics.com/products/track-pants-dmc
 PHJOG2476-M,in_stock,49.99,Trainingshose DMC - Schwarz,M,https://phantom-athletics.com/products/track-pants-dmc
-PHJOG2476-L,in_stock,49.99,Trainingshose DMC - Schwarz,L,https://phantom-athletics.com/products/track-pants-dmc
+PHJOG2476-L,out_of_stock,49.99,Trainingshose DMC - Schwarz,L,https://phantom-athletics.com/products/track-pants-dmc
 PHJOG2476-XL,in_stock,49.99,Trainingshose DMC - Schwarz,XL,https://phantom-athletics.com/products/track-pants-dmc
 PHJOG2476-XXL,in_stock,49.99,Trainingshose DMC - Schwarz,XXL,https://phantom-athletics.com/products/track-pants-dmc
 PHJOG2476-XXXL,in_stock,49.99,Trainingshose DMC - Schwarz,XXXL,https://phantom-athletics.com/products/track-pants-dmc
@@ -5088,7 +5088,7 @@ PHSHEVOGERMANY-WXXL,in_stock,39.99,Trainingsshirt EVO Germany - Weiß,XXL / Wei�
 PHSHEVOPT568-SXXL,in_stock,39.99,Trainingsshirt EVO Germany - Weiß,XXL / Schwarz,https://phantom-athletics.com/products/training-shirt-evo-germany-white-1
 PHSHEVOPT00737S,out_of_stock,39.99,Trainingsshirt EVO Germany Classic,S,https://phantom-athletics.com/products/training-shirt-evo-germany-white
 PHSHEVOPT00737M,out_of_stock,39.99,Trainingsshirt EVO Germany Classic,M,https://phantom-athletics.com/products/training-shirt-evo-germany-white
-PHSHEVOPT00737L,in_stock,39.99,Trainingsshirt EVO Germany Classic,L,https://phantom-athletics.com/products/training-shirt-evo-germany-white
+PHSHEVOPT00737L,out_of_stock,39.99,Trainingsshirt EVO Germany Classic,L,https://phantom-athletics.com/products/training-shirt-evo-germany-white
 PHSHEVOPT00737XL,out_of_stock,39.99,Trainingsshirt EVO Germany Classic,XL,https://phantom-athletics.com/products/training-shirt-evo-germany-white
 PHSHEVOPT00737XXL,out_of_stock,39.99,Trainingsshirt EVO Germany Classic,XXL,https://phantom-athletics.com/products/training-shirt-evo-germany-white
 PHRG1635-S,out_of_stock,49.99,Rashguard Tactic - Langarm,S,https://phantom-athletics.com/products/compression-shirt-tactic
