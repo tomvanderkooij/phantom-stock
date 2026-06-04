@@ -150,7 +150,7 @@ PHSH3949-S,out_of_stock,32.99,Oversize Shirt CAGE RING MAT STREET,S,https://phan
 PHSH3949-M,in_stock,32.99,Oversize Shirt CAGE RING MAT STREET,M,https://phantom-athletics.com/products/oversize-shirt-cage-ring-mat-street
 PHSH3949-L,in_stock,32.99,Oversize Shirt CAGE RING MAT STREET,L,https://phantom-athletics.com/products/oversize-shirt-cage-ring-mat-street
 PHSH3949-XL,in_stock,32.99,Oversize Shirt CAGE RING MAT STREET,XL,https://phantom-athletics.com/products/oversize-shirt-cage-ring-mat-street
-PHSH3949-XXL,in_stock,32.99,Oversize Shirt CAGE RING MAT STREET,XXL,https://phantom-athletics.com/products/oversize-shirt-cage-ring-mat-street
+PHSH3949-XXL,out_of_stock,32.99,Oversize Shirt CAGE RING MAT STREET,XXL,https://phantom-athletics.com/products/oversize-shirt-cage-ring-mat-street
 PHSH3948-S,out_of_stock,32.99,Oversize Shirt FOR THOSE WHO FIGHT,S,https://phantom-athletics.com/products/oversize-shirt-for-those-who-fight
 PHSH3948-M,in_stock,32.99,Oversize Shirt FOR THOSE WHO FIGHT,M,https://phantom-athletics.com/products/oversize-shirt-for-those-who-fight
 PHSH3948-L,in_stock,32.99,Oversize Shirt FOR THOSE WHO FIGHT,L,https://phantom-athletics.com/products/oversize-shirt-for-those-who-fight
@@ -779,7 +779,7 @@ PHSHEVO+3753-M,in_stock,29.99,Trainingsshirt EVO+ Team Bosnia,M,https://phantom-
 PHSHEVO+3753-L,in_stock,29.99,Trainingsshirt EVO+ Team Bosnia,L,https://phantom-athletics.com/products/training-shirt-evo-team-bosnia
 PHSHEVO+3753-XL,in_stock,29.99,Trainingsshirt EVO+ Team Bosnia,XL,https://phantom-athletics.com/products/training-shirt-evo-team-bosnia
 PHSHEVO+3753-XXL,in_stock,29.99,Trainingsshirt EVO+ Team Bosnia,XXL,https://phantom-athletics.com/products/training-shirt-evo-team-bosnia
-PHHO3752-S,in_stock,59.99,Trainingsjacke DMC - Team Russia,S,https://phantom-athletics.com/products/track-jacket-dmc-team-russia
+PHHO3752-S,out_of_stock,59.99,Trainingsjacke DMC - Team Russia,S,https://phantom-athletics.com/products/track-jacket-dmc-team-russia
 PHHO3752-M,in_stock,59.99,Trainingsjacke DMC - Team Russia,M,https://phantom-athletics.com/products/track-jacket-dmc-team-russia
 PHHO3752-L,in_stock,59.99,Trainingsjacke DMC - Team Russia,L,https://phantom-athletics.com/products/track-jacket-dmc-team-russia
 PHHO3752-XL,in_stock,59.99,Trainingsjacke DMC - Team Russia,XL,https://phantom-athletics.com/products/track-jacket-dmc-team-russia
@@ -1105,7 +1105,7 @@ PHSHO2414-XXL,in_stock,29.99,Fightshorts EVO Apex - Schwarz/Grau,XXL / Sand,http
 PHSHO2725-XXL,out_of_stock,29.99,Fightshorts EVO Apex - Schwarz/Grau,XXL / Rot,https://phantom-athletics.com/products/fightshorts-evo-apex-schwarz-grau
 PHSHO3327-XXL,in_stock,29.99,Fightshorts EVO Apex - Schwarz/Grau,XXL / Grau,https://phantom-athletics.com/products/fightshorts-evo-apex-schwarz-grau
 PHSHO3693-S,in_stock,59.99,Fightshorts FUSION 2in1 Apex - Schwarz/Grau,S / Schwarz/Grau,https://phantom-athletics.com/products/fightshorts-fusion-2in1-apex-black-gray
-PHSHO2656-S,in_stock,59.99,Fightshorts FUSION 2in1 Apex - Schwarz/Grau,S / Schwarz,https://phantom-athletics.com/products/fightshorts-fusion-2in1-apex-black-gray
+PHSHO2656-S,out_of_stock,59.99,Fightshorts FUSION 2in1 Apex - Schwarz/Grau,S / Schwarz,https://phantom-athletics.com/products/fightshorts-fusion-2in1-apex-black-gray
 PHSHO2991-S,in_stock,59.99,Fightshorts FUSION 2in1 Apex - Schwarz/Grau,S / Grau,https://phantom-athletics.com/products/fightshorts-fusion-2in1-apex-black-gray
 PHSHO2845-S,in_stock,59.99,Fightshorts FUSION 2in1 Apex - Schwarz/Grau,S / Blau,https://phantom-athletics.com/products/fightshorts-fusion-2in1-apex-black-gray
 PHSHO3693-M,in_stock,59.99,Fightshorts FUSION 2in1 Apex - Schwarz/Grau,M / Schwarz/Grau,https://phantom-athletics.com/products/fightshorts-fusion-2in1-apex-black-gray
@@ -2190,7 +2190,7 @@ PHSHO3396-S,out_of_stock,59.99,Fightshorts FUSION-R 2in1 RANKED - Weiß,S / Schw
 PHSHO3395-S,in_stock,59.99,Fightshorts FUSION-R 2in1 RANKED - Weiß,S / Braun,https://phantom-athletics.com/products/fightshorts-fusion-r-ranked-white
 PHSHO3394-S,in_stock,59.99,Fightshorts FUSION-R 2in1 RANKED - Weiß,S / Lila,https://phantom-athletics.com/products/fightshorts-fusion-r-ranked-white
 PHSHO3393-S,in_stock,59.99,Fightshorts FUSION-R 2in1 RANKED - Weiß,S / Blau,https://phantom-athletics.com/products/fightshorts-fusion-r-ranked-white
-PHSHO3392-M,in_stock,59.99,Fightshorts FUSION-R 2in1 RANKED - Weiß,M / Weiß,https://phantom-athletics.com/products/fightshorts-fusion-r-ranked-white
+PHSHO3392-M,out_of_stock,59.99,Fightshorts FUSION-R 2in1 RANKED - Weiß,M / Weiß,https://phantom-athletics.com/products/fightshorts-fusion-r-ranked-white
 PHSHO3396-M,out_of_stock,59.99,Fightshorts FUSION-R 2in1 RANKED - Weiß,M / Schwarz,https://phantom-athletics.com/products/fightshorts-fusion-r-ranked-white
 PHSHO3395-M,in_stock,59.99,Fightshorts FUSION-R 2in1 RANKED - Weiß,M / Braun,https://phantom-athletics.com/products/fightshorts-fusion-r-ranked-white
 PHSHO3394-M,in_stock,59.99,Fightshorts FUSION-R 2in1 RANKED - Weiß,M / Lila,https://phantom-athletics.com/products/fightshorts-fusion-r-ranked-white
@@ -2313,7 +2313,7 @@ KPBMG,out_of_stock,9.99,KPB / King Pro Boxing Zahnschutz,Default Title,https://p
 OPPLATINUM-SGR,out_of_stock,29.99,OPRO Zahnschutz - UFC Platinum Level - Fangz - Schwarz/Gold/Rot,Default Title,https://phantom-athletics.com/products/opro-mouthguard-ufc-platinum-level-black-gold
 OPGOLD-S,out_of_stock,24.99,OPRO Zahnschutz - UFC Gold Level - Schwarz,Default Title,https://phantom-athletics.com/products/opro-mouthguard-ufc-gold-level-black
 OPGOLD-RS,in_stock,24.99,OPRO Zahnschutz - UFC Gold Level - Rot/Silber,Default Title,https://phantom-athletics.com/products/opro-mouthguard-ufc-gold-level-red-silver
-OPGOLDBRACES-S,in_stock,24.99,OPRO Zahnschutz für Zahnspange - UFC Gold Level - Schwarz,Default Title,https://phantom-athletics.com/products/opro-mouthguard-braces-ufc-gold-level-black
+OPGOLDBRACES-S,out_of_stock,24.99,OPRO Zahnschutz für Zahnspange - UFC Gold Level - Schwarz,Default Title,https://phantom-athletics.com/products/opro-mouthguard-braces-ufc-gold-level-black
 OPSILVER-RS,out_of_stock,14.99,OPRO Zahnschutz - UFC Silver Level - Rot/Schwarz,Default Title,https://phantom-athletics.com/products/opro-mouthguard-ufc-silver-level-red-black
 OPSILVER-SR,out_of_stock,14.99,OPRO Zahnschutz - UFC Silver Level - Schwarz/Rot,Default Title,https://phantom-athletics.com/products/opro-zahnschutz-ufc-silver-level-black-red
 OPBRONZE-W,out_of_stock,9.99,OPRO Zahnschutz - UFC Bronze Level - Weiß,Default Title,https://phantom-athletics.com/products/opro-mouthguard-ufc-bronze-level-white
@@ -2367,7 +2367,7 @@ ADSHOE2730-8,in_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz,42,https://phan
 ADSHOE2730-85,in_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz,42 2/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black
 ADSHOE2730-9,out_of_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz,43 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black
 ADSHOE2730-95,in_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz,44,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black
-ADSHOE2730-10,in_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz,44 2/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black
+ADSHOE2730-10,out_of_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz,44 2/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black
 ADSHOE2730-105,in_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz,45 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black
 ADSHOE2730-11,in_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz,46,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black
 ADSHOE2734-75,out_of_stock,119.99,Boxschuhe ADIDAS Speedex 23 - Schwarz,41 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-speedex-23
@@ -3056,7 +3056,7 @@ SDMG6100,in_stock,15.99,Shock Doctor Zahnschutz Gel Max - Orange,Schwarz/Blau,ht
 SDMG6210,in_stock,15.99,Shock Doctor Zahnschutz Gel Max - Orange,Schwarz,https://phantom-athletics.com/products/shock-doctor-mouthguard-gel-max-orange
 SDMG6190,out_of_stock,15.99,Shock Doctor Zahnschutz Gel Max - Orange,Clear,https://phantom-athletics.com/products/shock-doctor-mouthguard-gel-max-orange
 SDMG6150,in_stock,15.99,Shock Doctor Zahnschutz Gel Max - Orange,Blau,https://phantom-athletics.com/products/shock-doctor-mouthguard-gel-max-orange
-SDMG6200,in_stock,15.99,Shock Doctor Zahnschutz Gel Max - Orange,Pink,https://phantom-athletics.com/products/shock-doctor-mouthguard-gel-max-orange
+SDMG6200,out_of_stock,15.99,Shock Doctor Zahnschutz Gel Max - Orange,Pink,https://phantom-athletics.com/products/shock-doctor-mouthguard-gel-max-orange
 SDMG6140,out_of_stock,15.99,Shock Doctor Zahnschutz Gel Max - Orange,Rot,https://phantom-athletics.com/products/shock-doctor-mouthguard-gel-max-orange
 SDMG6120,out_of_stock,15.99,Shock Doctor Zahnschutz Gel Max - Orange,Grün,https://phantom-athletics.com/products/shock-doctor-mouthguard-gel-max-orange
 PHSHO2416-116,in_stock,29.99,Kinder Fightshorts EVO Apex,Kids - 116,https://phantom-athletics.com/products/kids-fightshorts-evo-apex
@@ -3834,7 +3834,7 @@ PHSP2442,in_stock,26.99,Iso Fit Sport Drink - Kirsche,Default Title,https://phan
 PHRG2819-S,out_of_stock,29.99,Rashguard EVO Apex - Langarm - Schwarz,S,https://phantom-athletics.com/products/rashguard-evo-apex-longsleeve-black
 PHRG2819-M,in_stock,29.99,Rashguard EVO Apex - Langarm - Schwarz,M,https://phantom-athletics.com/products/rashguard-evo-apex-longsleeve-black
 PHRG2819-L,in_stock,29.99,Rashguard EVO Apex - Langarm - Schwarz,L,https://phantom-athletics.com/products/rashguard-evo-apex-longsleeve-black
-PHRG2819-XL,in_stock,29.99,Rashguard EVO Apex - Langarm - Schwarz,XL,https://phantom-athletics.com/products/rashguard-evo-apex-longsleeve-black
+PHRG2819-XL,out_of_stock,29.99,Rashguard EVO Apex - Langarm - Schwarz,XL,https://phantom-athletics.com/products/rashguard-evo-apex-longsleeve-black
 PHRG2819-XXL,in_stock,29.99,Rashguard EVO Apex - Langarm - Schwarz,XXL,https://phantom-athletics.com/products/rashguard-evo-apex-longsleeve-black
 PHBG2874-4,in_stock,49.99,Kinder Boxhandschuhe Punchy,4 OZ (4-5 Jahre),https://phantom-athletics.com/products/kids-boxing-gloves-punchy
 PHBG2874-6,in_stock,49.99,Kinder Boxhandschuhe Punchy,6 Oz (6-8 Jahre),https://phantom-athletics.com/products/kids-boxing-gloves-punchy
@@ -3869,7 +3869,7 @@ ADSHOE2020-7,out_of_stock,69.99,Ringerschuhe ADIDAS Combat Speed 4 - Schwarz,40 
 ADSHOE2020-75,in_stock,69.99,Ringerschuhe ADIDAS Combat Speed 4 - Schwarz,41 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-combat-speed-4
 ADSHOE2020-8,in_stock,69.99,Ringerschuhe ADIDAS Combat Speed 4 - Schwarz,42,https://phantom-athletics.com/products/wrestling-shoes-adidas-combat-speed-4
 ADSHOE2020-85,in_stock,69.99,Ringerschuhe ADIDAS Combat Speed 4 - Schwarz,42 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-combat-speed-4
-ADSHOE2020-9,in_stock,69.99,Ringerschuhe ADIDAS Combat Speed 4 - Schwarz,43 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-combat-speed-4
+ADSHOE2020-9,out_of_stock,69.99,Ringerschuhe ADIDAS Combat Speed 4 - Schwarz,43 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-combat-speed-4
 ADSHOE2020-95,in_stock,69.99,Ringerschuhe ADIDAS Combat Speed 4 - Schwarz,44,https://phantom-athletics.com/products/wrestling-shoes-adidas-combat-speed-4
 ADSHOE2020-10,in_stock,69.99,Ringerschuhe ADIDAS Combat Speed 4 - Schwarz,44 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-combat-speed-4
 ADSHOE2020-105,in_stock,69.99,Ringerschuhe ADIDAS Combat Speed 4 - Schwarz,45 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-combat-speed-4
@@ -4746,7 +4746,7 @@ PHRG2565-M,in_stock,49.99,Rashguard RANKED - Schwarz,M / Schwarz,https://phantom
 PHRG2564-M,in_stock,49.99,Rashguard RANKED - Schwarz,M / Braun,https://phantom-athletics.com/products/rashguard-ranked-black
 PHRG2563-M,in_stock,49.99,Rashguard RANKED - Schwarz,M / Lila,https://phantom-athletics.com/products/rashguard-ranked-black
 PHRG2562-M,out_of_stock,49.99,Rashguard RANKED - Schwarz,M / Blau,https://phantom-athletics.com/products/rashguard-ranked-black
-PHRG2561-M,in_stock,49.99,Rashguard RANKED - Schwarz,M / Weiß,https://phantom-athletics.com/products/rashguard-ranked-black
+PHRG2561-M,out_of_stock,49.99,Rashguard RANKED - Schwarz,M / Weiß,https://phantom-athletics.com/products/rashguard-ranked-black
 PHRG2565-L,out_of_stock,49.99,Rashguard RANKED - Schwarz,L / Schwarz,https://phantom-athletics.com/products/rashguard-ranked-black
 PHRG2564-L,in_stock,49.99,Rashguard RANKED - Schwarz,L / Braun,https://phantom-athletics.com/products/rashguard-ranked-black
 PHRG2563-L,out_of_stock,49.99,Rashguard RANKED - Schwarz,L / Lila,https://phantom-athletics.com/products/rashguard-ranked-black
@@ -5106,7 +5106,7 @@ PHSHEVO2040-M,out_of_stock,19.99,Trainingsshirt EVO Camo - Woodland,M / Woodland
 PHSHEVO2038-M,out_of_stock,19.99,Trainingsshirt EVO Camo - Woodland,M / Rot,https://phantom-athletics.com/products/trainingsshirt-evo-camo-woodland
 PHSHEVO2039-M,out_of_stock,19.99,Trainingsshirt EVO Camo - Woodland,M / Neon,https://phantom-athletics.com/products/trainingsshirt-evo-camo-woodland
 PHSHEVO2040-L,out_of_stock,19.99,Trainingsshirt EVO Camo - Woodland,L / Woodland,https://phantom-athletics.com/products/trainingsshirt-evo-camo-woodland
-PHSHEVO2038-L,in_stock,19.99,Trainingsshirt EVO Camo - Woodland,L / Rot,https://phantom-athletics.com/products/trainingsshirt-evo-camo-woodland
+PHSHEVO2038-L,out_of_stock,19.99,Trainingsshirt EVO Camo - Woodland,L / Rot,https://phantom-athletics.com/products/trainingsshirt-evo-camo-woodland
 PHSHEVO2039-L,out_of_stock,19.99,Trainingsshirt EVO Camo - Woodland,L / Neon,https://phantom-athletics.com/products/trainingsshirt-evo-camo-woodland
 PHSHEVO2040-XL,out_of_stock,19.99,Trainingsshirt EVO Camo - Woodland,XL / Woodland,https://phantom-athletics.com/products/trainingsshirt-evo-camo-woodland
 PHSHEVO2038-XL,in_stock,19.99,Trainingsshirt EVO Camo - Woodland,XL / Rot,https://phantom-athletics.com/products/trainingsshirt-evo-camo-woodland
