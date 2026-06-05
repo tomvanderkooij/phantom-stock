@@ -288,8 +288,8 @@ PHSH3866-XXL,in_stock,39.99,Heavy Tee Elite,XXL,https://phantom-athletics.com/pr
 PHSH3865-S,out_of_stock,39.99,Heavy Tee Germany,S,https://phantom-athletics.com/products/heavy-tee-germany
 PHSH3865-M,in_stock,39.99,Heavy Tee Germany,M,https://phantom-athletics.com/products/heavy-tee-germany
 PHSH3865-L,out_of_stock,39.99,Heavy Tee Germany,L,https://phantom-athletics.com/products/heavy-tee-germany
-PHSH3865-XL,in_stock,39.99,Heavy Tee Germany,XL,https://phantom-athletics.com/products/heavy-tee-germany
-PHSH3865-XXL,out_of_stock,39.99,Heavy Tee Germany,XXL,https://phantom-athletics.com/products/heavy-tee-germany
+PHSH3865-XL,out_of_stock,39.99,Heavy Tee Germany,XL,https://phantom-athletics.com/products/heavy-tee-germany
+PHSH3865-XXL,in_stock,39.99,Heavy Tee Germany,XXL,https://phantom-athletics.com/products/heavy-tee-germany
 PHSH3861-S,out_of_stock,32.99,Oversize Shirt FIGHTING CLUB,S,https://phantom-athletics.com/products/oversize-shirt-fighting-club
 PHSH3861-M,in_stock,32.99,Oversize Shirt FIGHTING CLUB,M,https://phantom-athletics.com/products/oversize-shirt-fighting-club
 PHSH3861-L,in_stock,32.99,Oversize Shirt FIGHTING CLUB,L,https://phantom-athletics.com/products/oversize-shirt-fighting-club
@@ -537,7 +537,7 @@ NISHOE3471-600-13,in_stock,198.99,Boxschuhe NIKE HyperKO 3 - Bright Crimson / Al
 NISHOE3471-400-7,out_of_stock,198.99,Boxschuhe NIKE HyperKO 3 - Photo Blue / Sonic Yellow,40,https://phantom-athletics.com/products/boxing-shoes-nike-hyperko-3-photo-blue-sonic-yellow
 NISHOE3471-400-75,out_of_stock,198.99,Boxschuhe NIKE HyperKO 3 - Photo Blue / Sonic Yellow,40.5,https://phantom-athletics.com/products/boxing-shoes-nike-hyperko-3-photo-blue-sonic-yellow
 NISHOE3471-400-8,out_of_stock,198.99,Boxschuhe NIKE HyperKO 3 - Photo Blue / Sonic Yellow,41,https://phantom-athletics.com/products/boxing-shoes-nike-hyperko-3-photo-blue-sonic-yellow
-NISHOE3471-400-85,in_stock,198.99,Boxschuhe NIKE HyperKO 3 - Photo Blue / Sonic Yellow,42,https://phantom-athletics.com/products/boxing-shoes-nike-hyperko-3-photo-blue-sonic-yellow
+NISHOE3471-400-85,out_of_stock,198.99,Boxschuhe NIKE HyperKO 3 - Photo Blue / Sonic Yellow,42,https://phantom-athletics.com/products/boxing-shoes-nike-hyperko-3-photo-blue-sonic-yellow
 NISHOE3471-400-9,in_stock,198.99,Boxschuhe NIKE HyperKO 3 - Photo Blue / Sonic Yellow,42.5,https://phantom-athletics.com/products/boxing-shoes-nike-hyperko-3-photo-blue-sonic-yellow
 NISHOE3471-400-95,in_stock,198.99,Boxschuhe NIKE HyperKO 3 - Photo Blue / Sonic Yellow,43,https://phantom-athletics.com/products/boxing-shoes-nike-hyperko-3-photo-blue-sonic-yellow
 NISHOE3471-400-10,out_of_stock,198.99,Boxschuhe NIKE HyperKO 3 - Photo Blue / Sonic Yellow,44,https://phantom-athletics.com/products/boxing-shoes-nike-hyperko-3-photo-blue-sonic-yellow
@@ -701,7 +701,7 @@ PHRG3769-XXL,in_stock,39.99,Rashguard Team Turkey - Schwarz,XXL,https://phantom-
 PHSHEVO+3768-S,out_of_stock,19.99,Trainingsshirt EVO+ Team Turkey - Schwarz,S,https://phantom-athletics.com/products/training-shirt-evo-team-turkey-black
 PHSHEVO+3768-M,out_of_stock,19.99,Trainingsshirt EVO+ Team Turkey - Schwarz,M,https://phantom-athletics.com/products/training-shirt-evo-team-turkey-black
 PHSHEVO+3768-L,out_of_stock,19.99,Trainingsshirt EVO+ Team Turkey - Schwarz,L,https://phantom-athletics.com/products/training-shirt-evo-team-turkey-black
-PHSHEVO+3768-XL,out_of_stock,19.99,Trainingsshirt EVO+ Team Turkey - Schwarz,XL,https://phantom-athletics.com/products/training-shirt-evo-team-turkey-black
+PHSHEVO+3768-XL,in_stock,19.99,Trainingsshirt EVO+ Team Turkey - Schwarz,XL,https://phantom-athletics.com/products/training-shirt-evo-team-turkey-black
 PHSHEVO+3768-XXL,out_of_stock,19.99,Trainingsshirt EVO+ Team Turkey - Schwarz,XXL,https://phantom-athletics.com/products/training-shirt-evo-team-turkey-black
 NISHOE3463-101-7,out_of_stock,78.99,Ringerschuhe NIKE Freek SE - Weiß/Gold/Navy,40,https://phantom-athletics.com/products/wrestling-shoes-nike-freek-se-white-gold-navy
 NISHOE3463-101-75,out_of_stock,78.99,Ringerschuhe NIKE Freek SE - Weiß/Gold/Navy,40.5,https://phantom-athletics.com/products/wrestling-shoes-nike-freek-se-white-gold-navy
@@ -2077,7 +2077,7 @@ PHBG2613-10,in_stock,69.99,Boxhandschuhe Muay Thai - Frost White,10 OZ / Sand,ht
 PHBG2612-10,in_stock,69.99,Boxhandschuhe Muay Thai - Frost White,10 OZ / Army,https://phantom-athletics.com/products/boxing-gloves-muay-thai-frost-white
 PHBG3401-10,in_stock,69.99,Boxhandschuhe Muay Thai - Frost White,10 OZ / Grau,https://phantom-athletics.com/products/boxing-gloves-muay-thai-frost-white
 PHBG3444-12,in_stock,69.99,Boxhandschuhe Muay Thai - Frost White,12 OZ / Frost White,https://phantom-athletics.com/products/boxing-gloves-muay-thai-frost-white
-PHBG2590-12,in_stock,69.99,Boxhandschuhe Muay Thai - Frost White,12 OZ / Weiß/Gold,https://phantom-athletics.com/products/boxing-gloves-muay-thai-frost-white
+PHBG2590-12,out_of_stock,69.99,Boxhandschuhe Muay Thai - Frost White,12 OZ / Weiß/Gold,https://phantom-athletics.com/products/boxing-gloves-muay-thai-frost-white
 PHBG2329-12,in_stock,69.99,Boxhandschuhe Muay Thai - Frost White,12 OZ / Schwarz,https://phantom-athletics.com/products/boxing-gloves-muay-thai-frost-white
 PHBG2938-12,in_stock,69.99,Boxhandschuhe Muay Thai - Frost White,12 OZ / Schwarz/Gold,https://phantom-athletics.com/products/boxing-gloves-muay-thai-frost-white
 PHBG3059-12,in_stock,69.99,Boxhandschuhe Muay Thai - Frost White,12 OZ / Schwarz/Silber,https://phantom-athletics.com/products/boxing-gloves-muay-thai-frost-white
@@ -2327,7 +2327,7 @@ SJCAPTAIN-B,in_stock,21.99,Safejawz Zahnschutz - Marvel Captain America,Default 
 SJPANTHER-S,in_stock,21.99,Safejawz Zahnschutz - Marvel Black Panther,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-marvel-black-panther
 SJHULK-G,in_stock,21.99,Safejawz Zahnschutz - Marvel Hulk,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-marvel-hulk
 SJDEADPOOL-R,out_of_stock,21.99,Safejawz Zahnschutz - Marvel Deadpool,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-marvel-deadpool
-SJORTHOVENOM-S,in_stock,29.99,Safejawz Ortho Zahnschutz für Zahnspangen - Marvel Venom,Default Title,https://phantom-athletics.com/products/safejawz-ortho-mouthguard-braces-marvel-venom
+SJORTHOVENOM-S,out_of_stock,29.99,Safejawz Ortho Zahnschutz für Zahnspangen - Marvel Venom,Default Title,https://phantom-athletics.com/products/safejawz-ortho-mouthguard-braces-marvel-venom
 SJEXTROFANGZ-S,out_of_stock,21.99,Safejawz Zahnschutz - Extro Series Fangz - Schwarz,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-extro-series-fangz-black
 SJINTRO-W,out_of_stock,12.99,Safejawz Zahnschutz - Intro Series - Weiß,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-intro-series-white
 SJINTRO-S,out_of_stock,12.99,Safejawz Zahnschutz - Intro Series - Schwarz,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-intro-series-black
@@ -2856,7 +2856,7 @@ PHBG2061-10,in_stock,79.99,Boxhandschuhe Elite ATF - Blackout Edition,10 OZ / Bl
 PHBG1651-10,in_stock,79.99,Boxhandschuhe Elite ATF - Blackout Edition,10 OZ / Schwarz/Weiß,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
 PHBG2437-10,in_stock,79.99,Boxhandschuhe Elite ATF - Blackout Edition,10 OZ / Army,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
 PHBG2061-12,in_stock,79.99,Boxhandschuhe Elite ATF - Blackout Edition,12 OZ / Blackout Edition,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
-PHBG1651-12,out_of_stock,79.99,Boxhandschuhe Elite ATF - Blackout Edition,12 OZ / Schwarz/Weiß,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
+PHBG1651-12,in_stock,79.99,Boxhandschuhe Elite ATF - Blackout Edition,12 OZ / Schwarz/Weiß,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
 PHBG2437-12,in_stock,79.99,Boxhandschuhe Elite ATF - Blackout Edition,12 OZ / Army,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
 PHBG2061-14,in_stock,79.99,Boxhandschuhe Elite ATF - Blackout Edition,14 OZ / Blackout Edition,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
 PHBG1651-14,out_of_stock,79.99,Boxhandschuhe Elite ATF - Blackout Edition,14 OZ / Schwarz/Weiß,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
@@ -3797,7 +3797,7 @@ PHWR2759,in_stock,12.99,Boxbandagen - Sak Yant - Weiß (250/400 cm),250cm / Schw
 PHWR2761,in_stock,12.99,Boxbandagen - Sak Yant - Weiß (250/400 cm),250cm / Rot,https://phantom-athletics.com/products/boxing-handwraps-sak-yant-white
 PHWR2763-250,in_stock,12.99,Boxbandagen - Sak Yant - Weiß (250/400 cm),250cm / Blau,https://phantom-athletics.com/products/boxing-handwraps-sak-yant-white
 PHWR2766,out_of_stock,12.99,Boxbandagen - Sak Yant - Weiß (250/400 cm),400cm / Weiß,https://phantom-athletics.com/products/boxing-handwraps-sak-yant-white
-PHWR2760,out_of_stock,12.99,Boxbandagen - Sak Yant - Weiß (250/400 cm),400cm / Schwarz,https://phantom-athletics.com/products/boxing-handwraps-sak-yant-white
+PHWR2760,in_stock,12.99,Boxbandagen - Sak Yant - Weiß (250/400 cm),400cm / Schwarz,https://phantom-athletics.com/products/boxing-handwraps-sak-yant-white
 PHWR2762,out_of_stock,12.99,Boxbandagen - Sak Yant - Weiß (250/400 cm),400cm / Rot,https://phantom-athletics.com/products/boxing-handwraps-sak-yant-white
 PHWR2764-400,out_of_stock,12.99,Boxbandagen - Sak Yant - Weiß (250/400 cm),400cm / Blau,https://phantom-athletics.com/products/boxing-handwraps-sak-yant-white
 SD6120,out_of_stock,15.99,Shock Doctor Zahnschutz Gel Max - Pink,Grün,https://phantom-athletics.com/products/mouthguard-gel-max-pink
@@ -3920,7 +3920,7 @@ PHSHO2752-S,out_of_stock,29.99,Muay Thai Shorts Apex - Schwarz,S,https://phantom
 PHSHO2752-M,in_stock,29.99,Muay Thai Shorts Apex - Schwarz,M,https://phantom-athletics.com/products/muay-thai-shorts-apex
 PHSHO2752-L,out_of_stock,29.99,Muay Thai Shorts Apex - Schwarz,L,https://phantom-athletics.com/products/muay-thai-shorts-apex
 PHSHO2752-XL,out_of_stock,29.99,Muay Thai Shorts Apex - Schwarz,XL,https://phantom-athletics.com/products/muay-thai-shorts-apex
-PHSHO2752-XXL,out_of_stock,29.99,Muay Thai Shorts Apex - Schwarz,XXL,https://phantom-athletics.com/products/muay-thai-shorts-apex
+PHSHO2752-XXL,in_stock,29.99,Muay Thai Shorts Apex - Schwarz,XXL,https://phantom-athletics.com/products/muay-thai-shorts-apex
 ASSHOEA050_601-42,out_of_stock,89.99,Ringerschuhe ASICS Split Elite - Rot,42,https://phantom-athletics.com/products/wrestling-shoes-asics-split-elite-red
 ASSHOEA050_601-425,out_of_stock,89.99,Ringerschuhe ASICS Split Elite - Rot,42.5,https://phantom-athletics.com/products/wrestling-shoes-asics-split-elite-red
 ASSHOEA050_601-43,out_of_stock,89.99,Ringerschuhe ASICS Split Elite - Rot,43,https://phantom-athletics.com/products/wrestling-shoes-asics-split-elite-red
@@ -4605,9 +4605,9 @@ ADSHOE2470-11,out_of_stock,99.99,Ringerschuhe ADIDAS Tech Fall 2 - Weiß/Schwarz
 SDMG6210Y,out_of_stock,13.99,Kinder Zahnschutz Shock Doctor Gel Max,Schwarz,https://phantom-athletics.com/products/kids-mouthguard-gel-max
 PHSP2341,out_of_stock,29.99,BCAA Amino Pulver - Orange,Default Title,https://phantom-athletics.com/products/bcaa-amino-powder-orange
 PHSHEVO2595-S,out_of_stock,39.99,Trainingsshirt EVO Germany,S,https://phantom-athletics.com/products/trainingsshirt-evo-germany
-PHSHEVO2595-M,in_stock,39.99,Trainingsshirt EVO Germany,M,https://phantom-athletics.com/products/trainingsshirt-evo-germany
+PHSHEVO2595-M,out_of_stock,39.99,Trainingsshirt EVO Germany,M,https://phantom-athletics.com/products/trainingsshirt-evo-germany
 PHSHEVO2595-L,in_stock,39.99,Trainingsshirt EVO Germany,L,https://phantom-athletics.com/products/trainingsshirt-evo-germany
-PHSHEVO2595-XL,out_of_stock,39.99,Trainingsshirt EVO Germany,XL,https://phantom-athletics.com/products/trainingsshirt-evo-germany
+PHSHEVO2595-XL,in_stock,39.99,Trainingsshirt EVO Germany,XL,https://phantom-athletics.com/products/trainingsshirt-evo-germany
 PHSHEVO2595-XXL,out_of_stock,39.99,Trainingsshirt EVO Germany,XXL,https://phantom-athletics.com/products/trainingsshirt-evo-germany
 PHSHOCOMP2603-S,in_stock,59.99,Tights Germany,S,https://phantom-athletics.com/products/tights-germany-1
 PHSHOCOMP2603-M,in_stock,59.99,Tights Germany,M,https://phantom-athletics.com/products/tights-germany-1
@@ -4736,7 +4736,7 @@ PHSHEVO2546-XL,out_of_stock,19.99,Trainingsshirt EVO Tiger Unit - Schwarz,XL,htt
 PHSHEVO2546-XXL,out_of_stock,19.99,Trainingsshirt EVO Tiger Unit - Schwarz,XXL,https://phantom-athletics.com/products/training-shirt-tiger-unit
 PHSHEVO2544-S,out_of_stock,19.99,Trainingsshirt EVO Supporter - Schwarz,S,https://phantom-athletics.com/products/training-shirt-supporter
 PHSHEVO2544-M,out_of_stock,19.99,Trainingsshirt EVO Supporter - Schwarz,M,https://phantom-athletics.com/products/training-shirt-supporter
-PHSHEVO2544-L,out_of_stock,19.99,Trainingsshirt EVO Supporter - Schwarz,L,https://phantom-athletics.com/products/training-shirt-supporter
+PHSHEVO2544-L,in_stock,19.99,Trainingsshirt EVO Supporter - Schwarz,L,https://phantom-athletics.com/products/training-shirt-supporter
 PHSHEVO2544-XL,out_of_stock,19.99,Trainingsshirt EVO Supporter - Schwarz,XL,https://phantom-athletics.com/products/training-shirt-supporter
 PHSHEVO2544-XXL,in_stock,19.99,Trainingsshirt EVO Supporter - Schwarz,XXL,https://phantom-athletics.com/products/training-shirt-supporter
 PHSAUNA2542-SM,in_stock,36.99,Schwitzjacke Nomax-S,S/M,https://phantom-athletics.com/products/sauna-jacket-nomax-s
@@ -4793,7 +4793,7 @@ PHRG2522-L,in_stock,49.99,Rashguard Ruthless - Schwarz,L,https://phantom-athleti
 PHRG2522-XL,in_stock,49.99,Rashguard Ruthless - Schwarz,XL,https://phantom-athletics.com/products/rashguard-ruthless
 PHRG2522-XXL,in_stock,49.99,Rashguard Ruthless - Schwarz,XXL,https://phantom-athletics.com/products/rashguard-ruthless
 PHRG2515-S,out_of_stock,49.99,Rashguard EVO Serious - Schwarz,S,https://phantom-athletics.com/products/rashguard-evo-serious
-PHRG2515-M,out_of_stock,49.99,Rashguard EVO Serious - Schwarz,M,https://phantom-athletics.com/products/rashguard-evo-serious
+PHRG2515-M,in_stock,49.99,Rashguard EVO Serious - Schwarz,M,https://phantom-athletics.com/products/rashguard-evo-serious
 PHRG2515-L,out_of_stock,49.99,Rashguard EVO Serious - Schwarz,L,https://phantom-athletics.com/products/rashguard-evo-serious
 PHRG2515-XL,out_of_stock,49.99,Rashguard EVO Serious - Schwarz,XL,https://phantom-athletics.com/products/rashguard-evo-serious
 PHRG2515-XXL,in_stock,49.99,Rashguard EVO Serious - Schwarz,XXL,https://phantom-athletics.com/products/rashguard-evo-serious
@@ -4933,7 +4933,7 @@ PHSHO2428-XXL,in_stock,49.99,Fightshorts VECTOR Apex - Sand,XXL,https://phantom-
 PHSHO2430-S,out_of_stock,29.99,Fightshorts VECTOR Apex - Schwarz,S,https://phantom-athletics.com/products/fightshorts-vector-apex-black
 PHSHO2430-M,out_of_stock,29.99,Fightshorts VECTOR Apex - Schwarz,M,https://phantom-athletics.com/products/fightshorts-vector-apex-black
 PHSHO2430-L,out_of_stock,29.99,Fightshorts VECTOR Apex - Schwarz,L,https://phantom-athletics.com/products/fightshorts-vector-apex-black
-PHSHO2430-XL,out_of_stock,29.99,Fightshorts VECTOR Apex - Schwarz,XL,https://phantom-athletics.com/products/fightshorts-vector-apex-black
+PHSHO2430-XL,in_stock,29.99,Fightshorts VECTOR Apex - Schwarz,XL,https://phantom-athletics.com/products/fightshorts-vector-apex-black
 PHSHO2430-XXL,in_stock,29.99,Fightshorts VECTOR Apex - Schwarz,XXL,https://phantom-athletics.com/products/fightshorts-vector-apex-black
 PHSP2457,in_stock,29.99,Magnesium Citrat,Default Title,https://phantom-athletics.com/products/magnesium-citrat
 PHHG2402,in_stock,39.99,Kopfschutz APEX Full Face - Army,Default Title,https://phantom-athletics.com/products/headguard-apex-full-face-army
@@ -5222,7 +5222,7 @@ PHSHEVOTT583-L,out_of_stock,19.99,Trainings Tanktop EVO Supporter - Schwarz,L,ht
 PHSHEVOTT583-XL,out_of_stock,19.99,Trainings Tanktop EVO Supporter - Schwarz,XL,https://phantom-athletics.com/products/training-shirt-evo-tanktop
 PHSHEVOTT583-XXL,out_of_stock,19.99,Trainings Tanktop EVO Supporter - Schwarz,XXL,https://phantom-athletics.com/products/training-shirt-evo-tanktop
 PHSHEVOGERMANY-WS,out_of_stock,39.99,Trainingsshirt EVO Germany - Weiß,S / Weiß,https://phantom-athletics.com/products/training-shirt-evo-germany-white-1
-PHSHEVOPT568-SS,out_of_stock,39.99,Trainingsshirt EVO Germany - Weiß,S / Schwarz,https://phantom-athletics.com/products/training-shirt-evo-germany-white-1
+PHSHEVOPT568-SS,in_stock,39.99,Trainingsshirt EVO Germany - Weiß,S / Schwarz,https://phantom-athletics.com/products/training-shirt-evo-germany-white-1
 PHSHEVOGERMANY-WM,in_stock,39.99,Trainingsshirt EVO Germany - Weiß,M / Weiß,https://phantom-athletics.com/products/training-shirt-evo-germany-white-1
 PHSHEVOPT568-SM,in_stock,39.99,Trainingsshirt EVO Germany - Weiß,M / Schwarz,https://phantom-athletics.com/products/training-shirt-evo-germany-white-1
 PHSHEVOGERMANY-WL,in_stock,39.99,Trainingsshirt EVO Germany - Weiß,L / Weiß,https://phantom-athletics.com/products/training-shirt-evo-germany-white-1
