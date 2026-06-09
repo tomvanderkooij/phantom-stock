@@ -328,7 +328,7 @@ PHSH3865-S,out_of_stock,34.99,Heavy Tee Germany,S,https://phantom-athletics.com/
 PHSH3865-M,out_of_stock,34.99,Heavy Tee Germany,M,https://phantom-athletics.com/products/heavy-tee-germany
 PHSH3865-L,out_of_stock,34.99,Heavy Tee Germany,L,https://phantom-athletics.com/products/heavy-tee-germany
 PHSH3865-XL,out_of_stock,34.99,Heavy Tee Germany,XL,https://phantom-athletics.com/products/heavy-tee-germany
-PHSH3865-XXL,in_stock,34.99,Heavy Tee Germany,XXL,https://phantom-athletics.com/products/heavy-tee-germany
+PHSH3865-XXL,out_of_stock,34.99,Heavy Tee Germany,XXL,https://phantom-athletics.com/products/heavy-tee-germany
 PHSH3861-S,out_of_stock,32.99,Oversize Shirt FIGHTING CLUB,S,https://phantom-athletics.com/products/oversize-shirt-fighting-club
 PHSH3861-M,in_stock,32.99,Oversize Shirt FIGHTING CLUB,M,https://phantom-athletics.com/products/oversize-shirt-fighting-club
 PHSH3861-L,in_stock,32.99,Oversize Shirt FIGHTING CLUB,L,https://phantom-athletics.com/products/oversize-shirt-fighting-club
@@ -356,8 +356,8 @@ NISHOE6696-002-11,in_stock,189.99,Boxschuhe NIKE HyperKO 3 - Black / Magenta,45,
 NISHOE6696-002-115,in_stock,189.99,Boxschuhe NIKE HyperKO 3 - Black / Magenta,45.5,https://phantom-athletics.com/products/boxing-shoes-nike-hyperko-3-black-magenta
 NISHOE6696-002-12,out_of_stock,189.99,Boxschuhe NIKE HyperKO 3 - Black / Magenta,46,https://phantom-athletics.com/products/boxing-shoes-nike-hyperko-3-black-magenta
 PHSH3886-S,out_of_stock,32.99,T-Shirt SEND LOCATION,S,https://phantom-athletics.com/products/t-shirt-send-location
-PHSH3886-M,out_of_stock,32.99,T-Shirt SEND LOCATION,M,https://phantom-athletics.com/products/t-shirt-send-location
-PHSH3886-L,out_of_stock,32.99,T-Shirt SEND LOCATION,L,https://phantom-athletics.com/products/t-shirt-send-location
+PHSH3886-M,in_stock,32.99,T-Shirt SEND LOCATION,M,https://phantom-athletics.com/products/t-shirt-send-location
+PHSH3886-L,in_stock,32.99,T-Shirt SEND LOCATION,L,https://phantom-athletics.com/products/t-shirt-send-location
 PHSH3886-XL,out_of_stock,32.99,T-Shirt SEND LOCATION,XL,https://phantom-athletics.com/products/t-shirt-send-location
 PHSH3886-XXL,out_of_stock,32.99,T-Shirt SEND LOCATION,XXL,https://phantom-athletics.com/products/t-shirt-send-location
 ADSHOE4685-75,out_of_stock,109.99,Boxschuhe ADIDAS Box Hog 4 - Weiß/Silber,41 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-white-silver
@@ -422,7 +422,7 @@ PHSH3862-S,out_of_stock,32.99,T-Shirt DON'T TREAD ON ME - Schwarz/Gelb,S,https:/
 PHSH3862-M,in_stock,32.99,T-Shirt DON'T TREAD ON ME - Schwarz/Gelb,M,https://phantom-athletics.com/products/t-shirt-dont-tread-on-me-black-yellow
 PHSH3862-L,in_stock,32.99,T-Shirt DON'T TREAD ON ME - Schwarz/Gelb,L,https://phantom-athletics.com/products/t-shirt-dont-tread-on-me-black-yellow
 PHSH3862-XL,in_stock,32.99,T-Shirt DON'T TREAD ON ME - Schwarz/Gelb,XL,https://phantom-athletics.com/products/t-shirt-dont-tread-on-me-black-yellow
-PHSH3862-XXL,out_of_stock,32.99,T-Shirt DON'T TREAD ON ME - Schwarz/Gelb,XXL,https://phantom-athletics.com/products/t-shirt-dont-tread-on-me-black-yellow
+PHSH3862-XXL,in_stock,32.99,T-Shirt DON'T TREAD ON ME - Schwarz/Gelb,XXL,https://phantom-athletics.com/products/t-shirt-dont-tread-on-me-black-yellow
 PHSH3863-S,out_of_stock,32.99,T-Shirt DON'T TREAD ON ME - Schwarz/Weiß,S,https://phantom-athletics.com/products/t-shirt-dont-tread-on-me-black-white
 PHSH3863-M,in_stock,32.99,T-Shirt DON'T TREAD ON ME - Schwarz/Weiß,M,https://phantom-athletics.com/products/t-shirt-dont-tread-on-me-black-white
 PHSH3863-L,in_stock,32.99,T-Shirt DON'T TREAD ON ME - Schwarz/Weiß,L,https://phantom-athletics.com/products/t-shirt-dont-tread-on-me-black-white
@@ -435,7 +435,7 @@ PHSHO3898-XL,in_stock,54.99,Fightshorts FUSION-R GHOST,XL,https://phantom-athlet
 PHSHO3898-XXL,in_stock,54.99,Fightshorts FUSION-R GHOST,XXL,https://phantom-athletics.com/products/fightshorts-fusion-r-ghost
 PHSH3864-S,out_of_stock,32.99,T-Shirt BOXING CLUB,S,https://phantom-athletics.com/products/t-shirt-boxing-club
 PHSH3864-M,out_of_stock,32.99,T-Shirt BOXING CLUB,M,https://phantom-athletics.com/products/t-shirt-boxing-club
-PHSH3864-L,out_of_stock,32.99,T-Shirt BOXING CLUB,L,https://phantom-athletics.com/products/t-shirt-boxing-club
+PHSH3864-L,in_stock,32.99,T-Shirt BOXING CLUB,L,https://phantom-athletics.com/products/t-shirt-boxing-club
 PHSH3864-XL,out_of_stock,32.99,T-Shirt BOXING CLUB,XL,https://phantom-athletics.com/products/t-shirt-boxing-club
 PHSH3864-XXL,out_of_stock,32.99,T-Shirt BOXING CLUB,XXL,https://phantom-athletics.com/products/t-shirt-boxing-club
 PHSHEVO3897-S,in_stock,39.99,Trainingsshirt EVO GHOST,S,https://phantom-athletics.com/products/trainingsshirt-evo-ghost
@@ -738,7 +738,7 @@ PHRG3769-L,in_stock,39.99,Rashguard Team Turkey - Schwarz,L,https://phantom-athl
 PHRG3769-XL,in_stock,39.99,Rashguard Team Turkey - Schwarz,XL,https://phantom-athletics.com/products/rashguard-team-turkey-black
 PHRG3769-XXL,in_stock,39.99,Rashguard Team Turkey - Schwarz,XXL,https://phantom-athletics.com/products/rashguard-team-turkey-black
 PHSHEVO+3768-S,out_of_stock,19.99,Trainingsshirt EVO+ Team Turkey - Schwarz,S,https://phantom-athletics.com/products/training-shirt-evo-team-turkey-black
-PHSHEVO+3768-M,in_stock,19.99,Trainingsshirt EVO+ Team Turkey - Schwarz,M,https://phantom-athletics.com/products/training-shirt-evo-team-turkey-black
+PHSHEVO+3768-M,out_of_stock,19.99,Trainingsshirt EVO+ Team Turkey - Schwarz,M,https://phantom-athletics.com/products/training-shirt-evo-team-turkey-black
 PHSHEVO+3768-L,out_of_stock,19.99,Trainingsshirt EVO+ Team Turkey - Schwarz,L,https://phantom-athletics.com/products/training-shirt-evo-team-turkey-black
 PHSHEVO+3768-XL,out_of_stock,19.99,Trainingsshirt EVO+ Team Turkey - Schwarz,XL,https://phantom-athletics.com/products/training-shirt-evo-team-turkey-black
 PHSHEVO+3768-XXL,out_of_stock,19.99,Trainingsshirt EVO+ Team Turkey - Schwarz,XXL,https://phantom-athletics.com/products/training-shirt-evo-team-turkey-black
@@ -936,7 +936,7 @@ PHBG3807-12,in_stock,89.99,Boxhandschuhe MEXICO - Silber/Schwarz,12 OZ / Orange/
 PHBG3803-12,in_stock,89.99,Boxhandschuhe MEXICO - Silber/Schwarz,12 OZ / Hellblau/Silber,https://phantom-athletics.com/products/boxing-gloves-mexico-silver-black
 PHBG3799-12,in_stock,89.99,Boxhandschuhe MEXICO - Silber/Schwarz,12 OZ / Grün/Gold,https://phantom-athletics.com/products/boxing-gloves-mexico-silver-black
 PHBG3795-12,in_stock,89.99,Boxhandschuhe MEXICO - Silber/Schwarz,12 OZ / Silber/Rot,https://phantom-athletics.com/products/boxing-gloves-mexico-silver-black
-PHBG3791-12,out_of_stock,89.99,Boxhandschuhe MEXICO - Silber/Schwarz,12 OZ / Rot/Weiß,https://phantom-athletics.com/products/boxing-gloves-mexico-silver-black
+PHBG3791-12,in_stock,89.99,Boxhandschuhe MEXICO - Silber/Schwarz,12 OZ / Rot/Weiß,https://phantom-athletics.com/products/boxing-gloves-mexico-silver-black
 PHBG3508-12,in_stock,89.99,Boxhandschuhe MEXICO - Silber/Schwarz,12 OZ / Silber/Grün/Rot,https://phantom-athletics.com/products/boxing-gloves-mexico-silver-black
 PHBG3318-12,in_stock,89.99,Boxhandschuhe MEXICO - Silber/Schwarz,12 OZ / Weiß/Grün/Rot,https://phantom-athletics.com/products/boxing-gloves-mexico-silver-black
 PHBG3317-12,in_stock,89.99,Boxhandschuhe MEXICO - Silber/Schwarz,12 OZ / Rot,https://phantom-athletics.com/products/boxing-gloves-mexico-silver-black
@@ -986,7 +986,7 @@ PHSG3788-LXL,in_stock,89.99,Schienbeinschutz MEXICO - Silber/Schwarz,L/XL / Wei�
 PHSG3786-LXL,in_stock,89.99,Schienbeinschutz MEXICO - Silber/Schwarz,L/XL / Rot,https://phantom-athletics.com/products/schienbeinschutz-mexico-silber-schwarz
 PHSG3784-LXL,in_stock,89.99,Schienbeinschutz MEXICO - Silber/Schwarz,L/XL / Schwarz,https://phantom-athletics.com/products/schienbeinschutz-mexico-silber-schwarz
 v,out_of_stock,89.99,Schienbeinschutz MEXICO - Grün/Gold,S/M / Orange/Silber,https://phantom-athletics.com/products/shinpads-mexico-green-gold
-PHHO3835-S,in_stock,49.99,Trainingsjacke DMC - Muay Thai / Sak Yant,S,https://phantom-athletics.com/products/trainingsjacke-dmc-muay-thai-sak-yant
+PHHO3835-S,out_of_stock,49.99,Trainingsjacke DMC - Muay Thai / Sak Yant,S,https://phantom-athletics.com/products/trainingsjacke-dmc-muay-thai-sak-yant
 PHHO3835-M,in_stock,49.99,Trainingsjacke DMC - Muay Thai / Sak Yant,M,https://phantom-athletics.com/products/trainingsjacke-dmc-muay-thai-sak-yant
 PHHO3835-L,in_stock,49.99,Trainingsjacke DMC - Muay Thai / Sak Yant,L,https://phantom-athletics.com/products/trainingsjacke-dmc-muay-thai-sak-yant
 PHHO3835-XL,in_stock,49.99,Trainingsjacke DMC - Muay Thai / Sak Yant,XL,https://phantom-athletics.com/products/trainingsjacke-dmc-muay-thai-sak-yant
@@ -1250,7 +1250,7 @@ PHSH3698-S,out_of_stock,19.99,T-Shirt APEX - Schwarz,S,https://phantom-athletics
 PHSH3698-M,out_of_stock,19.99,T-Shirt APEX - Schwarz,M,https://phantom-athletics.com/products/t-shirt-apex-black-gray
 PHSH3698-L,out_of_stock,19.99,T-Shirt APEX - Schwarz,L,https://phantom-athletics.com/products/t-shirt-apex-black-gray
 PHSH3698-XL,out_of_stock,19.99,T-Shirt APEX - Schwarz,XL,https://phantom-athletics.com/products/t-shirt-apex-black-gray
-PHSH3698-XXL,out_of_stock,19.99,T-Shirt APEX - Schwarz,XXL,https://phantom-athletics.com/products/t-shirt-apex-black-gray
+PHSH3698-XXL,in_stock,19.99,T-Shirt APEX - Schwarz,XXL,https://phantom-athletics.com/products/t-shirt-apex-black-gray
 PHHO3697-S,out_of_stock,69.99,Hoodie Zero - Schwarz/Grau,S,https://phantom-athletics.com/products/hoodie-zero-black-gray
 PHHO3697-M,in_stock,69.99,Hoodie Zero - Schwarz/Grau,M,https://phantom-athletics.com/products/hoodie-zero-black-gray
 PHHO3697-L,in_stock,69.99,Hoodie Zero - Schwarz/Grau,L,https://phantom-athletics.com/products/hoodie-zero-black-gray
@@ -1266,7 +1266,7 @@ ADSHOE5382-105,out_of_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Türkis/Pink,45 1
 ADSHOE5382-11,out_of_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Türkis/Pink,46,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-turquoise-pink
 ADSHOE9162-75,out_of_stock,59.99,Boxschuhe ADIDAS Box Hog 2 - Weiß,41 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-2-white
 ADSHOE9162-8,out_of_stock,59.99,Boxschuhe ADIDAS Box Hog 2 - Weiß,42,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-2-white
-ADSHOE9162-85,in_stock,59.99,Boxschuhe ADIDAS Box Hog 2 - Weiß,42 2/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-2-white
+ADSHOE9162-85,out_of_stock,59.99,Boxschuhe ADIDAS Box Hog 2 - Weiß,42 2/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-2-white
 ADSHOE9162-9,out_of_stock,59.99,Boxschuhe ADIDAS Box Hog 2 - Weiß,43 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-2-white
 ADSHOE9162-95,out_of_stock,59.99,Boxschuhe ADIDAS Box Hog 2 - Weiß,44,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-2-white
 ADSHOE9162-10,out_of_stock,59.99,Boxschuhe ADIDAS Box Hog 2 - Weiß,44 2/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-2-white
@@ -1612,7 +1612,7 @@ ASSHOEA066_100-445,out_of_stock,78.99,Ringerschuhe ASICS Split Elite - Weiß,44.
 ASSHOEA066_100-45,out_of_stock,78.99,Ringerschuhe ASICS Split Elite - Weiß,45,https://phantom-athletics.com/products/wrestling-shoes-asics-split-elite-white
 ASSHOEA066_100-46,out_of_stock,78.99,Ringerschuhe ASICS Split Elite - Weiß,46,https://phantom-athletics.com/products/wrestling-shoes-asics-split-elite-white
 ASSHOEA058_401-42,out_of_stock,59.99,Ringerschuhe ASICS Snapdown 4 - Midnight Blau / Silber,42,https://phantom-athletics.com/products/ringerschuhe-asics-snapdown-4-midnight-blue-silver
-ASSHOEA058_401-425,out_of_stock,59.99,Ringerschuhe ASICS Snapdown 4 - Midnight Blau / Silber,42.5,https://phantom-athletics.com/products/ringerschuhe-asics-snapdown-4-midnight-blue-silver
+ASSHOEA058_401-425,in_stock,59.99,Ringerschuhe ASICS Snapdown 4 - Midnight Blau / Silber,42.5,https://phantom-athletics.com/products/ringerschuhe-asics-snapdown-4-midnight-blue-silver
 ASSHOEA058_401-43,out_of_stock,59.99,Ringerschuhe ASICS Snapdown 4 - Midnight Blau / Silber,43,https://phantom-athletics.com/products/ringerschuhe-asics-snapdown-4-midnight-blue-silver
 ASSHOEA058_401-435,out_of_stock,59.99,Ringerschuhe ASICS Snapdown 4 - Midnight Blau / Silber,43.5,https://phantom-athletics.com/products/ringerschuhe-asics-snapdown-4-midnight-blue-silver
 ASSHOEA058_401-44,in_stock,59.99,Ringerschuhe ASICS Snapdown 4 - Midnight Blau / Silber,44,https://phantom-athletics.com/products/ringerschuhe-asics-snapdown-4-midnight-blue-silver
@@ -1629,7 +1629,7 @@ KPBSGSPARTAN1-S,out_of_stock,119.99,Schienbeinschutz KPB / King Pro Boxing - Spa
 KPBSGSPARTAN1-M,in_stock,119.99,Schienbeinschutz KPB / King Pro Boxing - Spartan 1,M,https://phantom-athletics.com/products/schienbeinschutz-kpb-king-pro-boxing-spartan-1
 KPBSGSPARTAN1-L,in_stock,119.99,Schienbeinschutz KPB / King Pro Boxing - Spartan 1,L,https://phantom-athletics.com/products/schienbeinschutz-kpb-king-pro-boxing-spartan-1
 KPBSGSPARTAN1-XL,out_of_stock,119.99,Schienbeinschutz KPB / King Pro Boxing - Spartan 1,XL,https://phantom-athletics.com/products/schienbeinschutz-kpb-king-pro-boxing-spartan-1
-KPBBGREVO4-10,in_stock,59.99,Boxhandschuhe KPB / BG REVO 4 - Schwarz,10 OZ,https://phantom-athletics.com/products/boxing-gloves-kpb-bg-revo-4
+KPBBGREVO4-10,out_of_stock,59.99,Boxhandschuhe KPB / BG REVO 4 - Schwarz,10 OZ,https://phantom-athletics.com/products/boxing-gloves-kpb-bg-revo-4
 KPBBGREVO4-12,out_of_stock,59.99,Boxhandschuhe KPB / BG REVO 4 - Schwarz,12 OZ,https://phantom-athletics.com/products/boxing-gloves-kpb-bg-revo-4
 KPBBGREVO4-14,in_stock,59.99,Boxhandschuhe KPB / BG REVO 4 - Schwarz,14 OZ,https://phantom-athletics.com/products/boxing-gloves-kpb-bg-revo-4
 KPBBGREVO4-16,in_stock,59.99,Boxhandschuhe KPB / BG REVO 4 - Schwarz,16 OZ,https://phantom-athletics.com/products/boxing-gloves-kpb-bg-revo-4
@@ -1657,7 +1657,7 @@ NISHOE9674-103-115,out_of_stock,103.99,Ringerschuhe NIKE Inflict 4 - Weiß/Lila,
 NISHOE9674-103-12,out_of_stock,103.99,Ringerschuhe NIKE Inflict 4 - Weiß/Lila,46,https://phantom-athletics.com/products/wrestling-shoes-nike-inflict-4-white-purple
 NISHOE9674-002-7,out_of_stock,103.99,Ringerschuhe NIKE Inflict 4 - Grau/Neon,40,https://phantom-athletics.com/products/wrestling-shoes-nike-inflict-4-gray-neon
 NISHOE9674-002-75,out_of_stock,103.99,Ringerschuhe NIKE Inflict 4 - Grau/Neon,40.5,https://phantom-athletics.com/products/wrestling-shoes-nike-inflict-4-gray-neon
-NISHOE9674-002-8,in_stock,103.99,Ringerschuhe NIKE Inflict 4 - Grau/Neon,41,https://phantom-athletics.com/products/wrestling-shoes-nike-inflict-4-gray-neon
+NISHOE9674-002-8,out_of_stock,103.99,Ringerschuhe NIKE Inflict 4 - Grau/Neon,41,https://phantom-athletics.com/products/wrestling-shoes-nike-inflict-4-gray-neon
 NISHOE9674-002-85,in_stock,103.99,Ringerschuhe NIKE Inflict 4 - Grau/Neon,42,https://phantom-athletics.com/products/wrestling-shoes-nike-inflict-4-gray-neon
 NISHOE9674-002-9,in_stock,103.99,Ringerschuhe NIKE Inflict 4 - Grau/Neon,42.5,https://phantom-athletics.com/products/wrestling-shoes-nike-inflict-4-gray-neon
 NISHOE9674-002-95,in_stock,103.99,Ringerschuhe NIKE Inflict 4 - Grau/Neon,43,https://phantom-athletics.com/products/wrestling-shoes-nike-inflict-4-gray-neon
@@ -2171,7 +2171,7 @@ ASSHOEA053_102-46,out_of_stock,69.99,Ringerschuhe ASICS Matcontrol 3 - Weiß,46,
 ASSHOEA051_022-42,out_of_stock,49.99,Ringerschuhe ASICS Matflex 7 - Grau,42,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-gray
 ASSHOEA051_022-425,out_of_stock,49.99,Ringerschuhe ASICS Matflex 7 - Grau,42.5,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-gray
 ASSHOEA051_022-43,out_of_stock,49.99,Ringerschuhe ASICS Matflex 7 - Grau,43,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-gray
-ASSHOEA051_022-435,in_stock,49.99,Ringerschuhe ASICS Matflex 7 - Grau,43.5,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-gray
+ASSHOEA051_022-435,out_of_stock,49.99,Ringerschuhe ASICS Matflex 7 - Grau,43.5,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-gray
 ASSHOEA051_022-44,out_of_stock,49.99,Ringerschuhe ASICS Matflex 7 - Grau,44,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-gray
 ASSHOEA051_022-445,out_of_stock,49.99,Ringerschuhe ASICS Matflex 7 - Grau,44.5,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-gray
 ASSHOEA051_022-45,out_of_stock,49.99,Ringerschuhe ASICS Matflex 7 - Grau,45,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-gray
@@ -2305,12 +2305,12 @@ NISHOE2952-100-7,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,40,ht
 NISHOE2952-100-75,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,40.5,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-silver
 NISHOE2952-100-8,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,41,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-silver
 NISHOE2952-100-85,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,42,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-silver
-NISHOE2952-100-9,in_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,42.5,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-silver
+NISHOE2952-100-9,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,42.5,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-silver
 NISHOE2952-100-95,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,43,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-silver
 NISHOE2952-100-10,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,44,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-silver
 NISHOE2952-100-105,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,44.5,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-silver
 NISHOE2952-100-11,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,45,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-silver
-NISHOE2952-100-115,in_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,45.5,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-silver
+NISHOE2952-100-115,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,45.5,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-silver
 NISHOE2952-100-12,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,46,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-silver
 PHGI00535-SA1,out_of_stock,99.99,BJJ Gi Tactic 2.0 - Schwarz,A1,https://phantom-athletics.com/products/bjj-gi-tactic-2-0-black
 PHGI00535-SA2,out_of_stock,99.99,BJJ Gi Tactic 2.0 - Schwarz,A2,https://phantom-athletics.com/products/bjj-gi-tactic-2-0-black
@@ -2413,7 +2413,7 @@ ADSHOE2730-9,out_of_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz,43 1/3,http
 ADSHOE2730-95,in_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz,44,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black
 ADSHOE2730-10,out_of_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz,44 2/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black
 ADSHOE2730-105,in_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz,45 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black
-ADSHOE2730-11,in_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz,46,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black
+ADSHOE2730-11,out_of_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz,46,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black
 ADSHOE2734-75,out_of_stock,119.99,Boxschuhe ADIDAS Speedex 23 - Schwarz,41 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-speedex-23
 ADSHOE2734-8,out_of_stock,119.99,Boxschuhe ADIDAS Speedex 23 - Schwarz,42,https://phantom-athletics.com/products/boxing-shoes-adidas-speedex-23
 ADSHOE2734-85,out_of_stock,119.99,Boxschuhe ADIDAS Speedex 23 - Schwarz,42 2/3,https://phantom-athletics.com/products/boxing-shoes-adidas-speedex-23
@@ -2768,7 +2768,7 @@ PHSHOE3102-45,in_stock,59.99,Ringerschuhe Phantom TACTIC - Grau,45 / Weiß,https
 PHSHOE3100-45,in_stock,59.99,Ringerschuhe Phantom TACTIC - Grau,45 / Neon Grün,https://phantom-athletics.com/products/wrestling-shoes-tactic-gray
 PHSHOE3101-46,in_stock,59.99,Ringerschuhe Phantom TACTIC - Grau,46 / Grau,https://phantom-athletics.com/products/wrestling-shoes-tactic-gray
 PHSHOE3000-46,out_of_stock,59.99,Ringerschuhe Phantom TACTIC - Grau,46 / Schwarz,https://phantom-athletics.com/products/wrestling-shoes-tactic-gray
-PHSHOE3102-46,in_stock,59.99,Ringerschuhe Phantom TACTIC - Grau,46 / Weiß,https://phantom-athletics.com/products/wrestling-shoes-tactic-gray
+PHSHOE3102-46,out_of_stock,59.99,Ringerschuhe Phantom TACTIC - Grau,46 / Weiß,https://phantom-athletics.com/products/wrestling-shoes-tactic-gray
 PHSHOE3100-46,out_of_stock,59.99,Ringerschuhe Phantom TACTIC - Grau,46 / Neon Grün,https://phantom-athletics.com/products/wrestling-shoes-tactic-gray
 PHSHEVO3211-S,out_of_stock,19.99,Trainingsshirt EVO - Paris,S,https://phantom-athletics.com/products/training-shirt-evo-paris
 PHSHEVO3211-M,in_stock,19.99,Trainingsshirt EVO - Paris,M,https://phantom-athletics.com/products/training-shirt-evo-paris
@@ -2898,7 +2898,7 @@ PHBG2061-12,in_stock,79.99,Boxhandschuhe Elite ATF - Blackout Edition,12 OZ / Bl
 PHBG1651-12,out_of_stock,79.99,Boxhandschuhe Elite ATF - Blackout Edition,12 OZ / Schwarz/Weiß,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
 PHBG2437-12,in_stock,79.99,Boxhandschuhe Elite ATF - Blackout Edition,12 OZ / Army,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
 PHBG2061-14,in_stock,79.99,Boxhandschuhe Elite ATF - Blackout Edition,14 OZ / Blackout Edition,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
-PHBG1651-14,out_of_stock,79.99,Boxhandschuhe Elite ATF - Blackout Edition,14 OZ / Schwarz/Weiß,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
+PHBG1651-14,in_stock,79.99,Boxhandschuhe Elite ATF - Blackout Edition,14 OZ / Schwarz/Weiß,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
 PHBG2437-14,in_stock,79.99,Boxhandschuhe Elite ATF - Blackout Edition,14 OZ / Army,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
 PHBG2061-16,in_stock,79.99,Boxhandschuhe Elite ATF - Blackout Edition,16 OZ / Blackout Edition,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
 PHBG1651-16,in_stock,79.99,Boxhandschuhe Elite ATF - Blackout Edition,16 OZ / Schwarz/Weiß,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
@@ -3098,9 +3098,9 @@ SDMG6130,in_stock,15.99,Shock Doctor Zahnschutz Gel Max - Orange,Orange,https://
 SDMG6230,in_stock,15.99,Shock Doctor Zahnschutz Gel Max - Orange,Orange/Schwarz,https://phantom-athletics.com/products/shock-doctor-mouthguard-gel-max-orange
 SDMG6100,in_stock,15.99,Shock Doctor Zahnschutz Gel Max - Orange,Schwarz/Blau,https://phantom-athletics.com/products/shock-doctor-mouthguard-gel-max-orange
 SDMG6210,in_stock,15.99,Shock Doctor Zahnschutz Gel Max - Orange,Schwarz,https://phantom-athletics.com/products/shock-doctor-mouthguard-gel-max-orange
-SDMG6190,out_of_stock,15.99,Shock Doctor Zahnschutz Gel Max - Orange,Clear,https://phantom-athletics.com/products/shock-doctor-mouthguard-gel-max-orange
+SDMG6190,in_stock,15.99,Shock Doctor Zahnschutz Gel Max - Orange,Clear,https://phantom-athletics.com/products/shock-doctor-mouthguard-gel-max-orange
 SDMG6150,in_stock,15.99,Shock Doctor Zahnschutz Gel Max - Orange,Blau,https://phantom-athletics.com/products/shock-doctor-mouthguard-gel-max-orange
-SDMG6200,out_of_stock,15.99,Shock Doctor Zahnschutz Gel Max - Orange,Pink,https://phantom-athletics.com/products/shock-doctor-mouthguard-gel-max-orange
+SDMG6200,in_stock,15.99,Shock Doctor Zahnschutz Gel Max - Orange,Pink,https://phantom-athletics.com/products/shock-doctor-mouthguard-gel-max-orange
 SDMG6140,out_of_stock,15.99,Shock Doctor Zahnschutz Gel Max - Orange,Rot,https://phantom-athletics.com/products/shock-doctor-mouthguard-gel-max-orange
 SDMG6120,out_of_stock,15.99,Shock Doctor Zahnschutz Gel Max - Orange,Grün,https://phantom-athletics.com/products/shock-doctor-mouthguard-gel-max-orange
 PHSHO2416-116,in_stock,29.99,Kinder Fightshorts EVO Apex,Kids - 116,https://phantom-athletics.com/products/kids-fightshorts-evo-apex
@@ -3500,7 +3500,7 @@ NISHOE366683-004-8,out_of_stock,49.99,Ringerschuhe NIKE Speedsweep VII - Schwarz
 NISHOE366683-004-85,out_of_stock,49.99,Ringerschuhe NIKE Speedsweep VII - Schwarz/Silber,42,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-vii-black-silver
 NISHOE366683-004-9,out_of_stock,49.99,Ringerschuhe NIKE Speedsweep VII - Schwarz/Silber,42.5,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-vii-black-silver
 NISHOE366683-004-95,out_of_stock,49.99,Ringerschuhe NIKE Speedsweep VII - Schwarz/Silber,43,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-vii-black-silver
-NISHOE366683-004-10,out_of_stock,49.99,Ringerschuhe NIKE Speedsweep VII - Schwarz/Silber,44,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-vii-black-silver
+NISHOE366683-004-10,in_stock,49.99,Ringerschuhe NIKE Speedsweep VII - Schwarz/Silber,44,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-vii-black-silver
 NISHOE366683-004-105,out_of_stock,49.99,Ringerschuhe NIKE Speedsweep VII - Schwarz/Silber,44.5,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-vii-black-silver
 NISHOE366683-004-11,out_of_stock,49.99,Ringerschuhe NIKE Speedsweep VII - Schwarz/Silber,45,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-vii-black-silver
 NISHOE366683-004-115,out_of_stock,49.99,Ringerschuhe NIKE Speedsweep VII - Schwarz/Silber,45.5,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-vii-black-silver
@@ -3737,7 +3737,7 @@ NISHOE9729-103-75,out_of_stock,114.99,Boxschuhe NIKE Air Max Box - Weiß,40.5,ht
 NISHOE9729-103-8,out_of_stock,114.99,Boxschuhe NIKE Air Max Box - Weiß,41,https://phantom-athletics.com/products/boxing-shoes-nike-air-max-box-white
 NISHOE9729-103-85,out_of_stock,114.99,Boxschuhe NIKE Air Max Box - Weiß,42,https://phantom-athletics.com/products/boxing-shoes-nike-air-max-box-white
 NISHOE9729-103-9,out_of_stock,114.99,Boxschuhe NIKE Air Max Box - Weiß,42.5,https://phantom-athletics.com/products/boxing-shoes-nike-air-max-box-white
-NISHOE9729-103-95,out_of_stock,114.99,Boxschuhe NIKE Air Max Box - Weiß,43,https://phantom-athletics.com/products/boxing-shoes-nike-air-max-box-white
+NISHOE9729-103-95,in_stock,114.99,Boxschuhe NIKE Air Max Box - Weiß,43,https://phantom-athletics.com/products/boxing-shoes-nike-air-max-box-white
 NISHOE9729-103-10,in_stock,114.99,Boxschuhe NIKE Air Max Box - Weiß,44,https://phantom-athletics.com/products/boxing-shoes-nike-air-max-box-white
 NISHOE9729-103-105,out_of_stock,114.99,Boxschuhe NIKE Air Max Box - Weiß,44.5,https://phantom-athletics.com/products/boxing-shoes-nike-air-max-box-white
 NISHOE9729-103-11,out_of_stock,114.99,Boxschuhe NIKE Air Max Box - Weiß,45,https://phantom-athletics.com/products/boxing-shoes-nike-air-max-box-white
@@ -3810,7 +3810,7 @@ PHSH2898-XL,in_stock,32.99,T-Shirt Team - Schwarz,XL / Weiß,https://phantom-ath
 PHSH2896-XXL,in_stock,16.99,T-Shirt Team - Schwarz,XXL / Schwarz,https://phantom-athletics.com/products/t-shirt-team24-black
 PHSH2897-XXL,in_stock,32.99,T-Shirt Team - Schwarz,XXL / Grau,https://phantom-athletics.com/products/t-shirt-team24-black
 PHSH2898-XXL,in_stock,32.99,T-Shirt Team - Schwarz,XXL / Weiß,https://phantom-athletics.com/products/t-shirt-team24-black
-PHSH2899-S,in_stock,32.99,T-Shirt Pro Fighter - Schwarz,S,https://phantom-athletics.com/products/t-shirt-pro-fighter24
+PHSH2899-S,out_of_stock,32.99,T-Shirt Pro Fighter - Schwarz,S,https://phantom-athletics.com/products/t-shirt-pro-fighter24
 PHSH2899-M,in_stock,32.99,T-Shirt Pro Fighter - Schwarz,M,https://phantom-athletics.com/products/t-shirt-pro-fighter24
 PHSH2899-L,in_stock,32.99,T-Shirt Pro Fighter - Schwarz,L,https://phantom-athletics.com/products/t-shirt-pro-fighter24
 PHSH2899-XL,in_stock,32.99,T-Shirt Pro Fighter - Schwarz,XL,https://phantom-athletics.com/products/t-shirt-pro-fighter24
@@ -3946,18 +3946,18 @@ PHSHO2844-XL,in_stock,49.99,Muay Thai Shorts Apex - BLUE,XL,https://phantom-athl
 PHSHO2844-XXL,in_stock,49.99,Muay Thai Shorts Apex - BLUE,XXL,https://phantom-athletics.com/products/muay-thai-shorts-apex-blue
 PHSHOCOMP2838-S,in_stock,59.99,Tights APEX - BLUE,S,https://phantom-athletics.com/products/tights-apex-blue
 PHSHOCOMP2838-M,out_of_stock,59.99,Tights APEX - BLUE,M,https://phantom-athletics.com/products/tights-apex-blue
-PHSHOCOMP2838-L,in_stock,59.99,Tights APEX - BLUE,L,https://phantom-athletics.com/products/tights-apex-blue
+PHSHOCOMP2838-L,out_of_stock,59.99,Tights APEX - BLUE,L,https://phantom-athletics.com/products/tights-apex-blue
 PHSHOCOMP2838-XL,in_stock,59.99,Tights APEX - BLUE,XL,https://phantom-athletics.com/products/tights-apex-blue
 PHSHOCOMP2838-XXL,in_stock,59.99,Tights APEX - BLUE,XXL,https://phantom-athletics.com/products/tights-apex-blue
 PHWR2842,in_stock,9.99,Boxbandagen Apex - Blau (250 cm / 400 cm),250cm / Blue,https://phantom-athletics.com/products/handwraps-apex-blue
 PHWR2777,in_stock,9.99,Boxbandagen Apex - Blau (250 cm / 400 cm),250cm / Red,https://phantom-athletics.com/products/handwraps-apex-blue
-PHWR2553,out_of_stock,9.99,Boxbandagen Apex - Blau (250 cm / 400 cm),250cm / Schwarz,https://phantom-athletics.com/products/handwraps-apex-blue
+PHWR2553,in_stock,9.99,Boxbandagen Apex - Blau (250 cm / 400 cm),250cm / Schwarz,https://phantom-athletics.com/products/handwraps-apex-blue
 PHWR2843,in_stock,9.99,Boxbandagen Apex - Blau (250 cm / 400 cm),400cm / Blue,https://phantom-athletics.com/products/handwraps-apex-blue
 PHWR2778,in_stock,9.99,Boxbandagen Apex - Blau (250 cm / 400 cm),400cm / Red,https://phantom-athletics.com/products/handwraps-apex-blue
 PHWR2554,in_stock,9.99,Boxbandagen Apex - Blau (250 cm / 400 cm),400cm / Schwarz,https://phantom-athletics.com/products/handwraps-apex-blue
 PHSHO2752-S,out_of_stock,29.99,Muay Thai Shorts Apex - Schwarz,S,https://phantom-athletics.com/products/muay-thai-shorts-apex
 PHSHO2752-M,out_of_stock,29.99,Muay Thai Shorts Apex - Schwarz,M,https://phantom-athletics.com/products/muay-thai-shorts-apex
-PHSHO2752-L,in_stock,29.99,Muay Thai Shorts Apex - Schwarz,L,https://phantom-athletics.com/products/muay-thai-shorts-apex
+PHSHO2752-L,out_of_stock,29.99,Muay Thai Shorts Apex - Schwarz,L,https://phantom-athletics.com/products/muay-thai-shorts-apex
 PHSHO2752-XL,out_of_stock,29.99,Muay Thai Shorts Apex - Schwarz,XL,https://phantom-athletics.com/products/muay-thai-shorts-apex
 PHSHO2752-XXL,in_stock,29.99,Muay Thai Shorts Apex - Schwarz,XXL,https://phantom-athletics.com/products/muay-thai-shorts-apex
 ASSHOEA050_601-42,out_of_stock,89.99,Ringerschuhe ASICS Split Elite - Rot,42,https://phantom-athletics.com/products/wrestling-shoes-asics-split-elite-red
@@ -3986,7 +3986,7 @@ ASSHOEA058_001-445,out_of_stock,59.99,Ringerschuhe ASICS Snapdown 4 - Schwarz,44
 ASSHOEA058_001-45,out_of_stock,59.99,Ringerschuhe ASICS Snapdown 4 - Schwarz,45,https://phantom-athletics.com/products/wrestling-shoes-asics-snapdown-4-black
 ASSHOEA058_001-46,out_of_stock,59.99,Ringerschuhe ASICS Snapdown 4 - Schwarz,46,https://phantom-athletics.com/products/wrestling-shoes-asics-snapdown-4-black
 ASSHOEA051_001-42,out_of_stock,59.99,Ringerschuhe ASICS Matflex 7 - Schwarz,42,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-black
-ASSHOEA051_001-425,out_of_stock,59.99,Ringerschuhe ASICS Matflex 7 - Schwarz,42.5,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-black
+ASSHOEA051_001-425,in_stock,59.99,Ringerschuhe ASICS Matflex 7 - Schwarz,42.5,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-black
 ASSHOEA051_001-43,out_of_stock,59.99,Ringerschuhe ASICS Matflex 7 - Schwarz,43,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-black
 ASSHOEA051_001-435,in_stock,59.99,Ringerschuhe ASICS Matflex 7 - Schwarz,43.5,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-black
 ASSHOEA051_001-44,in_stock,59.99,Ringerschuhe ASICS Matflex 7 - Schwarz,44,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-black
@@ -4638,7 +4638,7 @@ ADSHOE2470-95,out_of_stock,99.99,Ringerschuhe ADIDAS Tech Fall 2 - Weiß/Schwarz
 ADSHOE2470-10,out_of_stock,99.99,Ringerschuhe ADIDAS Tech Fall 2 - Weiß/Schwarz,44 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-tech-fall-2-white-black
 ADSHOE2470-105,out_of_stock,99.99,Ringerschuhe ADIDAS Tech Fall 2 - Weiß/Schwarz,45 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-tech-fall-2-white-black
 ADSHOE2470-11,out_of_stock,99.99,Ringerschuhe ADIDAS Tech Fall 2 - Weiß/Schwarz,46,https://phantom-athletics.com/products/wrestling-shoes-adidas-tech-fall-2-white-black
-SDMG6210Y,out_of_stock,13.99,Kinder Zahnschutz Shock Doctor Gel Max,Schwarz,https://phantom-athletics.com/products/kids-mouthguard-gel-max
+SDMG6210Y,in_stock,13.99,Kinder Zahnschutz Shock Doctor Gel Max,Schwarz,https://phantom-athletics.com/products/kids-mouthguard-gel-max
 PHSP2341,out_of_stock,29.99,BCAA Amino Pulver - Orange,Default Title,https://phantom-athletics.com/products/bcaa-amino-powder-orange
 PHSHEVO2595-S,out_of_stock,39.99,Trainingsshirt EVO Germany,S,https://phantom-athletics.com/products/trainingsshirt-evo-germany
 PHSHEVO2595-M,out_of_stock,39.99,Trainingsshirt EVO Germany,M,https://phantom-athletics.com/products/trainingsshirt-evo-germany
@@ -4811,7 +4811,7 @@ PHRG2519-S,out_of_stock,49.99,Rashguard Muay Thai - Schwarz,S,https://phantom-at
 PHRG2519-M,out_of_stock,49.99,Rashguard Muay Thai - Schwarz,M,https://phantom-athletics.com/products/rashguard-muay-thai
 PHRG2519-L,in_stock,49.99,Rashguard Muay Thai - Schwarz,L,https://phantom-athletics.com/products/rashguard-muay-thai
 PHRG2519-XL,in_stock,49.99,Rashguard Muay Thai - Schwarz,XL,https://phantom-athletics.com/products/rashguard-muay-thai
-PHRG2519-XXL,out_of_stock,49.99,Rashguard Muay Thai - Schwarz,XXL,https://phantom-athletics.com/products/rashguard-muay-thai
+PHRG2519-XXL,in_stock,49.99,Rashguard Muay Thai - Schwarz,XXL,https://phantom-athletics.com/products/rashguard-muay-thai
 PHSHOCOMP2520-S,out_of_stock,59.99,Tights Muay Thai,S,https://phantom-athletics.com/products/tights-muay-thai
 PHSHOCOMP2520-M,in_stock,59.99,Tights Muay Thai,M,https://phantom-athletics.com/products/tights-muay-thai
 PHSHOCOMP2520-L,out_of_stock,59.99,Tights Muay Thai,L,https://phantom-athletics.com/products/tights-muay-thai
@@ -5250,7 +5250,7 @@ PHSHEVOTT583-S,out_of_stock,19.99,Trainings Tanktop EVO Supporter - Schwarz,S,ht
 PHSHEVOTT583-M,out_of_stock,19.99,Trainings Tanktop EVO Supporter - Schwarz,M,https://phantom-athletics.com/products/training-shirt-evo-tanktop
 PHSHEVOTT583-L,out_of_stock,19.99,Trainings Tanktop EVO Supporter - Schwarz,L,https://phantom-athletics.com/products/training-shirt-evo-tanktop
 PHSHEVOTT583-XL,out_of_stock,19.99,Trainings Tanktop EVO Supporter - Schwarz,XL,https://phantom-athletics.com/products/training-shirt-evo-tanktop
-PHSHEVOTT583-XXL,out_of_stock,19.99,Trainings Tanktop EVO Supporter - Schwarz,XXL,https://phantom-athletics.com/products/training-shirt-evo-tanktop
+PHSHEVOTT583-XXL,in_stock,19.99,Trainings Tanktop EVO Supporter - Schwarz,XXL,https://phantom-athletics.com/products/training-shirt-evo-tanktop
 PHSHEVOGERMANY-WS,out_of_stock,39.99,Trainingsshirt EVO Germany - Weiß,S / Weiß,https://phantom-athletics.com/products/training-shirt-evo-germany-white-1
 PHSHEVOPT568-SS,out_of_stock,39.99,Trainingsshirt EVO Germany - Weiß,S / Schwarz,https://phantom-athletics.com/products/training-shirt-evo-germany-white-1
 PHSHEVOGERMANY-WM,in_stock,39.99,Trainingsshirt EVO Germany - Weiß,M / Weiß,https://phantom-athletics.com/products/training-shirt-evo-germany-white-1
@@ -5344,7 +5344,7 @@ PHHO1616-M,in_stock,49.99,Hoodie Shadow - Schwarz,M,https://phantom-athletics.co
 PHHO1616-L,in_stock,49.99,Hoodie Shadow - Schwarz,L,https://phantom-athletics.com/products/hoodie-shadow
 PHHO1616-XL,in_stock,49.99,Hoodie Shadow - Schwarz,XL,https://phantom-athletics.com/products/hoodie-shadow
 PHHO1616-XXL,in_stock,49.99,Hoodie Shadow - Schwarz,XXL,https://phantom-athletics.com/products/hoodie-shadow
-PHWR1657-SM,out_of_stock,29.99,Boxbandagen Impact Neopren Gel,S/M,https://phantom-athletics.com/products/neopren-handwraps-impact-gel
+PHWR1657-SM,in_stock,29.99,Boxbandagen Impact Neopren Gel,S/M,https://phantom-athletics.com/products/neopren-handwraps-impact-gel
 PHWR1657-LXL,in_stock,29.99,Boxbandagen Impact Neopren Gel,L/XL,https://phantom-athletics.com/products/neopren-handwraps-impact-gel
 PHCAP00865-GS,out_of_stock,29.99,Cap Team - Grau,Erwachsene,https://phantom-athletics.com/products/cap-team-gray-black
 PHCAP00865-GSY,out_of_stock,29.99,Cap Team - Grau,Kinder,https://phantom-athletics.com/products/cap-team-gray-black
@@ -5356,24 +5356,24 @@ PHGIFTCARD-150,in_stock,150.00,Geschenkgutschein,"€150,00",https://phantom-ath
 PHGIFTCARD-200,in_stock,200.00,Geschenkgutschein,"€200,00",https://phantom-athletics.com/products/gift-card
 PHGIFTCARD-250,in_stock,250.00,Geschenkgutschein,"€250,00",https://phantom-athletics.com/products/gift-card
 SDMG4701,in_stock,24.99,Zahnschutz  Ultra Braces für Zahnspange,Blau,https://phantom-athletics.com/products/mouthguard-for-braces
-SDMG5100,out_of_stock,9.99,Zahnschutz Pro,Erwachsene,https://phantom-athletics.com/products/mouthguard-pro
+SDMG5100,in_stock,9.99,Zahnschutz Pro,Erwachsene,https://phantom-athletics.com/products/mouthguard-pro
 SDMG5100Y,in_stock,9.99,Zahnschutz Pro,Kinder,https://phantom-athletics.com/products/mouthguard-pro
 SDMG4000,in_stock,8.99,Zahnschutz V 1.5,Default Title,https://phantom-athletics.com/products/mouthguard-v-1-5
 SDGG329-S,in_stock,29.99,Tiefschutz Ultra Pro,S,https://phantom-athletics.com/products/shock-doctor-supporter-ultra
 SDGG329-M,in_stock,29.99,Tiefschutz Ultra Pro,M,https://phantom-athletics.com/products/shock-doctor-supporter-ultra
 SDGG329-L,in_stock,29.99,Tiefschutz Ultra Pro,L,https://phantom-athletics.com/products/shock-doctor-supporter-ultra
 SDGG329-XL,in_stock,29.99,Tiefschutz Ultra Pro,XL,https://phantom-athletics.com/products/shock-doctor-supporter-ultra
-SDGG329-XXL,out_of_stock,29.99,Tiefschutz Ultra Pro,XXL,https://phantom-athletics.com/products/shock-doctor-supporter-ultra
+SDGG329-XXL,in_stock,29.99,Tiefschutz Ultra Pro,XXL,https://phantom-athletics.com/products/shock-doctor-supporter-ultra
 SDGG221-S,out_of_stock,39.99,Kompressionshose mit Bioflex Tiefschutz,Schwarz / S,https://phantom-athletics.com/products/shock-doctor-compression-shorts-with-bioflex-core-cup
 SDGG221-M,out_of_stock,39.99,Kompressionshose mit Bioflex Tiefschutz,Schwarz / M,https://phantom-athletics.com/products/shock-doctor-compression-shorts-with-bioflex-core-cup
-SDGG221-L,out_of_stock,39.99,Kompressionshose mit Bioflex Tiefschutz,Schwarz / L,https://phantom-athletics.com/products/shock-doctor-compression-shorts-with-bioflex-core-cup
+SDGG221-L,in_stock,39.99,Kompressionshose mit Bioflex Tiefschutz,Schwarz / L,https://phantom-athletics.com/products/shock-doctor-compression-shorts-with-bioflex-core-cup
 SDGG221-XL,out_of_stock,39.99,Kompressionshose mit Bioflex Tiefschutz,Schwarz / XL,https://phantom-athletics.com/products/shock-doctor-compression-shorts-with-bioflex-core-cup
-SDGG221-XXL,out_of_stock,39.99,Kompressionshose mit Bioflex Tiefschutz,Schwarz / XXL,https://phantom-athletics.com/products/shock-doctor-compression-shorts-with-bioflex-core-cup
+SDGG221-XXL,in_stock,39.99,Kompressionshose mit Bioflex Tiefschutz,Schwarz / XXL,https://phantom-athletics.com/products/shock-doctor-compression-shorts-with-bioflex-core-cup
 SDGG221-WS,out_of_stock,39.99,Kompressionshose mit Bioflex Tiefschutz,Weiss / S,https://phantom-athletics.com/products/shock-doctor-compression-shorts-with-bioflex-core-cup
 SDGG221-WM,out_of_stock,39.99,Kompressionshose mit Bioflex Tiefschutz,Weiss / M,https://phantom-athletics.com/products/shock-doctor-compression-shorts-with-bioflex-core-cup
 SDGG221-WXL,out_of_stock,39.99,Kompressionshose mit Bioflex Tiefschutz,Weiss / XL,https://phantom-athletics.com/products/shock-doctor-compression-shorts-with-bioflex-core-cup
 SDMG4100,in_stock,19.99,Zahnschutz  Braces für Zahnspange,Oberkiefer,https://phantom-athletics.com/products/mouthguard-double-braces
-SDMG4300,out_of_stock,24.99,Zahnschutz  Braces für Zahnspange,Ober- und Unterkiefer,https://phantom-athletics.com/products/mouthguard-double-braces
+SDMG4300,in_stock,24.99,Zahnschutz  Braces für Zahnspange,Ober- und Unterkiefer,https://phantom-athletics.com/products/mouthguard-double-braces
 SDMG6901,in_stock,19.99,Shock Doctor Zahnschutz Gel Max Power Carbon,Default Title,https://phantom-athletics.com/products/mouthguard-gel-max-power-carbon-1
 SDGG213-S,in_stock,24.99,Tiefschutz Core mit Bioflex Cup,S,https://phantom-athletics.com/products/shock-doctor-supporter-core-bioflex
 SDGG213-M,in_stock,24.99,Tiefschutz Core mit Bioflex Cup,M,https://phantom-athletics.com/products/shock-doctor-supporter-core-bioflex
