@@ -325,7 +325,7 @@ PHSH3866-L,in_stock,39.99,Heavy Tee Elite,L,https://phantom-athletics.com/produc
 PHSH3866-XL,in_stock,39.99,Heavy Tee Elite,XL,https://phantom-athletics.com/products/heavy-tee-elite
 PHSH3866-XXL,in_stock,39.99,Heavy Tee Elite,XXL,https://phantom-athletics.com/products/heavy-tee-elite
 PHSH3865-S,out_of_stock,34.99,Heavy Tee Germany,S,https://phantom-athletics.com/products/heavy-tee-germany
-PHSH3865-M,out_of_stock,34.99,Heavy Tee Germany,M,https://phantom-athletics.com/products/heavy-tee-germany
+PHSH3865-M,in_stock,34.99,Heavy Tee Germany,M,https://phantom-athletics.com/products/heavy-tee-germany
 PHSH3865-L,out_of_stock,34.99,Heavy Tee Germany,L,https://phantom-athletics.com/products/heavy-tee-germany
 PHSH3865-XL,out_of_stock,34.99,Heavy Tee Germany,XL,https://phantom-athletics.com/products/heavy-tee-germany
 PHSH3865-XXL,out_of_stock,34.99,Heavy Tee Germany,XXL,https://phantom-athletics.com/products/heavy-tee-germany
@@ -435,7 +435,7 @@ PHSHO3898-XL,in_stock,54.99,Fightshorts FUSION-R GHOST,XL,https://phantom-athlet
 PHSHO3898-XXL,in_stock,54.99,Fightshorts FUSION-R GHOST,XXL,https://phantom-athletics.com/products/fightshorts-fusion-r-ghost
 PHSH3864-S,out_of_stock,32.99,T-Shirt BOXING CLUB,S,https://phantom-athletics.com/products/t-shirt-boxing-club
 PHSH3864-M,out_of_stock,32.99,T-Shirt BOXING CLUB,M,https://phantom-athletics.com/products/t-shirt-boxing-club
-PHSH3864-L,in_stock,32.99,T-Shirt BOXING CLUB,L,https://phantom-athletics.com/products/t-shirt-boxing-club
+PHSH3864-L,out_of_stock,32.99,T-Shirt BOXING CLUB,L,https://phantom-athletics.com/products/t-shirt-boxing-club
 PHSH3864-XL,out_of_stock,32.99,T-Shirt BOXING CLUB,XL,https://phantom-athletics.com/products/t-shirt-boxing-club
 PHSH3864-XXL,out_of_stock,32.99,T-Shirt BOXING CLUB,XXL,https://phantom-athletics.com/products/t-shirt-boxing-club
 PHSHEVO3897-S,in_stock,39.99,Trainingsshirt EVO GHOST,S,https://phantom-athletics.com/products/trainingsshirt-evo-ghost
@@ -521,7 +521,7 @@ PHRG3905-XL,in_stock,42.99,Rashguard Germany - Kurzarm - Schwarz/Rot/Gold,XL,htt
 PHRG3905-XXL,in_stock,42.99,Rashguard Germany - Kurzarm - Schwarz/Rot/Gold,XXL,https://phantom-athletics.com/products/rashguard-germany-shortsleeve-black-red-gold
 PHSHEVO+3904-S,out_of_stock,34.99,Trainingsshirt EVO+ Team Germany - Schwarz/Rot/Gold,S,https://phantom-athletics.com/products/training-shirt-evo-team-germany-black-red-gold
 PHSHEVO+3904-M,in_stock,34.99,Trainingsshirt EVO+ Team Germany - Schwarz/Rot/Gold,M,https://phantom-athletics.com/products/training-shirt-evo-team-germany-black-red-gold
-PHSHEVO+3904-L,out_of_stock,34.99,Trainingsshirt EVO+ Team Germany - Schwarz/Rot/Gold,L,https://phantom-athletics.com/products/training-shirt-evo-team-germany-black-red-gold
+PHSHEVO+3904-L,in_stock,34.99,Trainingsshirt EVO+ Team Germany - Schwarz/Rot/Gold,L,https://phantom-athletics.com/products/training-shirt-evo-team-germany-black-red-gold
 PHSHEVO+3904-XL,in_stock,34.99,Trainingsshirt EVO+ Team Germany - Schwarz/Rot/Gold,XL,https://phantom-athletics.com/products/training-shirt-evo-team-germany-black-red-gold
 PHSHEVO+3904-XXL,out_of_stock,34.99,Trainingsshirt EVO+ Team Germany - Schwarz/Rot/Gold,XXL,https://phantom-athletics.com/products/training-shirt-evo-team-germany-black-red-gold
 PHSHEVO+3878-S,in_stock,29.99,Trainingsshirt EVO+ Team Dagestan,S,https://phantom-athletics.com/products/training-shirt-evo-team-dagestan
@@ -666,7 +666,7 @@ NISHOE2952-001-85,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Schwarz/Weiß,42,
 NISHOE2952-001-9,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Schwarz/Weiß,42.5,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-tawa
 NISHOE2952-001-95,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Schwarz/Weiß,43,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-tawa
 NISHOE2952-001-10,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Schwarz/Weiß,44,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-tawa
-NISHOE2952-001-105,in_stock,119.99,Ringerschuhe NIKE Tawa - Schwarz/Weiß,44.5,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-tawa
+NISHOE2952-001-105,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Schwarz/Weiß,44.5,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-tawa
 NISHOE2952-001-11,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Schwarz/Weiß,45,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-tawa
 NISHOE2952-001-115,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Schwarz/Weiß,45.5,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-tawa
 NISHOE2952-001-12,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Schwarz/Weiß,46,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-tawa
@@ -1231,25 +1231,25 @@ PHMMAG2728-LXL,in_stock,49.99,MMA Sparring Handschuhe APEX - Schwarz/Grau,L/XL /
 PHMMAG2839-LXL,in_stock,49.99,MMA Sparring Handschuhe APEX - Schwarz/Grau,L/XL / Blue,https://phantom-athletics.com/products/mma-sparring-gloves-apex-black-gray
 PHMMAG2301-LXL,in_stock,49.99,MMA Sparring Handschuhe APEX - Schwarz/Grau,L/XL / Neon,https://phantom-athletics.com/products/mma-sparring-gloves-apex-black-gray
 PHHG3687,in_stock,49.99,Kopfschutz APEX Full Face - Schwarz/Grau,Default Title,https://phantom-athletics.com/products/headguard-apex-full-face-black-gray
-PHSH3689-S,out_of_stock,32.99,Oversize Shirt ZERO,S,https://phantom-athletics.com/products/oversize-shirt-zero
+PHSH3689-S,in_stock,32.99,Oversize Shirt ZERO,S,https://phantom-athletics.com/products/oversize-shirt-zero
 PHSH3689-M,in_stock,32.99,Oversize Shirt ZERO,M,https://phantom-athletics.com/products/oversize-shirt-zero
 PHSH3689-L,in_stock,32.99,Oversize Shirt ZERO,L,https://phantom-athletics.com/products/oversize-shirt-zero
 PHSH3689-XL,in_stock,32.99,Oversize Shirt ZERO,XL,https://phantom-athletics.com/products/oversize-shirt-zero
-PHSH3689-XXL,out_of_stock,32.99,Oversize Shirt ZERO,XXL,https://phantom-athletics.com/products/oversize-shirt-zero
-PHSH3688-S,out_of_stock,32.99,Oversize Shirt VANTAGE,S,https://phantom-athletics.com/products/oversize-shirt-vantage
+PHSH3689-XXL,in_stock,32.99,Oversize Shirt ZERO,XXL,https://phantom-athletics.com/products/oversize-shirt-zero
+PHSH3688-S,in_stock,32.99,Oversize Shirt VANTAGE,S,https://phantom-athletics.com/products/oversize-shirt-vantage
 PHSH3688-M,in_stock,32.99,Oversize Shirt VANTAGE,M,https://phantom-athletics.com/products/oversize-shirt-vantage
 PHSH3688-L,in_stock,32.99,Oversize Shirt VANTAGE,L,https://phantom-athletics.com/products/oversize-shirt-vantage
 PHSH3688-XL,in_stock,32.99,Oversize Shirt VANTAGE,XL,https://phantom-athletics.com/products/oversize-shirt-vantage
-PHSH3688-XXL,out_of_stock,32.99,Oversize Shirt VANTAGE,XXL,https://phantom-athletics.com/products/oversize-shirt-vantage
-PHSH3699-S,out_of_stock,19.99,T-Shirt APEX 2 - Schwarz,S,https://phantom-athletics.com/products/t-shirt-apex-2-black
-PHSH3699-M,out_of_stock,19.99,T-Shirt APEX 2 - Schwarz,M,https://phantom-athletics.com/products/t-shirt-apex-2-black
-PHSH3699-L,out_of_stock,19.99,T-Shirt APEX 2 - Schwarz,L,https://phantom-athletics.com/products/t-shirt-apex-2-black
-PHSH3699-XL,out_of_stock,19.99,T-Shirt APEX 2 - Schwarz,XL,https://phantom-athletics.com/products/t-shirt-apex-2-black
-PHSH3699-XXL,out_of_stock,19.99,T-Shirt APEX 2 - Schwarz,XXL,https://phantom-athletics.com/products/t-shirt-apex-2-black
-PHSH3698-S,out_of_stock,19.99,T-Shirt APEX - Schwarz,S,https://phantom-athletics.com/products/t-shirt-apex-black-gray
-PHSH3698-M,out_of_stock,19.99,T-Shirt APEX - Schwarz,M,https://phantom-athletics.com/products/t-shirt-apex-black-gray
-PHSH3698-L,out_of_stock,19.99,T-Shirt APEX - Schwarz,L,https://phantom-athletics.com/products/t-shirt-apex-black-gray
-PHSH3698-XL,out_of_stock,19.99,T-Shirt APEX - Schwarz,XL,https://phantom-athletics.com/products/t-shirt-apex-black-gray
+PHSH3688-XXL,in_stock,32.99,Oversize Shirt VANTAGE,XXL,https://phantom-athletics.com/products/oversize-shirt-vantage
+PHSH3699-S,in_stock,19.99,T-Shirt APEX 2 - Schwarz,S,https://phantom-athletics.com/products/t-shirt-apex-2-black
+PHSH3699-M,in_stock,19.99,T-Shirt APEX 2 - Schwarz,M,https://phantom-athletics.com/products/t-shirt-apex-2-black
+PHSH3699-L,in_stock,19.99,T-Shirt APEX 2 - Schwarz,L,https://phantom-athletics.com/products/t-shirt-apex-2-black
+PHSH3699-XL,in_stock,19.99,T-Shirt APEX 2 - Schwarz,XL,https://phantom-athletics.com/products/t-shirt-apex-2-black
+PHSH3699-XXL,in_stock,19.99,T-Shirt APEX 2 - Schwarz,XXL,https://phantom-athletics.com/products/t-shirt-apex-2-black
+PHSH3698-S,in_stock,19.99,T-Shirt APEX - Schwarz,S,https://phantom-athletics.com/products/t-shirt-apex-black-gray
+PHSH3698-M,in_stock,19.99,T-Shirt APEX - Schwarz,M,https://phantom-athletics.com/products/t-shirt-apex-black-gray
+PHSH3698-L,in_stock,19.99,T-Shirt APEX - Schwarz,L,https://phantom-athletics.com/products/t-shirt-apex-black-gray
+PHSH3698-XL,in_stock,19.99,T-Shirt APEX - Schwarz,XL,https://phantom-athletics.com/products/t-shirt-apex-black-gray
 PHSH3698-XXL,in_stock,19.99,T-Shirt APEX - Schwarz,XXL,https://phantom-athletics.com/products/t-shirt-apex-black-gray
 PHHO3697-S,out_of_stock,69.99,Hoodie Zero - Schwarz/Grau,S,https://phantom-athletics.com/products/hoodie-zero-black-gray
 PHHO3697-M,in_stock,69.99,Hoodie Zero - Schwarz/Grau,M,https://phantom-athletics.com/products/hoodie-zero-black-gray
@@ -1845,7 +1845,7 @@ PHSHEVO+3519-M,in_stock,39.99,Trainingsshirt EVO+ Team Germany,M,https://phantom
 PHSHEVO+3519-L,in_stock,39.99,Trainingsshirt EVO+ Team Germany,L,https://phantom-athletics.com/products/training-shirt-evo-german-eagle
 PHSHEVO+3519-XL,in_stock,39.99,Trainingsshirt EVO+ Team Germany,XL,https://phantom-athletics.com/products/training-shirt-evo-german-eagle
 PHSHEVO+3519-XXL,in_stock,39.99,Trainingsshirt EVO+ Team Germany,XXL,https://phantom-athletics.com/products/training-shirt-evo-german-eagle
-PHSHEVO+3517-S,out_of_stock,39.99,Trainingsshirt EVO+ Germany Eagle,S,https://phantom-athletics.com/products/trainingsshirt-evo-germany-schwarz
+PHSHEVO+3517-S,in_stock,39.99,Trainingsshirt EVO+ Germany Eagle,S,https://phantom-athletics.com/products/trainingsshirt-evo-germany-schwarz
 PHSHEVO+3517-M,in_stock,39.99,Trainingsshirt EVO+ Germany Eagle,M,https://phantom-athletics.com/products/trainingsshirt-evo-germany-schwarz
 PHSHEVO+3517-L,in_stock,39.99,Trainingsshirt EVO+ Germany Eagle,L,https://phantom-athletics.com/products/trainingsshirt-evo-germany-schwarz
 PHSHEVO+3517-XL,in_stock,39.99,Trainingsshirt EVO+ Germany Eagle,XL,https://phantom-athletics.com/products/trainingsshirt-evo-germany-schwarz
@@ -2234,7 +2234,7 @@ PHSHO3396-S,out_of_stock,59.99,Fightshorts FUSION-R 2in1 RANKED - Weiß,S / Schw
 PHSHO3395-S,in_stock,59.99,Fightshorts FUSION-R 2in1 RANKED - Weiß,S / Braun,https://phantom-athletics.com/products/fightshorts-fusion-r-ranked-white
 PHSHO3394-S,in_stock,59.99,Fightshorts FUSION-R 2in1 RANKED - Weiß,S / Lila,https://phantom-athletics.com/products/fightshorts-fusion-r-ranked-white
 PHSHO3393-S,in_stock,59.99,Fightshorts FUSION-R 2in1 RANKED - Weiß,S / Blau,https://phantom-athletics.com/products/fightshorts-fusion-r-ranked-white
-PHSHO3392-M,out_of_stock,59.99,Fightshorts FUSION-R 2in1 RANKED - Weiß,M / Weiß,https://phantom-athletics.com/products/fightshorts-fusion-r-ranked-white
+PHSHO3392-M,in_stock,59.99,Fightshorts FUSION-R 2in1 RANKED - Weiß,M / Weiß,https://phantom-athletics.com/products/fightshorts-fusion-r-ranked-white
 PHSHO3396-M,out_of_stock,59.99,Fightshorts FUSION-R 2in1 RANKED - Weiß,M / Schwarz,https://phantom-athletics.com/products/fightshorts-fusion-r-ranked-white
 PHSHO3395-M,in_stock,59.99,Fightshorts FUSION-R 2in1 RANKED - Weiß,M / Braun,https://phantom-athletics.com/products/fightshorts-fusion-r-ranked-white
 PHSHO3394-M,in_stock,59.99,Fightshorts FUSION-R 2in1 RANKED - Weiß,M / Lila,https://phantom-athletics.com/products/fightshorts-fusion-r-ranked-white
@@ -3318,7 +3318,7 @@ PHSH2899-92,in_stock,29.99,Kinder T-Shirt Pro Fighter - Schwarz,Kids - 92,https:
 PHSH2899-104,in_stock,29.99,Kinder T-Shirt Pro Fighter - Schwarz,Kids - 104,https://phantom-athletics.com/products/kids-t-shirt-pro-fighter
 PHSH2899-116,in_stock,29.99,Kinder T-Shirt Pro Fighter - Schwarz,Kids - 116,https://phantom-athletics.com/products/kids-t-shirt-pro-fighter
 PHSH2899-128,in_stock,29.99,Kinder T-Shirt Pro Fighter - Schwarz,Kids - 128,https://phantom-athletics.com/products/kids-t-shirt-pro-fighter
-PHSH2899-140,in_stock,29.99,Kinder T-Shirt Pro Fighter - Schwarz,Kids - 140,https://phantom-athletics.com/products/kids-t-shirt-pro-fighter
+PHSH2899-140,out_of_stock,29.99,Kinder T-Shirt Pro Fighter - Schwarz,Kids - 140,https://phantom-athletics.com/products/kids-t-shirt-pro-fighter
 PHSH2899-152,in_stock,29.99,Kinder T-Shirt Pro Fighter - Schwarz,Kids - 152,https://phantom-athletics.com/products/kids-t-shirt-pro-fighter
 PHSH2898-92,in_stock,29.99,Kinder T-Shirt Team - Weiß,Kids - 92 / Weiß,https://phantom-athletics.com/products/kids-t-shirt-team-white
 PHSH2896-92,in_stock,29.99,Kinder T-Shirt Team - Weiß,Kids - 92 / Schwarz,https://phantom-athletics.com/products/kids-t-shirt-team-white
@@ -3913,7 +3913,7 @@ ADSHOE2020-7,out_of_stock,69.99,Ringerschuhe ADIDAS Combat Speed 4 - Schwarz,40 
 ADSHOE2020-75,in_stock,69.99,Ringerschuhe ADIDAS Combat Speed 4 - Schwarz,41 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-combat-speed-4
 ADSHOE2020-8,in_stock,69.99,Ringerschuhe ADIDAS Combat Speed 4 - Schwarz,42,https://phantom-athletics.com/products/wrestling-shoes-adidas-combat-speed-4
 ADSHOE2020-85,in_stock,69.99,Ringerschuhe ADIDAS Combat Speed 4 - Schwarz,42 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-combat-speed-4
-ADSHOE2020-9,out_of_stock,69.99,Ringerschuhe ADIDAS Combat Speed 4 - Schwarz,43 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-combat-speed-4
+ADSHOE2020-9,in_stock,69.99,Ringerschuhe ADIDAS Combat Speed 4 - Schwarz,43 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-combat-speed-4
 ADSHOE2020-95,in_stock,69.99,Ringerschuhe ADIDAS Combat Speed 4 - Schwarz,44,https://phantom-athletics.com/products/wrestling-shoes-adidas-combat-speed-4
 ADSHOE2020-10,in_stock,69.99,Ringerschuhe ADIDAS Combat Speed 4 - Schwarz,44 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-combat-speed-4
 ADSHOE2020-105,in_stock,69.99,Ringerschuhe ADIDAS Combat Speed 4 - Schwarz,45 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-combat-speed-4
