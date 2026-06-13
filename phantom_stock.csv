@@ -1488,7 +1488,7 @@ PHHO3592-M,in_stock,49.99,Trainingsjacke DMC - Team Turkey - Schwarz,M,https://p
 PHHO3592-L,in_stock,49.99,Trainingsjacke DMC - Team Turkey - Schwarz,L,https://phantom-athletics.com/products/track-jacket-dmc-team-turkey
 PHHO3592-XL,in_stock,49.99,Trainingsjacke DMC - Team Turkey - Schwarz,XL,https://phantom-athletics.com/products/track-jacket-dmc-team-turkey
 PHHO3592-XXL,in_stock,49.99,Trainingsjacke DMC - Team Turkey - Schwarz,XXL,https://phantom-athletics.com/products/track-jacket-dmc-team-turkey
-PHHO3592-XXXL,in_stock,49.99,Trainingsjacke DMC - Team Turkey - Schwarz,XXXL,https://phantom-athletics.com/products/track-jacket-dmc-team-turkey
+PHHO3592-XXXL,out_of_stock,49.99,Trainingsjacke DMC - Team Turkey - Schwarz,XXXL,https://phantom-athletics.com/products/track-jacket-dmc-team-turkey
 PHHO3593-S,in_stock,39.99,Trainingsjacke DMC - Team Turkey - Rot,S,https://phantom-athletics.com/products/track-jacekt-dmc-team-turkey-red
 PHHO3593-M,in_stock,39.99,Trainingsjacke DMC - Team Turkey - Rot,M,https://phantom-athletics.com/products/track-jacekt-dmc-team-turkey-red
 PHHO3593-L,in_stock,39.99,Trainingsjacke DMC - Team Turkey - Rot,L,https://phantom-athletics.com/products/track-jacekt-dmc-team-turkey-red
@@ -1697,7 +1697,7 @@ NISHOE9132-001-95,in_stock,59.99,Ringerschuhe NIKE Speedsweep VIII - Schwarz,43,
 NISHOE9132-001-10,in_stock,59.99,Ringerschuhe NIKE Speedsweep VIII - Schwarz,44,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-viii-black
 NISHOE9132-001-105,in_stock,59.99,Ringerschuhe NIKE Speedsweep VIII - Schwarz,44.5,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-viii-black
 NISHOE9132-001-11,in_stock,59.99,Ringerschuhe NIKE Speedsweep VIII - Schwarz,45,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-viii-black
-NISHOE9132-001-115,in_stock,59.99,Ringerschuhe NIKE Speedsweep VIII - Schwarz,45.5,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-viii-black
+NISHOE9132-001-115,out_of_stock,59.99,Ringerschuhe NIKE Speedsweep VIII - Schwarz,45.5,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-viii-black
 NISHOE9132-001-12,out_of_stock,59.99,Ringerschuhe NIKE Speedsweep VIII - Schwarz,46,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-viii-black
 NISHOE9132-100-7,out_of_stock,59.99,Ringerschuhe NIKE Speedsweep VIII - Weiß/Grau,40,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-viii-white
 NISHOE9132-100-75,out_of_stock,59.99,Ringerschuhe NIKE Speedsweep VIII - Weiß/Grau,40.5,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-viii-white
@@ -3827,7 +3827,7 @@ PHBBAG2821-80,out_of_stock,169.99,Boxsack MUAY THAI mit Füllung (80/180 cm),80c
 PHBBAG2821-180,in_stock,169.99,Boxsack MUAY THAI mit Füllung (80/180 cm),180cm,https://phantom-athletics.com/products/heavy-bag-muay-thai-filled
 PHHO2943-S,in_stock,49.99,Trainingsjacke DMC - Team Germany,S,https://phantom-athletics.com/products/trackjacket-dmc-team-germany
 PHHO2943-M,in_stock,49.99,Trainingsjacke DMC - Team Germany,M,https://phantom-athletics.com/products/trackjacket-dmc-team-germany
-PHHO2943-L,in_stock,49.99,Trainingsjacke DMC - Team Germany,L,https://phantom-athletics.com/products/trackjacket-dmc-team-germany
+PHHO2943-L,out_of_stock,49.99,Trainingsjacke DMC - Team Germany,L,https://phantom-athletics.com/products/trackjacket-dmc-team-germany
 PHHO2943-XL,out_of_stock,49.99,Trainingsjacke DMC - Team Germany,XL,https://phantom-athletics.com/products/trackjacket-dmc-team-germany
 PHHO2943-XXL,in_stock,49.99,Trainingsjacke DMC - Team Germany,XXL,https://phantom-athletics.com/products/trackjacket-dmc-team-germany
 PHHO2943-XXXL,in_stock,49.99,Trainingsjacke DMC - Team Germany,XXXL,https://phantom-athletics.com/products/trackjacket-dmc-team-germany
@@ -4662,7 +4662,7 @@ PHRG2605-XL,in_stock,52.99,Rashguard Germany - Kurzarm,XL,https://phantom-athlet
 PHRG2605-XXL,in_stock,52.99,Rashguard Germany - Kurzarm,XXL,https://phantom-athletics.com/products/rashguard-germany-shortsleeve
 PHSHO2604-S,in_stock,49.99,Fightshorts VECTOR -  Germany,S,https://phantom-athletics.com/products/fightshorts-vector-germany
 PHSHO2604-M,out_of_stock,49.99,Fightshorts VECTOR -  Germany,M,https://phantom-athletics.com/products/fightshorts-vector-germany
-PHSHO2604-L,in_stock,49.99,Fightshorts VECTOR -  Germany,L,https://phantom-athletics.com/products/fightshorts-vector-germany
+PHSHO2604-L,out_of_stock,49.99,Fightshorts VECTOR -  Germany,L,https://phantom-athletics.com/products/fightshorts-vector-germany
 PHSHO2604-XL,out_of_stock,49.99,Fightshorts VECTOR -  Germany,XL,https://phantom-athletics.com/products/fightshorts-vector-germany
 PHSHO2604-XXL,in_stock,49.99,Fightshorts VECTOR -  Germany,XXL,https://phantom-athletics.com/products/fightshorts-vector-germany
 PHSHO2606-S,in_stock,52.99,Fightshorts EVO Germany,S,https://phantom-athletics.com/products/fightshorts-evo-germany
