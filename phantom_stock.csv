@@ -693,7 +693,7 @@ NISHOE6696-001-8,out_of_stock,199.99,Boxschuhe NIKE HyperKO 3 - Schwarz,41,https
 NISHOE6696-001-85,in_stock,199.99,Boxschuhe NIKE HyperKO 3 - Schwarz,42,https://phantom-athletics.com/products/boxing-shoes-nike-hyperko-3-black
 NISHOE6696-001-9,in_stock,199.99,Boxschuhe NIKE HyperKO 3 - Schwarz,42.5,https://phantom-athletics.com/products/boxing-shoes-nike-hyperko-3-black
 NISHOE6696-001-95,in_stock,199.99,Boxschuhe NIKE HyperKO 3 - Schwarz,43,https://phantom-athletics.com/products/boxing-shoes-nike-hyperko-3-black
-NISHOE6696-001-10,in_stock,199.99,Boxschuhe NIKE HyperKO 3 - Schwarz,44,https://phantom-athletics.com/products/boxing-shoes-nike-hyperko-3-black
+NISHOE6696-001-10,out_of_stock,199.99,Boxschuhe NIKE HyperKO 3 - Schwarz,44,https://phantom-athletics.com/products/boxing-shoes-nike-hyperko-3-black
 NISHOE6696-001-105,in_stock,199.99,Boxschuhe NIKE HyperKO 3 - Schwarz,44.5,https://phantom-athletics.com/products/boxing-shoes-nike-hyperko-3-black
 NISHOE6696-001-11,in_stock,199.99,Boxschuhe NIKE HyperKO 3 - Schwarz,45,https://phantom-athletics.com/products/boxing-shoes-nike-hyperko-3-black
 NISHOE6696-001-115,in_stock,199.99,Boxschuhe NIKE HyperKO 3 - Schwarz,45.5,https://phantom-athletics.com/products/boxing-shoes-nike-hyperko-3-black
@@ -872,7 +872,7 @@ PHSHO3760-S,in_stock,39.99,Fightshorts FUSION-R - Team Serbia - Schwarz,S,https:
 PHSHO3760-M,in_stock,39.99,Fightshorts FUSION-R - Team Serbia - Schwarz,M,https://phantom-athletics.com/products/fightshorts-fusion-r-team-serbia-black
 PHSHO3760-L,in_stock,39.99,Fightshorts FUSION-R - Team Serbia - Schwarz,L,https://phantom-athletics.com/products/fightshorts-fusion-r-team-serbia-black
 PHSHO3760-XL,in_stock,39.99,Fightshorts FUSION-R - Team Serbia - Schwarz,XL,https://phantom-athletics.com/products/fightshorts-fusion-r-team-serbia-black
-PHSHO3760-XXL,in_stock,39.99,Fightshorts FUSION-R - Team Serbia - Schwarz,XXL,https://phantom-athletics.com/products/fightshorts-fusion-r-team-serbia-black
+PHSHO3760-XXL,out_of_stock,39.99,Fightshorts FUSION-R - Team Serbia - Schwarz,XXL,https://phantom-athletics.com/products/fightshorts-fusion-r-team-serbia-black
 PHSHEVO+3758-S,out_of_stock,24.99,Trainingsshirt EVO+ Team Serbia - Schwarz,S,https://phantom-athletics.com/products/training-shirt-evo-team-serbia-black
 PHSHEVO+3758-M,in_stock,24.99,Trainingsshirt EVO+ Team Serbia - Schwarz,M,https://phantom-athletics.com/products/training-shirt-evo-team-serbia-black
 PHSHEVO+3758-L,in_stock,24.99,Trainingsshirt EVO+ Team Serbia - Schwarz,L,https://phantom-athletics.com/products/training-shirt-evo-team-serbia-black
@@ -5175,7 +5175,7 @@ PHGG2034-SM,in_stock,9.99,Tiefschutz APEX,S/M,https://phantom-athletics.com/prod
 PHGG2034-LXL,in_stock,9.99,Tiefschutz APEX,L/XL,https://phantom-athletics.com/products/groinguard-apex
 PHGG2035-SM,out_of_stock,21.99,Tiefschutz APEX Titan,S/M,https://phantom-athletics.com/products/groinguard-apex-titan
 PHGG2035-LXL,out_of_stock,21.99,Tiefschutz APEX Titan,L/XL,https://phantom-athletics.com/products/groinguard-apex-titan
-PHPAD2033,in_stock,39.99,Handpratzen APEX,Default Title,https://phantom-athletics.com/products/boxing-pads-apex
+PHPAD2033,out_of_stock,39.99,Handpratzen APEX,Default Title,https://phantom-athletics.com/products/boxing-pads-apex
 PHPAD2032,out_of_stock,79.99,Kick Pads APEX,Default Title,https://phantom-athletics.com/products/kick-pads-apex
 PHKG2037-SM,in_stock,19.99,Knieschützer APEX Grappling,S/M,https://phantom-athletics.com/products/kneeguards-apex-grappling
 PHKG2037-LXL,in_stock,19.99,Knieschützer APEX Grappling,L/XL,https://phantom-athletics.com/products/kneeguards-apex-grappling
@@ -5545,12 +5545,12 @@ PHSHOCOMP521-SM,out_of_stock,59.99,Tights Vector,M,https://phantom-athletics.com
 PHSHOCOMP521-SL,out_of_stock,59.99,Tights Vector,L,https://phantom-athletics.com/products/leggings-vector
 PHSHOCOMP521-SXL,out_of_stock,59.99,Tights Vector,XL,https://phantom-athletics.com/products/leggings-vector
 PHSHOCOMP521-SXXL,in_stock,59.99,Tights Vector,XXL,https://phantom-athletics.com/products/leggings-vector
-PHWR1656-SM,in_stock,24.99,Boxbandagen Impact Gel,S/M,https://phantom-athletics.com/products/boxing-handwraps-impact-gel
+PHWR1656-SM,out_of_stock,24.99,Boxbandagen Impact Gel,S/M,https://phantom-athletics.com/products/boxing-handwraps-impact-gel
 PHWR1656-LXL,in_stock,24.99,Boxbandagen Impact Gel,L/XL,https://phantom-athletics.com/products/boxing-handwraps-impact-gel
 PHWR2783-250,in_stock,5.99,Boxbandagen MT-Pro (250/450 cm),250CM / Schwarz,https://phantom-athletics.com/products/boxing-handwraps-mt-pro
 PHWR2779-250,in_stock,5.99,Boxbandagen MT-Pro (250/450 cm),250CM / Weiß,https://phantom-athletics.com/products/boxing-handwraps-mt-pro
 PHWR2781-250,in_stock,5.99,Boxbandagen MT-Pro (250/450 cm),250CM / Rot,https://phantom-athletics.com/products/boxing-handwraps-mt-pro
-PHWR2780-250,in_stock,5.99,Boxbandagen MT-Pro (250/450 cm),250CM / Pink,https://phantom-athletics.com/products/boxing-handwraps-mt-pro
+PHWR2780-250,out_of_stock,5.99,Boxbandagen MT-Pro (250/450 cm),250CM / Pink,https://phantom-athletics.com/products/boxing-handwraps-mt-pro
 PHWR2783-450,out_of_stock,5.99,Boxbandagen MT-Pro (250/450 cm),450CM / Schwarz,https://phantom-athletics.com/products/boxing-handwraps-mt-pro
 PHWR2779-450,out_of_stock,5.99,Boxbandagen MT-Pro (250/450 cm),450CM / Weiß,https://phantom-athletics.com/products/boxing-handwraps-mt-pro
 PHWR2781-450,in_stock,5.99,Boxbandagen MT-Pro (250/450 cm),450CM / Rot,https://phantom-athletics.com/products/boxing-handwraps-mt-pro
