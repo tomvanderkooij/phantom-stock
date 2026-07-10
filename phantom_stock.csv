@@ -1,4 +1,7 @@
 SKU,Quantity,Price,Title,Variant,ProductURL
+PHPAD4102,in_stock,139.99,Kick Pads ELITE,Default Title,https://phantom-athletics.com/products/kick-pads-elite
+PHBAG3824,in_stock,39.99,Netz Sporttasche X-RAY,Default Title,https://phantom-athletics.com/products/phantom-mesh-duffel-bag-x-ray
+PHGYM2068,in_stock,29.99,Thermo Trinkflasche,Default Title,https://phantom-athletics.com/products/insulated-water-bottle
 PHMASK1000-S,in_stock,89.99,Phantom Trainingsmaske - Schwarz-X,S / Schwarz,https://phantom-athletics.com/products/phantom-training-mask-black-x
 PHMASK1012-S,in_stock,89.99,Phantom Trainingsmaske - Schwarz-X,S / Carbon,https://phantom-athletics.com/products/phantom-training-mask-black-x
 PHMASK1011-S,out_of_stock,89.99,Phantom Trainingsmaske - Schwarz-X,S / Camo,https://phantom-athletics.com/products/phantom-training-mask-black-x
@@ -662,7 +665,7 @@ PHSHEVO+3904-S,out_of_stock,34.99,Trainingsshirt EVO+ Team Germany - Schwarz/Rot
 PHSHEVO+3904-M,out_of_stock,34.99,Trainingsshirt EVO+ Team Germany - Schwarz/Rot/Gold,M,https://phantom-athletics.com/products/training-shirt-evo-team-germany-black-red-gold
 PHSHEVO+3904-L,out_of_stock,34.99,Trainingsshirt EVO+ Team Germany - Schwarz/Rot/Gold,L,https://phantom-athletics.com/products/training-shirt-evo-team-germany-black-red-gold
 PHSHEVO+3904-XL,out_of_stock,34.99,Trainingsshirt EVO+ Team Germany - Schwarz/Rot/Gold,XL,https://phantom-athletics.com/products/training-shirt-evo-team-germany-black-red-gold
-PHSHEVO+3904-XXL,in_stock,34.99,Trainingsshirt EVO+ Team Germany - Schwarz/Rot/Gold,XXL,https://phantom-athletics.com/products/training-shirt-evo-team-germany-black-red-gold
+PHSHEVO+3904-XXL,out_of_stock,34.99,Trainingsshirt EVO+ Team Germany - Schwarz/Rot/Gold,XXL,https://phantom-athletics.com/products/training-shirt-evo-team-germany-black-red-gold
 PHSHEVO+3878-S,in_stock,29.99,Trainingsshirt EVO+ Team Dagestan,S,https://phantom-athletics.com/products/training-shirt-evo-team-dagestan
 PHSHEVO+3878-M,in_stock,29.99,Trainingsshirt EVO+ Team Dagestan,M,https://phantom-athletics.com/products/training-shirt-evo-team-dagestan
 PHSHEVO+3878-L,in_stock,29.99,Trainingsshirt EVO+ Team Dagestan,L,https://phantom-athletics.com/products/training-shirt-evo-team-dagestan
@@ -860,7 +863,7 @@ PHSHEVO+3771-M,in_stock,29.99,Trainingsshirt EVO+ Team Albania,M,https://phantom
 PHSHEVO+3771-L,in_stock,29.99,Trainingsshirt EVO+ Team Albania,L,https://phantom-athletics.com/products/training-shirt-evo-team-albania
 PHSHEVO+3771-XL,in_stock,29.99,Trainingsshirt EVO+ Team Albania,XL,https://phantom-athletics.com/products/training-shirt-evo-team-albania
 PHSHEVO+3771-XXL,in_stock,29.99,Trainingsshirt EVO+ Team Albania,XXL,https://phantom-athletics.com/products/training-shirt-evo-team-albania
-PHHO3774-S,in_stock,39.99,Trainingsjacke DMC - Team Albania,S,https://phantom-athletics.com/products/track-jacket-dmc-team-albania
+PHHO3774-S,out_of_stock,39.99,Trainingsjacke DMC - Team Albania,S,https://phantom-athletics.com/products/track-jacket-dmc-team-albania
 PHHO3774-M,in_stock,39.99,Trainingsjacke DMC - Team Albania,M,https://phantom-athletics.com/products/track-jacket-dmc-team-albania
 PHHO3774-L,in_stock,39.99,Trainingsjacke DMC - Team Albania,L,https://phantom-athletics.com/products/track-jacket-dmc-team-albania
 PHHO3774-XL,in_stock,39.99,Trainingsjacke DMC - Team Albania,XL,https://phantom-athletics.com/products/track-jacket-dmc-team-albania
@@ -1445,7 +1448,7 @@ ADSHOE4982-95,out_of_stock,79.99,Ringerschuhe ADIDAS Speedex Wrestling - Weiß/G
 ADSHOE4982-10,out_of_stock,79.99,Ringerschuhe ADIDAS Speedex Wrestling - Weiß/Gold,44 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-speedex-wrestling-white-gold
 ADSHOE4982-105,in_stock,79.99,Ringerschuhe ADIDAS Speedex Wrestling - Weiß/Gold,45 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-speedex-wrestling-white-gold
 ADSHOE4982-11,out_of_stock,79.99,Ringerschuhe ADIDAS Speedex Wrestling - Weiß/Gold,46,https://phantom-athletics.com/products/wrestling-shoes-adidas-speedex-wrestling-white-gold
-PHBBAG3501-80,in_stock,99.99,Boxsack ELITE mit Füllung (80/180 cm),80cm,https://phantom-athletics.com/products/boxing-bag-elite
+PHBBAG3501-80,out_of_stock,99.99,Boxsack ELITE mit Füllung (80/180 cm),80cm,https://phantom-athletics.com/products/boxing-bag-elite
 PHBBAG3501-180,in_stock,189.99,Boxsack ELITE mit Füllung (80/180 cm),180cm,https://phantom-athletics.com/products/boxing-bag-elite
 PHMG3725,in_stock,49.99,Zahnschutz ELITE - MMA,Default Title,https://phantom-athletics.com/products/mouthguard-elite-mma
 PHMG3724,in_stock,49.99,Zahnschutz ELITE - BJJ / Jiu Jitsu,Default Title,https://phantom-athletics.com/products/mouthguard-elite-bjj-jiu-jitsu
@@ -1915,7 +1918,7 @@ NISHOE7333-001-105,out_of_stock,78.99,Boxschuhe NIKE Machomai 3 - Schwarz,44.5,h
 NISHOE7333-001-11,out_of_stock,78.99,Boxschuhe NIKE Machomai 3 - Schwarz,45,https://phantom-athletics.com/products/boxing-shoes-nike-machomai-3-black
 NISHOE7333-001-115,out_of_stock,78.99,Boxschuhe NIKE Machomai 3 - Schwarz,45.5,https://phantom-athletics.com/products/boxing-shoes-nike-machomai-3-black
 NISHOE7333-001-12,out_of_stock,78.99,Boxschuhe NIKE Machomai 3 - Schwarz,46,https://phantom-athletics.com/products/boxing-shoes-nike-machomai-3-black
-NISHOE7333-001-13,in_stock,78.99,Boxschuhe NIKE Machomai 3 - Schwarz,47.5,https://phantom-athletics.com/products/boxing-shoes-nike-machomai-3-black
+NISHOE7333-001-13,out_of_stock,78.99,Boxschuhe NIKE Machomai 3 - Schwarz,47.5,https://phantom-athletics.com/products/boxing-shoes-nike-machomai-3-black
 NISHOE2831-900-55,out_of_stock,84.99,Boxschuhe NIKE Machomai 3 - SE,38,https://phantom-athletics.com/products/boxing-shoes-nike-machomai-3-se
 NISHOE2831-900-6,out_of_stock,84.99,Boxschuhe NIKE Machomai 3 - SE,38.5,https://phantom-athletics.com/products/boxing-shoes-nike-machomai-3-se
 NISHOE2831-900-65,out_of_stock,84.99,Boxschuhe NIKE Machomai 3 - SE,39,https://phantom-athletics.com/products/boxing-shoes-nike-machomai-3-se
@@ -2518,7 +2521,7 @@ KPBSGREVO4-M,out_of_stock,73.99,Schienbeinschutz KPB / King Pro Boxing - Revo 4,
 KPBSGREVO4-L,in_stock,73.99,Schienbeinschutz KPB / King Pro Boxing - Revo 4,L,https://phantom-athletics.com/products/shinguard-kpb-king-pro-boxing-revo-4
 KPBSGREVO4-XL,out_of_stock,73.99,Schienbeinschutz KPB / King Pro Boxing - Revo 4,XL,https://phantom-athletics.com/products/shinguard-kpb-king-pro-boxing-revo-4
 KPBBGSPARTAN1-10,in_stock,124.99,Boxhandschuhe KPB / King Pro Boxing - Spartan 1 - Schwarz,10 OZ,https://phantom-athletics.com/products/boxing-gloves-kpb-king-pro-boxing-spartan-1-black
-KPBBGSPARTAN1-12,out_of_stock,124.99,Boxhandschuhe KPB / King Pro Boxing - Spartan 1 - Schwarz,12 OZ,https://phantom-athletics.com/products/boxing-gloves-kpb-king-pro-boxing-spartan-1-black
+KPBBGSPARTAN1-12,in_stock,124.99,Boxhandschuhe KPB / King Pro Boxing - Spartan 1 - Schwarz,12 OZ,https://phantom-athletics.com/products/boxing-gloves-kpb-king-pro-boxing-spartan-1-black
 KPBBGSPARTAN1-14,in_stock,124.99,Boxhandschuhe KPB / King Pro Boxing - Spartan 1 - Schwarz,14 OZ,https://phantom-athletics.com/products/boxing-gloves-kpb-king-pro-boxing-spartan-1-black
 KPBBGSPARTAN1-16,in_stock,124.99,Boxhandschuhe KPB / King Pro Boxing - Spartan 1 - Schwarz,16 OZ,https://phantom-athletics.com/products/boxing-gloves-kpb-king-pro-boxing-spartan-1-black
 FXBBGV2-10,in_stock,158.99,Boxhandschuhe FAIRTEX Muay Thai - FXB-BG-V2 - Schwarz,10 OZ,https://phantom-athletics.com/products/boxing-gloves-fairtex-muay-thai-fxb-bg-v2-black
@@ -2607,7 +2610,7 @@ DCMG022,in_stock,39.99,Damage Control Zahnschutz - Extreme Impact Series - Savag
 DCMG021,in_stock,45.99,Damage Control Zahnschutz - Extreme Impact Series - BMF / Bad MotherFucker,Default Title,https://phantom-athletics.com/products/damage-control-zahnschutz-extreme-impact-series-bmf-bad-motherfucker
 DCMG020,out_of_stock,39.99,Damage Control Zahnschutz - Extreme Impact Series - Thug Life,Default Title,https://phantom-athletics.com/products/damage-control-zahnschutz-extreme-impact-series-thug-life
 DCMG019,in_stock,39.99,Damage Control Zahnschutz - Extreme Impact Series - SymBite,Default Title,https://phantom-athletics.com/products/damage-control-zahnschutz-extreme-impact-series-symbite
-DCMG018,in_stock,39.99,Damage Control Zahnschutz - Extreme Impact Series - X-Ray,Default Title,https://phantom-athletics.com/products/damage-control-zahnschutz-extreme-impact-series-x-ray
+DCMG018,out_of_stock,39.99,Damage Control Zahnschutz - Extreme Impact Series - X-Ray,Default Title,https://phantom-athletics.com/products/damage-control-zahnschutz-extreme-impact-series-x-ray
 DCMG017,in_stock,45.99,Damage Control Zahnschutz - Extreme Impact Series - HAHAHA,Default Title,https://phantom-athletics.com/products/damage-control-zahnschutz-extreme-impact-series-hahaha
 DCMG016,in_stock,45.99,Damage Control Zahnschutz - Extreme Impact Series - Champ,Default Title,https://phantom-athletics.com/products/damage-control-zahnschutz-extreme-impact-series-champ
 ADSHOE6869-6,out_of_stock,49.99,Ringerschuhe ADIDAS Havoc - Schwarz/Gold,39 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-black-gold
@@ -3290,7 +3293,7 @@ PHSHEVO3051-L,in_stock,19.99,Trainingsshirt EVO Winter Camo,L,https://phantom-at
 PHSHEVO3051-XL,in_stock,19.99,Trainingsshirt EVO Winter Camo,XL,https://phantom-athletics.com/products/training-shirt-evo-winter-camo
 PHSHEVO3051-XXL,in_stock,19.99,Trainingsshirt EVO Winter Camo,XXL,https://phantom-athletics.com/products/training-shirt-evo-winter-camo
 PHSHO3053-S,in_stock,49.99,Fightshorts FUSION-R Winter Camo,S,https://phantom-athletics.com/products/fightshorts-fusion-r-winter-camo
-PHSHO3053-M,out_of_stock,49.99,Fightshorts FUSION-R Winter Camo,M,https://phantom-athletics.com/products/fightshorts-fusion-r-winter-camo
+PHSHO3053-M,in_stock,49.99,Fightshorts FUSION-R Winter Camo,M,https://phantom-athletics.com/products/fightshorts-fusion-r-winter-camo
 PHSHO3053-L,in_stock,49.99,Fightshorts FUSION-R Winter Camo,L,https://phantom-athletics.com/products/fightshorts-fusion-r-winter-camo
 PHSHO3053-XL,in_stock,49.99,Fightshorts FUSION-R Winter Camo,XL,https://phantom-athletics.com/products/fightshorts-fusion-r-winter-camo
 PHSHO3053-XXL,in_stock,49.99,Fightshorts FUSION-R Winter Camo,XXL,https://phantom-athletics.com/products/fightshorts-fusion-r-winter-camo
@@ -3963,7 +3966,7 @@ PHPATCH00584,in_stock,0.99,Patch Logo,Default Title,https://phantom-athletics.co
 PHPAD2583,in_stock,139.99,Kick Pads RIOT Pro,Default Title,https://phantom-athletics.com/products/kick-pads-riot-pro
 PHPAD2582,in_stock,79.99,Handpratzen RIOT Pro,Default Title,https://phantom-athletics.com/products/focus-pads-riot-pro
 PHBBAG2821-80,out_of_stock,169.99,Boxsack MUAY THAI mit Füllung (80/180 cm),80cm,https://phantom-athletics.com/products/heavy-bag-muay-thai-filled
-PHBBAG2821-180,in_stock,169.99,Boxsack MUAY THAI mit Füllung (80/180 cm),180cm,https://phantom-athletics.com/products/heavy-bag-muay-thai-filled
+PHBBAG2821-180,out_of_stock,169.99,Boxsack MUAY THAI mit Füllung (80/180 cm),180cm,https://phantom-athletics.com/products/heavy-bag-muay-thai-filled
 PHHO2943-S,in_stock,49.99,Trainingsjacke DMC - Team Germany,S,https://phantom-athletics.com/products/trackjacket-dmc-team-germany
 PHHO2943-M,in_stock,49.99,Trainingsjacke DMC - Team Germany,M,https://phantom-athletics.com/products/trackjacket-dmc-team-germany
 PHHO2943-L,in_stock,49.99,Trainingsjacke DMC - Team Germany,L,https://phantom-athletics.com/products/trackjacket-dmc-team-germany
@@ -5022,7 +5025,7 @@ PHMASK1014-S,out_of_stock,129.99,Phantom Trainingsmaske mit PRS X-Treme / Carbon
 PHMASK1014-M,out_of_stock,129.99,Phantom Trainingsmaske mit PRS X-Treme / Carbon Cover,M,https://phantom-athletics.com/products/phantom-trainingmask-with-prs-x-treme-carbon-cover
 PHMASK1014-L,out_of_stock,129.99,Phantom Trainingsmaske mit PRS X-Treme / Carbon Cover,L,https://phantom-athletics.com/products/phantom-trainingmask-with-prs-x-treme-carbon-cover
 PHCAP00629-S,out_of_stock,29.99,Cap Team - Schwarz Camo,Default Title,https://phantom-athletics.com/products/cap-team-black-camo
-PHSH1618-S,out_of_stock,21.99,Trainingsshirt Tactic-V - Kurzarm - Schwarz,S,https://phantom-athletics.com/products/training-shirt-tactic-v-shortsleeve-black
+PHSH1618-S,in_stock,21.99,Trainingsshirt Tactic-V - Kurzarm - Schwarz,S,https://phantom-athletics.com/products/training-shirt-tactic-v-shortsleeve-black
 PHSH1618-M,in_stock,21.99,Trainingsshirt Tactic-V - Kurzarm - Schwarz,M,https://phantom-athletics.com/products/training-shirt-tactic-v-shortsleeve-black
 PHSH1618-L,in_stock,21.99,Trainingsshirt Tactic-V - Kurzarm - Schwarz,L,https://phantom-athletics.com/products/training-shirt-tactic-v-shortsleeve-black
 PHSH1618-XL,in_stock,21.99,Trainingsshirt Tactic-V - Kurzarm - Schwarz,XL,https://phantom-athletics.com/products/training-shirt-tactic-v-shortsleeve-black
@@ -5311,7 +5314,7 @@ PHHEAD1918,in_stock,24.99,Headband Zero,Default Title,https://phantom-athletics.
 PHHEAD1899,in_stock,9.99,Headband Team,Default Title,https://phantom-athletics.com/products/headband-team
 PHSHTR513NS-SS,out_of_stock,21.99,Trainingsshirt Tactic - Ärmellos - Schwarz,S,https://phantom-athletics.com/products/training-shirt-tactic-sleeveless-black
 PHSHTR513NS-SM,out_of_stock,21.99,Trainingsshirt Tactic - Ärmellos - Schwarz,M,https://phantom-athletics.com/products/training-shirt-tactic-sleeveless-black
-PHSHTR513NS-SL,in_stock,21.99,Trainingsshirt Tactic - Ärmellos - Schwarz,L,https://phantom-athletics.com/products/training-shirt-tactic-sleeveless-black
+PHSHTR513NS-SL,out_of_stock,21.99,Trainingsshirt Tactic - Ärmellos - Schwarz,L,https://phantom-athletics.com/products/training-shirt-tactic-sleeveless-black
 PHSHTR513NS-SXL,in_stock,21.99,Trainingsshirt Tactic - Ärmellos - Schwarz,XL,https://phantom-athletics.com/products/training-shirt-tactic-sleeveless-black
 PHSHTR513NS-SXXL,in_stock,21.99,Trainingsshirt Tactic - Ärmellos - Schwarz,XXL,https://phantom-athletics.com/products/training-shirt-tactic-sleeveless-black
 PHCAP00851-RS,out_of_stock,29.99,Cap Team - Rot,Default Title,https://phantom-athletics.com/products/cap-team-black-red
@@ -5478,7 +5481,7 @@ SDGG329-S,in_stock,29.99,Tiefschutz Ultra Pro,S,https://phantom-athletics.com/pr
 SDGG329-M,in_stock,29.99,Tiefschutz Ultra Pro,M,https://phantom-athletics.com/products/shock-doctor-supporter-ultra
 SDGG329-L,out_of_stock,29.99,Tiefschutz Ultra Pro,L,https://phantom-athletics.com/products/shock-doctor-supporter-ultra
 SDGG329-XL,in_stock,29.99,Tiefschutz Ultra Pro,XL,https://phantom-athletics.com/products/shock-doctor-supporter-ultra
-SDGG329-XXL,in_stock,29.99,Tiefschutz Ultra Pro,XXL,https://phantom-athletics.com/products/shock-doctor-supporter-ultra
+SDGG329-XXL,out_of_stock,29.99,Tiefschutz Ultra Pro,XXL,https://phantom-athletics.com/products/shock-doctor-supporter-ultra
 SDGG221-S,out_of_stock,39.99,Kompressionshose mit Bioflex Tiefschutz,Schwarz / S,https://phantom-athletics.com/products/shock-doctor-compression-shorts-with-bioflex-core-cup
 SDGG221-M,out_of_stock,39.99,Kompressionshose mit Bioflex Tiefschutz,Schwarz / M,https://phantom-athletics.com/products/shock-doctor-compression-shorts-with-bioflex-core-cup
 SDGG221-L,in_stock,39.99,Kompressionshose mit Bioflex Tiefschutz,Schwarz / L,https://phantom-athletics.com/products/shock-doctor-compression-shorts-with-bioflex-core-cup
@@ -5514,7 +5517,7 @@ PHSHOCOMP553-SXXL,out_of_stock,39.99,Kompressions-Shorts VECTOR,XXL,https://phan
 NMOIL-120,in_stock,16.99,Namman Muay Thai Sport Öl,120 ml,https://phantom-athletics.com/products/namman-sports-oil
 NMOIL-450,out_of_stock,24.99,Namman Muay Thai Sport Öl,450 ml,https://phantom-athletics.com/products/namman-sports-oil
 NMCREME-30,out_of_stock,8.90,Namman Muay Thai Sport Creme & Salbe,30 Gramm,https://phantom-athletics.com/products/namman-sports-creme
-NMCREME-100,out_of_stock,16.99,Namman Muay Thai Sport Creme & Salbe,100 Gramm,https://phantom-athletics.com/products/namman-sports-creme
+NMCREME-100,in_stock,16.99,Namman Muay Thai Sport Creme & Salbe,100 Gramm,https://phantom-athletics.com/products/namman-sports-creme
 PHEG1654,out_of_stock,19.99,Ellbogenschutz Impact,Default Title,https://phantom-athletics.com/products/elbow-guard-impact
 PHJR00533,in_stock,7.99,Springseil Tactic,Default Title,https://phantom-athletics.com/products/jumprope-tactic
 PHPAD1658,in_stock,119.99,Kick Pads High Performance,Default Title,https://phantom-athletics.com/products/thai-pads-high-performance
