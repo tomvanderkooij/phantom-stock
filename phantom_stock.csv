@@ -1383,7 +1383,7 @@ PHSH3688-M,in_stock,32.99,Oversize Shirt VANTAGE,M,https://phantom-athletics.com
 PHSH3688-L,in_stock,32.99,Oversize Shirt VANTAGE,L,https://phantom-athletics.com/products/oversize-shirt-vantage
 PHSH3688-XL,in_stock,32.99,Oversize Shirt VANTAGE,XL,https://phantom-athletics.com/products/oversize-shirt-vantage
 PHSH3688-XXL,in_stock,32.99,Oversize Shirt VANTAGE,XXL,https://phantom-athletics.com/products/oversize-shirt-vantage
-PHSH3699-S,in_stock,17.99,T-Shirt APEX 2 - Schwarz,S,https://phantom-athletics.com/products/t-shirt-apex-2-black
+PHSH3699-S,out_of_stock,17.99,T-Shirt APEX 2 - Schwarz,S,https://phantom-athletics.com/products/t-shirt-apex-2-black
 PHSH3699-M,in_stock,17.99,T-Shirt APEX 2 - Schwarz,M,https://phantom-athletics.com/products/t-shirt-apex-2-black
 PHSH3699-L,in_stock,17.99,T-Shirt APEX 2 - Schwarz,L,https://phantom-athletics.com/products/t-shirt-apex-2-black
 PHSH3699-XL,in_stock,17.99,T-Shirt APEX 2 - Schwarz,XL,https://phantom-athletics.com/products/t-shirt-apex-2-black
@@ -2418,7 +2418,7 @@ FXBKP,out_of_stock,239.99,Kickpads Fairtex Muay Thai - FXB-KP,Default Title,http
 FXBBP,out_of_stock,139.99,Bellypad / Bauchgürtel Fairtex Muay Thai - FXB-BP - Schwarz/Weiß,Default Title,https://phantom-athletics.com/products/fairtex-bellypad-fxb-bp
 FXBBGV2-SW10,in_stock,158.99,Boxhandschuhe FAIRTEX Muay Thai - FXB-BG-V2 - Schwarz/Weiß,10 OZ,https://phantom-athletics.com/products/boxing-gloves-fairtex-muay-thai-fxb-bg-v2-black-white
 FXBBGV2-SW12,in_stock,158.99,Boxhandschuhe FAIRTEX Muay Thai - FXB-BG-V2 - Schwarz/Weiß,12 OZ,https://phantom-athletics.com/products/boxing-gloves-fairtex-muay-thai-fxb-bg-v2-black-white
-FXBBGV2-SW14,in_stock,158.99,Boxhandschuhe FAIRTEX Muay Thai - FXB-BG-V2 - Schwarz/Weiß,14 OZ,https://phantom-athletics.com/products/boxing-gloves-fairtex-muay-thai-fxb-bg-v2-black-white
+FXBBGV2-SW14,out_of_stock,158.99,Boxhandschuhe FAIRTEX Muay Thai - FXB-BG-V2 - Schwarz/Weiß,14 OZ,https://phantom-athletics.com/products/boxing-gloves-fairtex-muay-thai-fxb-bg-v2-black-white
 FXBBGV2-SW16,in_stock,158.99,Boxhandschuhe FAIRTEX Muay Thai - FXB-BG-V2 - Schwarz/Weiß,16 OZ,https://phantom-athletics.com/products/boxing-gloves-fairtex-muay-thai-fxb-bg-v2-black-white
 NISHOE9729-060-6,out_of_stock,114.99,Boxschuhe NIKE Air Max Box - Pink,36.5,https://phantom-athletics.com/products/boxing-shoes-nike-air-max-box-pink
 NISHOE9729-060-7,out_of_stock,114.99,Boxschuhe NIKE Air Max Box - Pink,38,https://phantom-athletics.com/products/boxing-shoes-nike-air-max-box-pink
@@ -3368,7 +3368,7 @@ PHSHEVO3037-XXL,out_of_stock,19.99,Trainingsshirt EVO Slasher,XXL,https://phanto
 PHSHEVO3035-S,out_of_stock,39.99,Trainingsshirt EVO Werewolf,S,https://phantom-athletics.com/products/training-shirt-evo-werewolf
 PHSHEVO3035-M,in_stock,39.99,Trainingsshirt EVO Werewolf,M,https://phantom-athletics.com/products/training-shirt-evo-werewolf
 PHSHEVO3035-L,in_stock,39.99,Trainingsshirt EVO Werewolf,L,https://phantom-athletics.com/products/training-shirt-evo-werewolf
-PHSHEVO3035-XL,in_stock,39.99,Trainingsshirt EVO Werewolf,XL,https://phantom-athletics.com/products/training-shirt-evo-werewolf
+PHSHEVO3035-XL,out_of_stock,39.99,Trainingsshirt EVO Werewolf,XL,https://phantom-athletics.com/products/training-shirt-evo-werewolf
 PHSHEVO3035-XXL,out_of_stock,39.99,Trainingsshirt EVO Werewolf,XXL,https://phantom-athletics.com/products/training-shirt-evo-werewolf
 PHSHEVO3033-S,out_of_stock,39.99,Trainingsshirt EVO Reaper,S,https://phantom-athletics.com/products/training-shirt-evo-reaper
 PHSHEVO3033-M,out_of_stock,39.99,Trainingsshirt EVO Reaper,M,https://phantom-athletics.com/products/training-shirt-evo-reaper
