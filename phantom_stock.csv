@@ -1,7 +1,7 @@
 SKU,Quantity,Price,Title,Variant,ProductURL
 PHPAD4102,in_stock,139.99,Kick Pads ELITE,Default Title,https://phantom-athletics.com/products/kick-pads-elite
 PHBAG3824,in_stock,39.99,Netz Sporttasche X-RAY,Default Title,https://phantom-athletics.com/products/phantom-mesh-duffel-bag-x-ray
-PHGYM2068,in_stock,29.99,Thermo Trinkflasche,Default Title,https://phantom-athletics.com/products/insulated-water-bottle
+PHGYM2068,in_stock,29.99,Thermo Trinkflasche mit Isolierung,Default Title,https://phantom-athletics.com/products/insulated-water-bottle
 PHMASK1000-S,in_stock,89.99,Phantom Trainingsmaske - Schwarz-X,S / Schwarz,https://phantom-athletics.com/products/phantom-training-mask-black-x
 PHMASK1012-S,in_stock,89.99,Phantom Trainingsmaske - Schwarz-X,S / Carbon,https://phantom-athletics.com/products/phantom-training-mask-black-x
 PHMASK1011-S,out_of_stock,89.99,Phantom Trainingsmaske - Schwarz-X,S / Camo,https://phantom-athletics.com/products/phantom-training-mask-black-x
@@ -720,7 +720,7 @@ NISHOE3471-400-75,out_of_stock,198.99,Boxschuhe NIKE HyperKO 3 - Photo Blue / So
 NISHOE3471-400-8,out_of_stock,198.99,Boxschuhe NIKE HyperKO 3 - Photo Blue / Sonic Yellow,41,https://phantom-athletics.com/products/boxing-shoes-nike-hyperko-3-photo-blue-sonic-yellow
 NISHOE3471-400-85,out_of_stock,198.99,Boxschuhe NIKE HyperKO 3 - Photo Blue / Sonic Yellow,42,https://phantom-athletics.com/products/boxing-shoes-nike-hyperko-3-photo-blue-sonic-yellow
 NISHOE3471-400-9,in_stock,198.99,Boxschuhe NIKE HyperKO 3 - Photo Blue / Sonic Yellow,42.5,https://phantom-athletics.com/products/boxing-shoes-nike-hyperko-3-photo-blue-sonic-yellow
-NISHOE3471-400-95,in_stock,198.99,Boxschuhe NIKE HyperKO 3 - Photo Blue / Sonic Yellow,43,https://phantom-athletics.com/products/boxing-shoes-nike-hyperko-3-photo-blue-sonic-yellow
+NISHOE3471-400-95,out_of_stock,198.99,Boxschuhe NIKE HyperKO 3 - Photo Blue / Sonic Yellow,43,https://phantom-athletics.com/products/boxing-shoes-nike-hyperko-3-photo-blue-sonic-yellow
 NISHOE3471-400-10,out_of_stock,198.99,Boxschuhe NIKE HyperKO 3 - Photo Blue / Sonic Yellow,44,https://phantom-athletics.com/products/boxing-shoes-nike-hyperko-3-photo-blue-sonic-yellow
 NISHOE3471-400-105,out_of_stock,198.99,Boxschuhe NIKE HyperKO 3 - Photo Blue / Sonic Yellow,44.5,https://phantom-athletics.com/products/boxing-shoes-nike-hyperko-3-photo-blue-sonic-yellow
 NISHOE3471-400-11,out_of_stock,198.99,Boxschuhe NIKE HyperKO 3 - Photo Blue / Sonic Yellow,45,https://phantom-athletics.com/products/boxing-shoes-nike-hyperko-3-photo-blue-sonic-yellow
@@ -1581,7 +1581,7 @@ PHSHEVO+3654-L,out_of_stock,19.99,Trainingsshirt EVO+ Chainsaw,L,https://phantom
 PHSHEVO+3654-XL,out_of_stock,19.99,Trainingsshirt EVO+ Chainsaw,XL,https://phantom-athletics.com/products/training-shirt-evo-chainsaw
 PHSHEVO+3654-XXL,out_of_stock,19.99,Trainingsshirt EVO+ Chainsaw,XXL,https://phantom-athletics.com/products/training-shirt-evo-chainsaw
 PHSHEVO+3654-XXXL,out_of_stock,19.99,Trainingsshirt EVO+ Chainsaw,XXXL,https://phantom-athletics.com/products/training-shirt-evo-chainsaw
-PHSH3609-S,in_stock,21.99,Oversize Shirt SPARRING,S,https://phantom-athletics.com/products/oversize-shirt-sparring
+PHSH3609-S,out_of_stock,21.99,Oversize Shirt SPARRING,S,https://phantom-athletics.com/products/oversize-shirt-sparring
 PHSH3609-M,in_stock,21.99,Oversize Shirt SPARRING,M,https://phantom-athletics.com/products/oversize-shirt-sparring
 PHSH3609-L,in_stock,21.99,Oversize Shirt SPARRING,L,https://phantom-athletics.com/products/oversize-shirt-sparring
 PHSH3609-XL,in_stock,21.99,Oversize Shirt SPARRING,XL,https://phantom-athletics.com/products/oversize-shirt-sparring
@@ -2002,7 +2002,7 @@ PHSHEVO+3520-M,in_stock,19.99,Trainingsshirt EVO+ Team - Schwarz,M,https://phant
 PHSHEVO+3520-L,in_stock,19.99,Trainingsshirt EVO+ Team - Schwarz,L,https://phantom-athletics.com/products/trainingshirt-evo-team
 PHSHEVO+3520-XL,in_stock,19.99,Trainingsshirt EVO+ Team - Schwarz,XL,https://phantom-athletics.com/products/trainingshirt-evo-team
 PHSHEVO+3520-XXL,in_stock,19.99,Trainingsshirt EVO+ Team - Schwarz,XXL,https://phantom-athletics.com/products/trainingshirt-evo-team
-PHSH3070-S,in_stock,19.99,T-Shirt Never Back Down - Schwarz,S,https://phantom-athletics.com/products/t-shirt-never-back-down
+PHSH3070-S,out_of_stock,19.99,T-Shirt Never Back Down - Schwarz,S,https://phantom-athletics.com/products/t-shirt-never-back-down
 PHSH3070-M,in_stock,19.99,T-Shirt Never Back Down - Schwarz,M,https://phantom-athletics.com/products/t-shirt-never-back-down
 PHSH3070-L,in_stock,19.99,T-Shirt Never Back Down - Schwarz,L,https://phantom-athletics.com/products/t-shirt-never-back-down
 PHSH3070-XL,in_stock,19.99,T-Shirt Never Back Down - Schwarz,XL,https://phantom-athletics.com/products/t-shirt-never-back-down
@@ -2173,7 +2173,7 @@ ADSHOE6120-8,in_stock,49.99,Ringerschuhe ADIDAS Havoc - Weiß,42,https://phantom
 ADSHOE6120-85,in_stock,49.99,Ringerschuhe ADIDAS Havoc - Weiß,42 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-white-black
 ADSHOE6120-9,in_stock,49.99,Ringerschuhe ADIDAS Havoc - Weiß,43 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-white-black
 ADSHOE6120-95,in_stock,49.99,Ringerschuhe ADIDAS Havoc - Weiß,44,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-white-black
-ADSHOE6120-10,in_stock,49.99,Ringerschuhe ADIDAS Havoc - Weiß,44 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-white-black
+ADSHOE6120-10,out_of_stock,49.99,Ringerschuhe ADIDAS Havoc - Weiß,44 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-white-black
 ADSHOE6120-105,out_of_stock,49.99,Ringerschuhe ADIDAS Havoc - Weiß,45 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-white-black
 ADSHOE6120-11,in_stock,49.99,Ringerschuhe ADIDAS Havoc - Weiß,46,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-white-black
 ADSHOE6120-115,in_stock,49.99,Ringerschuhe ADIDAS Havoc - Weiß,46 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-white-black
@@ -2494,7 +2494,7 @@ PHWR3291-SM,in_stock,59.99,Boxbandagen FASTWRAPS,S/M,https://phantom-athletics.c
 PHWR3291-LXL,in_stock,59.99,Boxbandagen FASTWRAPS,L/XL,https://phantom-athletics.com/products/handwraps-fastwraps
 PHWR3302-SM,in_stock,49.99,Boxbandagen FASTWRAPS Lite,S/M,https://phantom-athletics.com/products/handwraps-fastwraps-lite
 PHWR3302-LXL,in_stock,49.99,Boxbandagen FASTWRAPS Lite,L/XL,https://phantom-athletics.com/products/handwraps-fastwraps-lite
-NSGLOVES-Y,in_stock,19.99,No-Stink Geruchsentferner,Default Title,https://phantom-athletics.com/products/no-stink-gloves
+NSGLOVES-Y,out_of_stock,19.99,No-Stink Geruchsentferner,Default Title,https://phantom-athletics.com/products/no-stink-gloves
 KPBMG,out_of_stock,9.99,KPB / King Pro Boxing Zahnschutz,Default Title,https://phantom-athletics.com/products/kpb-king-pro-boxing-mouthguard
 OPPLATINUM-SGR,out_of_stock,29.99,OPRO Zahnschutz - UFC Platinum Level - Fangz - Schwarz/Gold/Rot,Default Title,https://phantom-athletics.com/products/opro-mouthguard-ufc-platinum-level-black-gold
 OPGOLD-S,out_of_stock,24.99,OPRO Zahnschutz - UFC Gold Level - Schwarz,Default Title,https://phantom-athletics.com/products/opro-mouthguard-ufc-gold-level-black
@@ -3065,7 +3065,7 @@ DCMG005,in_stock,36.99,Damage Control Zahnschutz - High Impact Series - Savage,D
 DCMG004,out_of_stock,29.99,Damage Control Zahnschutz - High Impact Series - Blackarts 2.0,Default Title,https://phantom-athletics.com/products/damage-control-mouthguards-blackarts-2-0
 DCMG003,out_of_stock,36.99,Damage Control Zahnschutz - High Impact Series - Symbite 2.0,Default Title,https://phantom-athletics.com/products/damage-control-mouthguard-symbite-2-0
 DCMG002,in_stock,29.99,Damage Control Zahnschutz - High Impact Series - HaHaHa 2.0,Default Title,https://phantom-athletics.com/products/damage-control-mouthguard-hahaha-2-0
-DCMG001,in_stock,29.99,Damage Control Zahnschutz - High Impact Series - BMF (Bad Motherfucker),Default Title,https://phantom-athletics.com/products/damage-control-mouthguard-bad-motherfucker
+DCMG001,out_of_stock,29.99,Damage Control Zahnschutz - High Impact Series - BMF (Bad Motherfucker),Default Title,https://phantom-athletics.com/products/damage-control-mouthguard-bad-motherfucker
 PHPAD3054,out_of_stock,89.99,Bellypad / Bauchgürtel,Default Title,https://phantom-athletics.com/products/bellypad
 PHSHO3210-S,in_stock,49.99,Fightshorts FUSION-R Diablo,S,https://phantom-athletics.com/products/fightshorts-fusion-r-diablo
 PHSHO3210-M,in_stock,49.99,Fightshorts FUSION-R Diablo,M,https://phantom-athletics.com/products/fightshorts-fusion-r-diablo
@@ -3367,7 +3367,7 @@ PHSHEVO3037-XL,out_of_stock,19.99,Trainingsshirt EVO Slasher,XL,https://phantom-
 PHSHEVO3037-XXL,out_of_stock,19.99,Trainingsshirt EVO Slasher,XXL,https://phantom-athletics.com/products/training-shirt-evo-slasher
 PHSHEVO3035-S,out_of_stock,39.99,Trainingsshirt EVO Werewolf,S,https://phantom-athletics.com/products/training-shirt-evo-werewolf
 PHSHEVO3035-M,in_stock,39.99,Trainingsshirt EVO Werewolf,M,https://phantom-athletics.com/products/training-shirt-evo-werewolf
-PHSHEVO3035-L,in_stock,39.99,Trainingsshirt EVO Werewolf,L,https://phantom-athletics.com/products/training-shirt-evo-werewolf
+PHSHEVO3035-L,out_of_stock,39.99,Trainingsshirt EVO Werewolf,L,https://phantom-athletics.com/products/training-shirt-evo-werewolf
 PHSHEVO3035-XL,out_of_stock,39.99,Trainingsshirt EVO Werewolf,XL,https://phantom-athletics.com/products/training-shirt-evo-werewolf
 PHSHEVO3035-XXL,out_of_stock,39.99,Trainingsshirt EVO Werewolf,XXL,https://phantom-athletics.com/products/training-shirt-evo-werewolf
 PHSHEVO3033-S,in_stock,39.99,Trainingsshirt EVO Reaper,S,https://phantom-athletics.com/products/training-shirt-evo-reaper
@@ -3960,7 +3960,7 @@ PHSH2899-XXL,in_stock,19.99,T-Shirt Pro Fighter - Schwarz,XXL,https://phantom-at
 PHSH2900-S,out_of_stock,19.99,T-Shirt Sak Yant - Schwarz,S,https://phantom-athletics.com/products/t-shirt-sak-yant24
 PHSH2900-M,out_of_stock,19.99,T-Shirt Sak Yant - Schwarz,M,https://phantom-athletics.com/products/t-shirt-sak-yant24
 PHSH2900-L,out_of_stock,19.99,T-Shirt Sak Yant - Schwarz,L,https://phantom-athletics.com/products/t-shirt-sak-yant24
-PHSH2900-XL,in_stock,19.99,T-Shirt Sak Yant - Schwarz,XL,https://phantom-athletics.com/products/t-shirt-sak-yant24
+PHSH2900-XL,out_of_stock,19.99,T-Shirt Sak Yant - Schwarz,XL,https://phantom-athletics.com/products/t-shirt-sak-yant24
 PHSH2900-XXL,out_of_stock,19.99,T-Shirt Sak Yant - Schwarz,XXL,https://phantom-athletics.com/products/t-shirt-sak-yant24
 PHPATCH00584,in_stock,0.99,Patch Logo,Default Title,https://phantom-athletics.com/products/patch-logo
 PHPAD2583,in_stock,139.99,Kick Pads RIOT Pro,Default Title,https://phantom-athletics.com/products/kick-pads-riot-pro
@@ -4075,7 +4075,7 @@ PHRGST00638LS-SGS,out_of_stock,69.99,Rashguard Storm Nitro - Langarm,S,https://p
 PHRGST00638LS-SGM,out_of_stock,69.99,Rashguard Storm Nitro - Langarm,M,https://phantom-athletics.com/products/compression-shirt-storm-nitro-ls
 PHRGST00638LS-SGL,out_of_stock,69.99,Rashguard Storm Nitro - Langarm,L,https://phantom-athletics.com/products/compression-shirt-storm-nitro-ls
 PHRGST00638LS-SGXL,out_of_stock,69.99,Rashguard Storm Nitro - Langarm,XL,https://phantom-athletics.com/products/compression-shirt-storm-nitro-ls
-PHRGST00638LS-SGXXL,in_stock,69.99,Rashguard Storm Nitro - Langarm,XXL,https://phantom-athletics.com/products/compression-shirt-storm-nitro-ls
+PHRGST00638LS-SGXXL,out_of_stock,69.99,Rashguard Storm Nitro - Langarm,XXL,https://phantom-athletics.com/products/compression-shirt-storm-nitro-ls
 PHRGST00637SS-SGS,out_of_stock,69.99,Rashguard Storm Nitro - Kurzarm,S,https://phantom-athletics.com/products/compression-shirt-storm-nitro
 PHRGST00637SS-SGM,out_of_stock,69.99,Rashguard Storm Nitro - Kurzarm,M,https://phantom-athletics.com/products/compression-shirt-storm-nitro
 PHRGST00637SS-SGL,out_of_stock,69.99,Rashguard Storm Nitro - Kurzarm,L,https://phantom-athletics.com/products/compression-shirt-storm-nitro
@@ -4194,7 +4194,7 @@ PHSH2872-S,out_of_stock,19.99,T-Shirt Punchy - Schwarz,S,https://phantom-athleti
 PHSH2872-M,in_stock,19.99,T-Shirt Punchy - Schwarz,M,https://phantom-athletics.com/products/t-shirt-punchy-black
 PHSH2872-L,in_stock,19.99,T-Shirt Punchy - Schwarz,L,https://phantom-athletics.com/products/t-shirt-punchy-black
 PHSH2872-XL,in_stock,19.99,T-Shirt Punchy - Schwarz,XL,https://phantom-athletics.com/products/t-shirt-punchy-black
-PHSH2872-XXL,in_stock,19.99,T-Shirt Punchy - Schwarz,XXL,https://phantom-athletics.com/products/t-shirt-punchy-black
+PHSH2872-XXL,out_of_stock,19.99,T-Shirt Punchy - Schwarz,XXL,https://phantom-athletics.com/products/t-shirt-punchy-black
 PHRG2873-S,in_stock,49.99,Rashguard EVO Punchy,S,https://phantom-athletics.com/products/rashguard-evo-punchy
 PHRG2873-M,out_of_stock,49.99,Rashguard EVO Punchy,M,https://phantom-athletics.com/products/rashguard-evo-punchy
 PHRG2873-L,in_stock,49.99,Rashguard EVO Punchy,L,https://phantom-athletics.com/products/rashguard-evo-punchy
@@ -5313,7 +5313,7 @@ PHCREME1879,in_stock,24.99,Phantom Sport Creme,Default Title,https://phantom-ath
 PHHEAD1918,in_stock,24.99,Headband Zero,Default Title,https://phantom-athletics.com/products/headband-zero
 PHHEAD1899,in_stock,9.99,Headband Team,Default Title,https://phantom-athletics.com/products/headband-team
 PHSHTR513NS-SS,out_of_stock,21.99,Trainingsshirt Tactic - Ärmellos - Schwarz,S,https://phantom-athletics.com/products/training-shirt-tactic-sleeveless-black
-PHSHTR513NS-SM,in_stock,21.99,Trainingsshirt Tactic - Ärmellos - Schwarz,M,https://phantom-athletics.com/products/training-shirt-tactic-sleeveless-black
+PHSHTR513NS-SM,out_of_stock,21.99,Trainingsshirt Tactic - Ärmellos - Schwarz,M,https://phantom-athletics.com/products/training-shirt-tactic-sleeveless-black
 PHSHTR513NS-SL,in_stock,21.99,Trainingsshirt Tactic - Ärmellos - Schwarz,L,https://phantom-athletics.com/products/training-shirt-tactic-sleeveless-black
 PHSHTR513NS-SXL,out_of_stock,21.99,Trainingsshirt Tactic - Ärmellos - Schwarz,XL,https://phantom-athletics.com/products/training-shirt-tactic-sleeveless-black
 PHSHTR513NS-SXXL,in_stock,21.99,Trainingsshirt Tactic - Ärmellos - Schwarz,XXL,https://phantom-athletics.com/products/training-shirt-tactic-sleeveless-black
