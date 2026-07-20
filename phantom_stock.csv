@@ -596,7 +596,7 @@ PHSH1962-L,in_stock,19.99,T-Shirt Muay Thai - Stone Washed,L,https://phantom-ath
 PHSH1962-XL,in_stock,19.99,T-Shirt Muay Thai - Stone Washed,XL,https://phantom-athletics.com/products/t-shirt-muay-thai
 PHSH1962-XXL,in_stock,19.99,T-Shirt Muay Thai - Stone Washed,XXL,https://phantom-athletics.com/products/t-shirt-muay-thai
 PHSH1960-XS,out_of_stock,19.99,T-Shirt Elite - Grau,XS,https://phantom-athletics.com/products/t-shirt-elite-grau
-PHSH1960-S,in_stock,19.99,T-Shirt Elite - Grau,S,https://phantom-athletics.com/products/t-shirt-elite-grau
+PHSH1960-S,out_of_stock,19.99,T-Shirt Elite - Grau,S,https://phantom-athletics.com/products/t-shirt-elite-grau
 PHSH1960-M,in_stock,19.99,T-Shirt Elite - Grau,M,https://phantom-athletics.com/products/t-shirt-elite-grau
 PHSH1960-L,in_stock,19.99,T-Shirt Elite - Grau,L,https://phantom-athletics.com/products/t-shirt-elite-grau
 PHSH1960-XL,in_stock,19.99,T-Shirt Elite - Grau,XL,https://phantom-athletics.com/products/t-shirt-elite-grau
@@ -1293,7 +1293,7 @@ PHSHO3327-XXL,in_stock,49.99,Fightshorts EVO Apex - Schwarz/Grau,XXL / Grau,http
 PHSHO3693-S,in_stock,59.99,Fightshorts FUSION 2in1 Apex - Schwarz/Grau,S / Schwarz/Grau,https://phantom-athletics.com/products/fightshorts-fusion-2in1-apex-black-gray
 PHSHO2656-S,out_of_stock,59.99,Fightshorts FUSION 2in1 Apex - Schwarz/Grau,S / Schwarz,https://phantom-athletics.com/products/fightshorts-fusion-2in1-apex-black-gray
 PHSHO2991-S,in_stock,59.99,Fightshorts FUSION 2in1 Apex - Schwarz/Grau,S / Grau,https://phantom-athletics.com/products/fightshorts-fusion-2in1-apex-black-gray
-PHSHO2845-S,in_stock,59.99,Fightshorts FUSION 2in1 Apex - Schwarz/Grau,S / Blau,https://phantom-athletics.com/products/fightshorts-fusion-2in1-apex-black-gray
+PHSHO2845-S,out_of_stock,59.99,Fightshorts FUSION 2in1 Apex - Schwarz/Grau,S / Blau,https://phantom-athletics.com/products/fightshorts-fusion-2in1-apex-black-gray
 PHSHO3693-M,in_stock,59.99,Fightshorts FUSION 2in1 Apex - Schwarz/Grau,M / Schwarz/Grau,https://phantom-athletics.com/products/fightshorts-fusion-2in1-apex-black-gray
 PHSHO2656-M,out_of_stock,59.99,Fightshorts FUSION 2in1 Apex - Schwarz/Grau,M / Schwarz,https://phantom-athletics.com/products/fightshorts-fusion-2in1-apex-black-gray
 PHSHO2991-M,in_stock,59.99,Fightshorts FUSION 2in1 Apex - Schwarz/Grau,M / Grau,https://phantom-athletics.com/products/fightshorts-fusion-2in1-apex-black-gray
@@ -1304,7 +1304,7 @@ PHSHO2991-L,in_stock,59.99,Fightshorts FUSION 2in1 Apex - Schwarz/Grau,L / Grau,
 PHSHO2845-L,out_of_stock,59.99,Fightshorts FUSION 2in1 Apex - Schwarz/Grau,L / Blau,https://phantom-athletics.com/products/fightshorts-fusion-2in1-apex-black-gray
 PHSHO3693-XL,in_stock,59.99,Fightshorts FUSION 2in1 Apex - Schwarz/Grau,XL / Schwarz/Grau,https://phantom-athletics.com/products/fightshorts-fusion-2in1-apex-black-gray
 PHSHO2656-XL,out_of_stock,59.99,Fightshorts FUSION 2in1 Apex - Schwarz/Grau,XL / Schwarz,https://phantom-athletics.com/products/fightshorts-fusion-2in1-apex-black-gray
-PHSHO2991-XL,in_stock,59.99,Fightshorts FUSION 2in1 Apex - Schwarz/Grau,XL / Grau,https://phantom-athletics.com/products/fightshorts-fusion-2in1-apex-black-gray
+PHSHO2991-XL,out_of_stock,59.99,Fightshorts FUSION 2in1 Apex - Schwarz/Grau,XL / Grau,https://phantom-athletics.com/products/fightshorts-fusion-2in1-apex-black-gray
 PHSHO2845-XL,in_stock,59.99,Fightshorts FUSION 2in1 Apex - Schwarz/Grau,XL / Blau,https://phantom-athletics.com/products/fightshorts-fusion-2in1-apex-black-gray
 PHSHO3693-XXL,in_stock,59.99,Fightshorts FUSION 2in1 Apex - Schwarz/Grau,XXL / Schwarz/Grau,https://phantom-athletics.com/products/fightshorts-fusion-2in1-apex-black-gray
 PHSHO2656-XXL,in_stock,59.99,Fightshorts FUSION 2in1 Apex - Schwarz/Grau,XXL / Schwarz,https://phantom-athletics.com/products/fightshorts-fusion-2in1-apex-black-gray
@@ -1356,7 +1356,7 @@ PHSHEVO+3691-L,in_stock,39.99,Trainingsshirt EVO+ Apex - Schwarz/Grau,L,https://
 PHSHEVO+3691-XL,in_stock,39.99,Trainingsshirt EVO+ Apex - Schwarz/Grau,XL,https://phantom-athletics.com/products/training-shirt-evo-apex-black-gray
 PHSHEVO+3691-XXL,in_stock,39.99,Trainingsshirt EVO+ Apex - Schwarz/Grau,XXL,https://phantom-athletics.com/products/training-shirt-evo-apex-black-gray
 PHBAG3695,in_stock,59.99,Rucksack APEX - Schwarz/Grau,Default Title,https://phantom-athletics.com/products/backpack-apex-black-gray
-PHMMAG3685-SM,in_stock,49.99,MMA Sparring Handschuhe APEX - Schwarz/Grau,S/M / Schwarz/Grau,https://phantom-athletics.com/products/mma-sparring-gloves-apex-black-gray
+PHMMAG3685-SM,out_of_stock,49.99,MMA Sparring Handschuhe APEX - Schwarz/Grau,S/M / Schwarz/Grau,https://phantom-athletics.com/products/mma-sparring-gloves-apex-black-gray
 PHMMAG2021-SM,in_stock,49.99,MMA Sparring Handschuhe APEX - Schwarz/Grau,S/M / Schwarz,https://phantom-athletics.com/products/mma-sparring-gloves-apex-black-gray
 PHMMAG2986-SM,in_stock,49.99,MMA Sparring Handschuhe APEX - Schwarz/Grau,S/M / Grau,https://phantom-athletics.com/products/mma-sparring-gloves-apex-black-gray
 PHMMAG2327-SM,in_stock,49.99,MMA Sparring Handschuhe APEX - Schwarz/Grau,S/M / Army,https://phantom-athletics.com/products/mma-sparring-gloves-apex-black-gray
@@ -2005,7 +2005,7 @@ PHSHEVO+3520-XXL,in_stock,19.99,Trainingsshirt EVO+ Team - Schwarz,XXL,https://p
 PHSH3070-S,out_of_stock,19.99,T-Shirt Never Back Down - Schwarz,S,https://phantom-athletics.com/products/t-shirt-never-back-down
 PHSH3070-M,in_stock,19.99,T-Shirt Never Back Down - Schwarz,M,https://phantom-athletics.com/products/t-shirt-never-back-down
 PHSH3070-L,in_stock,19.99,T-Shirt Never Back Down - Schwarz,L,https://phantom-athletics.com/products/t-shirt-never-back-down
-PHSH3070-XL,in_stock,19.99,T-Shirt Never Back Down - Schwarz,XL,https://phantom-athletics.com/products/t-shirt-never-back-down
+PHSH3070-XL,out_of_stock,19.99,T-Shirt Never Back Down - Schwarz,XL,https://phantom-athletics.com/products/t-shirt-never-back-down
 PHSH3070-XXL,in_stock,19.99,T-Shirt Never Back Down - Schwarz,XXL,https://phantom-athletics.com/products/t-shirt-never-back-down
 PHMMAG3480-SM,in_stock,59.99,Sparring Handschuhe Muay Thai - Army,S/M / Army,https://phantom-athletics.com/products/sparring-handschuhe-muay-thai-army
 PHMMAG2497-SM,in_stock,59.99,Sparring Handschuhe Muay Thai - Army,S/M / Schwarz,https://phantom-athletics.com/products/sparring-handschuhe-muay-thai-army
@@ -2475,12 +2475,12 @@ PHSH3382-M,in_stock,17.99,T-Shirt Boxing - Schwarz,M,https://phantom-athletics.c
 PHSH3382-L,in_stock,17.99,T-Shirt Boxing - Schwarz,L,https://phantom-athletics.com/products/t-shirt-boxing-black
 PHSH3382-XL,in_stock,17.99,T-Shirt Boxing - Schwarz,XL,https://phantom-athletics.com/products/t-shirt-boxing-black
 PHSH3382-XXL,in_stock,17.99,T-Shirt Boxing - Schwarz,XXL,https://phantom-athletics.com/products/t-shirt-boxing-black
-PHSH3380-S,in_stock,17.99,T-Shirt Mexico - Schwarz,S,https://phantom-athletics.com/products/t-shirt-mexico-black
+PHSH3380-S,out_of_stock,17.99,T-Shirt Mexico - Schwarz,S,https://phantom-athletics.com/products/t-shirt-mexico-black
 PHSH3380-M,in_stock,17.99,T-Shirt Mexico - Schwarz,M,https://phantom-athletics.com/products/t-shirt-mexico-black
 PHSH3380-L,in_stock,17.99,T-Shirt Mexico - Schwarz,L,https://phantom-athletics.com/products/t-shirt-mexico-black
 PHSH3380-XL,in_stock,17.99,T-Shirt Mexico - Schwarz,XL,https://phantom-athletics.com/products/t-shirt-mexico-black
 PHSH3380-XXL,in_stock,17.99,T-Shirt Mexico - Schwarz,XXL,https://phantom-athletics.com/products/t-shirt-mexico-black
-PHSH3381-S,in_stock,17.99,T-Shirt Mexico - Weiß,S,https://phantom-athletics.com/products/t-shirt-mexico-white
+PHSH3381-S,out_of_stock,17.99,T-Shirt Mexico - Weiß,S,https://phantom-athletics.com/products/t-shirt-mexico-white
 PHSH3381-M,in_stock,17.99,T-Shirt Mexico - Weiß,M,https://phantom-athletics.com/products/t-shirt-mexico-white
 PHSH3381-L,in_stock,17.99,T-Shirt Mexico - Weiß,L,https://phantom-athletics.com/products/t-shirt-mexico-white
 PHSH3381-XL,in_stock,17.99,T-Shirt Mexico - Weiß,XL,https://phantom-athletics.com/products/t-shirt-mexico-white
@@ -3009,7 +3009,7 @@ PHSH3235-M,in_stock,19.99,T-Shirt Make MMA Great Again - Schwarz,M / Schwarz,htt
 PHSH3085-M,in_stock,19.99,T-Shirt Make MMA Great Again - Schwarz,M / Rot,https://phantom-athletics.com/products/t-shirt-make-mma-great-again-black
 PHSH3235-L,in_stock,19.99,T-Shirt Make MMA Great Again - Schwarz,L / Schwarz,https://phantom-athletics.com/products/t-shirt-make-mma-great-again-black
 PHSH3085-L,in_stock,19.99,T-Shirt Make MMA Great Again - Schwarz,L / Rot,https://phantom-athletics.com/products/t-shirt-make-mma-great-again-black
-PHSH3235-XL,in_stock,19.99,T-Shirt Make MMA Great Again - Schwarz,XL / Schwarz,https://phantom-athletics.com/products/t-shirt-make-mma-great-again-black
+PHSH3235-XL,out_of_stock,19.99,T-Shirt Make MMA Great Again - Schwarz,XL / Schwarz,https://phantom-athletics.com/products/t-shirt-make-mma-great-again-black
 PHSH3085-XL,in_stock,19.99,T-Shirt Make MMA Great Again - Schwarz,XL / Rot,https://phantom-athletics.com/products/t-shirt-make-mma-great-again-black
 PHSH3235-XXL,in_stock,19.99,T-Shirt Make MMA Great Again - Schwarz,XXL / Schwarz,https://phantom-athletics.com/products/t-shirt-make-mma-great-again-black
 PHSH3085-XXL,in_stock,19.99,T-Shirt Make MMA Great Again - Schwarz,XXL / Rot,https://phantom-athletics.com/products/t-shirt-make-mma-great-again-black
@@ -3482,7 +3482,7 @@ PHSH2896-152,in_stock,19.99,Kinder T-Shirt Team - Weiß,Kids - 152 / Schwarz,htt
 PHSH2897-152,in_stock,19.99,Kinder T-Shirt Team - Weiß,Kids - 152 / Grau,https://phantom-athletics.com/products/kids-t-shirt-team-white
 PHSHEVO3031-S,out_of_stock,22.99,Trainingsshirt EVO Tiger Domination,S,https://phantom-athletics.com/products/trainingsshirt-evo-tiger-domination
 PHSHEVO3031-M,out_of_stock,22.99,Trainingsshirt EVO Tiger Domination,M,https://phantom-athletics.com/products/trainingsshirt-evo-tiger-domination
-PHSHEVO3031-L,in_stock,22.99,Trainingsshirt EVO Tiger Domination,L,https://phantom-athletics.com/products/trainingsshirt-evo-tiger-domination
+PHSHEVO3031-L,out_of_stock,22.99,Trainingsshirt EVO Tiger Domination,L,https://phantom-athletics.com/products/trainingsshirt-evo-tiger-domination
 PHSHEVO3031-XL,out_of_stock,22.99,Trainingsshirt EVO Tiger Domination,XL,https://phantom-athletics.com/products/trainingsshirt-evo-tiger-domination
 PHSHEVO3031-XXL,out_of_stock,22.99,Trainingsshirt EVO Tiger Domination,XXL,https://phantom-athletics.com/products/trainingsshirt-evo-tiger-domination
 PHSHO3030-S,in_stock,49.99,Fightshorts FUSION-R Tiger Domination,S,https://phantom-athletics.com/products/fightshorts-fusion-r-tiger-domination
@@ -4230,7 +4230,7 @@ PHSHEVO2833-S,out_of_stock,19.99,Trainingsshirt EVO Wrestling - Schwarz,S / Wei�
 PHSHEVO2832-S,out_of_stock,19.99,Trainingsshirt EVO Wrestling - Schwarz,S / Rot,https://phantom-athletics.com/products/training-shirt-evo-wrestling-black
 PHSHEVO2831-S,out_of_stock,19.99,Trainingsshirt EVO Wrestling - Schwarz,S / Blau,https://phantom-athletics.com/products/training-shirt-evo-wrestling-black
 PHSHEVO2901-M,in_stock,19.99,Trainingsshirt EVO Wrestling - Schwarz,M / Schwarz,https://phantom-athletics.com/products/training-shirt-evo-wrestling-black
-PHSHEVO2833-M,in_stock,19.99,Trainingsshirt EVO Wrestling - Schwarz,M / Weiß,https://phantom-athletics.com/products/training-shirt-evo-wrestling-black
+PHSHEVO2833-M,out_of_stock,19.99,Trainingsshirt EVO Wrestling - Schwarz,M / Weiß,https://phantom-athletics.com/products/training-shirt-evo-wrestling-black
 PHSHEVO2832-M,in_stock,19.99,Trainingsshirt EVO Wrestling - Schwarz,M / Rot,https://phantom-athletics.com/products/training-shirt-evo-wrestling-black
 PHSHEVO2831-M,in_stock,19.99,Trainingsshirt EVO Wrestling - Schwarz,M / Blau,https://phantom-athletics.com/products/training-shirt-evo-wrestling-black
 PHSHEVO2901-L,in_stock,19.99,Trainingsshirt EVO Wrestling - Schwarz,L / Schwarz,https://phantom-athletics.com/products/training-shirt-evo-wrestling-black
