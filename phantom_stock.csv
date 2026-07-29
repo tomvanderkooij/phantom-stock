@@ -229,7 +229,7 @@ PHSHTR648NS-GL,in_stock,29.99,Trainingsshirt Tactic - Ärmellos - Grün,L,https:
 PHSHTR648NS-GXL,in_stock,29.99,Trainingsshirt Tactic - Ärmellos - Grün,XL,https://phantom-athletics.com/products/training-shirt-tactic-sleeveless-green
 PHSHTR648NS-GXXL,in_stock,29.99,Trainingsshirt Tactic - Ärmellos - Grün,XXL,https://phantom-athletics.com/products/training-shirt-tactic-sleeveless-green
 PHSHTR514NS-GS,out_of_stock,29.99,Trainingsshirt Tactic - Ärmellos - Grau,S,https://phantom-athletics.com/products/training-shirt-tactic-sleeveless-gray
-PHSHTR514NS-GM,in_stock,29.99,Trainingsshirt Tactic - Ärmellos - Grau,M,https://phantom-athletics.com/products/training-shirt-tactic-sleeveless-gray
+PHSHTR514NS-GM,out_of_stock,29.99,Trainingsshirt Tactic - Ärmellos - Grau,M,https://phantom-athletics.com/products/training-shirt-tactic-sleeveless-gray
 PHSHTR514NS-GL,in_stock,29.99,Trainingsshirt Tactic - Ärmellos - Grau,L,https://phantom-athletics.com/products/training-shirt-tactic-sleeveless-gray
 PHSHTR514NS-GXL,in_stock,29.99,Trainingsshirt Tactic - Ärmellos - Grau,XL,https://phantom-athletics.com/products/training-shirt-tactic-sleeveless-gray
 PHSHTR514NS-GXXL,in_stock,29.99,Trainingsshirt Tactic - Ärmellos - Grau,XXL,https://phantom-athletics.com/products/training-shirt-tactic-sleeveless-gray
@@ -447,7 +447,7 @@ PHHO3840-XXL,in_stock,69.99,Sweater UNIT - Schwarz,XXL,https://phantom-athletics
 PHSH3867-S,out_of_stock,21.99,Oversize Heavy Tee Mexico,S,https://phantom-athletics.com/products/oversize-heavy-tee-mexico
 PHSH3867-M,in_stock,21.99,Oversize Heavy Tee Mexico,M,https://phantom-athletics.com/products/oversize-heavy-tee-mexico
 PHSH3867-L,in_stock,21.99,Oversize Heavy Tee Mexico,L,https://phantom-athletics.com/products/oversize-heavy-tee-mexico
-PHSH3867-XL,out_of_stock,21.99,Oversize Heavy Tee Mexico,XL,https://phantom-athletics.com/products/oversize-heavy-tee-mexico
+PHSH3867-XL,in_stock,21.99,Oversize Heavy Tee Mexico,XL,https://phantom-athletics.com/products/oversize-heavy-tee-mexico
 PHSH3867-XXL,out_of_stock,21.99,Oversize Heavy Tee Mexico,XXL,https://phantom-athletics.com/products/oversize-heavy-tee-mexico
 PHSH3866-S,out_of_stock,21.99,Oversize Heavy Tee Elite,S,https://phantom-athletics.com/products/oversize-heavy-tee-elite
 PHSH3866-M,in_stock,21.99,Oversize Heavy Tee Elite,M,https://phantom-athletics.com/products/oversize-heavy-tee-elite
@@ -1251,7 +1251,7 @@ PHSG2302-LXL,in_stock,69.99,Schienbeinschutz APEX Striking - Schwarz/Grau,L/XL /
 PHSHO3694-S,in_stock,49.99,Fightshorts EVO Apex - Schwarz/Grau,S / Schwarz/Grau,https://phantom-athletics.com/products/fightshorts-evo-apex-schwarz-grau
 PHSHO2416-S,out_of_stock,49.99,Fightshorts EVO Apex - Schwarz/Grau,S / Schwarz,https://phantom-athletics.com/products/fightshorts-evo-apex-schwarz-grau
 PHSHO2415-S,in_stock,49.99,Fightshorts EVO Apex - Schwarz/Grau,S / Army,https://phantom-athletics.com/products/fightshorts-evo-apex-schwarz-grau
-PHSHO2414-S,in_stock,49.99,Fightshorts EVO Apex - Schwarz/Grau,S / Sand,https://phantom-athletics.com/products/fightshorts-evo-apex-schwarz-grau
+PHSHO2414-S,out_of_stock,49.99,Fightshorts EVO Apex - Schwarz/Grau,S / Sand,https://phantom-athletics.com/products/fightshorts-evo-apex-schwarz-grau
 PHSHO2725-S,out_of_stock,49.99,Fightshorts EVO Apex - Schwarz/Grau,S / Rot,https://phantom-athletics.com/products/fightshorts-evo-apex-schwarz-grau
 PHSHO3327-S,in_stock,49.99,Fightshorts EVO Apex - Schwarz/Grau,S / Grau,https://phantom-athletics.com/products/fightshorts-evo-apex-schwarz-grau
 PHSHO3694-M,in_stock,49.99,Fightshorts EVO Apex - Schwarz/Grau,M / Schwarz/Grau,https://phantom-athletics.com/products/fightshorts-evo-apex-schwarz-grau
@@ -2493,7 +2493,7 @@ OPSILVER-SR,in_stock,14.99,OPRO Zahnschutz - UFC Silver Level - Schwarz/Rot,Defa
 OPBRONZE-W,in_stock,9.99,OPRO Zahnschutz - UFC Bronze Level - Weiß,Default Title,https://phantom-athletics.com/products/opro-mouthguard-ufc-bronze-level-white
 OPBRONZE-S,out_of_stock,9.99,OPRO Zahnschutz - UFC Bronze Level - Schwarz,Default Title,https://phantom-athletics.com/products/opro-mouthguard-ufc-bronze-level-black
 SJCAPTAIN-B,in_stock,21.99,Safejawz Zahnschutz - Marvel Captain America,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-marvel-captain-america
-SJPANTHER-S,in_stock,21.99,Safejawz Zahnschutz - Marvel Black Panther,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-marvel-black-panther
+SJPANTHER-S,out_of_stock,21.99,Safejawz Zahnschutz - Marvel Black Panther,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-marvel-black-panther
 SJHULK-G,in_stock,21.99,Safejawz Zahnschutz - Marvel Hulk,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-marvel-hulk
 SJDEADPOOL-R,out_of_stock,21.99,Safejawz Zahnschutz - Marvel Deadpool,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-marvel-deadpool
 SJORTHOVENOM-S,in_stock,29.99,Safejawz Ortho Zahnschutz für Zahnspangen - Marvel Venom,Default Title,https://phantom-athletics.com/products/safejawz-ortho-mouthguard-braces-marvel-venom
@@ -3048,7 +3048,7 @@ DCMG011,in_stock,29.99,Damage Control Zahnschutz - High Impact Series - Came Fro
 DCMG010,out_of_stock,29.99,Damage Control Zahnschutz - High Impact Series - Fear None,Default Title,https://phantom-athletics.com/products/damage-control-mouthguard-fear-none
 DCMG009,out_of_stock,29.99,Damage Control Zahnschutz - High Impact Series - Champ,Default Title,https://phantom-athletics.com/products/damage-control-mouthguard-champ
 DCMG008,in_stock,36.99,Damage Control Zahnschutz - High Impact Series - NERD,Default Title,https://phantom-athletics.com/products/damage-control-mouthguard-nerd
-DCMG006,in_stock,36.99,Damage Control Zahnschutz - High Impact Series - Hustle,Default Title,https://phantom-athletics.com/products/damage-control-mouthguard-hustle
+DCMG006,out_of_stock,36.99,Damage Control Zahnschutz - High Impact Series - Hustle,Default Title,https://phantom-athletics.com/products/damage-control-mouthguard-hustle
 DCMG005,out_of_stock,36.99,Damage Control Zahnschutz - High Impact Series - Savage,Default Title,https://phantom-athletics.com/products/damage-control-mouthguard-savage
 DCMG004,out_of_stock,29.99,Damage Control Zahnschutz - High Impact Series - Blackarts 2.0,Default Title,https://phantom-athletics.com/products/damage-control-mouthguards-blackarts-2-0
 DCMG003,out_of_stock,36.99,Damage Control Zahnschutz - High Impact Series - Symbite 2.0,Default Title,https://phantom-athletics.com/products/damage-control-mouthguard-symbite-2-0
@@ -3204,7 +3204,7 @@ PHSH3071-M,in_stock,19.99,T-Shirt MMA Sports - Schwarz,M,https://phantom-athleti
 PHSH3071-L,in_stock,19.99,T-Shirt MMA Sports - Schwarz,L,https://phantom-athletics.com/products/t-shirt-mma-sports
 PHSH3071-XL,in_stock,19.99,T-Shirt MMA Sports - Schwarz,XL,https://phantom-athletics.com/products/t-shirt-mma-sports
 PHSH3071-XXL,in_stock,19.99,T-Shirt MMA Sports - Schwarz,XXL,https://phantom-athletics.com/products/t-shirt-mma-sports
-PHRG3076-S,in_stock,24.99,Rashguard Groundgame,S,https://phantom-athletics.com/products/rashguard-groundgame
+PHRG3076-S,out_of_stock,24.99,Rashguard Groundgame,S,https://phantom-athletics.com/products/rashguard-groundgame
 PHRG3076-M,in_stock,24.99,Rashguard Groundgame,M,https://phantom-athletics.com/products/rashguard-groundgame
 PHRG3076-L,in_stock,24.99,Rashguard Groundgame,L,https://phantom-athletics.com/products/rashguard-groundgame
 PHRG3076-XL,in_stock,24.99,Rashguard Groundgame,XL,https://phantom-athletics.com/products/rashguard-groundgame
@@ -4942,7 +4942,7 @@ PHSHO2518-L,in_stock,49.99,Fightshorts EVO Muay Thai - Schwarz,L,https://phantom
 PHSHO2518-XL,in_stock,49.99,Fightshorts EVO Muay Thai - Schwarz,XL,https://phantom-athletics.com/products/fightshorts-evo-muay-thai
 PHSHO2518-XXL,in_stock,49.99,Fightshorts EVO Muay Thai - Schwarz,XXL,https://phantom-athletics.com/products/fightshorts-evo-muay-thai
 PHSHEVO2526-S,out_of_stock,19.99,Trainingsshirt EVO Muay Thai - Schwarz,S,https://phantom-athletics.com/products/training-shirt-muay-thai
-PHSHEVO2526-M,out_of_stock,19.99,Trainingsshirt EVO Muay Thai - Schwarz,M,https://phantom-athletics.com/products/training-shirt-muay-thai
+PHSHEVO2526-M,in_stock,19.99,Trainingsshirt EVO Muay Thai - Schwarz,M,https://phantom-athletics.com/products/training-shirt-muay-thai
 PHSHEVO2526-L,in_stock,19.99,Trainingsshirt EVO Muay Thai - Schwarz,L,https://phantom-athletics.com/products/training-shirt-muay-thai
 PHSHEVO2526-XL,in_stock,19.99,Trainingsshirt EVO Muay Thai - Schwarz,XL,https://phantom-athletics.com/products/training-shirt-muay-thai
 PHSHEVO2526-XXL,in_stock,19.99,Trainingsshirt EVO Muay Thai - Schwarz,XXL,https://phantom-athletics.com/products/training-shirt-muay-thai
