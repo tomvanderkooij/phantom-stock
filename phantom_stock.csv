@@ -467,7 +467,7 @@ PHSH3861-XXL,out_of_stock,21.99,Oversize Shirt FIGHTING CLUB,XXL,https://phantom
 PHSH3860-S,out_of_stock,21.99,Oversize Shirt TRAINING CLUB,S,https://phantom-athletics.com/products/oversize-shirt-training-club
 PHSH3860-M,in_stock,21.99,Oversize Shirt TRAINING CLUB,M,https://phantom-athletics.com/products/oversize-shirt-training-club
 PHSH3860-L,out_of_stock,21.99,Oversize Shirt TRAINING CLUB,L,https://phantom-athletics.com/products/oversize-shirt-training-club
-PHSH3860-XL,out_of_stock,21.99,Oversize Shirt TRAINING CLUB,XL,https://phantom-athletics.com/products/oversize-shirt-training-club
+PHSH3860-XL,in_stock,21.99,Oversize Shirt TRAINING CLUB,XL,https://phantom-athletics.com/products/oversize-shirt-training-club
 PHSH3860-XXL,out_of_stock,21.99,Oversize Shirt TRAINING CLUB,XXL,https://phantom-athletics.com/products/oversize-shirt-training-club
 PHHO3573-S,out_of_stock,39.99,Hoodie Apex Heavyweight,S,https://phantom-athletics.com/products/hoodie-apex-heavyweight
 PHHO3573-M,in_stock,39.99,Hoodie Apex Heavyweight,M,https://phantom-athletics.com/products/hoodie-apex-heavyweight
@@ -970,7 +970,7 @@ PHRG3750-L,in_stock,59.99,Rashguard Team Russia,L,https://phantom-athletics.com/
 PHRG3750-XL,in_stock,59.99,Rashguard Team Russia,XL,https://phantom-athletics.com/products/rashguard-team-russia
 PHRG3750-XXL,in_stock,59.99,Rashguard Team Russia,XXL,https://phantom-athletics.com/products/rashguard-team-russia
 PHSHEVO+3749-S,out_of_stock,39.99,Trainingsshirt EVO+ Team Russia,S,https://phantom-athletics.com/products/training-shirt-evo-team-russia
-PHSHEVO+3749-M,in_stock,39.99,Trainingsshirt EVO+ Team Russia,M,https://phantom-athletics.com/products/training-shirt-evo-team-russia
+PHSHEVO+3749-M,out_of_stock,39.99,Trainingsshirt EVO+ Team Russia,M,https://phantom-athletics.com/products/training-shirt-evo-team-russia
 PHSHEVO+3749-L,in_stock,39.99,Trainingsshirt EVO+ Team Russia,L,https://phantom-athletics.com/products/training-shirt-evo-team-russia
 PHSHEVO+3749-XL,in_stock,39.99,Trainingsshirt EVO+ Team Russia,XL,https://phantom-athletics.com/products/training-shirt-evo-team-russia
 PHSHEVO+3749-XXL,in_stock,39.99,Trainingsshirt EVO+ Team Russia,XXL,https://phantom-athletics.com/products/training-shirt-evo-team-russia
@@ -1633,7 +1633,7 @@ PHWR3427-250,in_stock,9.99,Boxbandagen STRIKE (200/250/300/350/400/450/500 cm),2
 PHWR3427-300,in_stock,9.99,Boxbandagen STRIKE (200/250/300/350/400/450/500 cm),300cm,https://phantom-athletics.com/products/handwraps-strike
 PHWR3427-350,in_stock,9.99,Boxbandagen STRIKE (200/250/300/350/400/450/500 cm),350cm,https://phantom-athletics.com/products/handwraps-strike
 PHWR3427-400,in_stock,9.99,Boxbandagen STRIKE (200/250/300/350/400/450/500 cm),400cm,https://phantom-athletics.com/products/handwraps-strike
-PHWR3427-450,in_stock,9.99,Boxbandagen STRIKE (200/250/300/350/400/450/500 cm),450cm,https://phantom-athletics.com/products/handwraps-strike
+PHWR3427-450,out_of_stock,9.99,Boxbandagen STRIKE (200/250/300/350/400/450/500 cm),450cm,https://phantom-athletics.com/products/handwraps-strike
 PHWR3427-500,in_stock,9.99,Boxbandagen STRIKE (200/250/300/350/400/450/500 cm),500cm,https://phantom-athletics.com/products/handwraps-strike
 PHWR3438-SM,in_stock,19.99,Boxbandagen FASTWRAPS Pads,S/M,https://phantom-athletics.com/products/boxbandagen-fastwraps-pads
 PHWR3438-LXL,in_stock,19.99,Boxbandagen FASTWRAPS Pads,L/XL,https://phantom-athletics.com/products/boxbandagen-fastwraps-pads
@@ -1993,7 +1993,7 @@ PHSHEVO+3520-XXL,in_stock,19.99,Trainingsshirt EVO+ Team - Schwarz,XXL,https://p
 PHSH3070-S,out_of_stock,19.99,T-Shirt Never Back Down - Schwarz,S,https://phantom-athletics.com/products/t-shirt-never-back-down
 PHSH3070-M,in_stock,19.99,T-Shirt Never Back Down - Schwarz,M,https://phantom-athletics.com/products/t-shirt-never-back-down
 PHSH3070-L,in_stock,19.99,T-Shirt Never Back Down - Schwarz,L,https://phantom-athletics.com/products/t-shirt-never-back-down
-PHSH3070-XL,in_stock,19.99,T-Shirt Never Back Down - Schwarz,XL,https://phantom-athletics.com/products/t-shirt-never-back-down
+PHSH3070-XL,out_of_stock,19.99,T-Shirt Never Back Down - Schwarz,XL,https://phantom-athletics.com/products/t-shirt-never-back-down
 PHSH3070-XXL,in_stock,19.99,T-Shirt Never Back Down - Schwarz,XXL,https://phantom-athletics.com/products/t-shirt-never-back-down
 PHMMAG3480-SM,in_stock,24.99,Sparring Handschuhe Muay Thai - Army,S/M / Army,https://phantom-athletics.com/products/sparring-handschuhe-muay-thai-army
 PHMMAG2497-SM,in_stock,59.99,Sparring Handschuhe Muay Thai - Army,S/M / Schwarz,https://phantom-athletics.com/products/sparring-handschuhe-muay-thai-army
@@ -2033,7 +2033,7 @@ PHSG2498-LXL,in_stock,79.99,Schienbeinschutz Muay Thai - Army,L/XL / Schwarz,htt
 PHSG3063-LXL,in_stock,79.99,Schienbeinschutz Muay Thai - Army,L/XL / Schwarz/Gold,https://phantom-athletics.com/products/shinpads-muay-thai-army
 PHSG3061-LXL,in_stock,79.99,Schienbeinschutz Muay Thai - Army,L/XL / Schwarz/Silber,https://phantom-athletics.com/products/shinpads-muay-thai-army
 PHSG2679-LXL,in_stock,79.99,Schienbeinschutz Muay Thai - Army,L/XL / Weiß/Gold,https://phantom-athletics.com/products/shinpads-muay-thai-army
-PHSG2676-LXL,in_stock,79.99,Schienbeinschutz Muay Thai - Army,L/XL / Weiß,https://phantom-athletics.com/products/shinpads-muay-thai-army
+PHSG2676-LXL,out_of_stock,79.99,Schienbeinschutz Muay Thai - Army,L/XL / Weiß,https://phantom-athletics.com/products/shinpads-muay-thai-army
 PHSG2678-LXL,in_stock,79.99,Schienbeinschutz Muay Thai - Army,L/XL / Rot,https://phantom-athletics.com/products/shinpads-muay-thai-army
 PHSG2677-LXL,in_stock,79.99,Schienbeinschutz Muay Thai - Army,L/XL / Blau,https://phantom-athletics.com/products/shinpads-muay-thai-army
 PHSG3403-LXL,in_stock,79.99,Schienbeinschutz Muay Thai - Army,L/XL / Grau,https://phantom-athletics.com/products/shinpads-muay-thai-army
@@ -2272,7 +2272,7 @@ PHBG2590-16,in_stock,69.99,Boxhandschuhe Muay Thai - Frost White,16 OZ / Weiß/G
 PHBG2329-16,in_stock,69.99,Boxhandschuhe Muay Thai - Frost White,16 OZ / Schwarz,https://phantom-athletics.com/products/boxing-gloves-muay-thai-frost-white
 PHBG2938-16,in_stock,69.99,Boxhandschuhe Muay Thai - Frost White,16 OZ / Schwarz/Gold,https://phantom-athletics.com/products/boxing-gloves-muay-thai-frost-white
 PHBG3059-16,in_stock,69.99,Boxhandschuhe Muay Thai - Frost White,16 OZ / Schwarz/Silber,https://phantom-athletics.com/products/boxing-gloves-muay-thai-frost-white
-PHBG2495-16,in_stock,69.99,Boxhandschuhe Muay Thai - Frost White,16 OZ / Weiss,https://phantom-athletics.com/products/boxing-gloves-muay-thai-frost-white
+PHBG2495-16,out_of_stock,69.99,Boxhandschuhe Muay Thai - Frost White,16 OZ / Weiss,https://phantom-athletics.com/products/boxing-gloves-muay-thai-frost-white
 PHBG2496-16,in_stock,69.99,Boxhandschuhe Muay Thai - Frost White,16 OZ / Blau,https://phantom-athletics.com/products/boxing-gloves-muay-thai-frost-white
 PHBG2505-16,in_stock,69.99,Boxhandschuhe Muay Thai - Frost White,16 OZ / Rot,https://phantom-athletics.com/products/boxing-gloves-muay-thai-frost-white
 PHBG2613-16,in_stock,69.99,Boxhandschuhe Muay Thai - Frost White,16 OZ / Sand,https://phantom-athletics.com/products/boxing-gloves-muay-thai-frost-white
@@ -2406,7 +2406,7 @@ FXBKP,out_of_stock,239.99,Kickpads Fairtex Muay Thai - FXB-KP,Default Title,http
 FXBBP,in_stock,139.99,Bellypad / Bauchgürtel Fairtex Muay Thai - FXB-BP - Schwarz/Weiß,Default Title,https://phantom-athletics.com/products/fairtex-bellypad-fxb-bp
 FXBBGV2-SW10,in_stock,158.99,Boxhandschuhe FAIRTEX Muay Thai - FXB-BG-V2 - Schwarz/Weiß,10 OZ,https://phantom-athletics.com/products/boxing-gloves-fairtex-muay-thai-fxb-bg-v2-black-white
 FXBBGV2-SW12,in_stock,158.99,Boxhandschuhe FAIRTEX Muay Thai - FXB-BG-V2 - Schwarz/Weiß,12 OZ,https://phantom-athletics.com/products/boxing-gloves-fairtex-muay-thai-fxb-bg-v2-black-white
-FXBBGV2-SW14,out_of_stock,158.99,Boxhandschuhe FAIRTEX Muay Thai - FXB-BG-V2 - Schwarz/Weiß,14 OZ,https://phantom-athletics.com/products/boxing-gloves-fairtex-muay-thai-fxb-bg-v2-black-white
+FXBBGV2-SW14,in_stock,158.99,Boxhandschuhe FAIRTEX Muay Thai - FXB-BG-V2 - Schwarz/Weiß,14 OZ,https://phantom-athletics.com/products/boxing-gloves-fairtex-muay-thai-fxb-bg-v2-black-white
 FXBBGV2-SW16,in_stock,158.99,Boxhandschuhe FAIRTEX Muay Thai - FXB-BG-V2 - Schwarz/Weiß,16 OZ,https://phantom-athletics.com/products/boxing-gloves-fairtex-muay-thai-fxb-bg-v2-black-white
 NISHOE9729-060-6,out_of_stock,114.99,Boxschuhe NIKE Air Max Box - Pink,36.5,https://phantom-athletics.com/products/boxing-shoes-nike-air-max-box-pink
 NISHOE9729-060-7,out_of_stock,114.99,Boxschuhe NIKE Air Max Box - Pink,38,https://phantom-athletics.com/products/boxing-shoes-nike-air-max-box-pink
@@ -2668,7 +2668,7 @@ PHSHO2962-L,in_stock,49.99,Fightshorts FUSION Blue Tiger,L / Jaguar - Army,https
 PHSHO2963-L,in_stock,49.99,Fightshorts FUSION Blue Tiger,L / Panther - Schwarz,https://phantom-athletics.com/products/fightshorts-fusion-blue-tiger
 PHSHO3305-XL,in_stock,24.99,Fightshorts FUSION Blue Tiger,XL / Blue Tiger,https://phantom-athletics.com/products/fightshorts-fusion-blue-tiger
 PHSHO3304-XL,in_stock,49.99,Fightshorts FUSION Blue Tiger,XL / Zebra,https://phantom-athletics.com/products/fightshorts-fusion-blue-tiger
-PHSHO2961-XL,out_of_stock,49.99,Fightshorts FUSION Blue Tiger,XL / Jaguar,https://phantom-athletics.com/products/fightshorts-fusion-blue-tiger
+PHSHO2961-XL,in_stock,49.99,Fightshorts FUSION Blue Tiger,XL / Jaguar,https://phantom-athletics.com/products/fightshorts-fusion-blue-tiger
 PHSHO2960-XL,in_stock,49.99,Fightshorts FUSION Blue Tiger,XL / Tiger,https://phantom-athletics.com/products/fightshorts-fusion-blue-tiger
 PHSHO2962-XL,in_stock,49.99,Fightshorts FUSION Blue Tiger,XL / Jaguar - Army,https://phantom-athletics.com/products/fightshorts-fusion-blue-tiger
 PHSHO2963-XL,in_stock,49.99,Fightshorts FUSION Blue Tiger,XL / Panther - Schwarz,https://phantom-athletics.com/products/fightshorts-fusion-blue-tiger
@@ -3709,7 +3709,7 @@ PHSHO2995-XXL,in_stock,24.99,Fightshorts FUSION Mexico,XXL,https://phantom-athle
 PHSHEVO2994-S,out_of_stock,21.99,Trainingsshirt EVO Mexico,S,https://phantom-athletics.com/products/training-shirt-evo-mexico
 PHSHEVO2994-M,out_of_stock,21.99,Trainingsshirt EVO Mexico,M,https://phantom-athletics.com/products/training-shirt-evo-mexico
 PHSHEVO2994-L,out_of_stock,21.99,Trainingsshirt EVO Mexico,L,https://phantom-athletics.com/products/training-shirt-evo-mexico
-PHSHEVO2994-XL,out_of_stock,21.99,Trainingsshirt EVO Mexico,XL,https://phantom-athletics.com/products/training-shirt-evo-mexico
+PHSHEVO2994-XL,in_stock,21.99,Trainingsshirt EVO Mexico,XL,https://phantom-athletics.com/products/training-shirt-evo-mexico
 PHSHEVO2994-XXL,in_stock,21.99,Trainingsshirt EVO Mexico,XXL,https://phantom-athletics.com/products/training-shirt-evo-mexico
 PHSHO2978-S,in_stock,59.99,Fightshorts FUSION 2in1 Camo Tiger - Grau,S,https://phantom-athletics.com/products/fightshorts-fusion-2in1-camo-tiger-gray
 PHSHO2978-M,in_stock,59.99,Fightshorts FUSION 2in1 Camo Tiger - Grau,M,https://phantom-athletics.com/products/fightshorts-fusion-2in1-camo-tiger-gray
@@ -4220,7 +4220,7 @@ PHSHEVO2831-S,out_of_stock,19.99,Trainingsshirt EVO Wrestling - Schwarz,S / Blau
 PHSHEVO2901-M,out_of_stock,19.99,Trainingsshirt EVO Wrestling - Schwarz,M / Schwarz,https://phantom-athletics.com/products/training-shirt-evo-wrestling-black
 PHSHEVO2833-M,out_of_stock,19.99,Trainingsshirt EVO Wrestling - Schwarz,M / Weiß,https://phantom-athletics.com/products/training-shirt-evo-wrestling-black
 PHSHEVO2832-M,out_of_stock,19.99,Trainingsshirt EVO Wrestling - Schwarz,M / Rot,https://phantom-athletics.com/products/training-shirt-evo-wrestling-black
-PHSHEVO2831-M,out_of_stock,19.99,Trainingsshirt EVO Wrestling - Schwarz,M / Blau,https://phantom-athletics.com/products/training-shirt-evo-wrestling-black
+PHSHEVO2831-M,in_stock,19.99,Trainingsshirt EVO Wrestling - Schwarz,M / Blau,https://phantom-athletics.com/products/training-shirt-evo-wrestling-black
 PHSHEVO2901-L,in_stock,19.99,Trainingsshirt EVO Wrestling - Schwarz,L / Schwarz,https://phantom-athletics.com/products/training-shirt-evo-wrestling-black
 PHSHEVO2833-L,in_stock,19.99,Trainingsshirt EVO Wrestling - Schwarz,L / Weiß,https://phantom-athletics.com/products/training-shirt-evo-wrestling-black
 PHSHEVO2832-L,in_stock,19.99,Trainingsshirt EVO Wrestling - Schwarz,L / Rot,https://phantom-athletics.com/products/training-shirt-evo-wrestling-black
@@ -4723,8 +4723,8 @@ ADSHOE3325-S75,in_stock,49.99,Ringerschuhe ADIDAS Havoc - Schwarz,41 1/3,https:/
 ADSHOE3325-S8,out_of_stock,49.99,Ringerschuhe ADIDAS Havoc - Schwarz,42,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-black
 ADSHOE3325-S85,out_of_stock,49.99,Ringerschuhe ADIDAS Havoc - Schwarz,42 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-black
 ADSHOE3325-S9,out_of_stock,49.99,Ringerschuhe ADIDAS Havoc - Schwarz,43 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-black
-ADSHOE3325-S95,in_stock,49.99,Ringerschuhe ADIDAS Havoc - Schwarz,44,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-black
-ADSHOE3325-S10,out_of_stock,49.99,Ringerschuhe ADIDAS Havoc - Schwarz,44 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-black
+ADSHOE3325-S95,out_of_stock,49.99,Ringerschuhe ADIDAS Havoc - Schwarz,44,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-black
+ADSHOE3325-S10,in_stock,49.99,Ringerschuhe ADIDAS Havoc - Schwarz,44 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-black
 ADSHOE3325-S105,out_of_stock,49.99,Ringerschuhe ADIDAS Havoc - Schwarz,45 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-black
 ADSHOE3325-S11,out_of_stock,49.99,Ringerschuhe ADIDAS Havoc - Schwarz,46,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-black
 ADSHOE3325-S115,out_of_stock,49.99,Ringerschuhe ADIDAS Havoc - Schwarz,46 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-black
@@ -4905,7 +4905,7 @@ PHSHEVO2546-XL,in_stock,19.99,Trainingsshirt EVO Tiger Unit - Schwarz,XL,https:/
 PHSHEVO2546-XXL,in_stock,19.99,Trainingsshirt EVO Tiger Unit - Schwarz,XXL,https://phantom-athletics.com/products/training-shirt-tiger-unit
 PHSHEVO2544-S,out_of_stock,19.99,Trainingsshirt EVO Supporter - Schwarz,S,https://phantom-athletics.com/products/training-shirt-supporter
 PHSHEVO2544-M,in_stock,19.99,Trainingsshirt EVO Supporter - Schwarz,M,https://phantom-athletics.com/products/training-shirt-supporter
-PHSHEVO2544-L,in_stock,19.99,Trainingsshirt EVO Supporter - Schwarz,L,https://phantom-athletics.com/products/training-shirt-supporter
+PHSHEVO2544-L,out_of_stock,19.99,Trainingsshirt EVO Supporter - Schwarz,L,https://phantom-athletics.com/products/training-shirt-supporter
 PHSHEVO2544-XL,out_of_stock,19.99,Trainingsshirt EVO Supporter - Schwarz,XL,https://phantom-athletics.com/products/training-shirt-supporter
 PHSHEVO2544-XXL,in_stock,19.99,Trainingsshirt EVO Supporter - Schwarz,XXL,https://phantom-athletics.com/products/training-shirt-supporter
 PHSAUNA2542-SM,in_stock,24.99,Schwitzjacke Nomax-S,S/M,https://phantom-athletics.com/products/sauna-jacket-nomax-s
@@ -5558,7 +5558,7 @@ PHVEST00583-40,in_stock,269.99,Phantom Trainingswesten Platten / verschiedene Ge
 PHVEST00583,in_stock,89.99,Phantom Trainingsweste mit/ohne Gewichte,ohne Gewicht,https://phantom-athletics.com/products/phantom-athletics-training-vest
 PHBBAG00610-38,out_of_stock,99.99,Boxsack HYDRO,Ø 38cm,https://phantom-athletics.com/products/boxing-bag-hydro
 PHBBAG00610-46,in_stock,109.99,Boxsack HYDRO,Ø 46cm,https://phantom-athletics.com/products/boxing-bag-hydro
-PHBBAG00610-55,in_stock,129.99,Boxsack HYDRO,Ø 55cm,https://phantom-athletics.com/products/boxing-bag-hydro
+PHBBAG00610-55,out_of_stock,129.99,Boxsack HYDRO,Ø 55cm,https://phantom-athletics.com/products/boxing-bag-hydro
 PHBAG00582,in_stock,89.99,Rucksack TACTIC,Default Title,https://phantom-athletics.com/products/backpack-tactic
 PHMASK1431,in_stock,9.99,Phantom Trainingsmaske Cover - Silber,Default Title,https://phantom-athletics.com/products/phantom-training-mask-cover-silver
 PHMASK1406,in_stock,9.99,Phantom Trainingsmaske Cover - Blau,Default Title,https://phantom-athletics.com/products/phantom-training-mask-cover-blue
