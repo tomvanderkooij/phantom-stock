@@ -2161,7 +2161,7 @@ ADSHOE6120-8,in_stock,49.99,Ringerschuhe ADIDAS Havoc - Weiß,42,https://phantom
 ADSHOE6120-85,in_stock,49.99,Ringerschuhe ADIDAS Havoc - Weiß,42 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-white-black
 ADSHOE6120-9,in_stock,49.99,Ringerschuhe ADIDAS Havoc - Weiß,43 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-white-black
 ADSHOE6120-95,in_stock,49.99,Ringerschuhe ADIDAS Havoc - Weiß,44,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-white-black
-ADSHOE6120-10,in_stock,49.99,Ringerschuhe ADIDAS Havoc - Weiß,44 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-white-black
+ADSHOE6120-10,out_of_stock,49.99,Ringerschuhe ADIDAS Havoc - Weiß,44 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-white-black
 ADSHOE6120-105,out_of_stock,49.99,Ringerschuhe ADIDAS Havoc - Weiß,45 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-white-black
 ADSHOE6120-11,out_of_stock,49.99,Ringerschuhe ADIDAS Havoc - Weiß,46,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-white-black
 ADSHOE6120-115,out_of_stock,49.99,Ringerschuhe ADIDAS Havoc - Weiß,46 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-white-black
@@ -4900,11 +4900,11 @@ PHMASK1020-M,out_of_stock,69.99,Phantom Trainingsmaske - Mystery Mask,M,https://
 PHMASK1020-L,in_stock,69.99,Phantom Trainingsmaske - Mystery Mask,L,https://phantom-athletics.com/products/phantom-trainingsmaske-mystery-mask
 PHSHEVO2546-S,out_of_stock,19.99,Trainingsshirt EVO Tiger Unit - Schwarz,S,https://phantom-athletics.com/products/training-shirt-tiger-unit
 PHSHEVO2546-M,in_stock,19.99,Trainingsshirt EVO Tiger Unit - Schwarz,M,https://phantom-athletics.com/products/training-shirt-tiger-unit
-PHSHEVO2546-L,in_stock,19.99,Trainingsshirt EVO Tiger Unit - Schwarz,L,https://phantom-athletics.com/products/training-shirt-tiger-unit
+PHSHEVO2546-L,out_of_stock,19.99,Trainingsshirt EVO Tiger Unit - Schwarz,L,https://phantom-athletics.com/products/training-shirt-tiger-unit
 PHSHEVO2546-XL,in_stock,19.99,Trainingsshirt EVO Tiger Unit - Schwarz,XL,https://phantom-athletics.com/products/training-shirt-tiger-unit
 PHSHEVO2546-XXL,in_stock,19.99,Trainingsshirt EVO Tiger Unit - Schwarz,XXL,https://phantom-athletics.com/products/training-shirt-tiger-unit
 PHSHEVO2544-S,out_of_stock,19.99,Trainingsshirt EVO Supporter - Schwarz,S,https://phantom-athletics.com/products/training-shirt-supporter
-PHSHEVO2544-M,in_stock,19.99,Trainingsshirt EVO Supporter - Schwarz,M,https://phantom-athletics.com/products/training-shirt-supporter
+PHSHEVO2544-M,out_of_stock,19.99,Trainingsshirt EVO Supporter - Schwarz,M,https://phantom-athletics.com/products/training-shirt-supporter
 PHSHEVO2544-L,out_of_stock,19.99,Trainingsshirt EVO Supporter - Schwarz,L,https://phantom-athletics.com/products/training-shirt-supporter
 PHSHEVO2544-XL,out_of_stock,19.99,Trainingsshirt EVO Supporter - Schwarz,XL,https://phantom-athletics.com/products/training-shirt-supporter
 PHSHEVO2544-XXL,in_stock,19.99,Trainingsshirt EVO Supporter - Schwarz,XXL,https://phantom-athletics.com/products/training-shirt-supporter
@@ -5159,7 +5159,7 @@ PHSHO2334-XL,in_stock,19.99,Fightshorts VECTOR - Delta,XL,https://phantom-athlet
 PHSHO2334-XXL,in_stock,19.99,Fightshorts VECTOR - Delta,XXL,https://phantom-athletics.com/products/fightshorts-vector-delta
 PHSHO2333-S,out_of_stock,19.99,Fightshorts VECTOR - Team,S,https://phantom-athletics.com/products/fightshorts-vector-team
 PHSHO2333-M,in_stock,19.99,Fightshorts VECTOR - Team,M,https://phantom-athletics.com/products/fightshorts-vector-team
-PHSHO2333-L,in_stock,19.99,Fightshorts VECTOR - Team,L,https://phantom-athletics.com/products/fightshorts-vector-team
+PHSHO2333-L,out_of_stock,19.99,Fightshorts VECTOR - Team,L,https://phantom-athletics.com/products/fightshorts-vector-team
 PHSHO2333-XL,out_of_stock,19.99,Fightshorts VECTOR - Team,XL,https://phantom-athletics.com/products/fightshorts-vector-team
 PHSHO2333-XXL,out_of_stock,19.99,Fightshorts VECTOR - Team,XXL,https://phantom-athletics.com/products/fightshorts-vector-team
 PHBG2185-10,in_stock,39.99,Boxhandschuhe APEX - Schnürung,10 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-laced
