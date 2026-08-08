@@ -715,7 +715,7 @@ ADSHOE8538-9,in_stock,74.99,Boxschuhe ADIDAS Box Hog Classic - Schwarz,43 1/3,ht
 ADSHOE8538-95,in_stock,74.99,Boxschuhe ADIDAS Box Hog Classic - Schwarz,44,https://phantom-athletics.com/products/boxing-shoes-didas-box-hog-classic
 ADSHOE8538-10,in_stock,74.99,Boxschuhe ADIDAS Box Hog Classic - Schwarz,44 2/3,https://phantom-athletics.com/products/boxing-shoes-didas-box-hog-classic
 ADSHOE8538-105,in_stock,74.99,Boxschuhe ADIDAS Box Hog Classic - Schwarz,45 1/3,https://phantom-athletics.com/products/boxing-shoes-didas-box-hog-classic
-ADSHOE8538-11,in_stock,74.99,Boxschuhe ADIDAS Box Hog Classic - Schwarz,46,https://phantom-athletics.com/products/boxing-shoes-didas-box-hog-classic
+ADSHOE8538-11,out_of_stock,74.99,Boxschuhe ADIDAS Box Hog Classic - Schwarz,46,https://phantom-athletics.com/products/boxing-shoes-didas-box-hog-classic
 PHJOG3869-S,in_stock,39.99,Jogger Apex,S,https://phantom-athletics.com/products/jogger-apex
 PHJOG3869-M,in_stock,39.99,Jogger Apex,M,https://phantom-athletics.com/products/jogger-apex
 PHJOG3869-L,in_stock,39.99,Jogger Apex,L,https://phantom-athletics.com/products/jogger-apex
@@ -2013,7 +2013,7 @@ NISHOE9132-001-95,in_stock,59.99,Ringerschuhe NIKE Speedsweep VIII - Schwarz,43,
 NISHOE9132-001-10,in_stock,59.99,Ringerschuhe NIKE Speedsweep VIII - Schwarz,44,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-viii-black
 NISHOE9132-001-105,in_stock,59.99,Ringerschuhe NIKE Speedsweep VIII - Schwarz,44.5,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-viii-black
 NISHOE9132-001-11,out_of_stock,59.99,Ringerschuhe NIKE Speedsweep VIII - Schwarz,45,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-viii-black
-NISHOE9132-001-115,in_stock,59.99,Ringerschuhe NIKE Speedsweep VIII - Schwarz,45.5,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-viii-black
+NISHOE9132-001-115,out_of_stock,59.99,Ringerschuhe NIKE Speedsweep VIII - Schwarz,45.5,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-viii-black
 NISHOE9132-001-12,out_of_stock,59.99,Ringerschuhe NIKE Speedsweep VIII - Schwarz,46,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-viii-black
 NISHOE9132-100-7,out_of_stock,59.99,Ringerschuhe NIKE Speedsweep VIII - Weiß/Grau,40,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-viii-white
 NISHOE9132-100-75,out_of_stock,59.99,Ringerschuhe NIKE Speedsweep VIII - Weiß/Grau,40.5,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-viii-white
@@ -2176,7 +2176,7 @@ PHSHEVO+3518-L,in_stock,19.99,Trainingsshirt EVO+ Supporter - Schwarz,L,https://
 PHSHEVO+3518-XL,in_stock,19.99,Trainingsshirt EVO+ Supporter - Schwarz,XL,https://phantom-athletics.com/products/training-shirt-evo-supporter
 PHSHEVO+3518-XXL,in_stock,19.99,Trainingsshirt EVO+ Supporter - Schwarz,XXL,https://phantom-athletics.com/products/training-shirt-evo-supporter
 PHSHEVO+3520-S,out_of_stock,19.99,Trainingsshirt EVO+ Team - Schwarz,S,https://phantom-athletics.com/products/trainingshirt-evo-team
-PHSHEVO+3520-M,in_stock,19.99,Trainingsshirt EVO+ Team - Schwarz,M,https://phantom-athletics.com/products/trainingshirt-evo-team
+PHSHEVO+3520-M,out_of_stock,19.99,Trainingsshirt EVO+ Team - Schwarz,M,https://phantom-athletics.com/products/trainingshirt-evo-team
 PHSHEVO+3520-L,in_stock,19.99,Trainingsshirt EVO+ Team - Schwarz,L,https://phantom-athletics.com/products/trainingshirt-evo-team
 PHSHEVO+3520-XL,in_stock,19.99,Trainingsshirt EVO+ Team - Schwarz,XL,https://phantom-athletics.com/products/trainingshirt-evo-team
 PHSHEVO+3520-XXL,out_of_stock,19.99,Trainingsshirt EVO+ Team - Schwarz,XXL,https://phantom-athletics.com/products/trainingshirt-evo-team
@@ -3389,7 +3389,7 @@ PHSH3073-S,in_stock,19.99,T-Shirt Vantage - Schwarz,S,https://phantom-athletics.
 PHSH3073-M,in_stock,19.99,T-Shirt Vantage - Schwarz,M,https://phantom-athletics.com/products/t-shirt-vantage
 PHSH3073-L,in_stock,19.99,T-Shirt Vantage - Schwarz,L,https://phantom-athletics.com/products/t-shirt-vantage
 PHSH3073-XL,in_stock,19.99,T-Shirt Vantage - Schwarz,XL,https://phantom-athletics.com/products/t-shirt-vantage
-PHSH3073-XXL,in_stock,19.99,T-Shirt Vantage - Schwarz,XXL,https://phantom-athletics.com/products/t-shirt-vantage
+PHSH3073-XXL,out_of_stock,19.99,T-Shirt Vantage - Schwarz,XXL,https://phantom-athletics.com/products/t-shirt-vantage
 PHSH3071-S,out_of_stock,19.99,T-Shirt MMA Sports - Schwarz,S,https://phantom-athletics.com/products/t-shirt-mma-sports
 PHSH3071-M,in_stock,19.99,T-Shirt MMA Sports - Schwarz,M,https://phantom-athletics.com/products/t-shirt-mma-sports
 PHSH3071-L,in_stock,19.99,T-Shirt MMA Sports - Schwarz,L,https://phantom-athletics.com/products/t-shirt-mma-sports
