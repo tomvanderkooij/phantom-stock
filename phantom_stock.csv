@@ -1,4 +1,94 @@
 SKU,Quantity,Price,Title,Variant,ProductURL
+PHSH4123-S,in_stock,21.99,Oversize T-Shirt SPARRING CLUB - Weiß,S / Weiß,https://phantom-athletics.com/products/oversize-shirt-sparring-club-white
+PHSH3609-S,out_of_stock,21.99,Oversize T-Shirt SPARRING CLUB - Weiß,S / Schwarz,https://phantom-athletics.com/products/oversize-shirt-sparring-club-white
+PHSH4124-S,in_stock,21.99,Oversize T-Shirt SPARRING CLUB - Weiß,S / Navy,https://phantom-athletics.com/products/oversize-shirt-sparring-club-white
+PHSH4123-M,in_stock,21.99,Oversize T-Shirt SPARRING CLUB - Weiß,M / Weiß,https://phantom-athletics.com/products/oversize-shirt-sparring-club-white
+PHSH3609-M,in_stock,21.99,Oversize T-Shirt SPARRING CLUB - Weiß,M / Schwarz,https://phantom-athletics.com/products/oversize-shirt-sparring-club-white
+PHSH4124-M,in_stock,21.99,Oversize T-Shirt SPARRING CLUB - Weiß,M / Navy,https://phantom-athletics.com/products/oversize-shirt-sparring-club-white
+PHSH4123-L,in_stock,21.99,Oversize T-Shirt SPARRING CLUB - Weiß,L / Weiß,https://phantom-athletics.com/products/oversize-shirt-sparring-club-white
+PHSH3609-L,in_stock,21.99,Oversize T-Shirt SPARRING CLUB - Weiß,L / Schwarz,https://phantom-athletics.com/products/oversize-shirt-sparring-club-white
+PHSH4124-L,in_stock,21.99,Oversize T-Shirt SPARRING CLUB - Weiß,L / Navy,https://phantom-athletics.com/products/oversize-shirt-sparring-club-white
+PHSH4123-XL,in_stock,21.99,Oversize T-Shirt SPARRING CLUB - Weiß,XL / Weiß,https://phantom-athletics.com/products/oversize-shirt-sparring-club-white
+PHSH3609-XL,out_of_stock,21.99,Oversize T-Shirt SPARRING CLUB - Weiß,XL / Schwarz,https://phantom-athletics.com/products/oversize-shirt-sparring-club-white
+PHSH4124-XL,in_stock,21.99,Oversize T-Shirt SPARRING CLUB - Weiß,XL / Navy,https://phantom-athletics.com/products/oversize-shirt-sparring-club-white
+PHSH4123-XXL,in_stock,21.99,Oversize T-Shirt SPARRING CLUB - Weiß,XXL / Weiß,https://phantom-athletics.com/products/oversize-shirt-sparring-club-white
+PHSH3609-XXL,out_of_stock,21.99,Oversize T-Shirt SPARRING CLUB - Weiß,XXL / Schwarz,https://phantom-athletics.com/products/oversize-shirt-sparring-club-white
+PHSH4124-XXL,in_stock,21.99,Oversize T-Shirt SPARRING CLUB - Weiß,XXL / Navy,https://phantom-athletics.com/products/oversize-shirt-sparring-club-white
+PHSH4121-S,in_stock,21.99,Oversize T-Shirt FIGHTING CLUB - Weiß,S,https://phantom-athletics.com/products/oversize-shirt-fighting-club-white
+PHSH4121-M,in_stock,21.99,Oversize T-Shirt FIGHTING CLUB - Weiß,M,https://phantom-athletics.com/products/oversize-shirt-fighting-club-white
+PHSH4121-L,in_stock,21.99,Oversize T-Shirt FIGHTING CLUB - Weiß,L,https://phantom-athletics.com/products/oversize-shirt-fighting-club-white
+PHSH4121-XL,in_stock,21.99,Oversize T-Shirt FIGHTING CLUB - Weiß,XL,https://phantom-athletics.com/products/oversize-shirt-fighting-club-white
+PHSH4121-XXL,in_stock,21.99,Oversize T-Shirt FIGHTING CLUB - Weiß,XXL,https://phantom-athletics.com/products/oversize-shirt-fighting-club-white
+PHSH4118-S,in_stock,21.99,T-Shirt BOXING TEAM - Weiß,S,https://phantom-athletics.com/products/t-shirt-boxing-team-white
+PHSH4118-M,in_stock,21.99,T-Shirt BOXING TEAM - Weiß,M,https://phantom-athletics.com/products/t-shirt-boxing-team-white
+PHSH4118-L,in_stock,21.99,T-Shirt BOXING TEAM - Weiß,L,https://phantom-athletics.com/products/t-shirt-boxing-team-white
+PHSH4118-XL,in_stock,21.99,T-Shirt BOXING TEAM - Weiß,XL,https://phantom-athletics.com/products/t-shirt-boxing-team-white
+PHSH4118-XXL,in_stock,21.99,T-Shirt BOXING TEAM - Weiß,XXL,https://phantom-athletics.com/products/t-shirt-boxing-team-white
+PHSH4117-S,in_stock,19.99,T-Shirt Sak Yant - Weiß,S,https://phantom-athletics.com/products/t-shirt-sak-yant-white
+PHSH4117-M,in_stock,19.99,T-Shirt Sak Yant - Weiß,M,https://phantom-athletics.com/products/t-shirt-sak-yant-white
+PHSH4117-L,in_stock,19.99,T-Shirt Sak Yant - Weiß,L,https://phantom-athletics.com/products/t-shirt-sak-yant-white
+PHSH4117-XL,in_stock,19.99,T-Shirt Sak Yant - Weiß,XL,https://phantom-athletics.com/products/t-shirt-sak-yant-white
+PHSH4117-XXL,in_stock,19.99,T-Shirt Sak Yant - Weiß,XXL,https://phantom-athletics.com/products/t-shirt-sak-yant-white
+PHSH2896-S,out_of_stock,19.99,T-Shirt Team - Weiß/Rot,S / Schwarz,https://phantom-athletics.com/products/t-shirt-team-white-red
+PHSH2897-S,out_of_stock,19.99,T-Shirt Team - Weiß/Rot,S / Grau,https://phantom-athletics.com/products/t-shirt-team-white-red
+PHSH2898-S,out_of_stock,19.99,T-Shirt Team - Weiß/Rot,S / Weiß,https://phantom-athletics.com/products/t-shirt-team-white-red
+PHSH4112-S,out_of_stock,19.99,T-Shirt Team - Weiß/Rot,S / Rot,https://phantom-athletics.com/products/t-shirt-team-white-red
+PHSH4113-S,out_of_stock,19.99,T-Shirt Team - Weiß/Rot,S / Navy,https://phantom-athletics.com/products/t-shirt-team-white-red
+PHSH4114-S,in_stock,19.99,T-Shirt Team - Weiß/Rot,S / Weiß/Rot,https://phantom-athletics.com/products/t-shirt-team-white-red
+PHSH2896-M,in_stock,19.99,T-Shirt Team - Weiß/Rot,M / Schwarz,https://phantom-athletics.com/products/t-shirt-team-white-red
+PHSH2897-M,in_stock,19.99,T-Shirt Team - Weiß/Rot,M / Grau,https://phantom-athletics.com/products/t-shirt-team-white-red
+PHSH2898-M,in_stock,19.99,T-Shirt Team - Weiß/Rot,M / Weiß,https://phantom-athletics.com/products/t-shirt-team-white-red
+PHSH4112-M,in_stock,19.99,T-Shirt Team - Weiß/Rot,M / Rot,https://phantom-athletics.com/products/t-shirt-team-white-red
+PHSH4113-M,in_stock,19.99,T-Shirt Team - Weiß/Rot,M / Navy,https://phantom-athletics.com/products/t-shirt-team-white-red
+PHSH4114-M,in_stock,19.99,T-Shirt Team - Weiß/Rot,M / Weiß/Rot,https://phantom-athletics.com/products/t-shirt-team-white-red
+PHSH2896-L,in_stock,19.99,T-Shirt Team - Weiß/Rot,L / Schwarz,https://phantom-athletics.com/products/t-shirt-team-white-red
+PHSH2897-L,out_of_stock,19.99,T-Shirt Team - Weiß/Rot,L / Grau,https://phantom-athletics.com/products/t-shirt-team-white-red
+PHSH2898-L,in_stock,19.99,T-Shirt Team - Weiß/Rot,L / Weiß,https://phantom-athletics.com/products/t-shirt-team-white-red
+PHSH4112-L,in_stock,19.99,T-Shirt Team - Weiß/Rot,L / Rot,https://phantom-athletics.com/products/t-shirt-team-white-red
+PHSH4113-L,in_stock,19.99,T-Shirt Team - Weiß/Rot,L / Navy,https://phantom-athletics.com/products/t-shirt-team-white-red
+PHSH4114-L,in_stock,19.99,T-Shirt Team - Weiß/Rot,L / Weiß/Rot,https://phantom-athletics.com/products/t-shirt-team-white-red
+PHSH2896-XL,in_stock,19.99,T-Shirt Team - Weiß/Rot,XL / Schwarz,https://phantom-athletics.com/products/t-shirt-team-white-red
+PHSH2897-XL,in_stock,19.99,T-Shirt Team - Weiß/Rot,XL / Grau,https://phantom-athletics.com/products/t-shirt-team-white-red
+PHSH2898-XL,in_stock,19.99,T-Shirt Team - Weiß/Rot,XL / Weiß,https://phantom-athletics.com/products/t-shirt-team-white-red
+PHSH4112-XL,in_stock,19.99,T-Shirt Team - Weiß/Rot,XL / Rot,https://phantom-athletics.com/products/t-shirt-team-white-red
+PHSH4113-XL,in_stock,19.99,T-Shirt Team - Weiß/Rot,XL / Navy,https://phantom-athletics.com/products/t-shirt-team-white-red
+PHSH4114-XL,in_stock,19.99,T-Shirt Team - Weiß/Rot,XL / Weiß/Rot,https://phantom-athletics.com/products/t-shirt-team-white-red
+PHSH2896-XXL,in_stock,19.99,T-Shirt Team - Weiß/Rot,XXL / Schwarz,https://phantom-athletics.com/products/t-shirt-team-white-red
+PHSH2897-XXL,in_stock,19.99,T-Shirt Team - Weiß/Rot,XXL / Grau,https://phantom-athletics.com/products/t-shirt-team-white-red
+PHSH2898-XXL,in_stock,19.99,T-Shirt Team - Weiß/Rot,XXL / Weiß,https://phantom-athletics.com/products/t-shirt-team-white-red
+PHSH4112-XXL,in_stock,19.99,T-Shirt Team - Weiß/Rot,XXL / Rot,https://phantom-athletics.com/products/t-shirt-team-white-red
+PHSH4113-XXL,in_stock,19.99,T-Shirt Team - Weiß/Rot,XXL / Navy,https://phantom-athletics.com/products/t-shirt-team-white-red
+PHSH4114-XXL,in_stock,19.99,T-Shirt Team - Weiß/Rot,XXL / Weiß/Rot,https://phantom-athletics.com/products/t-shirt-team-white-red
+PHSH4120-S,in_stock,21.99,T-Shirt WRESTLING CLUB,S,https://phantom-athletics.com/products/t-shirt-wrestling-club
+PHSH4120-M,in_stock,21.99,T-Shirt WRESTLING CLUB,M,https://phantom-athletics.com/products/t-shirt-wrestling-club
+PHSH4120-L,in_stock,21.99,T-Shirt WRESTLING CLUB,L,https://phantom-athletics.com/products/t-shirt-wrestling-club
+PHSH4120-XL,in_stock,21.99,T-Shirt WRESTLING CLUB,XL,https://phantom-athletics.com/products/t-shirt-wrestling-club
+PHSH4120-XXL,in_stock,21.99,T-Shirt WRESTLING CLUB,XXL,https://phantom-athletics.com/products/t-shirt-wrestling-club
+PHSH4131-S,in_stock,21.99,Oversize T-Shirt KNOCKOUT CLUB - Navy,S,https://phantom-athletics.com/products/oversize-shirt-knockout-club-navy
+PHSH4131-M,in_stock,21.99,Oversize T-Shirt KNOCKOUT CLUB - Navy,M,https://phantom-athletics.com/products/oversize-shirt-knockout-club-navy
+PHSH4131-L,in_stock,21.99,Oversize T-Shirt KNOCKOUT CLUB - Navy,L,https://phantom-athletics.com/products/oversize-shirt-knockout-club-navy
+PHSH4131-XL,in_stock,21.99,Oversize T-Shirt KNOCKOUT CLUB - Navy,XL,https://phantom-athletics.com/products/oversize-shirt-knockout-club-navy
+PHSH4131-XXL,in_stock,21.99,Oversize T-Shirt KNOCKOUT CLUB - Navy,XXL,https://phantom-athletics.com/products/oversize-shirt-knockout-club-navy
+PHSH4129-S,in_stock,21.99,Oversize T-Shirt KNOCKOUT CLUB,S,https://phantom-athletics.com/products/oversize-shirt-knockout-club
+PHSH4129-M,in_stock,21.99,Oversize T-Shirt KNOCKOUT CLUB,M,https://phantom-athletics.com/products/oversize-shirt-knockout-club
+PHSH4129-L,in_stock,21.99,Oversize T-Shirt KNOCKOUT CLUB,L,https://phantom-athletics.com/products/oversize-shirt-knockout-club
+PHSH4129-XL,in_stock,21.99,Oversize T-Shirt KNOCKOUT CLUB,XL,https://phantom-athletics.com/products/oversize-shirt-knockout-club
+PHSH4129-XXL,in_stock,21.99,Oversize T-Shirt KNOCKOUT CLUB,XXL,https://phantom-athletics.com/products/oversize-shirt-knockout-club
+PHSH4127-S,in_stock,21.99,Oversize T-Shirt DON'T TREAD ON ME - Weiß,S,https://phantom-athletics.com/products/oversize-t-shirt-dont-tread-on-me-white
+PHSH4127-M,in_stock,21.99,Oversize T-Shirt DON'T TREAD ON ME - Weiß,M,https://phantom-athletics.com/products/oversize-t-shirt-dont-tread-on-me-white
+PHSH4127-L,in_stock,21.99,Oversize T-Shirt DON'T TREAD ON ME - Weiß,L,https://phantom-athletics.com/products/oversize-t-shirt-dont-tread-on-me-white
+PHSH4127-XL,in_stock,21.99,Oversize T-Shirt DON'T TREAD ON ME - Weiß,XL,https://phantom-athletics.com/products/oversize-t-shirt-dont-tread-on-me-white
+PHSH4127-XXL,in_stock,21.99,Oversize T-Shirt DON'T TREAD ON ME - Weiß,XXL,https://phantom-athletics.com/products/oversize-t-shirt-dont-tread-on-me-white
+PHSH4126-S,in_stock,21.99,Oversize T-Shirt CAGE RING MAT STREET - Grau,S,https://phantom-athletics.com/products/oversize-shirt-cage-ring-mat-street-gray
+PHSH4126-M,in_stock,21.99,Oversize T-Shirt CAGE RING MAT STREET - Grau,M,https://phantom-athletics.com/products/oversize-shirt-cage-ring-mat-street-gray
+PHSH4126-L,in_stock,21.99,Oversize T-Shirt CAGE RING MAT STREET - Grau,L,https://phantom-athletics.com/products/oversize-shirt-cage-ring-mat-street-gray
+PHSH4126-XL,in_stock,21.99,Oversize T-Shirt CAGE RING MAT STREET - Grau,XL,https://phantom-athletics.com/products/oversize-shirt-cage-ring-mat-street-gray
+PHSH4126-XXL,in_stock,21.99,Oversize T-Shirt CAGE RING MAT STREET - Grau,XXL,https://phantom-athletics.com/products/oversize-shirt-cage-ring-mat-street-gray
+PHSH4125-S,in_stock,21.99,Oversize T-Shirt CAGE RING MAT STREET - Weiß,S,https://phantom-athletics.com/products/oversize-shirt-cage-ring-mat-street-white
+PHSH4125-M,in_stock,21.99,Oversize T-Shirt CAGE RING MAT STREET - Weiß,M,https://phantom-athletics.com/products/oversize-shirt-cage-ring-mat-street-white
+PHSH4125-L,in_stock,21.99,Oversize T-Shirt CAGE RING MAT STREET - Weiß,L,https://phantom-athletics.com/products/oversize-shirt-cage-ring-mat-street-white
+PHSH4125-XL,in_stock,21.99,Oversize T-Shirt CAGE RING MAT STREET - Weiß,XL,https://phantom-athletics.com/products/oversize-shirt-cage-ring-mat-street-white
+PHSH4125-XXL,in_stock,21.99,Oversize T-Shirt CAGE RING MAT STREET - Weiß,XXL,https://phantom-athletics.com/products/oversize-shirt-cage-ring-mat-street-white
 PHWS4039-XS,in_stock,59.99,Damen Ringertrikot Set APEX,XS,https://phantom-athletics.com/products/women-wrestling-set-apex
 PHWS4039-S,in_stock,59.99,Damen Ringertrikot Set APEX,S,https://phantom-athletics.com/products/women-wrestling-set-apex
 PHWS4039-M,in_stock,59.99,Damen Ringertrikot Set APEX,M,https://phantom-athletics.com/products/women-wrestling-set-apex
@@ -31,36 +121,6 @@ PHSH4116-M,in_stock,32.99,T-Shirt Germany NBD - Schwarz/Rot,M,https://phantom-at
 PHSH4116-L,in_stock,32.99,T-Shirt Germany NBD - Schwarz/Rot,L,https://phantom-athletics.com/products/t-shirt-germany-nbd-black-red
 PHSH4116-XL,in_stock,32.99,T-Shirt Germany NBD - Schwarz/Rot,XL,https://phantom-athletics.com/products/t-shirt-germany-nbd-black-red
 PHSH4116-XXL,in_stock,32.99,T-Shirt Germany NBD - Schwarz/Rot,XXL,https://phantom-athletics.com/products/t-shirt-germany-nbd-black-red
-PHSH2896-S,out_of_stock,32.99,T-Shirt Team - Rot,S / Schwarz,https://phantom-athletics.com/products/t-shirt-team-red
-PHSH2897-S,out_of_stock,32.99,T-Shirt Team - Rot,S / Grau,https://phantom-athletics.com/products/t-shirt-team-red
-PHSH2898-S,out_of_stock,32.99,T-Shirt Team - Rot,S / Weiß,https://phantom-athletics.com/products/t-shirt-team-red
-PHSH4112-S,out_of_stock,32.99,T-Shirt Team - Rot,S / Rot,https://phantom-athletics.com/products/t-shirt-team-red
-PHSH4113-S,out_of_stock,32.99,T-Shirt Team - Rot,S / Navy,https://phantom-athletics.com/products/t-shirt-team-red
-PHSH4114-S,out_of_stock,32.99,T-Shirt Team - Rot,S / Weiß/Rot,https://phantom-athletics.com/products/t-shirt-team-red
-PHSH2896-M,in_stock,32.99,T-Shirt Team - Rot,M / Schwarz,https://phantom-athletics.com/products/t-shirt-team-red
-PHSH2897-M,in_stock,32.99,T-Shirt Team - Rot,M / Grau,https://phantom-athletics.com/products/t-shirt-team-red
-PHSH2898-M,in_stock,32.99,T-Shirt Team - Rot,M / Weiß,https://phantom-athletics.com/products/t-shirt-team-red
-PHSH4112-M,in_stock,32.99,T-Shirt Team - Rot,M / Rot,https://phantom-athletics.com/products/t-shirt-team-red
-PHSH4113-M,in_stock,32.99,T-Shirt Team - Rot,M / Navy,https://phantom-athletics.com/products/t-shirt-team-red
-PHSH4114-M,out_of_stock,32.99,T-Shirt Team - Rot,M / Weiß/Rot,https://phantom-athletics.com/products/t-shirt-team-red
-PHSH2896-L,in_stock,32.99,T-Shirt Team - Rot,L / Schwarz,https://phantom-athletics.com/products/t-shirt-team-red
-PHSH2897-L,out_of_stock,32.99,T-Shirt Team - Rot,L / Grau,https://phantom-athletics.com/products/t-shirt-team-red
-PHSH2898-L,in_stock,32.99,T-Shirt Team - Rot,L / Weiß,https://phantom-athletics.com/products/t-shirt-team-red
-PHSH4112-L,in_stock,32.99,T-Shirt Team - Rot,L / Rot,https://phantom-athletics.com/products/t-shirt-team-red
-PHSH4113-L,in_stock,32.99,T-Shirt Team - Rot,L / Navy,https://phantom-athletics.com/products/t-shirt-team-red
-PHSH4114-L,out_of_stock,32.99,T-Shirt Team - Rot,L / Weiß/Rot,https://phantom-athletics.com/products/t-shirt-team-red
-PHSH2896-XL,in_stock,32.99,T-Shirt Team - Rot,XL / Schwarz,https://phantom-athletics.com/products/t-shirt-team-red
-PHSH2897-XL,in_stock,32.99,T-Shirt Team - Rot,XL / Grau,https://phantom-athletics.com/products/t-shirt-team-red
-PHSH2898-XL,in_stock,32.99,T-Shirt Team - Rot,XL / Weiß,https://phantom-athletics.com/products/t-shirt-team-red
-PHSH4112-XL,in_stock,32.99,T-Shirt Team - Rot,XL / Rot,https://phantom-athletics.com/products/t-shirt-team-red
-PHSH4113-XL,in_stock,32.99,T-Shirt Team - Rot,XL / Navy,https://phantom-athletics.com/products/t-shirt-team-red
-PHSH4114-XL,out_of_stock,32.99,T-Shirt Team - Rot,XL / Weiß/Rot,https://phantom-athletics.com/products/t-shirt-team-red
-PHSH2896-XXL,in_stock,32.99,T-Shirt Team - Rot,XXL / Schwarz,https://phantom-athletics.com/products/t-shirt-team-red
-PHSH2897-XXL,in_stock,32.99,T-Shirt Team - Rot,XXL / Grau,https://phantom-athletics.com/products/t-shirt-team-red
-PHSH2898-XXL,in_stock,32.99,T-Shirt Team - Rot,XXL / Weiß,https://phantom-athletics.com/products/t-shirt-team-red
-PHSH4112-XXL,in_stock,32.99,T-Shirt Team - Rot,XXL / Rot,https://phantom-athletics.com/products/t-shirt-team-red
-PHSH4113-XXL,in_stock,32.99,T-Shirt Team - Rot,XXL / Navy,https://phantom-athletics.com/products/t-shirt-team-red
-PHSH4114-XXL,out_of_stock,32.99,T-Shirt Team - Rot,XXL / Weiß/Rot,https://phantom-athletics.com/products/t-shirt-team-red
 PHSH4114M,out_of_stock,32.99,T-Shirt Team - Navy,M / Weiß/Rot,https://phantom-athletics.com/products/t-shirt-team-navy-blue
 PHSH4115-S,in_stock,32.99,T-Shirt Germany NBD - Weiß,S,https://phantom-athletics.com/products/t-shirt-germany-nbd-white
 PHSH4115-M,in_stock,32.99,T-Shirt Germany NBD - Weiß,M,https://phantom-athletics.com/products/t-shirt-germany-nbd-white
@@ -227,7 +287,7 @@ ADSHOE9752-4,out_of_stock,49.99,Kinder Ringerschuhe Adidas Havoc Plus - Weiß/Sc
 ADSHOE9752-45,out_of_stock,49.99,Kinder Ringerschuhe Adidas Havoc Plus - Weiß/Schwarz,37 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-kids-havoc-plus-white-black
 PHPAD4102,in_stock,139.99,Kick Pads ELITE,Default Title,https://phantom-athletics.com/products/kick-pads-elite
 PHBAG3824,in_stock,39.99,Netz Sporttasche X-RAY,Default Title,https://phantom-athletics.com/products/phantom-mesh-duffel-bag-x-ray
-PHGYM2068,in_stock,29.99,Thermo Trinkflasche mit Isolierung,Default Title,https://phantom-athletics.com/products/insulated-water-bottle
+PHGYM2068,out_of_stock,29.99,Thermo Trinkflasche mit Isolierung,Default Title,https://phantom-athletics.com/products/insulated-water-bottle
 ADSHOE1360-29,out_of_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc Plus - Rot/Silber/Dunkelblau,29,https://phantom-athletics.com/products/wrestling-shoe-adidas-havoc-hvc-plus-kids-red-silver-blue
 ADSHOE1360-30,out_of_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc Plus - Rot/Silber/Dunkelblau,30,https://phantom-athletics.com/products/wrestling-shoe-adidas-havoc-hvc-plus-kids-red-silver-blue
 ADSHOE1360-12.5K,in_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc Plus - Rot/Silber/Dunkelblau,31,https://phantom-athletics.com/products/wrestling-shoe-adidas-havoc-hvc-plus-kids-red-silver-blue
@@ -1784,11 +1844,6 @@ PHSHEVO+3654-L,out_of_stock,19.99,Trainingsshirt EVO+ Chainsaw,L,https://phantom
 PHSHEVO+3654-XL,out_of_stock,19.99,Trainingsshirt EVO+ Chainsaw,XL,https://phantom-athletics.com/products/training-shirt-evo-chainsaw
 PHSHEVO+3654-XXL,in_stock,19.99,Trainingsshirt EVO+ Chainsaw,XXL,https://phantom-athletics.com/products/training-shirt-evo-chainsaw
 PHSHEVO+3654-XXXL,out_of_stock,19.99,Trainingsshirt EVO+ Chainsaw,XXXL,https://phantom-athletics.com/products/training-shirt-evo-chainsaw
-PHSH3609-S,out_of_stock,21.99,Oversize Shirt SPARRING CLUB,S,https://phantom-athletics.com/products/oversize-shirt-sparring-club
-PHSH3609-M,in_stock,21.99,Oversize Shirt SPARRING CLUB,M,https://phantom-athletics.com/products/oversize-shirt-sparring-club
-PHSH3609-L,in_stock,21.99,Oversize Shirt SPARRING CLUB,L,https://phantom-athletics.com/products/oversize-shirt-sparring-club
-PHSH3609-XL,out_of_stock,21.99,Oversize Shirt SPARRING CLUB,XL,https://phantom-athletics.com/products/oversize-shirt-sparring-club
-PHSH3609-XXL,out_of_stock,21.99,Oversize Shirt SPARRING CLUB,XXL,https://phantom-athletics.com/products/oversize-shirt-sparring-club
 PHSH3643-S,out_of_stock,21.99,Oversize Shirt Team RAKIC,S,https://phantom-athletics.com/products/oversize-shirt-team-rakic
 PHSH3643-M,in_stock,21.99,Oversize Shirt Team RAKIC,M,https://phantom-athletics.com/products/oversize-shirt-team-rakic
 PHSH3643-L,in_stock,21.99,Oversize Shirt Team RAKIC,L,https://phantom-athletics.com/products/oversize-shirt-team-rakic
@@ -2411,7 +2466,7 @@ ADSHOE4991-8,in_stock,69.99,Ringerschuhe ADIDAS Adizero  - Neon Grün,42,https:/
 ADSHOE4991-85,in_stock,69.99,Ringerschuhe ADIDAS Adizero  - Neon Grün,42 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-adizero-green
 ADSHOE4991-9,in_stock,69.99,Ringerschuhe ADIDAS Adizero  - Neon Grün,43 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-adizero-green
 ADSHOE4991-95,out_of_stock,69.99,Ringerschuhe ADIDAS Adizero  - Neon Grün,44,https://phantom-athletics.com/products/wrestling-shoes-adidas-adizero-green
-ADSHOE4991-10,in_stock,69.99,Ringerschuhe ADIDAS Adizero  - Neon Grün,44 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-adizero-green
+ADSHOE4991-10,out_of_stock,69.99,Ringerschuhe ADIDAS Adizero  - Neon Grün,44 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-adizero-green
 ADSHOE4991-105,out_of_stock,69.99,Ringerschuhe ADIDAS Adizero  - Neon Grün,45 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-adizero-green
 ADSHOE4991-11,out_of_stock,69.99,Ringerschuhe ADIDAS Adizero  - Neon Grün,46,https://phantom-athletics.com/products/wrestling-shoes-adidas-adizero-green
 ADSHOE4991-115,out_of_stock,69.99,Ringerschuhe ADIDAS Adizero  - Neon Grün,46 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-adizero-green
@@ -2657,7 +2712,7 @@ NISHOE2952-100-8,in_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,41,https:
 NISHOE2952-100-85,in_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,42,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-silver
 NISHOE2952-100-9,in_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,42.5,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-silver
 NISHOE2952-100-95,in_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,43,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-silver
-NISHOE2952-100-10,in_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,44,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-silver
+NISHOE2952-100-10,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,44,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-silver
 NISHOE2952-100-105,in_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,44.5,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-silver
 NISHOE2952-100-11,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,45,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-silver
 NISHOE2952-100-115,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,45.5,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-silver
@@ -2707,7 +2762,7 @@ KPBMG,out_of_stock,9.99,KPB / King Pro Boxing Zahnschutz,Default Title,https://p
 OPPLATINUM-SGR,out_of_stock,29.99,OPRO Zahnschutz - UFC Platinum Level - Fangz - Schwarz/Gold/Rot,Default Title,https://phantom-athletics.com/products/opro-mouthguard-ufc-platinum-level-black-gold
 OPGOLD-S,out_of_stock,24.99,OPRO Zahnschutz - UFC Gold Level - Schwarz,Default Title,https://phantom-athletics.com/products/opro-mouthguard-ufc-gold-level-black
 OPGOLD-RS,out_of_stock,24.99,OPRO Zahnschutz - UFC Gold Level - Rot/Silber,Default Title,https://phantom-athletics.com/products/opro-mouthguard-ufc-gold-level-red-silver
-OPGOLDBRACES-S,in_stock,24.99,OPRO Zahnschutz für Zahnspange - UFC Gold Level - Schwarz,Default Title,https://phantom-athletics.com/products/opro-mouthguard-braces-ufc-gold-level-black
+OPGOLDBRACES-S,out_of_stock,24.99,OPRO Zahnschutz für Zahnspange - UFC Gold Level - Schwarz,Default Title,https://phantom-athletics.com/products/opro-mouthguard-braces-ufc-gold-level-black
 OPSILVER-RS,in_stock,14.99,OPRO Zahnschutz - UFC Silver Level - Rot/Schwarz,Default Title,https://phantom-athletics.com/products/opro-mouthguard-ufc-silver-level-red-black
 OPSILVER-SR,out_of_stock,14.99,OPRO Zahnschutz - UFC Silver Level - Schwarz/Rot,Default Title,https://phantom-athletics.com/products/opro-zahnschutz-ufc-silver-level-black-red
 OPBRONZE-W,out_of_stock,9.99,OPRO Zahnschutz - UFC Bronze Level - Weiß,Default Title,https://phantom-athletics.com/products/opro-mouthguard-ufc-bronze-level-white
