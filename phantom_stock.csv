@@ -708,8 +708,8 @@ PHSHO3935-XL,in_stock,24.99,Fightshorts FUSION-R - Team France,XL,https://phanto
 PHSHO3935-XXL,in_stock,24.99,Fightshorts FUSION-R - Team France,XXL,https://phantom-athletics.com/products/fightshorts-fusion-r-team-france
 PHSG3953-SM,in_stock,50.99,Schienbeinschutz APEX Striking - Blackout,S/M,https://phantom-athletics.com/products/shinpads-apex-striking-blackout
 PHSG3953-LXL,in_stock,50.99,Schienbeinschutz APEX Striking - Blackout,L/XL,https://phantom-athletics.com/products/shinpads-apex-striking-blackout
-PHMMAG3954-SM,in_stock,49.99,MMA Sparring Handschuhe APEX - Blackout,S/M,https://phantom-athletics.com/products/mma-sparring-gloves-apex-blackout
-PHMMAG3954-LXL,in_stock,49.99,MMA Sparring Handschuhe APEX - Blackout,L/XL,https://phantom-athletics.com/products/mma-sparring-gloves-apex-blackout
+PHMMAG3954-SM,in_stock,39.99,MMA Sparring Handschuhe APEX - Blackout,S/M,https://phantom-athletics.com/products/mma-sparring-gloves-apex-blackout
+PHMMAG3954-LXL,in_stock,39.99,MMA Sparring Handschuhe APEX - Blackout,L/XL,https://phantom-athletics.com/products/mma-sparring-gloves-apex-blackout
 PHBG3955-10,out_of_stock,26.99,Boxhandschuhe APEX - Blackout,10 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-blackout
 PHBG3955-12,out_of_stock,26.99,Boxhandschuhe APEX - Blackout,12 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-blackout
 PHBG3955-14,out_of_stock,26.99,Boxhandschuhe APEX - Blackout,14 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-blackout
@@ -718,10 +718,10 @@ PHSG3956-SM,in_stock,69.99,Schienbeinschutz APEX Striking - Whiteout,S/M,https:/
 PHSG3956-LXL,in_stock,69.99,Schienbeinschutz APEX Striking - Whiteout,L/XL,https://phantom-athletics.com/products/shinpads-apex-striking-whiteout
 PHMMAG3957-SM,in_stock,29.99,MMA Sparring Handschuhe APEX - Whiteout,S/M,https://phantom-athletics.com/products/mma-sparring-gloves-apex-whiteout
 PHMMAG3957-LXL,in_stock,29.99,MMA Sparring Handschuhe APEX - Whiteout,L/XL,https://phantom-athletics.com/products/mma-sparring-gloves-apex-whiteout
-PHBG3958-10,out_of_stock,29.99,Boxhandschuhe APEX - Whiteout,10 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-whiteout
-PHBG3958-12,in_stock,29.99,Boxhandschuhe APEX - Whiteout,12 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-whiteout
-PHBG3958-14,in_stock,29.99,Boxhandschuhe APEX - Whiteout,14 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-whiteout
-PHBG3958-16,out_of_stock,29.99,Boxhandschuhe APEX - Whiteout,16 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-whiteout
+PHBG3958-10,out_of_stock,59.99,Boxhandschuhe APEX - Whiteout,10 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-whiteout
+PHBG3958-12,in_stock,59.99,Boxhandschuhe APEX - Whiteout,12 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-whiteout
+PHBG3958-14,in_stock,59.99,Boxhandschuhe APEX - Whiteout,14 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-whiteout
+PHBG3958-16,out_of_stock,59.99,Boxhandschuhe APEX - Whiteout,16 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-whiteout
 PHPAD3960,in_stock,99.99,Schlagpolster APEX,Default Title,https://phantom-athletics.com/products/kickpad-apex
 PHHO3855-S,in_stock,24.99,Hoodie Team - Grau,S,https://phantom-athletics.com/products/hoodie-team-gray
 PHHO3855-M,in_stock,24.99,Hoodie Team - Grau,M,https://phantom-athletics.com/products/hoodie-team-gray
@@ -889,7 +889,7 @@ PHSH3862-XL,in_stock,21.99,Oversize T-Shirt DON'T TREAD ON ME - Schwarz/Gelb,XL,
 PHSH3862-XXL,out_of_stock,21.99,Oversize T-Shirt DON'T TREAD ON ME - Schwarz/Gelb,XXL,https://phantom-athletics.com/products/oversize-t-shirt-dont-tread-on-me-black-yellow
 PHSH3863-S,out_of_stock,21.99,Oversize T-Shirt DON'T TREAD ON ME - Schwarz/Weiß,S,https://phantom-athletics.com/products/oversize-t-shirt-dont-tread-on-me-black-white
 PHSH3863-M,in_stock,21.99,Oversize T-Shirt DON'T TREAD ON ME - Schwarz/Weiß,M,https://phantom-athletics.com/products/oversize-t-shirt-dont-tread-on-me-black-white
-PHSH3863-L,in_stock,21.99,Oversize T-Shirt DON'T TREAD ON ME - Schwarz/Weiß,L,https://phantom-athletics.com/products/oversize-t-shirt-dont-tread-on-me-black-white
+PHSH3863-L,out_of_stock,21.99,Oversize T-Shirt DON'T TREAD ON ME - Schwarz/Weiß,L,https://phantom-athletics.com/products/oversize-t-shirt-dont-tread-on-me-black-white
 PHSH3863-XL,in_stock,21.99,Oversize T-Shirt DON'T TREAD ON ME - Schwarz/Weiß,XL,https://phantom-athletics.com/products/oversize-t-shirt-dont-tread-on-me-black-white
 PHSH3863-XXL,out_of_stock,21.99,Oversize T-Shirt DON'T TREAD ON ME - Schwarz/Weiß,XXL,https://phantom-athletics.com/products/oversize-t-shirt-dont-tread-on-me-black-white
 PHSHO3898-S,in_stock,54.99,Fightshorts FUSION-R GHOST,S,https://phantom-athletics.com/products/fightshorts-fusion-r-ghost
@@ -1767,12 +1767,12 @@ PHSG3400-SM,in_stock,61.99,Schienbeinschutz MT-Pro - Schwarz,S/M / Schwarz,https
 PHSG1660-SM,in_stock,89.99,Schienbeinschutz MT-Pro - Schwarz,S/M / Schwarz/Grau,https://phantom-athletics.com/products/shinpads-mt-pro-black
 PHSG3400-LXL,in_stock,61.99,Schienbeinschutz MT-Pro - Schwarz,L/XL / Schwarz,https://phantom-athletics.com/products/shinpads-mt-pro-black
 PHSG1660-LXL,in_stock,89.99,Schienbeinschutz MT-Pro - Schwarz,L/XL / Schwarz/Grau,https://phantom-athletics.com/products/shinpads-mt-pro-black
-PHMMAG3581-SM,in_stock,59.99,MMA Sparring Handschuhe Germany,S/M,https://phantom-athletics.com/products/mma-sparring-gloves-germany
-PHMMAG3581-LXL,in_stock,59.99,MMA Sparring Handschuhe Germany,L/XL,https://phantom-athletics.com/products/mma-sparring-gloves-germany
-PHBG3582-10,in_stock,40.99,Boxhandschuhe Germany,10 OZ,https://phantom-athletics.com/products/boxing-gloves-germany-25
-PHBG3582-12,in_stock,40.99,Boxhandschuhe Germany,12 OZ,https://phantom-athletics.com/products/boxing-gloves-germany-25
-PHBG3582-14,in_stock,40.99,Boxhandschuhe Germany,14 OZ,https://phantom-athletics.com/products/boxing-gloves-germany-25
-PHBG3582-16,in_stock,40.99,Boxhandschuhe Germany,16 OZ,https://phantom-athletics.com/products/boxing-gloves-germany-25
+PHMMAG3581-SM,in_stock,29.99,MMA Sparring Handschuhe Germany,S/M,https://phantom-athletics.com/products/mma-sparring-gloves-germany
+PHMMAG3581-LXL,in_stock,29.99,MMA Sparring Handschuhe Germany,L/XL,https://phantom-athletics.com/products/mma-sparring-gloves-germany
+PHBG3582-10,in_stock,29.99,Boxhandschuhe Germany,10 OZ,https://phantom-athletics.com/products/boxing-gloves-germany-25
+PHBG3582-12,in_stock,29.99,Boxhandschuhe Germany,12 OZ,https://phantom-athletics.com/products/boxing-gloves-germany-25
+PHBG3582-14,in_stock,29.99,Boxhandschuhe Germany,14 OZ,https://phantom-athletics.com/products/boxing-gloves-germany-25
+PHBG3582-16,in_stock,29.99,Boxhandschuhe Germany,16 OZ,https://phantom-athletics.com/products/boxing-gloves-germany-25
 PHSHO3577-S,in_stock,52.99,Fightshorts EVO Germany Eagle,S,https://phantom-athletics.com/products/fightshorts-evo-germany-25
 PHSHO3577-M,in_stock,52.99,Fightshorts EVO Germany Eagle,M,https://phantom-athletics.com/products/fightshorts-evo-germany-25
 PHSHO3577-L,in_stock,52.99,Fightshorts EVO Germany Eagle,L,https://phantom-athletics.com/products/fightshorts-evo-germany-25
@@ -1987,17 +1987,17 @@ ADSHOE5389-11,out_of_stock,89.99,Ringerschuhe ADIDAS Tech Fall 2 - Weiss/Gold,46
 ADSHOE5389-115,out_of_stock,89.99,Ringerschuhe ADIDAS Tech Fall 2 - Weiss/Gold,46 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-tech-fall-2-white-gold
 ADSHOE5389-12,out_of_stock,89.99,Ringerschuhe ADIDAS Tech Fall 2 - Weiss/Gold,47 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-tech-fall-2-white-gold
 PHMMAG3324-SM,in_stock,50.99,MMA Sparring Handschuhe ELITE,S/M,https://phantom-athletics.com/products/mma-sparring-gloves-elite
-PHMMAG3324-LXL,out_of_stock,50.99,MMA Sparring Handschuhe ELITE,L/XL,https://phantom-athletics.com/products/mma-sparring-gloves-elite
+PHMMAG3324-LXL,out_of_stock,79.99,MMA Sparring Handschuhe ELITE,L/XL,https://phantom-athletics.com/products/mma-sparring-gloves-elite
 PHSG3325-SM,in_stock,89.99,Schienbeinschutz ELITE,S/M,https://phantom-athletics.com/products/shinpads-elite
 PHSG3325-LXL,in_stock,89.99,Schienbeinschutz ELITE,L/XL,https://phantom-athletics.com/products/shinpads-elite
 PHBG3319-10,in_stock,39.99,Boxhandschuhe ELITE - Schwarz,10 OZ,https://phantom-athletics.com/products/boxing-gloves-elite-black
 PHBG3319-12,in_stock,39.99,Boxhandschuhe ELITE - Schwarz,12 OZ,https://phantom-athletics.com/products/boxing-gloves-elite-black
 PHBG3319-14,in_stock,39.99,Boxhandschuhe ELITE - Schwarz,14 OZ,https://phantom-athletics.com/products/boxing-gloves-elite-black
 PHBG3319-16,in_stock,39.99,Boxhandschuhe ELITE - Schwarz,16 OZ,https://phantom-athletics.com/products/boxing-gloves-elite-black
-PHBG3284-10,in_stock,49.99,Boxhandschuhe BG1 - Schwarz,10 OZ,https://phantom-athletics.com/products/boxing-gloves-bg1-black
-PHBG3284-12,in_stock,49.99,Boxhandschuhe BG1 - Schwarz,12 OZ,https://phantom-athletics.com/products/boxing-gloves-bg1-black
-PHBG3284-14,in_stock,49.99,Boxhandschuhe BG1 - Schwarz,14 OZ,https://phantom-athletics.com/products/boxing-gloves-bg1-black
-PHBG3284-16,in_stock,49.99,Boxhandschuhe BG1 - Schwarz,16 OZ,https://phantom-athletics.com/products/boxing-gloves-bg1-black
+PHBG3284-10,in_stock,39.99,Boxhandschuhe BG1 - Schwarz,10 OZ,https://phantom-athletics.com/products/boxing-gloves-bg1-black
+PHBG3284-12,in_stock,39.99,Boxhandschuhe BG1 - Schwarz,12 OZ,https://phantom-athletics.com/products/boxing-gloves-bg1-black
+PHBG3284-14,in_stock,39.99,Boxhandschuhe BG1 - Schwarz,14 OZ,https://phantom-athletics.com/products/boxing-gloves-bg1-black
+PHBG3284-16,in_stock,39.99,Boxhandschuhe BG1 - Schwarz,16 OZ,https://phantom-athletics.com/products/boxing-gloves-bg1-black
 PHSG3326-SM,in_stock,29.99,Schienbeinschutz ELITE Grappling,S/M,https://phantom-athletics.com/products/shinpads-elite-grappling
 PHSG3326-LXL,in_stock,29.99,Schienbeinschutz ELITE Grappling,L/XL,https://phantom-athletics.com/products/shinpads-elite-grappling
 ASSHOEA066_100-42,out_of_stock,78.99,Ringerschuhe ASICS Split Elite - Weiß,42,https://phantom-athletics.com/products/wrestling-shoes-asics-split-elite-white
@@ -2093,7 +2093,7 @@ NISHOE9132-001-9,in_stock,59.99,Ringerschuhe NIKE Speedsweep VIII - Schwarz,42.5
 NISHOE9132-001-95,in_stock,59.99,Ringerschuhe NIKE Speedsweep VIII - Schwarz,43,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-viii-black
 NISHOE9132-001-10,in_stock,59.99,Ringerschuhe NIKE Speedsweep VIII - Schwarz,44,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-viii-black
 NISHOE9132-001-105,in_stock,59.99,Ringerschuhe NIKE Speedsweep VIII - Schwarz,44.5,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-viii-black
-NISHOE9132-001-11,in_stock,59.99,Ringerschuhe NIKE Speedsweep VIII - Schwarz,45,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-viii-black
+NISHOE9132-001-11,out_of_stock,59.99,Ringerschuhe NIKE Speedsweep VIII - Schwarz,45,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-viii-black
 NISHOE9132-001-115,out_of_stock,59.99,Ringerschuhe NIKE Speedsweep VIII - Schwarz,45.5,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-viii-black
 NISHOE9132-001-12,out_of_stock,59.99,Ringerschuhe NIKE Speedsweep VIII - Schwarz,46,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-viii-black
 NISHOE9132-100-7,out_of_stock,59.99,Ringerschuhe NIKE Speedsweep VIII - Weiß/Grau,40,https://phantom-athletics.com/products/wrestling-shoes-nike-speedsweep-viii-white
@@ -2266,7 +2266,7 @@ PHSH3070-M,in_stock,19.99,T-Shirt Never Back Down - Schwarz,M,https://phantom-at
 PHSH3070-L,in_stock,19.99,T-Shirt Never Back Down - Schwarz,L,https://phantom-athletics.com/products/t-shirt-never-back-down
 PHSH3070-XL,out_of_stock,19.99,T-Shirt Never Back Down - Schwarz,XL,https://phantom-athletics.com/products/t-shirt-never-back-down
 PHSH3070-XXL,out_of_stock,19.99,T-Shirt Never Back Down - Schwarz,XXL,https://phantom-athletics.com/products/t-shirt-never-back-down
-PHMMAG3480-SM,in_stock,24.99,Sparring Handschuhe Muay Thai - Army,S/M / Army,https://phantom-athletics.com/products/sparring-handschuhe-muay-thai-army
+PHMMAG3480-SM,in_stock,59.99,Sparring Handschuhe Muay Thai - Army,S/M / Army,https://phantom-athletics.com/products/sparring-handschuhe-muay-thai-army
 PHMMAG2497-SM,in_stock,59.99,Sparring Handschuhe Muay Thai - Army,S/M / Schwarz,https://phantom-athletics.com/products/sparring-handschuhe-muay-thai-army
 PHMMAG2939-SM,in_stock,59.99,Sparring Handschuhe Muay Thai - Army,S/M / Schwarz/Gold,https://phantom-athletics.com/products/sparring-handschuhe-muay-thai-army
 PHMMAG3060-SM,in_stock,59.99,Sparring Handschuhe Muay Thai - Army,S/M / Schwarz/Silber,https://phantom-athletics.com/products/sparring-handschuhe-muay-thai-army
@@ -2277,7 +2277,7 @@ PHMMAG2704-SM,in_stock,59.99,Sparring Handschuhe Muay Thai - Army,S/M / Blau,htt
 PHMMAG3402-SM,in_stock,59.99,Sparring Handschuhe Muay Thai - Army,S/M / Grau,https://phantom-athletics.com/products/sparring-handschuhe-muay-thai-army
 PHMMAG3477-SM,in_stock,59.99,Sparring Handschuhe Muay Thai - Army,S/M / Frost White,https://phantom-athletics.com/products/sparring-handschuhe-muay-thai-army
 PHMMAG3483-SM,in_stock,59.99,Sparring Handschuhe Muay Thai - Army,S/M / Sand,https://phantom-athletics.com/products/sparring-handschuhe-muay-thai-army
-PHMMAG3480-LXL,out_of_stock,24.99,Sparring Handschuhe Muay Thai - Army,L/XL / Army,https://phantom-athletics.com/products/sparring-handschuhe-muay-thai-army
+PHMMAG3480-LXL,out_of_stock,59.99,Sparring Handschuhe Muay Thai - Army,L/XL / Army,https://phantom-athletics.com/products/sparring-handschuhe-muay-thai-army
 PHMMAG2497-LXL,in_stock,59.99,Sparring Handschuhe Muay Thai - Army,L/XL / Schwarz,https://phantom-athletics.com/products/sparring-handschuhe-muay-thai-army
 PHMMAG2939-LXL,in_stock,59.99,Sparring Handschuhe Muay Thai - Army,L/XL / Schwarz/Gold,https://phantom-athletics.com/products/sparring-handschuhe-muay-thai-army
 PHMMAG3060-LXL,in_stock,59.99,Sparring Handschuhe Muay Thai - Army,L/XL / Schwarz/Silber,https://phantom-athletics.com/products/sparring-handschuhe-muay-thai-army
@@ -2550,7 +2550,7 @@ PHBG2505-16,in_stock,69.99,Boxhandschuhe Muay Thai - Frost White,16 OZ / Rot,htt
 PHBG2613-16,in_stock,69.99,Boxhandschuhe Muay Thai - Frost White,16 OZ / Sand,https://phantom-athletics.com/products/boxing-gloves-muay-thai-frost-white
 PHBG2612-16,in_stock,69.99,Boxhandschuhe Muay Thai - Frost White,16 OZ / Army,https://phantom-athletics.com/products/boxing-gloves-muay-thai-frost-white
 PHBG3401-16,in_stock,69.99,Boxhandschuhe Muay Thai - Frost White,16 OZ / Grau,https://phantom-athletics.com/products/boxing-gloves-muay-thai-frost-white
-PHPAD3383,in_stock,29.99,Handpratzen MEXICO - Schwarz,Schwarz,https://phantom-athletics.com/products/handpratzen-mexico-schwarz
+PHPAD3383,in_stock,39.99,Handpratzen MEXICO - Schwarz,Schwarz,https://phantom-athletics.com/products/handpratzen-mexico-schwarz
 PHPAD3384,in_stock,59.99,Handpratzen MEXICO - Schwarz,Rot,https://phantom-athletics.com/products/handpratzen-mexico-schwarz
 PHACC2251,out_of_stock,29.99,Sonnenbrille DELTA - Schwarz/Blau,Default Title,https://phantom-athletics.com/products/sunglasses-delta-black-blue
 ASSHOEA011_022-28,in_stock,73.99,Kinder Ringerschuhe ASICS Matflex 7 GS - Grau,28,https://phantom-athletics.com/products/kids-wrestling-shoes-asics-matflex-7-gray
@@ -2565,7 +2565,7 @@ ASSHOEA011_022-35,in_stock,73.99,Kinder Ringerschuhe ASICS Matflex 7 GS - Grau,3
 ASSHOEA053_102-42,out_of_stock,69.99,Ringerschuhe ASICS Matcontrol 3 - Weiß,42,https://phantom-athletics.com/products/wrestling-shoes-asics-matcontrol-3-white
 ASSHOEA053_102-425,out_of_stock,69.99,Ringerschuhe ASICS Matcontrol 3 - Weiß,42.5,https://phantom-athletics.com/products/wrestling-shoes-asics-matcontrol-3-white
 ASSHOEA053_102-43,out_of_stock,69.99,Ringerschuhe ASICS Matcontrol 3 - Weiß,43,https://phantom-athletics.com/products/wrestling-shoes-asics-matcontrol-3-white
-ASSHOEA053_102-435,in_stock,69.99,Ringerschuhe ASICS Matcontrol 3 - Weiß,43.5,https://phantom-athletics.com/products/wrestling-shoes-asics-matcontrol-3-white
+ASSHOEA053_102-435,out_of_stock,69.99,Ringerschuhe ASICS Matcontrol 3 - Weiß,43.5,https://phantom-athletics.com/products/wrestling-shoes-asics-matcontrol-3-white
 ASSHOEA053_102-44,out_of_stock,69.99,Ringerschuhe ASICS Matcontrol 3 - Weiß,44,https://phantom-athletics.com/products/wrestling-shoes-asics-matcontrol-3-white
 ASSHOEA053_102-445,out_of_stock,69.99,Ringerschuhe ASICS Matcontrol 3 - Weiß,44.5,https://phantom-athletics.com/products/wrestling-shoes-asics-matcontrol-3-white
 ASSHOEA053_102-45,out_of_stock,69.99,Ringerschuhe ASICS Matcontrol 3 - Weiß,45,https://phantom-athletics.com/products/wrestling-shoes-asics-matcontrol-3-white
@@ -2748,8 +2748,8 @@ PHSH3381-XXL,in_stock,17.99,T-Shirt Mexico - Weiß,XXL,https://phantom-athletics
 PHSP1785,out_of_stock,19.99,Kreatin HCL,1 Dose,https://phantom-athletics.com/products/supplement-creatine-hcl
 PHSP1785-3,out_of_stock,59.99,Kreatin HCL,3 Dosen,https://phantom-athletics.com/products/supplement-creatine-hcl
 PHSP1785-5,out_of_stock,99.99,Kreatin HCL,5 Dosen,https://phantom-athletics.com/products/supplement-creatine-hcl
-PHWR3281-SM,in_stock,49.99,Boxbandagen FASTWRAPS Pro,S/M,https://phantom-athletics.com/products/handwraps-fastwraps-pro
-PHWR3281-LXL,in_stock,49.99,Boxbandagen FASTWRAPS Pro,L/XL,https://phantom-athletics.com/products/handwraps-fastwraps-pro
+PHWR3281-SM,in_stock,29.99,Boxbandagen FASTWRAPS Pro,S/M,https://phantom-athletics.com/products/handwraps-fastwraps-pro
+PHWR3281-LXL,in_stock,29.99,Boxbandagen FASTWRAPS Pro,L/XL,https://phantom-athletics.com/products/handwraps-fastwraps-pro
 PHWR3291-SM,in_stock,59.99,Boxbandagen FASTWRAPS,S/M,https://phantom-athletics.com/products/handwraps-fastwraps
 PHWR3291-LXL,in_stock,59.99,Boxbandagen FASTWRAPS,L/XL,https://phantom-athletics.com/products/handwraps-fastwraps
 PHWR3302-SM,in_stock,49.99,Boxbandagen FASTWRAPS Lite,S/M,https://phantom-athletics.com/products/handwraps-fastwraps-lite
@@ -2850,10 +2850,10 @@ PHMMAG2058-SM,out_of_stock,49.99,MMA Fight Handschuhe - Blackout Edition,S/M,htt
 PHMMAG2058-LXL,out_of_stock,49.99,MMA Fight Handschuhe - Blackout Edition,L/XL,https://phantom-athletics.com/products/mma-fight-handschuhe-blackout-edition
 PHMMAG2213-SM,in_stock,59.99,MMA Sparring Handschuhe APEX - Gold,S/M,https://phantom-athletics.com/products/mma-gloves-apex-sparring-gold
 PHMMAG2213-LXL,out_of_stock,59.99,MMA Sparring Handschuhe APEX - Gold,L/XL,https://phantom-athletics.com/products/mma-gloves-apex-sparring-gold
-PHBG2215-10,in_stock,29.99,Boxhandschuhe APEX Speed - Gold,10 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-elastic-gold
-PHBG2215-12,in_stock,29.99,Boxhandschuhe APEX Speed - Gold,12 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-elastic-gold
-PHBG2215-14,out_of_stock,29.99,Boxhandschuhe APEX Speed - Gold,14 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-elastic-gold
-PHBG2215-16,in_stock,29.99,Boxhandschuhe APEX Speed - Gold,16 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-elastic-gold
+PHBG2215-10,in_stock,59.99,Boxhandschuhe APEX Speed - Gold,10 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-elastic-gold
+PHBG2215-12,in_stock,59.99,Boxhandschuhe APEX Speed - Gold,12 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-elastic-gold
+PHBG2215-14,out_of_stock,59.99,Boxhandschuhe APEX Speed - Gold,14 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-elastic-gold
+PHBG2215-16,in_stock,59.99,Boxhandschuhe APEX Speed - Gold,16 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-elastic-gold
 PHBG2214-10,out_of_stock,59.99,Boxhandschuhe APEX - Gold,10 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-gold
 PHBG2214-12,out_of_stock,59.99,Boxhandschuhe APEX - Gold,12 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-gold
 PHBG2214-14,out_of_stock,59.99,Boxhandschuhe APEX - Gold,14 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-gold
@@ -3293,25 +3293,25 @@ PHSHEVO3233-XL,in_stock,19.99,Trainingsshirt EVO - Make MMA Great Again - Schwar
 PHSHEVO3083-XL,in_stock,19.99,Trainingsshirt EVO - Make MMA Great Again - Schwarz,XL / Rot,https://phantom-athletics.com/products/trainingsshirt-evo-make-mma-great-again-black
 PHSHEVO3233-XXL,in_stock,19.99,Trainingsshirt EVO - Make MMA Great Again - Schwarz,XXL / Schwarz,https://phantom-athletics.com/products/trainingsshirt-evo-make-mma-great-again-black
 PHSHEVO3083-XXL,in_stock,19.99,Trainingsshirt EVO - Make MMA Great Again - Schwarz,XXL / Rot,https://phantom-athletics.com/products/trainingsshirt-evo-make-mma-great-again-black
-PHBG2061-10,in_stock,79.99,Boxhandschuhe Elite ATF - Blackout Edition,10 OZ / Blackout Edition,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
+PHBG2061-10,in_stock,39.99,Boxhandschuhe Elite ATF - Blackout Edition,10 OZ / Blackout Edition,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
 PHBG1651-10,in_stock,79.99,Boxhandschuhe Elite ATF - Blackout Edition,10 OZ / Schwarz/Weiß,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
 PHBG2437-10,in_stock,79.99,Boxhandschuhe Elite ATF - Blackout Edition,10 OZ / Army,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
-PHBG2061-12,in_stock,79.99,Boxhandschuhe Elite ATF - Blackout Edition,12 OZ / Blackout Edition,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
+PHBG2061-12,in_stock,39.99,Boxhandschuhe Elite ATF - Blackout Edition,12 OZ / Blackout Edition,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
 PHBG1651-12,in_stock,79.99,Boxhandschuhe Elite ATF - Blackout Edition,12 OZ / Schwarz/Weiß,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
 PHBG2437-12,in_stock,79.99,Boxhandschuhe Elite ATF - Blackout Edition,12 OZ / Army,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
-PHBG2061-14,in_stock,79.99,Boxhandschuhe Elite ATF - Blackout Edition,14 OZ / Blackout Edition,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
+PHBG2061-14,in_stock,39.99,Boxhandschuhe Elite ATF - Blackout Edition,14 OZ / Blackout Edition,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
 PHBG1651-14,in_stock,79.99,Boxhandschuhe Elite ATF - Blackout Edition,14 OZ / Schwarz/Weiß,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
 PHBG2437-14,in_stock,79.99,Boxhandschuhe Elite ATF - Blackout Edition,14 OZ / Army,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
-PHBG2061-16,in_stock,79.99,Boxhandschuhe Elite ATF - Blackout Edition,16 OZ / Blackout Edition,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
+PHBG2061-16,in_stock,39.99,Boxhandschuhe Elite ATF - Blackout Edition,16 OZ / Blackout Edition,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
 PHBG1651-16,in_stock,79.99,Boxhandschuhe Elite ATF - Blackout Edition,16 OZ / Schwarz/Weiß,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
 PHBG2437-16,in_stock,79.99,Boxhandschuhe Elite ATF - Blackout Edition,16 OZ / Army,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
-PHBG2060-10,in_stock,39.99,Boxhandschuhe MT-Pro - Blackout Edition,10 OZ / Blackout Edition,https://phantom-athletics.com/products/boxhandschuhe-mt-pro-blackout-edition
+PHBG2060-10,in_stock,29.99,Boxhandschuhe MT-Pro - Blackout Edition,10 OZ / Blackout Edition,https://phantom-athletics.com/products/boxhandschuhe-mt-pro-blackout-edition
 PHBG1652-10,in_stock,39.99,Boxhandschuhe MT-Pro - Blackout Edition,10 OZ / Schwarz/Weiß,https://phantom-athletics.com/products/boxhandschuhe-mt-pro-blackout-edition
-PHBG2060-12,in_stock,39.99,Boxhandschuhe MT-Pro - Blackout Edition,12 OZ / Blackout Edition,https://phantom-athletics.com/products/boxhandschuhe-mt-pro-blackout-edition
+PHBG2060-12,in_stock,29.99,Boxhandschuhe MT-Pro - Blackout Edition,12 OZ / Blackout Edition,https://phantom-athletics.com/products/boxhandschuhe-mt-pro-blackout-edition
 PHBG1652-12,in_stock,39.99,Boxhandschuhe MT-Pro - Blackout Edition,12 OZ / Schwarz/Weiß,https://phantom-athletics.com/products/boxhandschuhe-mt-pro-blackout-edition
-PHBG2060-14,in_stock,39.99,Boxhandschuhe MT-Pro - Blackout Edition,14 OZ / Blackout Edition,https://phantom-athletics.com/products/boxhandschuhe-mt-pro-blackout-edition
+PHBG2060-14,in_stock,29.99,Boxhandschuhe MT-Pro - Blackout Edition,14 OZ / Blackout Edition,https://phantom-athletics.com/products/boxhandschuhe-mt-pro-blackout-edition
 PHBG1652-14,in_stock,39.99,Boxhandschuhe MT-Pro - Blackout Edition,14 OZ / Schwarz/Weiß,https://phantom-athletics.com/products/boxhandschuhe-mt-pro-blackout-edition
-PHBG2060-16,in_stock,39.99,Boxhandschuhe MT-Pro - Blackout Edition,16 OZ / Blackout Edition,https://phantom-athletics.com/products/boxhandschuhe-mt-pro-blackout-edition
+PHBG2060-16,in_stock,29.99,Boxhandschuhe MT-Pro - Blackout Edition,16 OZ / Blackout Edition,https://phantom-athletics.com/products/boxhandschuhe-mt-pro-blackout-edition
 PHBG1652-16,in_stock,39.99,Boxhandschuhe MT-Pro - Blackout Edition,16 OZ / Schwarz/Weiß,https://phantom-athletics.com/products/boxhandschuhe-mt-pro-blackout-edition
 DCMG015,out_of_stock,36.99,Damage Control Zahnschutz - High Impact Series - Sick Ass Foo,Default Title,https://phantom-athletics.com/products/damage-control-mouthguard-sick-ass-foo
 DCMG014,out_of_stock,29.99,Damage Control Zahnschutz - High Impact Series - Bleeding Fangs,Default Title,https://phantom-athletics.com/products/damage-control-mouthguard-bleeding-fangs
@@ -3440,12 +3440,12 @@ NISHOE325256-106-105,out_of_stock,78.99,Ringerschuhe NIKE Inflict 3 - Weiß/Grau
 NISHOE325256-106-11,out_of_stock,78.99,Ringerschuhe NIKE Inflict 3 - Weiß/Grau/Rot,45,https://phantom-athletics.com/products/wrestling-shoes-nike-inflict-3-white-gray-red
 NISHOE325256-106-115,out_of_stock,78.99,Ringerschuhe NIKE Inflict 3 - Weiß/Grau/Rot,45.5,https://phantom-athletics.com/products/wrestling-shoes-nike-inflict-3-white-gray-red
 NISHOE325256-106-12,out_of_stock,78.99,Ringerschuhe NIKE Inflict 3 - Weiß/Grau/Rot,46,https://phantom-athletics.com/products/wrestling-shoes-nike-inflict-3-white-gray-red
-PHMMAG3057-SM,in_stock,59.99,MMA Sparring Handschuhe Serious,S/M,https://phantom-athletics.com/products/mma-sparring-gloves-serious
-PHMMAG3057-LXL,in_stock,59.99,MMA Sparring Handschuhe Serious,L/XL,https://phantom-athletics.com/products/mma-sparring-gloves-serious
-PHBG3058-10,in_stock,49.99,Boxhandschuhe Serious,10 OZ,https://phantom-athletics.com/products/boxing-gloves-serious
-PHBG3058-12,in_stock,49.99,Boxhandschuhe Serious,12 OZ,https://phantom-athletics.com/products/boxing-gloves-serious
-PHBG3058-14,in_stock,49.99,Boxhandschuhe Serious,14 OZ,https://phantom-athletics.com/products/boxing-gloves-serious
-PHBG3058-16,in_stock,49.99,Boxhandschuhe Serious,16 OZ,https://phantom-athletics.com/products/boxing-gloves-serious
+PHMMAG3057-SM,in_stock,39.99,MMA Sparring Handschuhe Serious,S/M,https://phantom-athletics.com/products/mma-sparring-gloves-serious
+PHMMAG3057-LXL,in_stock,39.99,MMA Sparring Handschuhe Serious,L/XL,https://phantom-athletics.com/products/mma-sparring-gloves-serious
+PHBG3058-10,in_stock,39.99,Boxhandschuhe Serious,10 OZ,https://phantom-athletics.com/products/boxing-gloves-serious
+PHBG3058-12,in_stock,39.99,Boxhandschuhe Serious,12 OZ,https://phantom-athletics.com/products/boxing-gloves-serious
+PHBG3058-14,in_stock,39.99,Boxhandschuhe Serious,14 OZ,https://phantom-athletics.com/products/boxing-gloves-serious
+PHBG3058-16,in_stock,39.99,Boxhandschuhe Serious,16 OZ,https://phantom-athletics.com/products/boxing-gloves-serious
 ADSHOE5386-11.5K,out_of_stock,69.99,Kinder Ringerschuhe ADIDAS Tech Fall 2 - Schwarz,30,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-tech-fall-2-black
 ADSHOE5386-12.5K,out_of_stock,69.99,Kinder Ringerschuhe ADIDAS Tech Fall 2 - Schwarz,31,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-tech-fall-2-black
 ADSHOE5386-13.5K,out_of_stock,69.99,Kinder Ringerschuhe ADIDAS Tech Fall 2 - Schwarz,32,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-tech-fall-2-black
@@ -4157,10 +4157,10 @@ NISHOE9729-005-12,out_of_stock,114.99,Boxschuhe NIKE Air Max Box - Schwarz/Purpl
 NISHOE9729-005-125,out_of_stock,114.99,Boxschuhe NIKE Air Max Box - Schwarz/Purple,45,https://phantom-athletics.com/products/boxing-shoes-nike-air-max-box-black-purple
 NISHOE9729-005-13,out_of_stock,114.99,Boxschuhe NIKE Air Max Box - Schwarz/Purple,45.5,https://phantom-athletics.com/products/boxing-shoes-nike-air-max-box-black-purple
 NISHOE9729-005-135,out_of_stock,114.99,Boxschuhe NIKE Air Max Box - Schwarz/Purple,46,https://phantom-athletics.com/products/boxing-shoes-nike-air-max-box-black-purple
-PHBG2702-10,in_stock,39.99,Boxhandschuhe Reaper,10 OZ,https://phantom-athletics.com/products/boxing-gloves-reaper
-PHBG2702-12,in_stock,49.99,Boxhandschuhe Reaper,12 OZ,https://phantom-athletics.com/products/boxing-gloves-reaper
-PHBG2702-14,in_stock,39.99,Boxhandschuhe Reaper,14 OZ,https://phantom-athletics.com/products/boxing-gloves-reaper
-PHBG2702-16,in_stock,39.99,Boxhandschuhe Reaper,16 OZ,https://phantom-athletics.com/products/boxing-gloves-reaper
+PHBG2702-10,in_stock,29.99,Boxhandschuhe Reaper,10 OZ,https://phantom-athletics.com/products/boxing-gloves-reaper
+PHBG2702-12,in_stock,29.99,Boxhandschuhe Reaper,12 OZ,https://phantom-athletics.com/products/boxing-gloves-reaper
+PHBG2702-14,in_stock,29.99,Boxhandschuhe Reaper,14 OZ,https://phantom-athletics.com/products/boxing-gloves-reaper
+PHBG2702-16,in_stock,29.99,Boxhandschuhe Reaper,16 OZ,https://phantom-athletics.com/products/boxing-gloves-reaper
 ADSHOE5391-7,out_of_stock,59.99,Ringerschuhe ADIDAS Mat Hog 2 - Schwarz/Grau,40 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-mat-hog-2-black-gray
 ADSHOE5391-75,out_of_stock,59.99,Ringerschuhe ADIDAS Mat Hog 2 - Schwarz/Grau,41 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-mat-hog-2-black-gray
 ADSHOE5391-8,out_of_stock,59.99,Ringerschuhe ADIDAS Mat Hog 2 - Schwarz/Grau,42,https://phantom-athletics.com/products/wrestling-shoes-adidas-mat-hog-2-black-gray
@@ -4231,17 +4231,17 @@ PHMG523,in_stock,9.99,Zahnschutz Impact - Neon,Neon,https://phantom-athletics.co
 PHMG521,in_stock,9.99,Zahnschutz Impact - Neon,Weiß,https://phantom-athletics.com/products/mouthguard-impact-neon
 PHMG520,in_stock,9.99,Zahnschutz Impact - Neon,Schwarz,https://phantom-athletics.com/products/mouthguard-impact-neon
 PHMG522,in_stock,9.99,Zahnschutz Impact - Neon,Blau,https://phantom-athletics.com/products/mouthguard-impact-neon
-PHMMAG2888-SM,in_stock,49.99,MMA Sparring Handschuhe APEX - Neon Orange,S/M / Neon Orange,https://phantom-athletics.com/products/mma-sparring-gloves-apex-neon-orange
+PHMMAG2888-SM,in_stock,24.99,MMA Sparring Handschuhe APEX - Neon Orange,S/M / Neon Orange,https://phantom-athletics.com/products/mma-sparring-gloves-apex-neon-orange
 PHMMAG2882-SM,in_stock,49.99,MMA Sparring Handschuhe APEX - Neon Orange,S/M / Neon Grün,https://phantom-athletics.com/products/mma-sparring-gloves-apex-neon-orange
 PHMMAG2884-SM,in_stock,49.99,MMA Sparring Handschuhe APEX - Neon Orange,S/M / Neon Gelb,https://phantom-athletics.com/products/mma-sparring-gloves-apex-neon-orange
 PHMMAG2886-SM,in_stock,49.99,MMA Sparring Handschuhe APEX - Neon Orange,S/M / Neon Rot,https://phantom-athletics.com/products/mma-sparring-gloves-apex-neon-orange
 PHMMAG2890-SM,in_stock,49.99,MMA Sparring Handschuhe APEX - Neon Orange,S/M / Neon Blau,https://phantom-athletics.com/products/mma-sparring-gloves-apex-neon-orange
-PHMMAG2888-LXL,in_stock,49.99,MMA Sparring Handschuhe APEX - Neon Orange,L/XL / Neon Orange,https://phantom-athletics.com/products/mma-sparring-gloves-apex-neon-orange
+PHMMAG2888-LXL,in_stock,24.99,MMA Sparring Handschuhe APEX - Neon Orange,L/XL / Neon Orange,https://phantom-athletics.com/products/mma-sparring-gloves-apex-neon-orange
 PHMMAG2882-LXL,in_stock,49.99,MMA Sparring Handschuhe APEX - Neon Orange,L/XL / Neon Grün,https://phantom-athletics.com/products/mma-sparring-gloves-apex-neon-orange
 PHMMAG2884-LXL,in_stock,49.99,MMA Sparring Handschuhe APEX - Neon Orange,L/XL / Neon Gelb,https://phantom-athletics.com/products/mma-sparring-gloves-apex-neon-orange
 PHMMAG2886-LXL,in_stock,49.99,MMA Sparring Handschuhe APEX - Neon Orange,L/XL / Neon Rot,https://phantom-athletics.com/products/mma-sparring-gloves-apex-neon-orange
 PHMMAG2890-LXL,in_stock,49.99,MMA Sparring Handschuhe APEX - Neon Orange,L/XL / Neon Blau,https://phantom-athletics.com/products/mma-sparring-gloves-apex-neon-orange
-PHBG2891-10,in_stock,26.99,Boxhandschuhe APEX - Neon Blau,10 OZ / Neon Blau,https://phantom-athletics.com/products/boxing-gloves-apex-neon-blue
+PHBG2891-10,in_stock,59.99,Boxhandschuhe APEX - Neon Blau,10 OZ / Neon Blau,https://phantom-athletics.com/products/boxing-gloves-apex-neon-blue
 PHBG2883-10,in_stock,26.99,Boxhandschuhe APEX - Neon Blau,10 OZ / Neon Grün,https://phantom-athletics.com/products/boxing-gloves-apex-neon-blue
 PHBG2885-10,in_stock,26.99,Boxhandschuhe APEX - Neon Blau,10 OZ / Neon Gelb,https://phantom-athletics.com/products/boxing-gloves-apex-neon-blue
 PHBG2887-10,in_stock,26.99,Boxhandschuhe APEX - Neon Blau,10 OZ / Neon Rot,https://phantom-athletics.com/products/boxing-gloves-apex-neon-blue
@@ -4251,12 +4251,12 @@ PHBG2883-12,in_stock,26.99,Boxhandschuhe APEX - Neon Blau,12 OZ / Neon Grün,htt
 PHBG2885-12,in_stock,26.99,Boxhandschuhe APEX - Neon Blau,12 OZ / Neon Gelb,https://phantom-athletics.com/products/boxing-gloves-apex-neon-blue
 PHBG2887-12,in_stock,26.99,Boxhandschuhe APEX - Neon Blau,12 OZ / Neon Rot,https://phantom-athletics.com/products/boxing-gloves-apex-neon-blue
 PHBG2889-12,in_stock,26.99,Boxhandschuhe APEX - Neon Blau,12 OZ / Neon Orange,https://phantom-athletics.com/products/boxing-gloves-apex-neon-blue
-PHBG2891-14,in_stock,26.99,Boxhandschuhe APEX - Neon Blau,14 OZ / Neon Blau,https://phantom-athletics.com/products/boxing-gloves-apex-neon-blue
+PHBG2891-14,in_stock,59.99,Boxhandschuhe APEX - Neon Blau,14 OZ / Neon Blau,https://phantom-athletics.com/products/boxing-gloves-apex-neon-blue
 PHBG2883-14,in_stock,26.99,Boxhandschuhe APEX - Neon Blau,14 OZ / Neon Grün,https://phantom-athletics.com/products/boxing-gloves-apex-neon-blue
 PHBG2885-14,out_of_stock,26.99,Boxhandschuhe APEX - Neon Blau,14 OZ / Neon Gelb,https://phantom-athletics.com/products/boxing-gloves-apex-neon-blue
 PHBG2887-14,in_stock,26.99,Boxhandschuhe APEX - Neon Blau,14 OZ / Neon Rot,https://phantom-athletics.com/products/boxing-gloves-apex-neon-blue
 PHBG2889-14,in_stock,26.99,Boxhandschuhe APEX - Neon Blau,14 OZ / Neon Orange,https://phantom-athletics.com/products/boxing-gloves-apex-neon-blue
-PHBG2891-16,in_stock,26.99,Boxhandschuhe APEX - Neon Blau,16 OZ / Neon Blau,https://phantom-athletics.com/products/boxing-gloves-apex-neon-blue
+PHBG2891-16,in_stock,59.99,Boxhandschuhe APEX - Neon Blau,16 OZ / Neon Blau,https://phantom-athletics.com/products/boxing-gloves-apex-neon-blue
 PHBG2883-16,in_stock,26.99,Boxhandschuhe APEX - Neon Blau,16 OZ / Neon Grün,https://phantom-athletics.com/products/boxing-gloves-apex-neon-blue
 PHBG2885-16,out_of_stock,26.99,Boxhandschuhe APEX - Neon Blau,16 OZ / Neon Gelb,https://phantom-athletics.com/products/boxing-gloves-apex-neon-blue
 PHBG2887-16,in_stock,26.99,Boxhandschuhe APEX - Neon Blau,16 OZ / Neon Rot,https://phantom-athletics.com/products/boxing-gloves-apex-neon-blue
@@ -4342,7 +4342,7 @@ PHWR2553,in_stock,9.99,Boxbandagen Apex - Blau (250 cm / 400 cm),250cm / Schwarz
 PHWR2843,out_of_stock,4.99,Boxbandagen Apex - Blau (250 cm / 400 cm),400cm / Blue,https://phantom-athletics.com/products/handwraps-apex-blue
 PHWR2778,out_of_stock,4.99,Boxbandagen Apex - Blau (250 cm / 400 cm),400cm / Red,https://phantom-athletics.com/products/handwraps-apex-blue
 PHWR2554,in_stock,9.99,Boxbandagen Apex - Blau (250 cm / 400 cm),400cm / Schwarz,https://phantom-athletics.com/products/handwraps-apex-blue
-PHSHO2752-S,in_stock,29.99,Muay Thai Shorts Apex - Schwarz,S,https://phantom-athletics.com/products/muay-thai-shorts-apex
+PHSHO2752-S,out_of_stock,29.99,Muay Thai Shorts Apex - Schwarz,S,https://phantom-athletics.com/products/muay-thai-shorts-apex
 PHSHO2752-M,in_stock,29.99,Muay Thai Shorts Apex - Schwarz,M,https://phantom-athletics.com/products/muay-thai-shorts-apex
 PHSHO2752-L,in_stock,29.99,Muay Thai Shorts Apex - Schwarz,L,https://phantom-athletics.com/products/muay-thai-shorts-apex
 PHSHO2752-XL,in_stock,29.99,Muay Thai Shorts Apex - Schwarz,XL,https://phantom-athletics.com/products/muay-thai-shorts-apex
@@ -4679,7 +4679,7 @@ PHWS2717-XL,out_of_stock,29.99,Ringertrikot Warfare - Urban Camo,XL,https://phan
 PHWS2717-XXL,in_stock,29.99,Ringertrikot Warfare - Urban Camo,XXL,https://phantom-athletics.com/products/wrestling-jersey-warfare-urban-camo
 PHWS2721-S,out_of_stock,29.99,Ringertrikot Delta - Grau,S,https://phantom-athletics.com/products/wrestling-jersey-delta-grau
 PHWS2721-M,in_stock,29.99,Ringertrikot Delta - Grau,M,https://phantom-athletics.com/products/wrestling-jersey-delta-grau
-PHWS2721-L,in_stock,29.99,Ringertrikot Delta - Grau,L,https://phantom-athletics.com/products/wrestling-jersey-delta-grau
+PHWS2721-L,out_of_stock,29.99,Ringertrikot Delta - Grau,L,https://phantom-athletics.com/products/wrestling-jersey-delta-grau
 PHWS2721-XL,out_of_stock,29.99,Ringertrikot Delta - Grau,XL,https://phantom-athletics.com/products/wrestling-jersey-delta-grau
 PHWS2721-XXL,in_stock,29.99,Ringertrikot Delta - Grau,XXL,https://phantom-athletics.com/products/wrestling-jersey-delta-grau
 PHRG2722-S,out_of_stock,39.99,Rashguard Delta - Grau,S,https://phantom-athletics.com/products/rashguard-delta-grau
@@ -4786,8 +4786,8 @@ NISHOE2952-004-11,in_stock,119.99,Ringerschuhe NIKE Tawa - Blau/Schwarz,45,https
 NISHOE2952-004-115,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Blau/Schwarz,45.5,https://phantom-athletics.com/products/ringerschuhe-nike-tawa-blau-schwarz
 NISHOE2952-004-12,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Blau/Schwarz,46,https://phantom-athletics.com/products/ringerschuhe-nike-tawa-blau-schwarz
 NISHOE2952-004-13,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Blau/Schwarz,47.5,https://phantom-athletics.com/products/ringerschuhe-nike-tawa-blau-schwarz
-PHMMAG2694-SM,in_stock,31.99,MMA Sparring Handschuhe German Eagle,S/M,https://phantom-athletics.com/products/mma-sparring-gloves-german-eagle
-PHMMAG2694-LXL,in_stock,31.99,MMA Sparring Handschuhe German Eagle,L/XL,https://phantom-athletics.com/products/mma-sparring-gloves-german-eagle
+PHMMAG2694-SM,in_stock,29.99,MMA Sparring Handschuhe German Eagle,S/M,https://phantom-athletics.com/products/mma-sparring-gloves-german-eagle
+PHMMAG2694-LXL,in_stock,29.99,MMA Sparring Handschuhe German Eagle,L/XL,https://phantom-athletics.com/products/mma-sparring-gloves-german-eagle
 NISHOE2416-601-7,out_of_stock,59.99,Ringerschuhe NIKE Fury - Rot,40,https://phantom-athletics.com/products/wrestling-shoes-nike-fury-red
 NISHOE2416-601-75,in_stock,59.99,Ringerschuhe NIKE Fury - Rot,40.5,https://phantom-athletics.com/products/wrestling-shoes-nike-fury-red
 NISHOE2416-601-8,in_stock,59.99,Ringerschuhe NIKE Fury - Rot,41,https://phantom-athletics.com/products/wrestling-shoes-nike-fury-red
@@ -5145,10 +5145,10 @@ PHKG2543-SM,in_stock,49.99,Knieschützer RIOT Pro,S/M,https://phantom-athletics.
 PHKG2543-LXL,in_stock,49.99,Knieschützer RIOT Pro,L/XL,https://phantom-athletics.com/products/kneeguards-riot-pro
 PHSG2532-SM,in_stock,89.99,Schienbeinschutz RIOT Pro,S/M,https://phantom-athletics.com/products/shinguards-riot-pro
 PHSG2532-LXL,in_stock,89.99,Schienbeinschutz RIOT Pro,L/XL,https://phantom-athletics.com/products/shinguards-riot-pro
-PHBG2540-10,in_stock,50.99,Boxhandschuhe RIOT Pro,10 OZ,https://phantom-athletics.com/products/boxing-gloves-riot-pro
-PHBG2540-12,in_stock,50.99,Boxhandschuhe RIOT Pro,12 OZ,https://phantom-athletics.com/products/boxing-gloves-riot-pro
-PHBG2540-14,in_stock,50.99,Boxhandschuhe RIOT Pro,14 OZ,https://phantom-athletics.com/products/boxing-gloves-riot-pro
-PHBG2540-16,in_stock,50.99,Boxhandschuhe RIOT Pro,16 OZ,https://phantom-athletics.com/products/boxing-gloves-riot-pro
+PHBG2540-10,in_stock,39.99,Boxhandschuhe RIOT Pro,10 OZ,https://phantom-athletics.com/products/boxing-gloves-riot-pro
+PHBG2540-12,in_stock,39.99,Boxhandschuhe RIOT Pro,12 OZ,https://phantom-athletics.com/products/boxing-gloves-riot-pro
+PHBG2540-14,in_stock,39.99,Boxhandschuhe RIOT Pro,14 OZ,https://phantom-athletics.com/products/boxing-gloves-riot-pro
+PHBG2540-16,in_stock,39.99,Boxhandschuhe RIOT Pro,16 OZ,https://phantom-athletics.com/products/boxing-gloves-riot-pro
 PHMMAG2531-SM,in_stock,50.99,MMA Sparring Handschuhe RIOT Pro,S/M,https://phantom-athletics.com/products/mma-sparring-gloves-riot-pro
 PHMMAG2531-LXL,in_stock,50.99,MMA Sparring Handschuhe RIOT Pro,L/XL,https://phantom-athletics.com/products/mma-sparring-gloves-riot-pro
 PHSP2444,in_stock,12.99,Iso Fit Sport Drink - Eistee Pfirsich,Default Title,https://phantom-athletics.com/products/iso-fit-sport-drink-peach
@@ -5307,10 +5307,10 @@ PHSHO2469-M,in_stock,24.99,Fightshorts EVO Tiger Unit,M,https://phantom-athletic
 PHSHO2469-L,in_stock,24.99,Fightshorts EVO Tiger Unit,L,https://phantom-athletics.com/products/fightshorts-evo-tiger-unit
 PHSHO2469-XL,in_stock,24.99,Fightshorts EVO Tiger Unit,XL,https://phantom-athletics.com/products/fightshorts-evo-tiger-unit
 PHSHO2469-XXL,out_of_stock,24.99,Fightshorts EVO Tiger Unit,XXL,https://phantom-athletics.com/products/fightshorts-evo-tiger-unit
-PHBG2189-10,in_stock,40.99,Boxhandschuhe Germany,10 OZ,https://phantom-athletics.com/products/boxing-gloves-germany
-PHBG2189-12,in_stock,40.99,Boxhandschuhe Germany,12 OZ,https://phantom-athletics.com/products/boxing-gloves-germany
-PHBG2189-14,in_stock,40.99,Boxhandschuhe Germany,14 OZ,https://phantom-athletics.com/products/boxing-gloves-germany
-PHBG2189-16,in_stock,40.99,Boxhandschuhe Germany,16 OZ,https://phantom-athletics.com/products/boxing-gloves-germany
+PHBG2189-10,in_stock,29.99,Boxhandschuhe Germany,10 OZ,https://phantom-athletics.com/products/boxing-gloves-germany
+PHBG2189-12,in_stock,29.99,Boxhandschuhe Germany,12 OZ,https://phantom-athletics.com/products/boxing-gloves-germany
+PHBG2189-14,in_stock,29.99,Boxhandschuhe Germany,14 OZ,https://phantom-athletics.com/products/boxing-gloves-germany
+PHBG2189-16,in_stock,29.99,Boxhandschuhe Germany,16 OZ,https://phantom-athletics.com/products/boxing-gloves-germany
 PHBG2323-10,in_stock,39.99,Boxhandschuhe German Eagle,10 OZ,https://phantom-athletics.com/products/boxing-gloves-germany-2
 PHBG2323-12,in_stock,39.99,Boxhandschuhe German Eagle,12 OZ,https://phantom-athletics.com/products/boxing-gloves-germany-2
 PHBG2323-14,in_stock,39.99,Boxhandschuhe German Eagle,14 OZ,https://phantom-athletics.com/products/boxing-gloves-germany-2
@@ -5344,7 +5344,7 @@ PHSHOCOMP2424-XXL,in_stock,29.99,Tights APEX - Army,XXL,https://phantom-athletic
 PHSHOCOMP2425-S,out_of_stock,39.99,Tights APEX - Schwarz,S,https://phantom-athletics.com/products/tights-apex-black
 PHSHOCOMP2425-M,out_of_stock,39.99,Tights APEX - Schwarz,M,https://phantom-athletics.com/products/tights-apex-black
 PHSHOCOMP2425-L,in_stock,39.99,Tights APEX - Schwarz,L,https://phantom-athletics.com/products/tights-apex-black
-PHSHOCOMP2425-XL,in_stock,39.99,Tights APEX - Schwarz,XL,https://phantom-athletics.com/products/tights-apex-black
+PHSHOCOMP2425-XL,out_of_stock,39.99,Tights APEX - Schwarz,XL,https://phantom-athletics.com/products/tights-apex-black
 PHSHOCOMP2425-XXL,out_of_stock,39.99,Tights APEX - Schwarz,XXL,https://phantom-athletics.com/products/tights-apex-black
 PHSHO2429-S,in_stock,19.99,Fightshorts VECTOR Apex - Army,S,https://phantom-athletics.com/products/fightshorts-vector-apex-army
 PHSHO2429-M,out_of_stock,19.99,Fightshorts VECTOR Apex - Army,M,https://phantom-athletics.com/products/fightshorts-vector-apex-army
@@ -5889,11 +5889,11 @@ PHPADKICK00514-S,in_stock,99.99,Schlagpolster High Performance,Default Title,htt
 PHPAD1647,in_stock,69.99,Handpratzen High Performance,Default Title,https://phantom-athletics.com/products/boxing-pads
 PHMMAG1642-SM,in_stock,29.99,MMA Sparring Handschuhe RIOT,S/M,https://phantom-athletics.com/products/mma-gloves-riot
 PHMMAG1642-LXL,in_stock,29.99,MMA Sparring Handschuhe RIOT,L/XL,https://phantom-athletics.com/products/mma-gloves-riot
-PHMMAG1648-SM,in_stock,49.99,MMA Fight Handschuhe Blackout,S/M,https://phantom-athletics.com/products/mma-gloves-blackout
-PHMMAG1648-LXL,in_stock,49.99,MMA Fight Handschuhe Blackout,L/XL,https://phantom-athletics.com/products/mma-gloves-blackout
-PHBG1646-10,in_stock,39.99,Boxhandschuhe Ultra,10 OZ,https://phantom-athletics.com/products/boxing-gloves-ultra-training
-PHBG1646-12,out_of_stock,39.99,Boxhandschuhe Ultra,12 OZ,https://phantom-athletics.com/products/boxing-gloves-ultra-training
-PHBG1646-14,out_of_stock,39.99,Boxhandschuhe Ultra,14 OZ,https://phantom-athletics.com/products/boxing-gloves-ultra-training
-PHBG1646-16,out_of_stock,39.99,Boxhandschuhe Ultra,16 OZ,https://phantom-athletics.com/products/boxing-gloves-ultra-training
+PHMMAG1648-SM,in_stock,19.99,MMA Fight Handschuhe Blackout,S/M,https://phantom-athletics.com/products/mma-gloves-blackout
+PHMMAG1648-LXL,in_stock,19.99,MMA Fight Handschuhe Blackout,L/XL,https://phantom-athletics.com/products/mma-gloves-blackout
+PHBG1646-10,in_stock,59.99,Boxhandschuhe Ultra,10 OZ,https://phantom-athletics.com/products/boxing-gloves-ultra-training
+PHBG1646-12,out_of_stock,59.99,Boxhandschuhe Ultra,12 OZ,https://phantom-athletics.com/products/boxing-gloves-ultra-training
+PHBG1646-14,out_of_stock,59.99,Boxhandschuhe Ultra,14 OZ,https://phantom-athletics.com/products/boxing-gloves-ultra-training
+PHBG1646-16,out_of_stock,59.99,Boxhandschuhe Ultra,16 OZ,https://phantom-athletics.com/products/boxing-gloves-ultra-training
 PHMASK1102-S,in_stock,4.99,Phantom Trainingsmasken Sleeve - Pink,S,https://phantom-athletics.com/products/phantom-training-mask-sleeve-pink
 PHMASK1102-M,out_of_stock,9.99,Phantom Trainingsmasken Sleeve - Pink,M,https://phantom-athletics.com/products/phantom-training-mask-sleeve-pink
