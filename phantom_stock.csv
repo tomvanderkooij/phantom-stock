@@ -720,7 +720,7 @@ PHSG3953-LXL,in_stock,50.99,Schienbeinschutz APEX Striking - Blackout,L/XL,https
 PHMMAG3954-SM,in_stock,39.99,MMA Sparring Handschuhe APEX - Blackout,S/M,https://phantom-athletics.com/products/mma-sparring-gloves-apex-blackout
 PHMMAG3954-LXL,in_stock,39.99,MMA Sparring Handschuhe APEX - Blackout,L/XL,https://phantom-athletics.com/products/mma-sparring-gloves-apex-blackout
 PHBG3955-10,out_of_stock,26.99,Boxhandschuhe APEX - Blackout,10 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-blackout
-PHBG3955-12,in_stock,26.99,Boxhandschuhe APEX - Blackout,12 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-blackout
+PHBG3955-12,out_of_stock,26.99,Boxhandschuhe APEX - Blackout,12 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-blackout
 PHBG3955-14,out_of_stock,26.99,Boxhandschuhe APEX - Blackout,14 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-blackout
 PHBG3955-16,out_of_stock,26.99,Boxhandschuhe APEX - Blackout,16 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-blackout
 PHSG3956-SM,in_stock,69.99,Schienbeinschutz APEX Striking - Whiteout,S/M,https://phantom-athletics.com/products/shinpads-apex-striking-whiteout
@@ -794,7 +794,7 @@ PHSH3867-XL,out_of_stock,21.99,Oversize Heavy Tee Mexico,XL,https://phantom-athl
 PHSH3867-XXL,out_of_stock,21.99,Oversize Heavy Tee Mexico,XXL,https://phantom-athletics.com/products/oversize-heavy-tee-mexico
 PHSH3866-S,out_of_stock,21.99,Oversize Heavy Tee Elite,S,https://phantom-athletics.com/products/oversize-heavy-tee-elite
 PHSH3866-M,in_stock,21.99,Oversize Heavy Tee Elite,M,https://phantom-athletics.com/products/oversize-heavy-tee-elite
-PHSH3866-L,in_stock,21.99,Oversize Heavy Tee Elite,L,https://phantom-athletics.com/products/oversize-heavy-tee-elite
+PHSH3866-L,out_of_stock,21.99,Oversize Heavy Tee Elite,L,https://phantom-athletics.com/products/oversize-heavy-tee-elite
 PHSH3866-XL,in_stock,21.99,Oversize Heavy Tee Elite,XL,https://phantom-athletics.com/products/oversize-heavy-tee-elite
 PHSH3866-XXL,in_stock,21.99,Oversize Heavy Tee Elite,XXL,https://phantom-athletics.com/products/oversize-heavy-tee-elite
 PHSH3865-S,out_of_stock,21.99,Heavy Tee Germany,S,https://phantom-athletics.com/products/heavy-tee-germany
@@ -1482,7 +1482,7 @@ PHWR3625,in_stock,9.99,Boxbandagen FASTWRAPS Wrap-Pads,Default Title,https://pha
 PHSP2459,in_stock,19.99,L-Glutamin,Default Title,https://phantom-athletics.com/products/l-glutamin
 PHSP2458,out_of_stock,19.99,L-Arginin,Default Title,https://phantom-athletics.com/products/l-arginin
 PHSH2259-S,out_of_stock,21.99,T-Shirt Germany - Schwarz/Weiß,S,https://phantom-athletics.com/products/t-shirt-germany-black-white
-PHSH2259-M,in_stock,21.99,T-Shirt Germany - Schwarz/Weiß,M,https://phantom-athletics.com/products/t-shirt-germany-black-white
+PHSH2259-M,out_of_stock,21.99,T-Shirt Germany - Schwarz/Weiß,M,https://phantom-athletics.com/products/t-shirt-germany-black-white
 PHSH2259-L,out_of_stock,21.99,T-Shirt Germany - Schwarz/Weiß,L,https://phantom-athletics.com/products/t-shirt-germany-black-white
 PHSH2259-XL,out_of_stock,21.99,T-Shirt Germany - Schwarz/Weiß,XL,https://phantom-athletics.com/products/t-shirt-germany-black-white
 PHSH2259-XXL,out_of_stock,21.99,T-Shirt Germany - Schwarz/Weiß,XXL,https://phantom-athletics.com/products/t-shirt-germany-black-white
@@ -2049,7 +2049,7 @@ NISHOE9674-100-10,in_stock,103.99,Ringerschuhe NIKE Inflict 4 - Weiß,44,https:/
 NISHOE9674-100-105,in_stock,103.99,Ringerschuhe NIKE Inflict 4 - Weiß,44.5,https://phantom-athletics.com/products/wrestling-shoes-nike-inflict-4-white
 NISHOE9674-100-11,in_stock,103.99,Ringerschuhe NIKE Inflict 4 - Weiß,45,https://phantom-athletics.com/products/wrestling-shoes-nike-inflict-4-white
 NISHOE9674-100-115,in_stock,103.99,Ringerschuhe NIKE Inflict 4 - Weiß,45.5,https://phantom-athletics.com/products/wrestling-shoes-nike-inflict-4-white
-NISHOE9674-100-12,in_stock,103.99,Ringerschuhe NIKE Inflict 4 - Weiß,46,https://phantom-athletics.com/products/wrestling-shoes-nike-inflict-4-white
+NISHOE9674-100-12,out_of_stock,103.99,Ringerschuhe NIKE Inflict 4 - Weiß,46,https://phantom-athletics.com/products/wrestling-shoes-nike-inflict-4-white
 NISHOE9674-103-7,out_of_stock,103.99,Ringerschuhe NIKE Inflict 4 - Weiß/Lila,40,https://phantom-athletics.com/products/wrestling-shoes-nike-inflict-4-white-purple
 NISHOE9674-103-75,in_stock,103.99,Ringerschuhe NIKE Inflict 4 - Weiß/Lila,40.5,https://phantom-athletics.com/products/wrestling-shoes-nike-inflict-4-white-purple
 NISHOE9674-103-8,in_stock,103.99,Ringerschuhe NIKE Inflict 4 - Weiß/Lila,41,https://phantom-athletics.com/products/wrestling-shoes-nike-inflict-4-white-purple
@@ -2605,7 +2605,7 @@ PHSHOCOMP3441-L,out_of_stock,59.99,Tights 3/4 APEX - Weiß,L,https://phantom-ath
 PHSHOCOMP3441-XL,in_stock,59.99,Tights 3/4 APEX - Weiß,XL,https://phantom-athletics.com/products/tights-3-4-apex-white
 PHSHOCOMP3441-XXL,in_stock,59.99,Tights 3/4 APEX - Weiß,XXL,https://phantom-athletics.com/products/tights-3-4-apex-white
 PHSHO3443-S,in_stock,29.99,Fightshorts FUSION-R Woodland,S,https://phantom-athletics.com/products/fightshorts-fusion-r-woodland
-PHSHO3443-M,in_stock,29.99,Fightshorts FUSION-R Woodland,M,https://phantom-athletics.com/products/fightshorts-fusion-r-woodland
+PHSHO3443-M,out_of_stock,29.99,Fightshorts FUSION-R Woodland,M,https://phantom-athletics.com/products/fightshorts-fusion-r-woodland
 PHSHO3443-L,in_stock,29.99,Fightshorts FUSION-R Woodland,L,https://phantom-athletics.com/products/fightshorts-fusion-r-woodland
 PHSHO3443-XL,out_of_stock,29.99,Fightshorts FUSION-R Woodland,XL,https://phantom-athletics.com/products/fightshorts-fusion-r-woodland
 PHSHO3443-XXL,in_stock,29.99,Fightshorts FUSION-R Woodland,XXL,https://phantom-athletics.com/products/fightshorts-fusion-r-woodland
@@ -3526,9 +3526,9 @@ PHSG3049-SM,in_stock,39.99,Schienbeinschutz APEX Striking - Winter Camo,S/M,http
 PHSG3049-LXL,in_stock,39.99,Schienbeinschutz APEX Striking - Winter Camo,L/XL,https://phantom-athletics.com/products/shinguards-apex-striking-winter-camo
 PHMMAG3047-SM,in_stock,49.99,MMA Sparring Handschuhe APEX - Winter Camo,S/M,https://phantom-athletics.com/products/mma-sparring-gloves-apex-winter-camo
 PHMMAG3047-LXL,in_stock,49.99,MMA Sparring Handschuhe APEX - Winter Camo,L/XL,https://phantom-athletics.com/products/mma-sparring-gloves-apex-winter-camo
-PHSHO3066-S,in_stock,29.99,Fightshorts FUSION Serious,S,https://phantom-athletics.com/products/fightshorts-fusion-serious
+PHSHO3066-S,in_stock,49.99,Fightshorts FUSION Serious,S,https://phantom-athletics.com/products/fightshorts-fusion-serious
 PHSHO3066-M,in_stock,29.99,Fightshorts FUSION Serious,M,https://phantom-athletics.com/products/fightshorts-fusion-serious
-PHSHO3066-L,in_stock,29.99,Fightshorts FUSION Serious,L,https://phantom-athletics.com/products/fightshorts-fusion-serious
+PHSHO3066-L,out_of_stock,49.99,Fightshorts FUSION Serious,L,https://phantom-athletics.com/products/fightshorts-fusion-serious
 PHSHO3066-XL,in_stock,29.99,Fightshorts FUSION Serious,XL,https://phantom-athletics.com/products/fightshorts-fusion-serious
 PHSHO3066-XXL,in_stock,29.99,Fightshorts FUSION Serious,XXL,https://phantom-athletics.com/products/fightshorts-fusion-serious
 PHSHO3056-S,in_stock,29.99,Fightshorts FUSION Muay Thai - Weiß/Gold,S / Weiß/Gold,https://phantom-athletics.com/products/fightshorts-fusion-muay-thai-white-gold
@@ -3759,15 +3759,15 @@ PHSHO3030-M,in_stock,29.99,Fightshorts FUSION-R Tiger Domination,M,https://phant
 PHSHO3030-L,in_stock,29.99,Fightshorts FUSION-R Tiger Domination,L,https://phantom-athletics.com/products/fightshorts-fusion-r-tiger-domination
 PHSHO3030-XL,in_stock,29.99,Fightshorts FUSION-R Tiger Domination,XL,https://phantom-athletics.com/products/fightshorts-fusion-r-tiger-domination
 PHSHO3030-XXL,in_stock,29.99,Fightshorts FUSION-R Tiger Domination,XXL,https://phantom-athletics.com/products/fightshorts-fusion-r-tiger-domination
-PHSHO3008-S,in_stock,24.99,Fightshorts FUSION-R Dessert Camo - Schwarz,S / Schwarz,https://phantom-athletics.com/products/fightshorts-fusion-r-dessert-camo-black
+PHSHO3008-S,in_stock,49.99,Fightshorts FUSION-R Dessert Camo - Schwarz,S / Schwarz,https://phantom-athletics.com/products/fightshorts-fusion-r-dessert-camo-black
 PHSHO3009-S,in_stock,49.99,Fightshorts FUSION-R Dessert Camo - Schwarz,S / Blau,https://phantom-athletics.com/products/fightshorts-fusion-r-dessert-camo-black
-PHSHO3008-M,out_of_stock,24.99,Fightshorts FUSION-R Dessert Camo - Schwarz,M / Schwarz,https://phantom-athletics.com/products/fightshorts-fusion-r-dessert-camo-black
+PHSHO3008-M,out_of_stock,49.99,Fightshorts FUSION-R Dessert Camo - Schwarz,M / Schwarz,https://phantom-athletics.com/products/fightshorts-fusion-r-dessert-camo-black
 PHSHO3009-M,in_stock,49.99,Fightshorts FUSION-R Dessert Camo - Schwarz,M / Blau,https://phantom-athletics.com/products/fightshorts-fusion-r-dessert-camo-black
-PHSHO3008-L,out_of_stock,24.99,Fightshorts FUSION-R Dessert Camo - Schwarz,L / Schwarz,https://phantom-athletics.com/products/fightshorts-fusion-r-dessert-camo-black
+PHSHO3008-L,out_of_stock,49.99,Fightshorts FUSION-R Dessert Camo - Schwarz,L / Schwarz,https://phantom-athletics.com/products/fightshorts-fusion-r-dessert-camo-black
 PHSHO3009-L,out_of_stock,49.99,Fightshorts FUSION-R Dessert Camo - Schwarz,L / Blau,https://phantom-athletics.com/products/fightshorts-fusion-r-dessert-camo-black
-PHSHO3008-XL,in_stock,24.99,Fightshorts FUSION-R Dessert Camo - Schwarz,XL / Schwarz,https://phantom-athletics.com/products/fightshorts-fusion-r-dessert-camo-black
+PHSHO3008-XL,in_stock,49.99,Fightshorts FUSION-R Dessert Camo - Schwarz,XL / Schwarz,https://phantom-athletics.com/products/fightshorts-fusion-r-dessert-camo-black
 PHSHO3009-XL,in_stock,49.99,Fightshorts FUSION-R Dessert Camo - Schwarz,XL / Blau,https://phantom-athletics.com/products/fightshorts-fusion-r-dessert-camo-black
-PHSHO3008-XXL,in_stock,24.99,Fightshorts FUSION-R Dessert Camo - Schwarz,XXL / Schwarz,https://phantom-athletics.com/products/fightshorts-fusion-r-dessert-camo-black
+PHSHO3008-XXL,in_stock,49.99,Fightshorts FUSION-R Dessert Camo - Schwarz,XXL / Schwarz,https://phantom-athletics.com/products/fightshorts-fusion-r-dessert-camo-black
 PHSHO3009-XXL,in_stock,49.99,Fightshorts FUSION-R Dessert Camo - Schwarz,XXL / Blau,https://phantom-athletics.com/products/fightshorts-fusion-r-dessert-camo-black
 PHSHO3007-S,in_stock,29.99,Fightshorts FUSION-R MGS Skull Camo,S / Skull camo,https://phantom-athletics.com/products/fightshorts-fusion-r-mgs-skull-camo
 PHSHO3001-S,in_stock,49.99,Fightshorts FUSION-R MGS Skull Camo,S / Splitter,https://phantom-athletics.com/products/fightshorts-fusion-r-mgs-skull-camo
@@ -4616,11 +4616,11 @@ PHSHO2820-M,in_stock,31.99,Fightshorts FUSION Apex - Schwarz,M,https://phantom-a
 PHSHO2820-L,in_stock,31.99,Fightshorts FUSION Apex - Schwarz,L,https://phantom-athletics.com/products/fightshorts-fusion-apex-black
 PHSHO2820-XL,in_stock,31.99,Fightshorts FUSION Apex - Schwarz,XL,https://phantom-athletics.com/products/fightshorts-fusion-apex-black
 PHSHO2820-XXL,in_stock,31.99,Fightshorts FUSION Apex - Schwarz,XXL,https://phantom-athletics.com/products/fightshorts-fusion-apex-black
-PHSHO2687-S,in_stock,29.99,Fightshorts FUSION Splatter  - Weiß/Neon,S,https://phantom-athletics.com/products/fightshorts-fusion-splatter-white-neon
+PHSHO2687-S,in_stock,49.99,Fightshorts FUSION Splatter  - Weiß/Neon,S,https://phantom-athletics.com/products/fightshorts-fusion-splatter-white-neon
 PHSHO2687-M,in_stock,29.99,Fightshorts FUSION Splatter  - Weiß/Neon,M,https://phantom-athletics.com/products/fightshorts-fusion-splatter-white-neon
-PHSHO2687-L,in_stock,29.99,Fightshorts FUSION Splatter  - Weiß/Neon,L,https://phantom-athletics.com/products/fightshorts-fusion-splatter-white-neon
-PHSHO2687-XL,in_stock,29.99,Fightshorts FUSION Splatter  - Weiß/Neon,XL,https://phantom-athletics.com/products/fightshorts-fusion-splatter-white-neon
-PHSHO2687-XXL,out_of_stock,29.99,Fightshorts FUSION Splatter  - Weiß/Neon,XXL,https://phantom-athletics.com/products/fightshorts-fusion-splatter-white-neon
+PHSHO2687-L,in_stock,49.99,Fightshorts FUSION Splatter  - Weiß/Neon,L,https://phantom-athletics.com/products/fightshorts-fusion-splatter-white-neon
+PHSHO2687-XL,in_stock,49.99,Fightshorts FUSION Splatter  - Weiß/Neon,XL,https://phantom-athletics.com/products/fightshorts-fusion-splatter-white-neon
+PHSHO2687-XXL,out_of_stock,49.99,Fightshorts FUSION Splatter  - Weiß/Neon,XXL,https://phantom-athletics.com/products/fightshorts-fusion-splatter-white-neon
 PHSHO2686-S,out_of_stock,49.99,Fightshorts FUSION Splatter  - Schwarz/Neon,S,https://phantom-athletics.com/products/fightshorts-fusion-splatter-black-neon
 PHSHO2686-M,in_stock,49.99,Fightshorts FUSION Splatter  - Schwarz/Neon,M,https://phantom-athletics.com/products/fightshorts-fusion-splatter-black-neon
 PHSHO2686-L,in_stock,49.99,Fightshorts FUSION Splatter  - Schwarz/Neon,L,https://phantom-athletics.com/products/fightshorts-fusion-splatter-black-neon
@@ -4673,9 +4673,9 @@ PHSHO2649-XL,in_stock,24.99,Fightshorts FUSION Tiger Unit,XL,https://phantom-ath
 PHSHO2649-XXL,in_stock,24.99,Fightshorts FUSION Tiger Unit,XXL,https://phantom-athletics.com/products/fightshorts-fusion-tiger-unit
 PHSHO2689-S,in_stock,24.99,Fightshorts FUSION Splatter  - Rot,S,https://phantom-athletics.com/products/fightshorts-fusion-splatter-red
 PHSHO2689-M,in_stock,24.99,Fightshorts FUSION Splatter  - Rot,M,https://phantom-athletics.com/products/fightshorts-fusion-splatter-red
-PHSHO2689-L,in_stock,24.99,Fightshorts FUSION Splatter  - Rot,L,https://phantom-athletics.com/products/fightshorts-fusion-splatter-red
-PHSHO2689-XL,in_stock,24.99,Fightshorts FUSION Splatter  - Rot,XL,https://phantom-athletics.com/products/fightshorts-fusion-splatter-red
-PHSHO2689-XXL,in_stock,24.99,Fightshorts FUSION Splatter  - Rot,XXL,https://phantom-athletics.com/products/fightshorts-fusion-splatter-red
+PHSHO2689-L,in_stock,49.99,Fightshorts FUSION Splatter  - Rot,L,https://phantom-athletics.com/products/fightshorts-fusion-splatter-red
+PHSHO2689-XL,in_stock,49.99,Fightshorts FUSION Splatter  - Rot,XL,https://phantom-athletics.com/products/fightshorts-fusion-splatter-red
+PHSHO2689-XXL,in_stock,49.99,Fightshorts FUSION Splatter  - Rot,XXL,https://phantom-athletics.com/products/fightshorts-fusion-splatter-red
 PHSHO2685-S,in_stock,24.99,Fightshorts FUSION Splatter,S / Blau,https://phantom-athletics.com/products/fightshorts-fusion-splatter-blue
 PHSHO2685-M,in_stock,24.99,Fightshorts FUSION Splatter,M / Blau,https://phantom-athletics.com/products/fightshorts-fusion-splatter-blue
 PHSHO2685-L,in_stock,24.99,Fightshorts FUSION Splatter,L / Blau,https://phantom-athletics.com/products/fightshorts-fusion-splatter-blue
@@ -4774,7 +4774,7 @@ NISHOE2952-016-115,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Rot/Schwarz,45.5
 NISHOE2952-016-12,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Rot/Schwarz,46,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-red-black
 NISHOE2952-171-7,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Gold,40,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-gold
 NISHOE2952-171-75,in_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Gold,40.5,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-gold
-NISHOE2952-171-8,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Gold,41,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-gold
+NISHOE2952-171-8,in_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Gold,41,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-gold
 NISHOE2952-171-85,in_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Gold,42,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-gold
 NISHOE2952-171-9,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Gold,42.5,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-gold
 NISHOE2952-171-95,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Gold,43,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-gold
