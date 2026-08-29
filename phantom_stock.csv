@@ -800,7 +800,7 @@ PHSH3867-XXL,out_of_stock,21.99,Oversize Heavy Tee Mexico,XXL,https://phantom-at
 PHSH3866-S,out_of_stock,21.99,Oversize Heavy Tee Elite,S,https://phantom-athletics.com/products/oversize-heavy-tee-elite
 PHSH3866-M,in_stock,21.99,Oversize Heavy Tee Elite,M,https://phantom-athletics.com/products/oversize-heavy-tee-elite
 PHSH3866-L,in_stock,21.99,Oversize Heavy Tee Elite,L,https://phantom-athletics.com/products/oversize-heavy-tee-elite
-PHSH3866-XL,in_stock,21.99,Oversize Heavy Tee Elite,XL,https://phantom-athletics.com/products/oversize-heavy-tee-elite
+PHSH3866-XL,out_of_stock,21.99,Oversize Heavy Tee Elite,XL,https://phantom-athletics.com/products/oversize-heavy-tee-elite
 PHSH3866-XXL,in_stock,21.99,Oversize Heavy Tee Elite,XXL,https://phantom-athletics.com/products/oversize-heavy-tee-elite
 PHSH3865-S,out_of_stock,21.99,Heavy Tee Germany,S,https://phantom-athletics.com/products/heavy-tee-germany
 PHSH3865-M,out_of_stock,21.99,Heavy Tee Germany,M,https://phantom-athletics.com/products/heavy-tee-germany
@@ -1253,8 +1253,8 @@ PHRG3763-L,in_stock,29.99,Rashguard Team Croatia - Blau,L,https://phantom-athlet
 PHRG3763-XL,in_stock,29.99,Rashguard Team Croatia - Blau,XL,https://phantom-athletics.com/products/rashguard-team-croatia-blue
 PHRG3763-XXL,in_stock,29.99,Rashguard Team Croatia - Blau,XXL,https://phantom-athletics.com/products/rashguard-team-croatia-blue
 PHSHEVO+3765-S,out_of_stock,29.99,Trainingsshirt EVO+ Team Croatia - Schwarz,S,https://phantom-athletics.com/products/training-shirt-evo-team-croatia-black
-PHSHEVO+3765-M,in_stock,29.99,Trainingsshirt EVO+ Team Croatia - Schwarz,M,https://phantom-athletics.com/products/training-shirt-evo-team-croatia-black
-PHSHEVO+3765-L,in_stock,29.99,Trainingsshirt EVO+ Team Croatia - Schwarz,L,https://phantom-athletics.com/products/training-shirt-evo-team-croatia-black
+PHSHEVO+3765-M,out_of_stock,29.99,Trainingsshirt EVO+ Team Croatia - Schwarz,M,https://phantom-athletics.com/products/training-shirt-evo-team-croatia-black
+PHSHEVO+3765-L,out_of_stock,29.99,Trainingsshirt EVO+ Team Croatia - Schwarz,L,https://phantom-athletics.com/products/training-shirt-evo-team-croatia-black
 PHSHEVO+3765-XL,out_of_stock,29.99,Trainingsshirt EVO+ Team Croatia - Schwarz,XL,https://phantom-athletics.com/products/training-shirt-evo-team-croatia-black
 PHSHEVO+3765-XXL,in_stock,29.99,Trainingsshirt EVO+ Team Croatia - Schwarz,XXL,https://phantom-athletics.com/products/training-shirt-evo-team-croatia-black
 PHSHEVO+3762-S,out_of_stock,29.99,Trainingsshirt EVO+ Team Croatia - Blau,S,https://phantom-athletics.com/products/training-shirt-evo-team-croatia-blue
@@ -1685,7 +1685,7 @@ ADSHOE9162-85,out_of_stock,59.99,Boxschuhe ADIDAS Box Hog 2 - Weiß,42 2/3,https
 ADSHOE9162-9,out_of_stock,59.99,Boxschuhe ADIDAS Box Hog 2 - Weiß,43 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-2-white
 ADSHOE9162-95,out_of_stock,59.99,Boxschuhe ADIDAS Box Hog 2 - Weiß,44,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-2-white
 ADSHOE9162-10,out_of_stock,59.99,Boxschuhe ADIDAS Box Hog 2 - Weiß,44 2/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-2-white
-ADSHOE9162-105,in_stock,59.99,Boxschuhe ADIDAS Box Hog 2 - Weiß,45 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-2-white
+ADSHOE9162-105,out_of_stock,59.99,Boxschuhe ADIDAS Box Hog 2 - Weiß,45 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-2-white
 ADSHOE9162-11,in_stock,59.99,Boxschuhe ADIDAS Box Hog 2 - Weiß,46,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-2-white
 ADSHOE1338-27,out_of_stock,79.99,Kinder Ringerschuhe ADIDAS SpeedEx - Schwarz/Silber,27,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-speedex-black
 ADSHOE1338-28,out_of_stock,79.99,Kinder Ringerschuhe ADIDAS SpeedEx - Schwarz/Silber,28,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-speedex-black
@@ -2026,7 +2026,7 @@ ASSHOEA058_401-42,out_of_stock,59.99,Ringerschuhe ASICS Snapdown 4 - Midnight Bl
 ASSHOEA058_401-425,out_of_stock,59.99,Ringerschuhe ASICS Snapdown 4 - Midnight Blau / Silber,42.5,https://phantom-athletics.com/products/ringerschuhe-asics-snapdown-4-midnight-blue-silver
 ASSHOEA058_401-43,out_of_stock,59.99,Ringerschuhe ASICS Snapdown 4 - Midnight Blau / Silber,43,https://phantom-athletics.com/products/ringerschuhe-asics-snapdown-4-midnight-blue-silver
 ASSHOEA058_401-435,out_of_stock,59.99,Ringerschuhe ASICS Snapdown 4 - Midnight Blau / Silber,43.5,https://phantom-athletics.com/products/ringerschuhe-asics-snapdown-4-midnight-blue-silver
-ASSHOEA058_401-44,in_stock,59.99,Ringerschuhe ASICS Snapdown 4 - Midnight Blau / Silber,44,https://phantom-athletics.com/products/ringerschuhe-asics-snapdown-4-midnight-blue-silver
+ASSHOEA058_401-44,out_of_stock,59.99,Ringerschuhe ASICS Snapdown 4 - Midnight Blau / Silber,44,https://phantom-athletics.com/products/ringerschuhe-asics-snapdown-4-midnight-blue-silver
 ASSHOEA058_401-445,out_of_stock,59.99,Ringerschuhe ASICS Snapdown 4 - Midnight Blau / Silber,44.5,https://phantom-athletics.com/products/ringerschuhe-asics-snapdown-4-midnight-blue-silver
 ASSHOEA058_401-45,out_of_stock,59.99,Ringerschuhe ASICS Snapdown 4 - Midnight Blau / Silber,45,https://phantom-athletics.com/products/ringerschuhe-asics-snapdown-4-midnight-blue-silver
 ASSHOEA058_401-46,out_of_stock,59.99,Ringerschuhe ASICS Snapdown 4 - Midnight Blau / Silber,46,https://phantom-athletics.com/products/ringerschuhe-asics-snapdown-4-midnight-blue-silver
@@ -2721,7 +2721,7 @@ NISHOE2952-100-7,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,40,ht
 NISHOE2952-100-75,in_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,40.5,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-silver
 NISHOE2952-100-8,in_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,41,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-silver
 NISHOE2952-100-85,in_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,42,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-silver
-NISHOE2952-100-9,in_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,42.5,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-silver
+NISHOE2952-100-9,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,42.5,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-silver
 NISHOE2952-100-95,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,43,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-silver
 NISHOE2952-100-10,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,44,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-silver
 NISHOE2952-100-105,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Weiß/Silber,44.5,https://phantom-athletics.com/products/wrestling-shoes-nike-tawa-white-silver
@@ -2966,7 +2966,7 @@ PHSHO2962-XXL,out_of_stock,49.99,Fightshorts FUSION Blue Tiger,XXL / Jaguar - Ar
 PHSHO2963-XXL,in_stock,49.99,Fightshorts FUSION Blue Tiger,XXL / Panther - Schwarz,https://phantom-athletics.com/products/fightshorts-fusion-blue-tiger
 PHSHO3290-S,in_stock,19.99,Fightshorts FUSION-R - FIGHT FIGHT FIGHT,S,https://phantom-athletics.com/products/fightshorts-fusion-r-fight-fight-fight
 PHSHO3290-M,out_of_stock,19.99,Fightshorts FUSION-R - FIGHT FIGHT FIGHT,M,https://phantom-athletics.com/products/fightshorts-fusion-r-fight-fight-fight
-PHSHO3290-L,in_stock,19.99,Fightshorts FUSION-R - FIGHT FIGHT FIGHT,L,https://phantom-athletics.com/products/fightshorts-fusion-r-fight-fight-fight
+PHSHO3290-L,out_of_stock,19.99,Fightshorts FUSION-R - FIGHT FIGHT FIGHT,L,https://phantom-athletics.com/products/fightshorts-fusion-r-fight-fight-fight
 PHSHO3290-XL,in_stock,19.99,Fightshorts FUSION-R - FIGHT FIGHT FIGHT,XL,https://phantom-athletics.com/products/fightshorts-fusion-r-fight-fight-fight
 PHSHO3290-XXL,in_stock,19.99,Fightshorts FUSION-R - FIGHT FIGHT FIGHT,XXL,https://phantom-athletics.com/products/fightshorts-fusion-r-fight-fight-fight
 ADSHOE5062-75,out_of_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Weiß,41 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-white
@@ -3036,7 +3036,7 @@ PHSHO3238-XXL,in_stock,49.99,Fightshorts FUSION Red Dragon,XXL / Green Viper,htt
 PHSHO3239-XXL,in_stock,49.99,Fightshorts FUSION Red Dragon,XXL / Boa,https://phantom-athletics.com/products/fightshorts-fusion-red-dragon
 PHSHO3247-S,in_stock,29.99,Fightshorts FUSION-R Iceman,S,https://phantom-athletics.com/products/fightshorts-fusion-r-iceman
 PHSHO3247-M,in_stock,29.99,Fightshorts FUSION-R Iceman,M,https://phantom-athletics.com/products/fightshorts-fusion-r-iceman
-PHSHO3247-L,in_stock,29.99,Fightshorts FUSION-R Iceman,L,https://phantom-athletics.com/products/fightshorts-fusion-r-iceman
+PHSHO3247-L,out_of_stock,29.99,Fightshorts FUSION-R Iceman,L,https://phantom-athletics.com/products/fightshorts-fusion-r-iceman
 PHSHO3247-XL,in_stock,29.99,Fightshorts FUSION-R Iceman,XL,https://phantom-athletics.com/products/fightshorts-fusion-r-iceman
 PHSHO3247-XXL,in_stock,29.99,Fightshorts FUSION-R Iceman,XXL,https://phantom-athletics.com/products/fightshorts-fusion-r-iceman
 PHSHO3246-S,in_stock,19.99,Fightshorts FUSION-R Punisher,S,https://phantom-athletics.com/products/fightshorts-fusion-r-punisher
@@ -4387,7 +4387,7 @@ ASSHOEA058_001-445,out_of_stock,59.99,Ringerschuhe ASICS Snapdown 4 - Schwarz,44
 ASSHOEA058_001-45,out_of_stock,59.99,Ringerschuhe ASICS Snapdown 4 - Schwarz,45,https://phantom-athletics.com/products/wrestling-shoes-asics-snapdown-4-black
 ASSHOEA058_001-46,out_of_stock,59.99,Ringerschuhe ASICS Snapdown 4 - Schwarz,46,https://phantom-athletics.com/products/wrestling-shoes-asics-snapdown-4-black
 ASSHOEA051_001-42,out_of_stock,59.99,Ringerschuhe ASICS Matflex 7 - Schwarz,42,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-black
-ASSHOEA051_001-425,in_stock,59.99,Ringerschuhe ASICS Matflex 7 - Schwarz,42.5,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-black
+ASSHOEA051_001-425,out_of_stock,59.99,Ringerschuhe ASICS Matflex 7 - Schwarz,42.5,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-black
 ASSHOEA051_001-43,out_of_stock,59.99,Ringerschuhe ASICS Matflex 7 - Schwarz,43,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-black
 ASSHOEA051_001-435,out_of_stock,59.99,Ringerschuhe ASICS Matflex 7 - Schwarz,43.5,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-black
 ASSHOEA051_001-44,in_stock,59.99,Ringerschuhe ASICS Matflex 7 - Schwarz,44,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-black
@@ -4409,7 +4409,7 @@ PHSHEVO2861-XL,in_stock,29.99,Trainingsshirt EVO Camo Tiger,XL,https://phantom-a
 PHSHEVO2861-XXL,in_stock,29.99,Trainingsshirt EVO Camo Tiger,XXL,https://phantom-athletics.com/products/training-shirt-evo-camo-tiger
 PHRG2862-S,in_stock,29.99,Rashguard EVO Camo Tiger,S,https://phantom-athletics.com/products/rashguard-evo-camo-tiger
 PHRG2862-M,in_stock,29.99,Rashguard EVO Camo Tiger,M,https://phantom-athletics.com/products/rashguard-evo-camo-tiger
-PHRG2862-L,in_stock,29.99,Rashguard EVO Camo Tiger,L,https://phantom-athletics.com/products/rashguard-evo-camo-tiger
+PHRG2862-L,out_of_stock,29.99,Rashguard EVO Camo Tiger,L,https://phantom-athletics.com/products/rashguard-evo-camo-tiger
 PHRG2862-XL,in_stock,29.99,Rashguard EVO Camo Tiger,XL,https://phantom-athletics.com/products/rashguard-evo-camo-tiger
 PHRG2862-XXL,in_stock,29.99,Rashguard EVO Camo Tiger,XXL,https://phantom-athletics.com/products/rashguard-evo-camo-tiger
 PHSHOCOMP2863-S,in_stock,29.99,Tights Camo Tiger,S,https://phantom-athletics.com/products/tights-tiger-camo
