@@ -1,4 +1,14 @@
 SKU,Quantity,Price,Title,Variant,ProductURL
+PHSH4130-S,in_stock,21.99,Oversize Heavy T-Shirt KNOCKOUT CLUB - Sand,S,https://phantom-athletics.com/products/oversize-shirt-knockout-club-sand
+PHSH4130-M,in_stock,21.99,Oversize Heavy T-Shirt KNOCKOUT CLUB - Sand,M,https://phantom-athletics.com/products/oversize-shirt-knockout-club-sand
+PHSH4130-L,in_stock,21.99,Oversize Heavy T-Shirt KNOCKOUT CLUB - Sand,L,https://phantom-athletics.com/products/oversize-shirt-knockout-club-sand
+PHSH4130-XL,in_stock,21.99,Oversize Heavy T-Shirt KNOCKOUT CLUB - Sand,XL,https://phantom-athletics.com/products/oversize-shirt-knockout-club-sand
+PHSH4130-XXL,in_stock,21.99,Oversize Heavy T-Shirt KNOCKOUT CLUB - Sand,XXL,https://phantom-athletics.com/products/oversize-shirt-knockout-club-sand
+PHSH4128-S,out_of_stock,32.99,Oversize Heavy T-Shirt DON'T TREAD ON ME - Army,S,https://phantom-athletics.com/products/oversize-t-shirt-dont-tread-on-me-army
+PHSH4128-M,in_stock,32.99,Oversize Heavy T-Shirt DON'T TREAD ON ME - Army,M,https://phantom-athletics.com/products/oversize-t-shirt-dont-tread-on-me-army
+PHSH4128-L,in_stock,32.99,Oversize Heavy T-Shirt DON'T TREAD ON ME - Army,L,https://phantom-athletics.com/products/oversize-t-shirt-dont-tread-on-me-army
+PHSH4128-XL,in_stock,32.99,Oversize Heavy T-Shirt DON'T TREAD ON ME - Army,XL,https://phantom-athletics.com/products/oversize-t-shirt-dont-tread-on-me-army
+PHSH4128-XXL,in_stock,32.99,Oversize Heavy T-Shirt DON'T TREAD ON ME - Army,XXL,https://phantom-athletics.com/products/oversize-t-shirt-dont-tread-on-me-army
 PHSHO4158-S,out_of_stock,59.99,DMC Training Shorts,S,https://phantom-athletics.com/products/dmc-training-shorts
 PHSHO4158-M,out_of_stock,59.99,DMC Training Shorts,M,https://phantom-athletics.com/products/dmc-training-shorts
 PHSHO4158-L,in_stock,59.99,DMC Training Shorts,L,https://phantom-athletics.com/products/dmc-training-shorts
@@ -283,16 +293,16 @@ PHSH3991-M,in_stock,32.99,Oversize T-Shirt Blade,M,https://phantom-athletics.com
 PHSH3991-L,in_stock,32.99,Oversize T-Shirt Blade,L,https://phantom-athletics.com/products/oversize-t-shirt-blade
 PHSH3991-XL,in_stock,32.99,Oversize T-Shirt Blade,XL,https://phantom-athletics.com/products/oversize-t-shirt-blade
 PHSH3991-XXL,in_stock,32.99,Oversize T-Shirt Blade,XXL,https://phantom-athletics.com/products/oversize-t-shirt-blade
-PHWR2782-250,in_stock,12.99,Boxbandagen MT-Pro (250/450 cm) - Gelb,250CM / Gelb,https://phantom-athletics.com/products/boxbandagen-mt-pro-250-450-cm-yellow
-PHWR2780-250,out_of_stock,12.99,Boxbandagen MT-Pro (250/450 cm) - Gelb,250CM / Pink,https://phantom-athletics.com/products/boxbandagen-mt-pro-250-450-cm-yellow
-PHWR2781-250,in_stock,12.99,Boxbandagen MT-Pro (250/450 cm) - Gelb,250CM / Rot,https://phantom-athletics.com/products/boxbandagen-mt-pro-250-450-cm-yellow
-PHWR2779-250,in_stock,12.99,Boxbandagen MT-Pro (250/450 cm) - Gelb,250CM / Weiß,https://phantom-athletics.com/products/boxbandagen-mt-pro-250-450-cm-yellow
-PHWR2783-250,out_of_stock,12.99,Boxbandagen MT-Pro (250/450 cm) - Gelb,250CM / Schwarz,https://phantom-athletics.com/products/boxbandagen-mt-pro-250-450-cm-yellow
-PHWR2782-450,out_of_stock,12.99,Boxbandagen MT-Pro (250/450 cm) - Gelb,450CM / Gelb,https://phantom-athletics.com/products/boxbandagen-mt-pro-250-450-cm-yellow
-PHWR2780-450,in_stock,12.99,Boxbandagen MT-Pro (250/450 cm) - Gelb,450CM / Pink,https://phantom-athletics.com/products/boxbandagen-mt-pro-250-450-cm-yellow
-PHWR2781-450,out_of_stock,12.99,Boxbandagen MT-Pro (250/450 cm) - Gelb,450CM / Rot,https://phantom-athletics.com/products/boxbandagen-mt-pro-250-450-cm-yellow
-PHWR2779-450,out_of_stock,12.99,Boxbandagen MT-Pro (250/450 cm) - Gelb,450CM / Weiß,https://phantom-athletics.com/products/boxbandagen-mt-pro-250-450-cm-yellow
-PHWR2783-450,out_of_stock,12.99,Boxbandagen MT-Pro (250/450 cm) - Gelb,450CM / Schwarz,https://phantom-athletics.com/products/boxbandagen-mt-pro-250-450-cm-yellow
+PHWR2782-250,in_stock,4.99,Boxbandagen MT-Pro (250/450 cm) - Gelb,250CM / Gelb,https://phantom-athletics.com/products/boxbandagen-mt-pro-250-450-cm-yellow
+PHWR2780-250,out_of_stock,4.99,Boxbandagen MT-Pro (250/450 cm) - Gelb,250CM / Pink,https://phantom-athletics.com/products/boxbandagen-mt-pro-250-450-cm-yellow
+PHWR2781-250,in_stock,4.99,Boxbandagen MT-Pro (250/450 cm) - Gelb,250CM / Rot,https://phantom-athletics.com/products/boxbandagen-mt-pro-250-450-cm-yellow
+PHWR2779-250,in_stock,4.99,Boxbandagen MT-Pro (250/450 cm) - Gelb,250CM / Weiß,https://phantom-athletics.com/products/boxbandagen-mt-pro-250-450-cm-yellow
+PHWR2783-250,out_of_stock,4.99,Boxbandagen MT-Pro (250/450 cm) - Gelb,250CM / Schwarz,https://phantom-athletics.com/products/boxbandagen-mt-pro-250-450-cm-yellow
+PHWR2782-450,out_of_stock,4.99,Boxbandagen MT-Pro (250/450 cm) - Gelb,450CM / Gelb,https://phantom-athletics.com/products/boxbandagen-mt-pro-250-450-cm-yellow
+PHWR2780-450,in_stock,4.99,Boxbandagen MT-Pro (250/450 cm) - Gelb,450CM / Pink,https://phantom-athletics.com/products/boxbandagen-mt-pro-250-450-cm-yellow
+PHWR2781-450,out_of_stock,4.99,Boxbandagen MT-Pro (250/450 cm) - Gelb,450CM / Rot,https://phantom-athletics.com/products/boxbandagen-mt-pro-250-450-cm-yellow
+PHWR2779-450,out_of_stock,4.99,Boxbandagen MT-Pro (250/450 cm) - Gelb,450CM / Weiß,https://phantom-athletics.com/products/boxbandagen-mt-pro-250-450-cm-yellow
+PHWR2783-450,out_of_stock,4.99,Boxbandagen MT-Pro (250/450 cm) - Gelb,450CM / Schwarz,https://phantom-athletics.com/products/boxbandagen-mt-pro-250-450-cm-yellow
 PHSH4000-S,in_stock,32.99,T-Shirt Prime - Weiß,S,https://phantom-athletics.com/products/t-shirt-prime-white
 PHSH4000-M,in_stock,32.99,T-Shirt Prime - Weiß,M,https://phantom-athletics.com/products/t-shirt-prime-white
 PHSH4000-L,in_stock,32.99,T-Shirt Prime - Weiß,L,https://phantom-athletics.com/products/t-shirt-prime-white
@@ -377,7 +387,7 @@ ADSHOE1401-12.5K,in_stock,49.99,Kinder Ringerschuhe Adidas Havoc Plus - Schwarz/
 ADSHOE1401-13.5K,in_stock,49.99,Kinder Ringerschuhe Adidas Havoc Plus - Schwarz/Weiß,32,https://phantom-athletics.com/products/wrestling-shoes-kids-adidas-havoc-plus-black-white
 ADSHOE1401-1,in_stock,49.99,Kinder Ringerschuhe Adidas Havoc Plus - Schwarz/Weiß,33,https://phantom-athletics.com/products/wrestling-shoes-kids-adidas-havoc-plus-black-white
 ADSHOE1401-2,in_stock,49.99,Kinder Ringerschuhe Adidas Havoc Plus - Schwarz/Weiß,34,https://phantom-athletics.com/products/wrestling-shoes-kids-adidas-havoc-plus-black-white
-ADSHOE1401-25,in_stock,49.99,Kinder Ringerschuhe Adidas Havoc Plus - Schwarz/Weiß,35,https://phantom-athletics.com/products/wrestling-shoes-kids-adidas-havoc-plus-black-white
+ADSHOE1401-25,out_of_stock,49.99,Kinder Ringerschuhe Adidas Havoc Plus - Schwarz/Weiß,35,https://phantom-athletics.com/products/wrestling-shoes-kids-adidas-havoc-plus-black-white
 ADSHOE1401-35,out_of_stock,49.99,Kinder Ringerschuhe Adidas Havoc Plus - Schwarz/Weiß,36,https://phantom-athletics.com/products/wrestling-shoes-kids-adidas-havoc-plus-black-white
 ADSHOE1401-4,out_of_stock,49.99,Kinder Ringerschuhe Adidas Havoc Plus - Schwarz/Weiß,36.5,https://phantom-athletics.com/products/wrestling-shoes-kids-adidas-havoc-plus-black-white
 ADSHOE1401-45,out_of_stock,49.99,Kinder Ringerschuhe Adidas Havoc Plus - Schwarz/Weiß,37 1/3,https://phantom-athletics.com/products/wrestling-shoes-kids-adidas-havoc-plus-black-white
@@ -967,11 +977,11 @@ PHSH1885-M,in_stock,19.99,T-Shirt Supporter 2.0 - Camo,M,https://phantom-athleti
 PHSH1885-L,in_stock,19.99,T-Shirt Supporter 2.0 - Camo,L,https://phantom-athletics.com/products/t-shirt-supporter
 PHSH1885-XL,in_stock,19.99,T-Shirt Supporter 2.0 - Camo,XL,https://phantom-athletics.com/products/t-shirt-supporter
 PHSH1885-XXL,in_stock,19.99,T-Shirt Supporter 2.0 - Camo,XXL,https://phantom-athletics.com/products/t-shirt-supporter
-PHSH1753-S,in_stock,29.99,Tanktop Team,S,https://phantom-athletics.com/products/tank-top-team
-PHSH1753-M,in_stock,29.99,Tanktop Team,M,https://phantom-athletics.com/products/tank-top-team
-PHSH1753-L,in_stock,29.99,Tanktop Team,L,https://phantom-athletics.com/products/tank-top-team
-PHSH1753-XL,in_stock,29.99,Tanktop Team,XL,https://phantom-athletics.com/products/tank-top-team
-PHSH1753-XXL,in_stock,29.99,Tanktop Team,XXL,https://phantom-athletics.com/products/tank-top-team
+PHSH1753-S,in_stock,19.99,Tanktop Team,S,https://phantom-athletics.com/products/tank-top-team
+PHSH1753-M,in_stock,19.99,Tanktop Team,M,https://phantom-athletics.com/products/tank-top-team
+PHSH1753-L,in_stock,19.99,Tanktop Team,L,https://phantom-athletics.com/products/tank-top-team
+PHSH1753-XL,in_stock,19.99,Tanktop Team,XL,https://phantom-athletics.com/products/tank-top-team
+PHSH1753-XXL,in_stock,19.99,Tanktop Team,XXL,https://phantom-athletics.com/products/tank-top-team
 PHSH2083-S,in_stock,21.99,T-Shirt Squad - Schwarz,S,https://phantom-athletics.com/products/t-shirt-squad-black-camo
 PHSH2083-M,in_stock,21.99,T-Shirt Squad - Schwarz,M,https://phantom-athletics.com/products/t-shirt-squad-black-camo
 PHSH2083-L,in_stock,21.99,T-Shirt Squad - Schwarz,L,https://phantom-athletics.com/products/t-shirt-squad-black-camo
@@ -3029,7 +3039,7 @@ PHSHO3232-M,in_stock,59.99,Fightshorts FUSION-R 2in1 Savage,M,https://phantom-at
 PHSHO3232-L,in_stock,59.99,Fightshorts FUSION-R 2in1 Savage,L,https://phantom-athletics.com/products/fightshorts-fusion-r-2in1-savage
 PHSHO3232-XL,in_stock,59.99,Fightshorts FUSION-R 2in1 Savage,XL,https://phantom-athletics.com/products/fightshorts-fusion-r-2in1-savage
 PHSHO3232-XXL,in_stock,59.99,Fightshorts FUSION-R 2in1 Savage,XXL,https://phantom-athletics.com/products/fightshorts-fusion-r-2in1-savage
-PHACC3270,in_stock,29.99,Gym Flagge - MMA Sports,MMA Sports,https://phantom-athletics.com/products/gym-flag-mma-sports
+PHACC3270,in_stock,14.99,Gym Flagge - MMA Sports,MMA Sports,https://phantom-athletics.com/products/gym-flag-mma-sports
 PHACC3266,in_stock,29.99,Gym Flagge - MMA Sports,Sak Yant,https://phantom-athletics.com/products/gym-flag-mma-sports
 PHACC3267,in_stock,29.99,Gym Flagge - MMA Sports,Team,https://phantom-athletics.com/products/gym-flag-mma-sports
 PHACC3268,in_stock,29.99,Gym Flagge - MMA Sports,MMA Great,https://phantom-athletics.com/products/gym-flag-mma-sports
@@ -3366,7 +3376,7 @@ PHSHO3210-M,in_stock,49.99,Fightshorts FUSION-R Diablo,M,https://phantom-athleti
 PHSHO3210-L,out_of_stock,49.99,Fightshorts FUSION-R Diablo,L,https://phantom-athletics.com/products/fightshorts-fusion-r-diablo
 PHSHO3210-XL,in_stock,49.99,Fightshorts FUSION-R Diablo,XL,https://phantom-athletics.com/products/fightshorts-fusion-r-diablo
 PHSHO3210-XXL,in_stock,49.99,Fightshorts FUSION-R Diablo,XXL,https://phantom-athletics.com/products/fightshorts-fusion-r-diablo
-PHSHEVO3209-S,out_of_stock,29.99,Trainingsshirt EVO Diablo,S,https://phantom-athletics.com/products/training-shirt-evo-diablo
+PHSHEVO3209-S,in_stock,29.99,Trainingsshirt EVO Diablo,S,https://phantom-athletics.com/products/training-shirt-evo-diablo
 PHSHEVO3209-M,in_stock,29.99,Trainingsshirt EVO Diablo,M,https://phantom-athletics.com/products/training-shirt-evo-diablo
 PHSHEVO3209-L,in_stock,29.99,Trainingsshirt EVO Diablo,L,https://phantom-athletics.com/products/training-shirt-evo-diablo
 PHSHEVO3209-XL,in_stock,29.99,Trainingsshirt EVO Diablo,XL,https://phantom-athletics.com/products/training-shirt-evo-diablo
@@ -3490,11 +3500,11 @@ ADSHOE5386-35,out_of_stock,69.99,Kinder Ringerschuhe ADIDAS Tech Fall 2 - Schwar
 ADSHOE5386-4,out_of_stock,69.99,Kinder Ringerschuhe ADIDAS Tech Fall 2 - Schwarz,36 2/3,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-tech-fall-2-black
 ADSHOE5386-45,out_of_stock,69.99,Kinder Ringerschuhe ADIDAS Tech Fall 2 - Schwarz,37 1/3,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-tech-fall-2-black
 ADSHOE5386-5,out_of_stock,69.99,Kinder Ringerschuhe ADIDAS Tech Fall 2 - Schwarz,38,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-tech-fall-2-black
-PHSH3068-S,in_stock,21.99,T-Shirt BMBA,S,https://phantom-athletics.com/products/t-shirt-bmba
-PHSH3068-M,in_stock,21.99,T-Shirt BMBA,M,https://phantom-athletics.com/products/t-shirt-bmba
-PHSH3068-L,in_stock,21.99,T-Shirt BMBA,L,https://phantom-athletics.com/products/t-shirt-bmba
-PHSH3068-XL,in_stock,21.99,T-Shirt BMBA,XL,https://phantom-athletics.com/products/t-shirt-bmba
-PHSH3068-XXL,in_stock,21.99,T-Shirt BMBA,XXL,https://phantom-athletics.com/products/t-shirt-bmba
+PHSH3068-S,in_stock,14.99,T-Shirt BMBA,S,https://phantom-athletics.com/products/t-shirt-bmba
+PHSH3068-M,in_stock,14.99,T-Shirt BMBA,M,https://phantom-athletics.com/products/t-shirt-bmba
+PHSH3068-L,in_stock,14.99,T-Shirt BMBA,L,https://phantom-athletics.com/products/t-shirt-bmba
+PHSH3068-XL,in_stock,14.99,T-Shirt BMBA,XL,https://phantom-athletics.com/products/t-shirt-bmba
+PHSH3068-XXL,in_stock,14.99,T-Shirt BMBA,XXL,https://phantom-athletics.com/products/t-shirt-bmba
 PHSH3069-S,out_of_stock,16.99,T-Shirt Team - Army,S,https://phantom-athletics.com/products/t-shirt-team-army
 PHSH3069-M,in_stock,16.99,T-Shirt Team - Army,M,https://phantom-athletics.com/products/t-shirt-team-army
 PHSH3069-L,in_stock,16.99,T-Shirt Team - Army,L,https://phantom-athletics.com/products/t-shirt-team-army
@@ -3515,7 +3525,7 @@ PHRG3076-M,in_stock,49.99,Rashguard Groundgame,M,https://phantom-athletics.com/p
 PHRG3076-L,in_stock,49.99,Rashguard Groundgame,L,https://phantom-athletics.com/products/rashguard-groundgame
 PHRG3076-XL,in_stock,49.99,Rashguard Groundgame,XL,https://phantom-athletics.com/products/rashguard-groundgame
 PHRG3076-XXL,in_stock,49.99,Rashguard Groundgame,XXL,https://phantom-athletics.com/products/rashguard-groundgame
-PHSHO3077-S,in_stock,49.99,Fightshorts FUSION-R Groundgame,S,https://phantom-athletics.com/products/fightshorts-fusion-r-groundgame
+PHSHO3077-S,out_of_stock,49.99,Fightshorts FUSION-R Groundgame,S,https://phantom-athletics.com/products/fightshorts-fusion-r-groundgame
 PHSHO3077-M,in_stock,49.99,Fightshorts FUSION-R Groundgame,M,https://phantom-athletics.com/products/fightshorts-fusion-r-groundgame
 PHSHO3077-L,out_of_stock,49.99,Fightshorts FUSION-R Groundgame,L,https://phantom-athletics.com/products/fightshorts-fusion-r-groundgame
 PHSHO3077-XL,in_stock,49.99,Fightshorts FUSION-R Groundgame,XL,https://phantom-athletics.com/products/fightshorts-fusion-r-groundgame
@@ -4249,7 +4259,7 @@ PHBBAG2821-180,out_of_stock,169.99,Boxsack MUAY THAI mit Füllung (80/180 cm),18
 PHHO2943-S,in_stock,69.99,Trainingsjacke DMC - Team Germany,S,https://phantom-athletics.com/products/trackjacket-dmc-team-germany
 PHHO2943-M,in_stock,69.99,Trainingsjacke DMC - Team Germany,M,https://phantom-athletics.com/products/trackjacket-dmc-team-germany
 PHHO2943-L,in_stock,69.99,Trainingsjacke DMC - Team Germany,L,https://phantom-athletics.com/products/trackjacket-dmc-team-germany
-PHHO2943-XL,in_stock,69.99,Trainingsjacke DMC - Team Germany,XL,https://phantom-athletics.com/products/trackjacket-dmc-team-germany
+PHHO2943-XL,out_of_stock,69.99,Trainingsjacke DMC - Team Germany,XL,https://phantom-athletics.com/products/trackjacket-dmc-team-germany
 PHHO2943-XXL,in_stock,69.99,Trainingsjacke DMC - Team Germany,XXL,https://phantom-athletics.com/products/trackjacket-dmc-team-germany
 PHHO2943-XXXL,in_stock,69.99,Trainingsjacke DMC - Team Germany,XXXL,https://phantom-athletics.com/products/trackjacket-dmc-team-germany
 PHWR2765,in_stock,4.99,Boxbandagen - Sak Yant - Weiß (250/400 cm),250cm / Weiß,https://phantom-athletics.com/products/boxing-handwraps-sak-yant-white
@@ -5321,7 +5331,7 @@ PHSP2445,out_of_stock,12.99,Iso Fit Sport Drink - Himbeer Zitrone,Default Title,
 PHSP2447,in_stock,12.99,Iso Fit Sport Drink - Grüner Apfel,Default Title,https://phantom-athletics.com/products/iso-fit-sport-drink-green-apple
 PHSP2443,in_stock,12.99,Iso Fit Sport Drink - Cola Zitrone,Default Title,https://phantom-athletics.com/products/iso-fit-sports-drink-cola
 PHSP2455,in_stock,19.99,EAA Amino Pulver - Mango,Default Title,https://phantom-athletics.com/products/eaa-amino-powder-mango
-PHSP2454,in_stock,19.99,EAA Amino Pulver - Cola Zitrone,Default Title,https://phantom-athletics.com/products/eaa-amino-powder-cola-lemon
+PHSP2454,in_stock,14.99,EAA Amino Pulver - Cola Zitrone,Default Title,https://phantom-athletics.com/products/eaa-amino-powder-cola-lemon
 PHSP2453,in_stock,19.99,EAA Amino Pulver - Eis Tee Zitrone,Default Title,https://phantom-athletics.com/products/eaa-amino-powder-ice-tea-lemon
 PHSP2452,in_stock,19.99,EAA Amino Pulver - Schwarze Johannisbeere,Default Title,https://phantom-athletics.com/products/eaa-amino-acid-powder-black-currant
 PHSAUNA2365-SM,out_of_stock,29.99,Schwitzanzug Nomax-S,S/M,https://phantom-athletics.com/products/sauna-suit-nomax-s
