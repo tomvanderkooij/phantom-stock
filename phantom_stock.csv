@@ -678,7 +678,7 @@ PHHO4055-S,out_of_stock,29.99,Trainingsjacke DMC - Team Germany RT,S,https://pha
 PHHO4055-M,in_stock,29.99,Trainingsjacke DMC - Team Germany RT,M,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-rt
 PHHO4055-L,out_of_stock,29.99,Trainingsjacke DMC - Team Germany RT,L,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-rt
 PHHO4055-XL,out_of_stock,29.99,Trainingsjacke DMC - Team Germany RT,XL,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-rt
-PHHO4055-XXL,in_stock,29.99,Trainingsjacke DMC - Team Germany RT,XXL,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-rt
+PHHO4055-XXL,out_of_stock,29.99,Trainingsjacke DMC - Team Germany RT,XXL,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-rt
 PHHO4055-XXXL,out_of_stock,29.99,Trainingsjacke DMC - Team Germany RT,XXXL,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-rt
 PHHO4054-S,in_stock,29.99,Trainingsjacke DMC - Team Germany ST,S,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-st
 PHHO4054-M,in_stock,29.99,Trainingsjacke DMC - Team Germany ST,M,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-st
@@ -1361,8 +1361,8 @@ PHSHO3770-L,in_stock,59.99,Fightshorts FUSION-R - Team Turkey - Schwarz,L,https:
 PHSHO3770-XL,in_stock,59.99,Fightshorts FUSION-R - Team Turkey - Schwarz,XL,https://phantom-athletics.com/products/fightshorts-fusion-r-team-turkey-black
 PHSHO3770-XXL,in_stock,59.99,Fightshorts FUSION-R - Team Turkey - Schwarz,XXL,https://phantom-athletics.com/products/fightshorts-fusion-r-team-turkey-black
 PHRG3769-S,out_of_stock,29.99,Rashguard Team Turkey - Schwarz,S,https://phantom-athletics.com/products/rashguard-team-turkey-black
-PHRG3769-M,in_stock,29.99,Rashguard Team Turkey - Schwarz,M,https://phantom-athletics.com/products/rashguard-team-turkey-black
-PHRG3769-L,in_stock,29.99,Rashguard Team Turkey - Schwarz,L,https://phantom-athletics.com/products/rashguard-team-turkey-black
+PHRG3769-M,out_of_stock,29.99,Rashguard Team Turkey - Schwarz,M,https://phantom-athletics.com/products/rashguard-team-turkey-black
+PHRG3769-L,out_of_stock,29.99,Rashguard Team Turkey - Schwarz,L,https://phantom-athletics.com/products/rashguard-team-turkey-black
 PHRG3769-XL,in_stock,29.99,Rashguard Team Turkey - Schwarz,XL,https://phantom-athletics.com/products/rashguard-team-turkey-black
 PHRG3769-XXL,in_stock,29.99,Rashguard Team Turkey - Schwarz,XXL,https://phantom-athletics.com/products/rashguard-team-turkey-black
 PHSHEVO+3768-S,in_stock,39.99,Trainingsshirt EVO+ Team Turkey - Schwarz,S,https://phantom-athletics.com/products/training-shirt-evo-team-turkey-black
@@ -2062,7 +2062,7 @@ PHSG3325-LXL,out_of_stock,89.99,Schienbeinschutz ELITE,L/XL,https://phantom-athl
 PHBG3319-10,in_stock,39.99,Boxhandschuhe ELITE - Schwarz,10 OZ,https://phantom-athletics.com/products/boxing-gloves-elite-black
 PHBG3319-12,in_stock,39.99,Boxhandschuhe ELITE - Schwarz,12 OZ,https://phantom-athletics.com/products/boxing-gloves-elite-black
 PHBG3319-14,in_stock,99.99,Boxhandschuhe ELITE - Schwarz,14 OZ,https://phantom-athletics.com/products/boxing-gloves-elite-black
-PHBG3319-16,in_stock,39.99,Boxhandschuhe ELITE - Schwarz,16 OZ,https://phantom-athletics.com/products/boxing-gloves-elite-black
+PHBG3319-16,out_of_stock,39.99,Boxhandschuhe ELITE - Schwarz,16 OZ,https://phantom-athletics.com/products/boxing-gloves-elite-black
 PHBG3284-10,in_stock,89.99,Boxhandschuhe BG1 - Schwarz,10 OZ,https://phantom-athletics.com/products/boxing-gloves-bg1-black
 PHBG3284-12,in_stock,89.99,Boxhandschuhe BG1 - Schwarz,12 OZ,https://phantom-athletics.com/products/boxing-gloves-bg1-black
 PHBG3284-14,in_stock,89.99,Boxhandschuhe BG1 - Schwarz,14 OZ,https://phantom-athletics.com/products/boxing-gloves-bg1-black
@@ -3626,7 +3626,7 @@ PHSHO3053-M,in_stock,29.99,Fightshorts FUSION-R Winter Camo,M,https://phantom-at
 PHSHO3053-L,in_stock,29.99,Fightshorts FUSION-R Winter Camo,L,https://phantom-athletics.com/products/fightshorts-fusion-r-winter-camo
 PHSHO3053-XL,in_stock,29.99,Fightshorts FUSION-R Winter Camo,XL,https://phantom-athletics.com/products/fightshorts-fusion-r-winter-camo
 PHSHO3053-XXL,in_stock,29.99,Fightshorts FUSION-R Winter Camo,XXL,https://phantom-athletics.com/products/fightshorts-fusion-r-winter-camo
-PHBAG2909,in_stock,79.99,Rucksack DELTA - Neon,Neon,https://phantom-athletics.com/products/backpack-delta-neon
+PHBAG2909,out_of_stock,79.99,Rucksack DELTA - Neon,Neon,https://phantom-athletics.com/products/backpack-delta-neon
 PHBAG2600,in_stock,79.99,Rucksack DELTA - Neon,Schwarz,https://phantom-athletics.com/products/backpack-delta-neon
 PHBAG2816,in_stock,79.99,Rucksack DELTA - Neon,Schwarz Camo,https://phantom-athletics.com/products/backpack-delta-neon
 PHBAG2598,in_stock,79.99,Rucksack DELTA - Neon,Army,https://phantom-athletics.com/products/backpack-delta-neon
@@ -5350,7 +5350,7 @@ PHMASK1012-L,in_stock,119.99,Phantom Trainingsmaske - Carbon Edition,L,https://p
 PHBBAGHPERF-SW80,in_stock,129.99,Boxsack HIGH PERFORMANCE mit Füllung (80/120/150/180 cm),80cm,https://phantom-athletics.com/products/boxing-bag-high-performance
 PHBBAGHPERF-SW120,out_of_stock,159.99,Boxsack HIGH PERFORMANCE mit Füllung (80/120/150/180 cm),120cm,https://phantom-athletics.com/products/boxing-bag-high-performance
 PHBBAGHPERF-SW150,out_of_stock,179.99,Boxsack HIGH PERFORMANCE mit Füllung (80/120/150/180 cm),150cm,https://phantom-athletics.com/products/boxing-bag-high-performance
-PHBBAGHPERF-SW180,in_stock,199.99,Boxsack HIGH PERFORMANCE mit Füllung (80/120/150/180 cm),180cm,https://phantom-athletics.com/products/boxing-bag-high-performance
+PHBBAGHPERF-SW180,out_of_stock,199.99,Boxsack HIGH PERFORMANCE mit Füllung (80/120/150/180 cm),180cm,https://phantom-athletics.com/products/boxing-bag-high-performance
 PHSP2446,in_stock,12.99,Iso Fit Sport Drink - Johannisbeere,Default Title,https://phantom-athletics.com/products/iso-fit-sport-drink-black-currant
 PHSP2445,out_of_stock,12.99,Iso Fit Sport Drink - Himbeer Zitrone,Default Title,https://phantom-athletics.com/products/iso-fit-sport-drink-rasperry
 PHSP2447,in_stock,12.99,Iso Fit Sport Drink - Grüner Apfel,Default Title,https://phantom-athletics.com/products/iso-fit-sport-drink-green-apple
@@ -5461,7 +5461,7 @@ PHBG2217-16,in_stock,59.99,Boxhandschuhe Fight Squad - Sandgrau,16 OZ / Army,htt
 PHBG2218-16,in_stock,59.99,Boxhandschuhe Fight Squad - Sandgrau,16 OZ / Weiss,https://phantom-athletics.com/products/boxing-gloves-fight-squad-sand
 PHWS1734-128,in_stock,69.99,Kinder Ringertrikot Set Storm,Kids - 128,https://phantom-athletics.com/products/kids-wrestling-singlet-set-storm
 PHWS1734-140,out_of_stock,69.99,Kinder Ringertrikot Set Storm,Kids - 140,https://phantom-athletics.com/products/kids-wrestling-singlet-set-storm
-PHWS1734-152,in_stock,69.99,Kinder Ringertrikot Set Storm,Kids - 152,https://phantom-athletics.com/products/kids-wrestling-singlet-set-storm
+PHWS1734-152,out_of_stock,69.99,Kinder Ringertrikot Set Storm,Kids - 152,https://phantom-athletics.com/products/kids-wrestling-singlet-set-storm
 PHWS1734-164,in_stock,69.99,Kinder Ringertrikot Set Storm,Kids - 164,https://phantom-athletics.com/products/kids-wrestling-singlet-set-storm
 PHBG2368-10,in_stock,29.99,Boxhandschuhe VELCRO,10 OZ,https://phantom-athletics.com/products/boxhandschuhe-velcro
 PHBG2368-12,in_stock,29.99,Boxhandschuhe VELCRO,12 OZ,https://phantom-athletics.com/products/boxhandschuhe-velcro
@@ -5828,10 +5828,10 @@ SDGG329-M,out_of_stock,29.99,Tiefschutz Ultra Pro,M,https://phantom-athletics.co
 SDGG329-L,out_of_stock,29.99,Tiefschutz Ultra Pro,L,https://phantom-athletics.com/products/shock-doctor-supporter-ultra
 SDGG329-XL,out_of_stock,29.99,Tiefschutz Ultra Pro,XL,https://phantom-athletics.com/products/shock-doctor-supporter-ultra
 SDGG329-XXL,out_of_stock,29.99,Tiefschutz Ultra Pro,XXL,https://phantom-athletics.com/products/shock-doctor-supporter-ultra
-SDGG221-S,in_stock,29.99,Kompressionshose mit Bioflex Tiefschutz,Schwarz / S,https://phantom-athletics.com/products/shock-doctor-compression-shorts-with-bioflex-core-cup
+SDGG221-S,out_of_stock,29.99,Kompressionshose mit Bioflex Tiefschutz,Schwarz / S,https://phantom-athletics.com/products/shock-doctor-compression-shorts-with-bioflex-core-cup
 SDGG221-M,out_of_stock,29.99,Kompressionshose mit Bioflex Tiefschutz,Schwarz / M,https://phantom-athletics.com/products/shock-doctor-compression-shorts-with-bioflex-core-cup
 SDGG221-L,out_of_stock,29.99,Kompressionshose mit Bioflex Tiefschutz,Schwarz / L,https://phantom-athletics.com/products/shock-doctor-compression-shorts-with-bioflex-core-cup
-SDGG221-XL,in_stock,29.99,Kompressionshose mit Bioflex Tiefschutz,Schwarz / XL,https://phantom-athletics.com/products/shock-doctor-compression-shorts-with-bioflex-core-cup
+SDGG221-XL,out_of_stock,29.99,Kompressionshose mit Bioflex Tiefschutz,Schwarz / XL,https://phantom-athletics.com/products/shock-doctor-compression-shorts-with-bioflex-core-cup
 SDGG221-XXL,out_of_stock,29.99,Kompressionshose mit Bioflex Tiefschutz,Schwarz / XXL,https://phantom-athletics.com/products/shock-doctor-compression-shorts-with-bioflex-core-cup
 SDGG221-WS,out_of_stock,29.99,Kompressionshose mit Bioflex Tiefschutz,Weiss / S,https://phantom-athletics.com/products/shock-doctor-compression-shorts-with-bioflex-core-cup
 SDGG221-WM,out_of_stock,29.99,Kompressionshose mit Bioflex Tiefschutz,Weiss / M,https://phantom-athletics.com/products/shock-doctor-compression-shorts-with-bioflex-core-cup
