@@ -493,7 +493,7 @@ PHHO4010-L,in_stock,69.99,Hoodie Serpent,L,https://phantom-athletics.com/product
 PHHO4010-XL,in_stock,69.99,Hoodie Serpent,XL,https://phantom-athletics.com/products/hoodie-serpent
 PHHO4010-XXL,in_stock,69.99,Hoodie Serpent,XXL,https://phantom-athletics.com/products/hoodie-serpent
 DCMG054,in_stock,9.99,Damage Control Zahnschutz Box,Default Title,https://phantom-athletics.com/products/damage-control-lip-guard-mouthguard-box
-DCMG053,in_stock,9.99,Damage Control Zahnschutz Box mit Karabiner,Default Title,https://phantom-athletics.com/products/damage-control-mouthguard-box-with-clip
+DCMG053,out_of_stock,9.99,Damage Control Zahnschutz Box mit Karabiner,Default Title,https://phantom-athletics.com/products/damage-control-mouthguard-box-with-clip
 PHSH4116-S,in_stock,32.99,T-Shirt Germany NBD - Schwarz/Rot,S,https://phantom-athletics.com/products/t-shirt-germany-nbd-black-red
 PHSH4116-M,in_stock,32.99,T-Shirt Germany NBD - Schwarz/Rot,M,https://phantom-athletics.com/products/t-shirt-germany-nbd-black-red
 PHSH4116-L,in_stock,32.99,T-Shirt Germany NBD - Schwarz/Rot,L,https://phantom-athletics.com/products/t-shirt-germany-nbd-black-red
@@ -1019,7 +1019,7 @@ ADSHOE4996-11.5K,out_of_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc - Neon Grü
 ADSHOE4996-12K,in_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc - Neon Grün,30 1/2,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-havoc-neon-green
 ADSHOE4996-12.5K,out_of_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc - Neon Grün,31,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-havoc-neon-green
 ADSHOE4996-13K,out_of_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc - Neon Grün,31 1/2,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-havoc-neon-green
-ADSHOE4996-13.5K,in_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc - Neon Grün,32,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-havoc-neon-green
+ADSHOE4996-13.5K,out_of_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc - Neon Grün,32,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-havoc-neon-green
 ADSHOE4996-1,out_of_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc - Neon Grün,33,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-havoc-neon-green
 ADSHOE4996-15,in_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc - Neon Grün,33 1/2,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-havoc-neon-green
 ADSHOE4996-2,out_of_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc - Neon Grün,34,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-havoc-neon-green
@@ -1027,7 +1027,7 @@ ADSHOE4996-25,out_of_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc - Neon Grün,3
 ADSHOE4996-3,in_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc - Neon Grün,35 1/2,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-havoc-neon-green
 ADSHOE4996-35,in_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc - Neon Grün,36,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-havoc-neon-green
 ADSHOE4996-4,in_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc - Neon Grün,36 2/3,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-havoc-neon-green
-ADSHOE4996-45,in_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc - Neon Grün,37 1/3,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-havoc-neon-green
+ADSHOE4996-45,out_of_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc - Neon Grün,37 1/3,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-havoc-neon-green
 ADSHOE4996-5,out_of_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc - Neon Grün,38,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-havoc-neon-green
 ADSHOE4996-55,out_of_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc - Neon Grün,38 2/3,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-havoc-neon-green
 PHJOG3836-S,in_stock,69.99,Jogger UNIT - Schwarz,S,https://phantom-athletics.com/products/jogger-unit-black
@@ -1223,7 +1223,7 @@ PHSH2094-XXL,in_stock,29.99,Sleeveless Shirt Muay Thai - Stone Washed,XXL,https:
 PHSH2102-S,out_of_stock,21.99,Longsleeve Shirt Elite - Schwarz,S,https://phantom-athletics.com/products/longsleeve-shirt-elite
 PHSH2102-M,in_stock,21.99,Longsleeve Shirt Elite - Schwarz,M,https://phantom-athletics.com/products/longsleeve-shirt-elite
 PHSH2102-L,in_stock,21.99,Longsleeve Shirt Elite - Schwarz,L,https://phantom-athletics.com/products/longsleeve-shirt-elite
-PHSH2102-XL,in_stock,21.99,Longsleeve Shirt Elite - Schwarz,XL,https://phantom-athletics.com/products/longsleeve-shirt-elite
+PHSH2102-XL,out_of_stock,21.99,Longsleeve Shirt Elite - Schwarz,XL,https://phantom-athletics.com/products/longsleeve-shirt-elite
 PHSH2102-XXL,out_of_stock,21.99,Longsleeve Shirt Elite - Schwarz,XXL,https://phantom-athletics.com/products/longsleeve-shirt-elite
 PHSH2387-S,out_of_stock,29.99,Sleeveless Shirt Zero 2 - Schwarz,S,https://phantom-athletics.com/products/sleeveless-shirt-zero-2-black
 PHSH2387-M,in_stock,29.99,Sleeveless Shirt Zero 2 - Schwarz,M,https://phantom-athletics.com/products/sleeveless-shirt-zero-2-black
@@ -1408,7 +1408,7 @@ PHHO3778-XL,in_stock,49.99,Trainingsjacke DMC - Team Ukraine,XL,https://phantom-
 PHHO3778-XXL,in_stock,49.99,Trainingsjacke DMC - Team Ukraine,XXL,https://phantom-athletics.com/products/track-jacket-dmc-team-ukraine
 PHHO3778-XXXL,in_stock,49.99,Trainingsjacke DMC - Team Ukraine,XXXL,https://phantom-athletics.com/products/track-jacket-dmc-team-ukraine
 PHSHO3773-S,out_of_stock,39.99,Fightshorts FUSION-R - Team Albania,S,https://phantom-athletics.com/products/fightshorts-fusion-r-team-albania
-PHSHO3773-M,in_stock,39.99,Fightshorts FUSION-R - Team Albania,M,https://phantom-athletics.com/products/fightshorts-fusion-r-team-albania
+PHSHO3773-M,out_of_stock,39.99,Fightshorts FUSION-R - Team Albania,M,https://phantom-athletics.com/products/fightshorts-fusion-r-team-albania
 PHSHO3773-L,in_stock,39.99,Fightshorts FUSION-R - Team Albania,L,https://phantom-athletics.com/products/fightshorts-fusion-r-team-albania
 PHSHO3773-XL,in_stock,39.99,Fightshorts FUSION-R - Team Albania,XL,https://phantom-athletics.com/products/fightshorts-fusion-r-team-albania
 PHSHO3773-XXL,in_stock,39.99,Fightshorts FUSION-R - Team Albania,XXL,https://phantom-athletics.com/products/fightshorts-fusion-r-team-albania
@@ -1652,7 +1652,7 @@ PHWR2771-250,in_stock,3.99,Boxbandagen - Tiger Unit (250/400 cm),250cm,https://p
 PHWR2772-400,in_stock,3.99,Boxbandagen - Tiger Unit (250/400 cm),400cm,https://phantom-athletics.com/products/handwraps-tiger-unit
 PHSHO00702-SWXS,in_stock,39.99,Trainingsshorts Eclipse,XS,https://phantom-athletics.com/products/compression-shorts-eclipse
 PHSHO00702-SWS,out_of_stock,39.99,Trainingsshorts Eclipse,S,https://phantom-athletics.com/products/compression-shorts-eclipse
-PHSHO00702-SWM,in_stock,39.99,Trainingsshorts Eclipse,M,https://phantom-athletics.com/products/compression-shorts-eclipse
+PHSHO00702-SWM,out_of_stock,39.99,Trainingsshorts Eclipse,M,https://phantom-athletics.com/products/compression-shorts-eclipse
 PHSHO00702-SWL,in_stock,39.99,Trainingsshorts Eclipse,L,https://phantom-athletics.com/products/compression-shorts-eclipse
 PHSHTR00705-SWXS,out_of_stock,29.99,Tank Top Eclipse,XS,https://phantom-athletics.com/products/tank-top-eclipse
 PHSHTR00705-SWS,out_of_stock,29.99,Tank Top Eclipse,S,https://phantom-athletics.com/products/tank-top-eclipse
@@ -1800,7 +1800,7 @@ ADSHOE9162-85,out_of_stock,59.99,Boxschuhe ADIDAS Box Hog 2 - Weiß,42 2/3,https
 ADSHOE9162-9,out_of_stock,59.99,Boxschuhe ADIDAS Box Hog 2 - Weiß,43 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-2-white
 ADSHOE9162-95,out_of_stock,59.99,Boxschuhe ADIDAS Box Hog 2 - Weiß,44,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-2-white
 ADSHOE9162-10,out_of_stock,59.99,Boxschuhe ADIDAS Box Hog 2 - Weiß,44 2/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-2-white
-ADSHOE9162-105,in_stock,59.99,Boxschuhe ADIDAS Box Hog 2 - Weiß,45 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-2-white
+ADSHOE9162-105,out_of_stock,59.99,Boxschuhe ADIDAS Box Hog 2 - Weiß,45 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-2-white
 ADSHOE9162-11,out_of_stock,59.99,Boxschuhe ADIDAS Box Hog 2 - Weiß,46,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-2-white
 ADSHOE1338-27,out_of_stock,79.99,Kinder Ringerschuhe ADIDAS SpeedEx - Schwarz/Silber,27,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-speedex-black
 ADSHOE1338-28,out_of_stock,79.99,Kinder Ringerschuhe ADIDAS SpeedEx - Schwarz/Silber,28,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-speedex-black
@@ -2653,7 +2653,7 @@ PHBG2505-16,out_of_stock,69.99,Boxhandschuhe Muay Thai - Frost White,16 OZ / Rot
 PHBG2613-16,in_stock,69.99,Boxhandschuhe Muay Thai - Frost White,16 OZ / Sand,https://phantom-athletics.com/products/boxing-gloves-muay-thai-frost-white
 PHBG2612-16,in_stock,69.99,Boxhandschuhe Muay Thai - Frost White,16 OZ / Army,https://phantom-athletics.com/products/boxing-gloves-muay-thai-frost-white
 PHBG3401-16,in_stock,69.99,Boxhandschuhe Muay Thai - Frost White,16 OZ / Grau,https://phantom-athletics.com/products/boxing-gloves-muay-thai-frost-white
-PHPAD3383,out_of_stock,39.99,Handpratzen MEXICO - Schwarz,Schwarz,https://phantom-athletics.com/products/handpratzen-mexico-schwarz
+PHPAD3383,out_of_stock,59.99,Handpratzen MEXICO - Schwarz,Schwarz,https://phantom-athletics.com/products/handpratzen-mexico-schwarz
 PHPAD3384,out_of_stock,59.99,Handpratzen MEXICO - Schwarz,Rot,https://phantom-athletics.com/products/handpratzen-mexico-schwarz
 ASSHOEA011_022-28,in_stock,61.99,Kinder Ringerschuhe ASICS Matflex 7 GS - Grau,28,https://phantom-athletics.com/products/kids-wrestling-shoes-asics-matflex-7-gray
 ASSHOEA011_022-295,out_of_stock,61.99,Kinder Ringerschuhe ASICS Matflex 7 GS - Grau,29.5,https://phantom-athletics.com/products/kids-wrestling-shoes-asics-matflex-7-gray
@@ -3810,7 +3810,7 @@ NISHOE316403-100-12,in_stock,84.99,Ringerschuhe NIKE Freek - Weiß/Gold,46,https
 ADSHOE6116-75,out_of_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz/Gold,41 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black-gold
 ADSHOE6116-8,out_of_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz/Gold,42,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black-gold
 ADSHOE6116-85,out_of_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz/Gold,42 2/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black-gold
-ADSHOE6116-9,in_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz/Gold,43 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black-gold
+ADSHOE6116-9,out_of_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz/Gold,43 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black-gold
 ADSHOE6116-95,in_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz/Gold,44,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black-gold
 ADSHOE6116-10,in_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz/Gold,44 2/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black-gold
 ADSHOE6116-105,in_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz/Gold,45 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black-gold
@@ -4344,7 +4344,7 @@ ADSHOE2473-85,in_stock,49.99,Ringerschuhe ADIDAS Havoc - Blau,42 2/3,https://pha
 ADSHOE2473-9,in_stock,49.99,Ringerschuhe ADIDAS Havoc - Blau,43 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-blue
 ADSHOE2473-95,in_stock,49.99,Ringerschuhe ADIDAS Havoc - Blau,44,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-blue
 ADSHOE2473-10,in_stock,49.99,Ringerschuhe ADIDAS Havoc - Blau,44 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-blue
-ADSHOE2473-105,in_stock,49.99,Ringerschuhe ADIDAS Havoc - Blau,45 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-blue
+ADSHOE2473-105,out_of_stock,49.99,Ringerschuhe ADIDAS Havoc - Blau,45 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-blue
 ADSHOE2473-11,out_of_stock,49.99,Ringerschuhe ADIDAS Havoc - Blau,46,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-blue
 ADSHOE2473-115,out_of_stock,49.99,Ringerschuhe ADIDAS Havoc - Blau,46 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-blue
 PHSH2872-S,in_stock,32.99,T-Shirt Punchy - Schwarz,S,https://phantom-athletics.com/products/t-shirt-punchy-black
@@ -4655,7 +4655,7 @@ NISHOE2952-004-7,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Blau/Schwarz,40,ht
 NISHOE2952-004-75,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Blau/Schwarz,40.5,https://phantom-athletics.com/products/ringerschuhe-nike-tawa-blau-schwarz
 NISHOE2952-004-8,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Blau/Schwarz,41,https://phantom-athletics.com/products/ringerschuhe-nike-tawa-blau-schwarz
 NISHOE2952-004-85,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Blau/Schwarz,42,https://phantom-athletics.com/products/ringerschuhe-nike-tawa-blau-schwarz
-NISHOE2952-004-9,in_stock,119.99,Ringerschuhe NIKE Tawa - Blau/Schwarz,42.5,https://phantom-athletics.com/products/ringerschuhe-nike-tawa-blau-schwarz
+NISHOE2952-004-9,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Blau/Schwarz,42.5,https://phantom-athletics.com/products/ringerschuhe-nike-tawa-blau-schwarz
 NISHOE2952-004-95,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Blau/Schwarz,43,https://phantom-athletics.com/products/ringerschuhe-nike-tawa-blau-schwarz
 NISHOE2952-004-10,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Blau/Schwarz,44,https://phantom-athletics.com/products/ringerschuhe-nike-tawa-blau-schwarz
 NISHOE2952-004-105,out_of_stock,119.99,Ringerschuhe NIKE Tawa - Blau/Schwarz,44.5,https://phantom-athletics.com/products/ringerschuhe-nike-tawa-blau-schwarz
@@ -5663,7 +5663,7 @@ PHBAG00582,in_stock,59.99,Rucksack TACTIC,Default Title,https://phantom-athletic
 PHMASK1431,in_stock,9.99,Phantom Trainingsmaske Cover - Silber,Default Title,https://phantom-athletics.com/products/phantom-training-mask-cover-silver
 PHMASK1406,in_stock,9.99,Phantom Trainingsmaske Cover - Blau,Default Title,https://phantom-athletics.com/products/phantom-training-mask-cover-blue
 PHMASK1417,in_stock,9.99,Phantom Trainingsmaske Cover - Schwarz,Default Title,https://phantom-athletics.com/products/phantom-training-mask-cover-black
-PHPATCH00598,in_stock,5.00,Patch Phantom Trainingsmaske,Default Title,https://phantom-athletics.com/products/patch-phantom-training-mask
+PHPATCH00598,in_stock,1.99,Patch Phantom Trainingsmaske,Default Title,https://phantom-athletics.com/products/patch-phantom-training-mask
 PHPATCH00585,out_of_stock,4.99,Patch Nation,Deutschland,https://phantom-athletics.com/products/patch-flag
 PHPATCH00586,out_of_stock,1.99,Patch Nation,Österreich,https://phantom-athletics.com/products/patch-flag
 PHPATCH00587,out_of_stock,2.99,Patch Nation,Schweiz,https://phantom-athletics.com/products/patch-flag
