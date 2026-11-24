@@ -10,7 +10,7 @@ PHGIBELT-BRA3,out_of_stock,8.99,BJJ Gi / Kimono Gürtel Tactic - Braun,A3,https:
 PHGIBELT-BRA4,out_of_stock,8.99,BJJ Gi / Kimono Gürtel Tactic - Braun,A4,https://phantom-athletics.com/products/bjj-gi-kimono-belt-tactic-brown
 PHGIBELT-BRA5,out_of_stock,8.99,BJJ Gi / Kimono Gürtel Tactic - Braun,A5,https://phantom-athletics.com/products/bjj-gi-kimono-belt-tactic-brown
 PHGIBELT-LA1,in_stock,8.99,BJJ Gi / Kimono Gürtel Tactic - Lila,A1,https://phantom-athletics.com/products/bjj-gi-kimono-belt-tactic-purple
-PHGIBELT-LA2,in_stock,8.99,BJJ Gi / Kimono Gürtel Tactic - Lila,A2,https://phantom-athletics.com/products/bjj-gi-kimono-belt-tactic-purple
+PHGIBELT-LA2,out_of_stock,8.99,BJJ Gi / Kimono Gürtel Tactic - Lila,A2,https://phantom-athletics.com/products/bjj-gi-kimono-belt-tactic-purple
 PHGIBELT-LA3,in_stock,8.99,BJJ Gi / Kimono Gürtel Tactic - Lila,A3,https://phantom-athletics.com/products/bjj-gi-kimono-belt-tactic-purple
 PHGIBELT-LA4,in_stock,8.99,BJJ Gi / Kimono Gürtel Tactic - Lila,A4,https://phantom-athletics.com/products/bjj-gi-kimono-belt-tactic-purple
 PHGIBELT-LA5,in_stock,8.99,BJJ Gi / Kimono Gürtel Tactic - Lila,A5,https://phantom-athletics.com/products/bjj-gi-kimono-belt-tactic-purple
@@ -145,8 +145,8 @@ PHSH4347-L,in_stock,24.74,Oversize T-Shirt CREST - Grau,L,https://phantom-athlet
 PHSH4347-XL,in_stock,24.74,Oversize T-Shirt CREST - Grau,XL,https://phantom-athletics.com/products/oversize-t-shirt-crest-gray
 PHSH4347-XXL,in_stock,24.74,Oversize T-Shirt CREST - Grau,XXL,https://phantom-athletics.com/products/oversize-t-shirt-crest-gray
 PHHO4326-S,out_of_stock,55.99,Trainingsjacke DMC - FIGHT CITY,S,https://phantom-athletics.com/products/track-jacket-dmc-fight-city
-PHHO4326-M,out_of_stock,55.99,Trainingsjacke DMC - FIGHT CITY,M,https://phantom-athletics.com/products/track-jacket-dmc-fight-city
-PHHO4326-L,out_of_stock,55.99,Trainingsjacke DMC - FIGHT CITY,L,https://phantom-athletics.com/products/track-jacket-dmc-fight-city
+PHHO4326-M,in_stock,55.99,Trainingsjacke DMC - FIGHT CITY,M,https://phantom-athletics.com/products/track-jacket-dmc-fight-city
+PHHO4326-L,in_stock,55.99,Trainingsjacke DMC - FIGHT CITY,L,https://phantom-athletics.com/products/track-jacket-dmc-fight-city
 PHHO4326-XL,in_stock,55.99,Trainingsjacke DMC - FIGHT CITY,XL,https://phantom-athletics.com/products/track-jacket-dmc-fight-city
 PHHO4326-XXL,out_of_stock,55.99,Trainingsjacke DMC - FIGHT CITY,XXL,https://phantom-athletics.com/products/track-jacket-dmc-fight-city
 PHHO4326-XXXL,out_of_stock,55.99,Trainingsjacke DMC - FIGHT CITY,XXXL,https://phantom-athletics.com/products/track-jacket-dmc-fight-city
@@ -315,7 +315,7 @@ PHHG4244,in_stock,59.99,Kopfschutz MEXICO Full Face - Titan,Default Title,https:
 PHSG4245-SM,in_stock,58.99,Schienbeinschutz MEXICO - Titan,S/M,https://phantom-athletics.com/products/shinguards-mexico-titan
 PHSG4245-LXL,in_stock,58.99,Schienbeinschutz MEXICO - Titan,L/XL,https://phantom-athletics.com/products/shinguards-mexico-titan
 SJSTORM-W,in_stock,19.99,Safejawz Zahnschutz - Marvel Storm,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-marvel-storm
-SJIRONMAN-R,out_of_stock,21.99,Safejawz Zahnschutz - Marvel Ironman,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-marvel-ironman
+SJIRONMAN-R,in_stock,21.99,Safejawz Zahnschutz - Marvel Ironman,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-marvel-ironman
 SJSPIDERMAN-R,in_stock,19.99,Safejawz Zahnschutz - Marvel Spiderman,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-marvel-spiderman
 SJWOLVERINE-Y,out_of_stock,19.99,Safejawz Zahnschutz - Marvel Wolverine,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-marvel-wolverine
 SJXMEN-Y,in_stock,19.99,Safejawz Zahnschutz - Marvel Xmen,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-marvel-xmen
@@ -715,7 +715,7 @@ ADSHOE1399-8,out_of_stock,49.99,Ringerschuhe Adidas Havoc Plus - Schwarz/Weiß,4
 ADSHOE1399-85,in_stock,49.99,Ringerschuhe Adidas Havoc Plus - Schwarz/Weiß,42 2/3,https://phantom-athletics.com/products/wrestling-shoe-adidas-havoc-hvc-plus-black-white
 ADSHOE1399-9,out_of_stock,49.99,Ringerschuhe Adidas Havoc Plus - Schwarz/Weiß,43 1/3,https://phantom-athletics.com/products/wrestling-shoe-adidas-havoc-hvc-plus-black-white
 ADSHOE1399-95,out_of_stock,49.99,Ringerschuhe Adidas Havoc Plus - Schwarz/Weiß,44,https://phantom-athletics.com/products/wrestling-shoe-adidas-havoc-hvc-plus-black-white
-ADSHOE1399-10,out_of_stock,49.99,Ringerschuhe Adidas Havoc Plus - Schwarz/Weiß,44 2/3,https://phantom-athletics.com/products/wrestling-shoe-adidas-havoc-hvc-plus-black-white
+ADSHOE1399-10,in_stock,49.99,Ringerschuhe Adidas Havoc Plus - Schwarz/Weiß,44 2/3,https://phantom-athletics.com/products/wrestling-shoe-adidas-havoc-hvc-plus-black-white
 ADSHOE1399-105,out_of_stock,49.99,Ringerschuhe Adidas Havoc Plus - Schwarz/Weiß,45 1/3,https://phantom-athletics.com/products/wrestling-shoe-adidas-havoc-hvc-plus-black-white
 ADSHOE1399-11,out_of_stock,49.99,Ringerschuhe Adidas Havoc Plus - Schwarz/Weiß,46,https://phantom-athletics.com/products/wrestling-shoe-adidas-havoc-hvc-plus-black-white
 ADSHOE1399-115,out_of_stock,49.99,Ringerschuhe Adidas Havoc Plus - Schwarz/Weiß,46 2/3,https://phantom-athletics.com/products/wrestling-shoe-adidas-havoc-hvc-plus-black-white
@@ -763,7 +763,7 @@ PHJOG4061-S,in_stock,52.99,Trainingshose DMC - Team Germany,S,https://phantom-at
 PHJOG4061-M,in_stock,52.99,Trainingshose DMC - Team Germany,M,https://phantom-athletics.com/products/track-pants-dmc-team-germany
 PHJOG4061-L,in_stock,52.99,Trainingshose DMC - Team Germany,L,https://phantom-athletics.com/products/track-pants-dmc-team-germany
 PHJOG4061-XL,in_stock,52.99,Trainingshose DMC - Team Germany,XL,https://phantom-athletics.com/products/track-pants-dmc-team-germany
-PHJOG4061-XXL,out_of_stock,52.99,Trainingshose DMC - Team Germany,XXL,https://phantom-athletics.com/products/track-pants-dmc-team-germany
+PHJOG4061-XXL,in_stock,52.99,Trainingshose DMC - Team Germany,XXL,https://phantom-athletics.com/products/track-pants-dmc-team-germany
 PHJOG4061-XXXL,out_of_stock,52.99,Trainingshose DMC - Team Germany,XXXL,https://phantom-athletics.com/products/track-pants-dmc-team-germany
 PHHO4074-S,in_stock,32.99,Trainingsjacke DMC - Team Germany FS,S,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-fs
 PHHO4074-M,in_stock,32.99,Trainingsjacke DMC - Team Germany FS,M,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-fs
@@ -771,11 +771,11 @@ PHHO4074-L,in_stock,32.99,Trainingsjacke DMC - Team Germany FS,L,https://phantom
 PHHO4074-XL,in_stock,32.99,Trainingsjacke DMC - Team Germany FS,XL,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-fs
 PHHO4074-XXL,in_stock,32.99,Trainingsjacke DMC - Team Germany FS,XXL,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-fs
 PHHO4074-XXXL,in_stock,32.99,Trainingsjacke DMC - Team Germany FS,XXXL,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-fs
-PHHO4055-S,out_of_stock,48.99,Trainingsjacke DMC - Team Germany RT,S,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-rt
+PHHO4055-S,in_stock,48.99,Trainingsjacke DMC - Team Germany RT,S,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-rt
 PHHO4055-M,in_stock,48.99,Trainingsjacke DMC - Team Germany RT,M,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-rt
-PHHO4055-L,out_of_stock,48.99,Trainingsjacke DMC - Team Germany RT,L,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-rt
-PHHO4055-XL,out_of_stock,48.99,Trainingsjacke DMC - Team Germany RT,XL,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-rt
-PHHO4055-XXL,out_of_stock,48.99,Trainingsjacke DMC - Team Germany RT,XXL,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-rt
+PHHO4055-L,in_stock,48.99,Trainingsjacke DMC - Team Germany RT,L,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-rt
+PHHO4055-XL,in_stock,48.99,Trainingsjacke DMC - Team Germany RT,XL,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-rt
+PHHO4055-XXL,in_stock,48.99,Trainingsjacke DMC - Team Germany RT,XXL,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-rt
 PHHO4055-XXXL,out_of_stock,48.99,Trainingsjacke DMC - Team Germany RT,XXXL,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-rt
 PHHO4054-S,in_stock,29.99,Trainingsjacke DMC - Team Germany ST,S,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-st
 PHHO4054-M,in_stock,29.99,Trainingsjacke DMC - Team Germany ST,M,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-st
@@ -783,12 +783,12 @@ PHHO4054-L,in_stock,29.99,Trainingsjacke DMC - Team Germany ST,L,https://phantom
 PHHO4054-XL,in_stock,29.99,Trainingsjacke DMC - Team Germany ST,XL,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-st
 PHHO4054-XXL,in_stock,29.99,Trainingsjacke DMC - Team Germany ST,XXL,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-st
 PHHO4054-XXXL,in_stock,29.99,Trainingsjacke DMC - Team Germany ST,XXXL,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-st
-PHHO4056-S,out_of_stock,32.99,Trainingsjacke DMC - Team Germany AS,S,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-as
+PHHO4056-S,in_stock,32.99,Trainingsjacke DMC - Team Germany AS,S,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-as
 PHHO4056-M,in_stock,32.99,Trainingsjacke DMC - Team Germany AS,M,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-as
 PHHO4056-L,in_stock,32.99,Trainingsjacke DMC - Team Germany AS,L,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-as
 PHHO4056-XL,in_stock,32.99,Trainingsjacke DMC - Team Germany AS,XL,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-as
 PHHO4056-XXL,in_stock,32.99,Trainingsjacke DMC - Team Germany AS,XXL,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-as
-PHHO4056-XXXL,out_of_stock,32.99,Trainingsjacke DMC - Team Germany AS,XXXL,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-as
+PHHO4056-XXXL,in_stock,32.99,Trainingsjacke DMC - Team Germany AS,XXXL,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-as
 PHHO4062-S,in_stock,39.99,Trainingsjacke DMC - Team Germany - Grau,S,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-gray
 PHHO4062-M,in_stock,39.99,Trainingsjacke DMC - Team Germany - Grau,M,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-gray
 PHHO4062-L,in_stock,39.99,Trainingsjacke DMC - Team Germany - Grau,L,https://phantom-athletics.com/products/track-jacket-dmc-team-germany-gray
@@ -803,7 +803,7 @@ PHSHEVO+4067-XXL,in_stock,19.99,Trainingsshirt EVO+ Germany ECP - Weiß,XXL,http
 PHSHEVO+4065-S,in_stock,19.99,Trainingsshirt EVO+ Team Germany - Grau,S,https://phantom-athletics.com/products/training-shirt-evo-team-germany-gray
 PHSHEVO+4065-M,in_stock,19.99,Trainingsshirt EVO+ Team Germany - Grau,M,https://phantom-athletics.com/products/training-shirt-evo-team-germany-gray
 PHSHEVO+4065-L,in_stock,19.99,Trainingsshirt EVO+ Team Germany - Grau,L,https://phantom-athletics.com/products/training-shirt-evo-team-germany-gray
-PHSHEVO+4065-XL,out_of_stock,19.99,Trainingsshirt EVO+ Team Germany - Grau,XL,https://phantom-athletics.com/products/training-shirt-evo-team-germany-gray
+PHSHEVO+4065-XL,in_stock,19.99,Trainingsshirt EVO+ Team Germany - Grau,XL,https://phantom-athletics.com/products/training-shirt-evo-team-germany-gray
 PHSHEVO+4065-XXL,in_stock,19.99,Trainingsshirt EVO+ Team Germany - Grau,XXL,https://phantom-athletics.com/products/training-shirt-evo-team-germany-gray
 PHSHEVO+4064-S,in_stock,19.99,Trainingsshirt EVO+ Team Germany - Weiß,S,https://phantom-athletics.com/products/training-shirt-evo-team-germany-white
 PHSHEVO+4064-M,in_stock,19.99,Trainingsshirt EVO+ Team Germany - Weiß,M,https://phantom-athletics.com/products/training-shirt-evo-team-germany-white
@@ -927,7 +927,7 @@ PHSH3948-XL,in_stock,19.99,Oversize Shirt FOR THOSE WHO FIGHT,XL,https://phantom
 PHSH3948-XXL,in_stock,19.99,Oversize Shirt FOR THOSE WHO FIGHT,XXL,https://phantom-athletics.com/products/oversize-shirt-for-those-who-fight
 PHSHEVO+3937-S,in_stock,31.99,Trainingsshirt EVO+ Team Italy,S,https://phantom-athletics.com/products/training-shirt-evo-team-italy
 PHSHEVO+3937-M,in_stock,31.99,Trainingsshirt EVO+ Team Italy,M,https://phantom-athletics.com/products/training-shirt-evo-team-italy
-PHSHEVO+3937-L,out_of_stock,31.99,Trainingsshirt EVO+ Team Italy,L,https://phantom-athletics.com/products/training-shirt-evo-team-italy
+PHSHEVO+3937-L,in_stock,31.99,Trainingsshirt EVO+ Team Italy,L,https://phantom-athletics.com/products/training-shirt-evo-team-italy
 PHSHEVO+3937-XL,in_stock,31.99,Trainingsshirt EVO+ Team Italy,XL,https://phantom-athletics.com/products/training-shirt-evo-team-italy
 PHSHEVO+3937-XXL,in_stock,31.99,Trainingsshirt EVO+ Team Italy,XXL,https://phantom-athletics.com/products/training-shirt-evo-team-italy
 PHSHEVO+3933-S,in_stock,31.99,Trainingsshirt EVO+ Team France,S,https://phantom-athletics.com/products/training-shirt-evo-team-france
@@ -947,12 +947,12 @@ PHRG3934-XL,in_stock,50.99,Rashguard Team France,XL,https://phantom-athletics.co
 PHRG3934-XXL,in_stock,50.99,Rashguard Team France,XXL,https://phantom-athletics.com/products/rashguard-team-france
 PHHO3940-S,out_of_stock,47.99,Trainingsjacke DMC - Team Italy,S,https://phantom-athletics.com/products/track-jacket-dmc-team-italy
 PHHO3940-M,in_stock,47.99,Trainingsjacke DMC - Team Italy,M,https://phantom-athletics.com/products/track-jacket-dmc-team-italy
-PHHO3940-L,out_of_stock,47.99,Trainingsjacke DMC - Team Italy,L,https://phantom-athletics.com/products/track-jacket-dmc-team-italy
+PHHO3940-L,in_stock,47.99,Trainingsjacke DMC - Team Italy,L,https://phantom-athletics.com/products/track-jacket-dmc-team-italy
 PHHO3940-XL,out_of_stock,47.99,Trainingsjacke DMC - Team Italy,XL,https://phantom-athletics.com/products/track-jacket-dmc-team-italy
 PHHO3940-XXL,in_stock,47.99,Trainingsjacke DMC - Team Italy,XXL,https://phantom-athletics.com/products/track-jacket-dmc-team-italy
 PHHO3940-XXXL,in_stock,47.99,Trainingsjacke DMC - Team Italy,XXXL,https://phantom-athletics.com/products/track-jacket-dmc-team-italy
-PHHO3936-S,out_of_stock,55.99,Trainingsjacke DMC - Team France,S,https://phantom-athletics.com/products/trackjacket-dmc-team-france
-PHHO3936-M,out_of_stock,55.99,Trainingsjacke DMC - Team France,M,https://phantom-athletics.com/products/trackjacket-dmc-team-france
+PHHO3936-S,in_stock,55.99,Trainingsjacke DMC - Team France,S,https://phantom-athletics.com/products/trackjacket-dmc-team-france
+PHHO3936-M,in_stock,55.99,Trainingsjacke DMC - Team France,M,https://phantom-athletics.com/products/trackjacket-dmc-team-france
 PHHO3936-L,in_stock,55.99,Trainingsjacke DMC - Team France,L,https://phantom-athletics.com/products/trackjacket-dmc-team-france
 PHHO3936-XL,in_stock,55.99,Trainingsjacke DMC - Team France,XL,https://phantom-athletics.com/products/trackjacket-dmc-team-france
 PHHO3936-XXL,in_stock,55.99,Trainingsjacke DMC - Team France,XXL,https://phantom-athletics.com/products/trackjacket-dmc-team-france
@@ -1011,7 +1011,7 @@ ADSHOE4996-11K,out_of_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc - Neon Grün,
 ADSHOE4996-11.5K,out_of_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc - Neon Grün,30,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-havoc-neon-green
 ADSHOE4996-12K,in_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc - Neon Grün,30 1/2,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-havoc-neon-green
 ADSHOE4996-12.5K,out_of_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc - Neon Grün,31,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-havoc-neon-green
-ADSHOE4996-13K,out_of_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc - Neon Grün,31 1/2,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-havoc-neon-green
+ADSHOE4996-13K,in_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc - Neon Grün,31 1/2,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-havoc-neon-green
 ADSHOE4996-13.5K,out_of_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc - Neon Grün,32,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-havoc-neon-green
 ADSHOE4996-1,out_of_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc - Neon Grün,33,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-havoc-neon-green
 ADSHOE4996-15,out_of_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc - Neon Grün,33 1/2,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-havoc-neon-green
@@ -1132,7 +1132,7 @@ ADSHOE8538-95,out_of_stock,64.99,Boxschuhe ADIDAS Box Hog Classic - Schwarz,44,h
 ADSHOE8538-10,out_of_stock,64.99,Boxschuhe ADIDAS Box Hog Classic - Schwarz,44 2/3,https://phantom-athletics.com/products/boxing-shoes-didas-box-hog-classic
 ADSHOE8538-105,out_of_stock,64.99,Boxschuhe ADIDAS Box Hog Classic - Schwarz,45 1/3,https://phantom-athletics.com/products/boxing-shoes-didas-box-hog-classic
 ADSHOE8538-11,out_of_stock,64.99,Boxschuhe ADIDAS Box Hog Classic - Schwarz,46,https://phantom-athletics.com/products/boxing-shoes-didas-box-hog-classic
-PHJOG3869-S,out_of_stock,31.99,Jogger Apex,S,https://phantom-athletics.com/products/jogger-apex
+PHJOG3869-S,in_stock,31.99,Jogger Apex,S,https://phantom-athletics.com/products/jogger-apex
 PHJOG3869-M,in_stock,31.99,Jogger Apex,M,https://phantom-athletics.com/products/jogger-apex
 PHJOG3869-L,in_stock,31.99,Jogger Apex,L,https://phantom-athletics.com/products/jogger-apex
 PHJOG3869-XL,in_stock,31.99,Jogger Apex,XL,https://phantom-athletics.com/products/jogger-apex
@@ -1394,7 +1394,7 @@ PHSHEVO+3775-M,in_stock,19.99,Trainingsshirt EVO+ Team Ukraine,M,https://phantom
 PHSHEVO+3775-L,in_stock,19.99,Trainingsshirt EVO+ Team Ukraine,L,https://phantom-athletics.com/products/training-shirt-evo-team-ukraine
 PHSHEVO+3775-XL,in_stock,19.99,Trainingsshirt EVO+ Team Ukraine,XL,https://phantom-athletics.com/products/training-shirt-evo-team-ukraine
 PHSHEVO+3775-XXL,in_stock,19.99,Trainingsshirt EVO+ Team Ukraine,XXL,https://phantom-athletics.com/products/training-shirt-evo-team-ukraine
-PHHO3778-S,out_of_stock,29.99,Trainingsjacke DMC - Team Ukraine,S,https://phantom-athletics.com/products/track-jacket-dmc-team-ukraine
+PHHO3778-S,in_stock,29.99,Trainingsjacke DMC - Team Ukraine,S,https://phantom-athletics.com/products/track-jacket-dmc-team-ukraine
 PHHO3778-M,in_stock,29.99,Trainingsjacke DMC - Team Ukraine,M,https://phantom-athletics.com/products/track-jacket-dmc-team-ukraine
 PHHO3778-L,in_stock,29.99,Trainingsjacke DMC - Team Ukraine,L,https://phantom-athletics.com/products/track-jacket-dmc-team-ukraine
 PHHO3778-XL,in_stock,29.99,Trainingsjacke DMC - Team Ukraine,XL,https://phantom-athletics.com/products/track-jacket-dmc-team-ukraine
@@ -1415,8 +1415,8 @@ PHSHEVO+3771-M,in_stock,29.99,Trainingsshirt EVO+ Team Albania,M,https://phantom
 PHSHEVO+3771-L,in_stock,29.99,Trainingsshirt EVO+ Team Albania,L,https://phantom-athletics.com/products/training-shirt-evo-team-albania
 PHSHEVO+3771-XL,in_stock,29.99,Trainingsshirt EVO+ Team Albania,XL,https://phantom-athletics.com/products/training-shirt-evo-team-albania
 PHSHEVO+3771-XXL,in_stock,29.99,Trainingsshirt EVO+ Team Albania,XXL,https://phantom-athletics.com/products/training-shirt-evo-team-albania
-PHHO3774-S,out_of_stock,52.99,Trainingsjacke DMC - Team Albania,S,https://phantom-athletics.com/products/track-jacket-dmc-team-albania
-PHHO3774-M,out_of_stock,52.99,Trainingsjacke DMC - Team Albania,M,https://phantom-athletics.com/products/track-jacket-dmc-team-albania
+PHHO3774-S,in_stock,52.99,Trainingsjacke DMC - Team Albania,S,https://phantom-athletics.com/products/track-jacket-dmc-team-albania
+PHHO3774-M,in_stock,52.99,Trainingsjacke DMC - Team Albania,M,https://phantom-athletics.com/products/track-jacket-dmc-team-albania
 PHHO3774-L,in_stock,52.99,Trainingsjacke DMC - Team Albania,L,https://phantom-athletics.com/products/track-jacket-dmc-team-albania
 PHHO3774-XL,in_stock,52.99,Trainingsjacke DMC - Team Albania,XL,https://phantom-athletics.com/products/track-jacket-dmc-team-albania
 PHHO3774-XXL,in_stock,52.99,Trainingsjacke DMC - Team Albania,XXL,https://phantom-athletics.com/products/track-jacket-dmc-team-albania
@@ -1432,7 +1432,7 @@ PHRG3769-L,in_stock,41.99,Rashguard Team Turkey - Schwarz,L,https://phantom-athl
 PHRG3769-XL,in_stock,41.99,Rashguard Team Turkey - Schwarz,XL,https://phantom-athletics.com/products/rashguard-team-turkey-black
 PHRG3769-XXL,in_stock,41.99,Rashguard Team Turkey - Schwarz,XXL,https://phantom-athletics.com/products/rashguard-team-turkey-black
 PHSHEVO+3768-S,out_of_stock,25.99,Trainingsshirt EVO+ Team Turkey - Schwarz,S,https://phantom-athletics.com/products/training-shirt-evo-team-turkey-black
-PHSHEVO+3768-M,out_of_stock,25.99,Trainingsshirt EVO+ Team Turkey - Schwarz,M,https://phantom-athletics.com/products/training-shirt-evo-team-turkey-black
+PHSHEVO+3768-M,in_stock,25.99,Trainingsshirt EVO+ Team Turkey - Schwarz,M,https://phantom-athletics.com/products/training-shirt-evo-team-turkey-black
 PHSHEVO+3768-L,in_stock,25.99,Trainingsshirt EVO+ Team Turkey - Schwarz,L,https://phantom-athletics.com/products/training-shirt-evo-team-turkey-black
 PHSHEVO+3768-XL,in_stock,25.99,Trainingsshirt EVO+ Team Turkey - Schwarz,XL,https://phantom-athletics.com/products/training-shirt-evo-team-turkey-black
 PHSHEVO+3768-XXL,in_stock,25.99,Trainingsshirt EVO+ Team Turkey - Schwarz,XXL,https://phantom-athletics.com/products/training-shirt-evo-team-turkey-black
@@ -1497,11 +1497,11 @@ PHSHEVO+3757-M,in_stock,19.99,Trainingsshirt EVO+ Team Serbia - Blau,M,https://p
 PHSHEVO+3757-L,in_stock,19.99,Trainingsshirt EVO+ Team Serbia - Blau,L,https://phantom-athletics.com/products/training-shirt-evo-team-serbia-blue
 PHSHEVO+3757-XL,in_stock,19.99,Trainingsshirt EVO+ Team Serbia - Blau,XL,https://phantom-athletics.com/products/training-shirt-evo-team-serbia-blue
 PHSHEVO+3757-XXL,in_stock,19.99,Trainingsshirt EVO+ Team Serbia - Blau,XXL,https://phantom-athletics.com/products/training-shirt-evo-team-serbia-blue
-PHHO3756-S,out_of_stock,29.99,Trainingsjacke DMC - Team Bosnia,S,https://phantom-athletics.com/products/track-jacket-dmc-team-bosnia
+PHHO3756-S,in_stock,29.99,Trainingsjacke DMC - Team Bosnia,S,https://phantom-athletics.com/products/track-jacket-dmc-team-bosnia
 PHHO3756-M,in_stock,29.99,Trainingsjacke DMC - Team Bosnia,M,https://phantom-athletics.com/products/track-jacket-dmc-team-bosnia
 PHHO3756-L,in_stock,29.99,Trainingsjacke DMC - Team Bosnia,L,https://phantom-athletics.com/products/track-jacket-dmc-team-bosnia
-PHHO3756-XL,out_of_stock,29.99,Trainingsjacke DMC - Team Bosnia,XL,https://phantom-athletics.com/products/track-jacket-dmc-team-bosnia
-PHHO3756-XXL,out_of_stock,29.99,Trainingsjacke DMC - Team Bosnia,XXL,https://phantom-athletics.com/products/track-jacket-dmc-team-bosnia
+PHHO3756-XL,in_stock,29.99,Trainingsjacke DMC - Team Bosnia,XL,https://phantom-athletics.com/products/track-jacket-dmc-team-bosnia
+PHHO3756-XXL,in_stock,29.99,Trainingsjacke DMC - Team Bosnia,XXL,https://phantom-athletics.com/products/track-jacket-dmc-team-bosnia
 PHSHO3755-S,out_of_stock,38.99,Fightshorts FUSION-R - Team Bosnia,S,https://phantom-athletics.com/products/fightshorts-fusion-r-team-bosnia
 PHSHO3755-M,in_stock,38.99,Fightshorts FUSION-R - Team Bosnia,M,https://phantom-athletics.com/products/fightshorts-fusion-r-team-bosnia
 PHSHO3755-L,in_stock,38.99,Fightshorts FUSION-R - Team Bosnia,L,https://phantom-athletics.com/products/fightshorts-fusion-r-team-bosnia
@@ -1517,12 +1517,12 @@ PHSHEVO+3753-M,in_stock,31.99,Trainingsshirt EVO+ Team Bosnia,M,https://phantom-
 PHSHEVO+3753-L,in_stock,31.99,Trainingsshirt EVO+ Team Bosnia,L,https://phantom-athletics.com/products/training-shirt-evo-team-bosnia
 PHSHEVO+3753-XL,out_of_stock,31.99,Trainingsshirt EVO+ Team Bosnia,XL,https://phantom-athletics.com/products/training-shirt-evo-team-bosnia
 PHSHEVO+3753-XXL,in_stock,31.99,Trainingsshirt EVO+ Team Bosnia,XXL,https://phantom-athletics.com/products/training-shirt-evo-team-bosnia
-PHHO3752-S,out_of_stock,52.99,Trainingsjacke DMC - Team Russia,S,https://phantom-athletics.com/products/track-jacket-dmc-team-russia
+PHHO3752-S,in_stock,52.99,Trainingsjacke DMC - Team Russia,S,https://phantom-athletics.com/products/track-jacket-dmc-team-russia
 PHHO3752-M,in_stock,52.99,Trainingsjacke DMC - Team Russia,M,https://phantom-athletics.com/products/track-jacket-dmc-team-russia
 PHHO3752-L,in_stock,52.99,Trainingsjacke DMC - Team Russia,L,https://phantom-athletics.com/products/track-jacket-dmc-team-russia
-PHHO3752-XL,out_of_stock,52.99,Trainingsjacke DMC - Team Russia,XL,https://phantom-athletics.com/products/track-jacket-dmc-team-russia
-PHHO3752-XXL,out_of_stock,52.99,Trainingsjacke DMC - Team Russia,XXL,https://phantom-athletics.com/products/track-jacket-dmc-team-russia
-PHHO3752-XXXL,out_of_stock,52.99,Trainingsjacke DMC - Team Russia,XXXL,https://phantom-athletics.com/products/track-jacket-dmc-team-russia
+PHHO3752-XL,in_stock,52.99,Trainingsjacke DMC - Team Russia,XL,https://phantom-athletics.com/products/track-jacket-dmc-team-russia
+PHHO3752-XXL,in_stock,52.99,Trainingsjacke DMC - Team Russia,XXL,https://phantom-athletics.com/products/track-jacket-dmc-team-russia
+PHHO3752-XXXL,in_stock,52.99,Trainingsjacke DMC - Team Russia,XXXL,https://phantom-athletics.com/products/track-jacket-dmc-team-russia
 PHSHO3751-S,in_stock,44.99,Fightshorts FUSION-R - Team Russia,S,https://phantom-athletics.com/products/fightshorts-fusion-r-team-russia
 PHSHO3751-M,in_stock,44.99,Fightshorts FUSION-R - Team Russia,M,https://phantom-athletics.com/products/fightshorts-fusion-r-team-russia
 PHSHO3751-L,in_stock,44.99,Fightshorts FUSION-R - Team Russia,L,https://phantom-athletics.com/products/fightshorts-fusion-r-team-russia
@@ -1548,7 +1548,7 @@ PHSHEVO+3741-M,in_stock,21.99,Trainingsshirt EVO+ Team Chechnya - Schwarz,M,http
 PHSHEVO+3741-L,in_stock,21.99,Trainingsshirt EVO+ Team Chechnya - Schwarz,L,https://phantom-athletics.com/products/training-shirt-evo-team-chechnya-black
 PHSHEVO+3741-XL,in_stock,21.99,Trainingsshirt EVO+ Team Chechnya - Schwarz,XL,https://phantom-athletics.com/products/training-shirt-evo-team-chechnya-black
 PHSHEVO+3741-XXL,in_stock,27.99,Trainingsshirt EVO+ Team Chechnya - Schwarz,XXL,https://phantom-athletics.com/products/training-shirt-evo-team-chechnya-black
-PHHO3748-S,out_of_stock,29.99,Trainingsjacke DMC - Team Chechnya - Schwarz/Grün,S,https://phantom-athletics.com/products/track-jacket-dmc-team-chechnya-black-green
+PHHO3748-S,in_stock,29.99,Trainingsjacke DMC - Team Chechnya - Schwarz/Grün,S,https://phantom-athletics.com/products/track-jacket-dmc-team-chechnya-black-green
 PHHO3748-M,in_stock,29.99,Trainingsjacke DMC - Team Chechnya - Schwarz/Grün,M,https://phantom-athletics.com/products/track-jacket-dmc-team-chechnya-black-green
 PHHO3748-L,in_stock,29.99,Trainingsjacke DMC - Team Chechnya - Schwarz/Grün,L,https://phantom-athletics.com/products/track-jacket-dmc-team-chechnya-black-green
 PHHO3748-XL,in_stock,29.99,Trainingsjacke DMC - Team Chechnya - Schwarz/Grün,XL,https://phantom-athletics.com/products/track-jacket-dmc-team-chechnya-black-green
@@ -1587,7 +1587,7 @@ PHHG3793,in_stock,55.99,Kopfschutz MEXICO Full Face - Rot/Weiß,Default Title,ht
 PHHG3787,out_of_stock,55.99,Kopfschutz MEXICO Full Face - Weiß/Grün/Rot,Default Title,https://phantom-athletics.com/products/headguard-mexico-full-face-white-green-red
 PHHG3789,out_of_stock,55.99,Kopfschutz MEXICO Full Face - Silber/Grün/Rot,Default Title,https://phantom-athletics.com/products/headguard-mexico-full-face-silver-green-red
 PHHG3797,in_stock,55.99,Kopfschutz MEXICO Full Face - Silber/Red,Default Title,https://phantom-athletics.com/products/headguard-mexico-full-face-silver-red
-PHHG3817,in_stock,55.99,Kopfschutz MEXICO Full Face - Silber,Default Title,https://phantom-athletics.com/products/headguard-mexico-full-face-silver
+PHHG3817,out_of_stock,55.99,Kopfschutz MEXICO Full Face - Silber,Default Title,https://phantom-athletics.com/products/headguard-mexico-full-face-silver
 PHHG3813,in_stock,55.99,Kopfschutz MEXICO Full Face - Gold,Default Title,https://phantom-athletics.com/products/headguard-mexico-full-face-gold
 PHHG3783,out_of_stock,55.99,Kopfschutz MEXICO Full Face - Schwarz,Default Title,https://phantom-athletics.com/products/headguard-mexico-full-face-black
 PHHG3785,out_of_stock,55.99,Kopfschutz MEXICO Full Face - Rot,Default Title,https://phantom-athletics.com/products/headguard-mexico-full-face-red
@@ -1655,18 +1655,18 @@ PHSG3786-SM,in_stock,67.99,Schienbeinschutz MEXICO - Rot,S/M,https://phantom-ath
 PHSG3786-LXL,in_stock,67.99,Schienbeinschutz MEXICO - Rot,L/XL,https://phantom-athletics.com/products/shinpads-mexico-red
 PHSG3784-SM,out_of_stock,62.99,Schienbeinschutz MEXICO - Schwarz,S/M,https://phantom-athletics.com/products/shinpads-mexico-black
 PHSG3784-LXL,out_of_stock,62.99,Schienbeinschutz MEXICO - Schwarz,L/XL,https://phantom-athletics.com/products/shinpads-mexico-black
-PHHO3835-S,out_of_stock,34.99,Trainingsjacke DMC - Muay Thai / Sak Yant,S,https://phantom-athletics.com/products/track-jacket-dmc-muay-thai-sak-yant
+PHHO3835-S,in_stock,34.99,Trainingsjacke DMC - Muay Thai / Sak Yant,S,https://phantom-athletics.com/products/track-jacket-dmc-muay-thai-sak-yant
 PHHO3835-M,in_stock,34.99,Trainingsjacke DMC - Muay Thai / Sak Yant,M,https://phantom-athletics.com/products/track-jacket-dmc-muay-thai-sak-yant
 PHHO3835-L,in_stock,34.99,Trainingsjacke DMC - Muay Thai / Sak Yant,L,https://phantom-athletics.com/products/track-jacket-dmc-muay-thai-sak-yant
 PHHO3835-XL,in_stock,34.99,Trainingsjacke DMC - Muay Thai / Sak Yant,XL,https://phantom-athletics.com/products/track-jacket-dmc-muay-thai-sak-yant
 PHHO3835-XXL,in_stock,34.99,Trainingsjacke DMC - Muay Thai / Sak Yant,XXL,https://phantom-athletics.com/products/track-jacket-dmc-muay-thai-sak-yant
-PHHO3835-XXXL,out_of_stock,34.99,Trainingsjacke DMC - Muay Thai / Sak Yant,XXXL,https://phantom-athletics.com/products/track-jacket-dmc-muay-thai-sak-yant
-PHHO3834-S,out_of_stock,39.99,Trainingsjacke DMC - Germany Eagle,S,https://phantom-athletics.com/products/trainingsjacke-dmc-german-eagle
+PHHO3835-XXXL,in_stock,34.99,Trainingsjacke DMC - Muay Thai / Sak Yant,XXXL,https://phantom-athletics.com/products/track-jacket-dmc-muay-thai-sak-yant
+PHHO3834-S,in_stock,39.99,Trainingsjacke DMC - Germany Eagle,S,https://phantom-athletics.com/products/trainingsjacke-dmc-german-eagle
 PHHO3834-M,in_stock,39.99,Trainingsjacke DMC - Germany Eagle,M,https://phantom-athletics.com/products/trainingsjacke-dmc-german-eagle
 PHHO3834-L,in_stock,39.99,Trainingsjacke DMC - Germany Eagle,L,https://phantom-athletics.com/products/trainingsjacke-dmc-german-eagle
 PHHO3834-XL,in_stock,39.99,Trainingsjacke DMC - Germany Eagle,XL,https://phantom-athletics.com/products/trainingsjacke-dmc-german-eagle
 PHHO3834-XXL,in_stock,39.99,Trainingsjacke DMC - Germany Eagle,XXL,https://phantom-athletics.com/products/trainingsjacke-dmc-german-eagle
-PHHO3834-XXXL,out_of_stock,39.99,Trainingsjacke DMC - Germany Eagle,XXXL,https://phantom-athletics.com/products/trainingsjacke-dmc-german-eagle
+PHHO3834-XXXL,in_stock,39.99,Trainingsjacke DMC - Germany Eagle,XXXL,https://phantom-athletics.com/products/trainingsjacke-dmc-german-eagle
 PHHO3833-S,in_stock,39.99,Trainingsjacke DMC - Team Germany - Schwarz/Rot/Gold,S,https://phantom-athletics.com/products/trackjacket-dmc-team-germany-2
 PHHO3833-M,in_stock,39.99,Trainingsjacke DMC - Team Germany - Schwarz/Rot/Gold,M,https://phantom-athletics.com/products/trackjacket-dmc-team-germany-2
 PHHO3833-L,in_stock,39.99,Trainingsjacke DMC - Team Germany - Schwarz/Rot/Gold,L,https://phantom-athletics.com/products/trackjacket-dmc-team-germany-2
@@ -1728,7 +1728,7 @@ PHSHBRA00704-SWL,in_stock,23.99,Sport BH Eclipse,L,https://phantom-athletics.com
 PHSHOCOMP00701-SWXS,out_of_stock,53.99,Leggings Eclipse,XS,https://phantom-athletics.com/products/leggings-eclipse
 PHSHOCOMP00701-SWS,in_stock,53.99,Leggings Eclipse,S,https://phantom-athletics.com/products/leggings-eclipse
 PHSHOCOMP00701-SWM,out_of_stock,53.99,Leggings Eclipse,M,https://phantom-athletics.com/products/leggings-eclipse
-PHSHOCOMP00701-SWL,in_stock,53.99,Leggings Eclipse,L,https://phantom-athletics.com/products/leggings-eclipse
+PHSHOCOMP00701-SWL,out_of_stock,53.99,Leggings Eclipse,L,https://phantom-athletics.com/products/leggings-eclipse
 TWBEPS3-W,out_of_stock,146.99,Bellypad / Bauchgürtel Twins Muay Thai - BEP-S3 - Weiß,Default Title,https://phantom-athletics.com/products/bellypad-twins-beps3-white
 PHACC3505-S,in_stock,5.99,Finger Tape - 3 Pack,Default Title,https://phantom-athletics.com/products/finger-tape-3pack
 PHMMAG3704-SM,in_stock,39.99,MMA Sparring Handschuhe MEXICO - Weiß/Grün/Rot,S/M,https://phantom-athletics.com/products/mma-sparring-gloves-mexico-white-green-red
@@ -1741,7 +1741,7 @@ PHMMAG3703-SM,in_stock,39.99,MMA Sparring Handschuhe Mexico - Rot,S/M,https://ph
 PHMMAG3703-LXL,in_stock,39.99,MMA Sparring Handschuhe Mexico - Rot,L/XL,https://phantom-athletics.com/products/mma-sparring-gloves-mexico-red
 PHBG3686-10,in_stock,38.99,Boxhandschuhe APEX - Schwarz/Grau,10 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-black-gray
 PHBG3686-12,in_stock,38.99,Boxhandschuhe APEX - Schwarz/Grau,12 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-black-gray
-PHBG3686-14,in_stock,38.99,Boxhandschuhe APEX - Schwarz/Grau,14 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-black-gray
+PHBG3686-14,out_of_stock,38.99,Boxhandschuhe APEX - Schwarz/Grau,14 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-black-gray
 PHBG3686-16,in_stock,38.99,Boxhandschuhe APEX - Schwarz/Grau,16 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-black-gray
 PHSG3684-SM,in_stock,66.99,Schienbeinschutz APEX Striking - Schwarz/Grau,S/M,https://phantom-athletics.com/products/shinpads-apex-striking-black-gray
 PHSG3684-LXL,in_stock,52.99,Schienbeinschutz APEX Striking - Schwarz/Grau,L/XL,https://phantom-athletics.com/products/shinpads-apex-striking-black-gray
@@ -1884,7 +1884,7 @@ SJNITRO-BR,out_of_stock,22.99,Safejawz Zahnschutz - Nitro Series Schwarz/Rot,Def
 SJNITRO-BW,out_of_stock,22.99,Safejawz Zahnschutz - Nitro Series Blau/Weiß,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-nitro-series-blue-white
 OPSILVER-SRY,out_of_stock,13.99,OPRO Kinder Zahnschutz - UFC Silver Level - Schwarz/Rot,Default Title,https://phantom-athletics.com/products/opro-kids-mouthguard-ufc-silver-level-black-red
 OPSILVER-RSY,out_of_stock,13.99,OPRO Kinder Zahnschutz - UFC Silver Level - Rot/Schwarz,Default Title,https://phantom-athletics.com/products/opro-kids-mouthguard-ufc-silver-level-red-black
-PHSG3400-SM,out_of_stock,62.99,Schienbeinschutz MT-Pro - Schwarz,S/M,https://phantom-athletics.com/products/shinpads-mt-pro-black
+PHSG3400-SM,in_stock,62.99,Schienbeinschutz MT-Pro - Schwarz,S/M,https://phantom-athletics.com/products/shinpads-mt-pro-black
 PHSG3400-LXL,in_stock,62.99,Schienbeinschutz MT-Pro - Schwarz,L/XL,https://phantom-athletics.com/products/shinpads-mt-pro-black
 PHBAG3580,in_stock,29.99,Sporttasche TEAM Germany,Default Title,https://phantom-athletics.com/products/gymbag-team-germany
 PHMMAG3581-SM,in_stock,44.99,MMA Sparring Handschuhe Germany,S/M,https://phantom-athletics.com/products/mma-sparring-gloves-germany
@@ -1971,7 +1971,7 @@ PHSH3643-M,in_stock,24.99,Oversize Shirt Team RAKIC,M,https://phantom-athletics.
 PHSH3643-L,in_stock,24.99,Oversize Shirt Team RAKIC,L,https://phantom-athletics.com/products/oversize-shirt-team-rakic
 PHSH3643-XL,in_stock,24.99,Oversize Shirt Team RAKIC,XL,https://phantom-athletics.com/products/oversize-shirt-team-rakic
 PHSH3643-XXL,in_stock,24.99,Oversize Shirt Team RAKIC,XXL,https://phantom-athletics.com/products/oversize-shirt-team-rakic
-PHHO3574-S,out_of_stock,29.99,Hoodie EVO Team - Schwarz,S,https://phantom-athletics.com/products/hoodie-evo-team-black
+PHHO3574-S,in_stock,29.99,Hoodie EVO Team - Schwarz,S,https://phantom-athletics.com/products/hoodie-evo-team-black
 PHHO3574-M,in_stock,29.99,Hoodie EVO Team - Schwarz,M,https://phantom-athletics.com/products/hoodie-evo-team-black
 PHHO3574-L,in_stock,29.99,Hoodie EVO Team - Schwarz,L,https://phantom-athletics.com/products/hoodie-evo-team-black
 PHHO3574-XL,in_stock,29.99,Hoodie EVO Team - Schwarz,XL,https://phantom-athletics.com/products/hoodie-evo-team-black
@@ -1992,7 +1992,7 @@ PHHO3597-L,in_stock,29.99,Trainingsjacke DMC - Team Serbia - Blau,L,https://phan
 PHHO3597-XL,in_stock,29.99,Trainingsjacke DMC - Team Serbia - Blau,XL,https://phantom-athletics.com/products/track-jacket-dmc-team-serbia-blue
 PHHO3597-XXL,in_stock,29.99,Trainingsjacke DMC - Team Serbia - Blau,XXL,https://phantom-athletics.com/products/track-jacket-dmc-team-serbia-blue
 PHHO3597-XXXL,in_stock,29.99,Trainingsjacke DMC - Team Serbia - Blau,XXXL,https://phantom-athletics.com/products/track-jacket-dmc-team-serbia-blue
-PHHO3596-S,out_of_stock,39.99,Trainingsjacke DMC - Team Serbia - Schwarz,S,https://phantom-athletics.com/products/track-jacket-dmc-team-serbia
+PHHO3596-S,in_stock,39.99,Trainingsjacke DMC - Team Serbia - Schwarz,S,https://phantom-athletics.com/products/track-jacket-dmc-team-serbia
 PHHO3596-M,in_stock,39.99,Trainingsjacke DMC - Team Serbia - Schwarz,M,https://phantom-athletics.com/products/track-jacket-dmc-team-serbia
 PHHO3596-L,in_stock,39.99,Trainingsjacke DMC - Team Serbia - Schwarz,L,https://phantom-athletics.com/products/track-jacket-dmc-team-serbia
 PHHO3596-XL,in_stock,39.99,Trainingsjacke DMC - Team Serbia - Schwarz,XL,https://phantom-athletics.com/products/track-jacket-dmc-team-serbia
@@ -2006,17 +2006,17 @@ PHHO3595-XXL,in_stock,29.99,Trainingsjacke DMC - Team Croatia - Blau,XXL,https:/
 PHHO3595-XXXL,in_stock,29.99,Trainingsjacke DMC - Team Croatia - Blau,XXXL,https://phantom-athletics.com/products/track-jacket-dmc-team-croatia-blue
 PHHO3594-S,in_stock,52.99,Trainingsjacke DMC - Team Croatia - Schwarz,S,https://phantom-athletics.com/products/track-jacket-dmc-team-croatia
 PHHO3594-M,in_stock,48.99,Trainingsjacke DMC - Team Croatia - Schwarz,M,https://phantom-athletics.com/products/track-jacket-dmc-team-croatia
-PHHO3594-L,out_of_stock,52.99,Trainingsjacke DMC - Team Croatia - Schwarz,L,https://phantom-athletics.com/products/track-jacket-dmc-team-croatia
+PHHO3594-L,in_stock,52.99,Trainingsjacke DMC - Team Croatia - Schwarz,L,https://phantom-athletics.com/products/track-jacket-dmc-team-croatia
 PHHO3594-XL,in_stock,48.99,Trainingsjacke DMC - Team Croatia - Schwarz,XL,https://phantom-athletics.com/products/track-jacket-dmc-team-croatia
 PHHO3594-XXL,in_stock,48.99,Trainingsjacke DMC - Team Croatia - Schwarz,XXL,https://phantom-athletics.com/products/track-jacket-dmc-team-croatia
-PHHO3594-XXXL,out_of_stock,52.99,Trainingsjacke DMC - Team Croatia - Schwarz,XXXL,https://phantom-athletics.com/products/track-jacket-dmc-team-croatia
-PHHO3592-S,out_of_stock,39.99,Trainingsjacke DMC - Team Turkey - Schwarz,S,https://phantom-athletics.com/products/track-jacket-dmc-team-turkey
+PHHO3594-XXXL,in_stock,52.99,Trainingsjacke DMC - Team Croatia - Schwarz,XXXL,https://phantom-athletics.com/products/track-jacket-dmc-team-croatia
+PHHO3592-S,in_stock,39.99,Trainingsjacke DMC - Team Turkey - Schwarz,S,https://phantom-athletics.com/products/track-jacket-dmc-team-turkey
 PHHO3592-M,in_stock,39.99,Trainingsjacke DMC - Team Turkey - Schwarz,M,https://phantom-athletics.com/products/track-jacket-dmc-team-turkey
 PHHO3592-L,in_stock,39.99,Trainingsjacke DMC - Team Turkey - Schwarz,L,https://phantom-athletics.com/products/track-jacket-dmc-team-turkey
 PHHO3592-XL,in_stock,39.99,Trainingsjacke DMC - Team Turkey - Schwarz,XL,https://phantom-athletics.com/products/track-jacket-dmc-team-turkey
 PHHO3592-XXL,in_stock,39.99,Trainingsjacke DMC - Team Turkey - Schwarz,XXL,https://phantom-athletics.com/products/track-jacket-dmc-team-turkey
 PHHO3592-XXXL,in_stock,39.99,Trainingsjacke DMC - Team Turkey - Schwarz,XXXL,https://phantom-athletics.com/products/track-jacket-dmc-team-turkey
-PHHO3593-S,out_of_stock,29.99,Trainingsjacke DMC - Team Turkey - Rot,S,https://phantom-athletics.com/products/track-jacekt-dmc-team-turkey-red
+PHHO3593-S,in_stock,29.99,Trainingsjacke DMC - Team Turkey - Rot,S,https://phantom-athletics.com/products/track-jacekt-dmc-team-turkey-red
 PHHO3593-M,in_stock,29.99,Trainingsjacke DMC - Team Turkey - Rot,M,https://phantom-athletics.com/products/track-jacekt-dmc-team-turkey-red
 PHHO3593-L,in_stock,29.99,Trainingsjacke DMC - Team Turkey - Rot,L,https://phantom-athletics.com/products/track-jacekt-dmc-team-turkey-red
 PHHO3593-XL,in_stock,29.99,Trainingsjacke DMC - Team Turkey - Rot,XL,https://phantom-athletics.com/products/track-jacekt-dmc-team-turkey-red
@@ -2136,7 +2136,7 @@ ASSHOEA058_401-45,out_of_stock,69.99,Ringerschuhe ASICS Snapdown 4 - Midnight Bl
 ASSHOEA058_401-46,out_of_stock,69.99,Ringerschuhe ASICS Snapdown 4 - Midnight Blau / Silber,46,https://phantom-athletics.com/products/ringerschuhe-asics-snapdown-4-midnight-blue-silver
 KPBSGTHOR-S,out_of_stock,119.99,Schienbeinschutz KPB / King Pro Boxing - Thor,S,https://phantom-athletics.com/products/shinguards-kpb-king-pro-boxing-thor
 KPBSGTHOR-M,in_stock,107.99,Schienbeinschutz KPB / King Pro Boxing - Thor,M,https://phantom-athletics.com/products/shinguards-kpb-king-pro-boxing-thor
-KPBSGTHOR-L,out_of_stock,107.99,Schienbeinschutz KPB / King Pro Boxing - Thor,L,https://phantom-athletics.com/products/shinguards-kpb-king-pro-boxing-thor
+KPBSGTHOR-L,in_stock,107.99,Schienbeinschutz KPB / King Pro Boxing - Thor,L,https://phantom-athletics.com/products/shinguards-kpb-king-pro-boxing-thor
 KPBSGTHOR-XL,out_of_stock,119.99,Schienbeinschutz KPB / King Pro Boxing - Thor,XL,https://phantom-athletics.com/products/shinguards-kpb-king-pro-boxing-thor
 TWHGL3-M,out_of_stock,107.99,Kopfschutz Twins Muay Thai - HGL-3,M,https://phantom-athletics.com/products/headguard-twins-muay-thai-hgl-3
 TWHGL3-L,in_stock,107.99,Kopfschutz Twins Muay Thai - HGL-3,L,https://phantom-athletics.com/products/headguard-twins-muay-thai-hgl-3
@@ -2146,7 +2146,7 @@ KPBSGSPARTAN1-L,out_of_stock,101.99,Schienbeinschutz KPB / King Pro Boxing - Spa
 KPBSGSPARTAN1-XL,out_of_stock,119.99,Schienbeinschutz KPB / King Pro Boxing - Spartan 1,XL,https://phantom-athletics.com/products/schienbeinschutz-kpb-king-pro-boxing-spartan-1
 KPBBGREVO4-10,in_stock,59.99,Boxhandschuhe KPB / BG REVO 4 - Schwarz,10 OZ,https://phantom-athletics.com/products/boxing-gloves-kpb-bg-revo-4
 KPBBGREVO4-12,in_stock,59.99,Boxhandschuhe KPB / BG REVO 4 - Schwarz,12 OZ,https://phantom-athletics.com/products/boxing-gloves-kpb-bg-revo-4
-KPBBGREVO4-14,out_of_stock,59.99,Boxhandschuhe KPB / BG REVO 4 - Schwarz,14 OZ,https://phantom-athletics.com/products/boxing-gloves-kpb-bg-revo-4
+KPBBGREVO4-14,in_stock,59.99,Boxhandschuhe KPB / BG REVO 4 - Schwarz,14 OZ,https://phantom-athletics.com/products/boxing-gloves-kpb-bg-revo-4
 KPBBGREVO4-16,in_stock,59.99,Boxhandschuhe KPB / BG REVO 4 - Schwarz,16 OZ,https://phantom-athletics.com/products/boxing-gloves-kpb-bg-revo-4
 NISHOE9674-100-7,out_of_stock,94.99,Ringerschuhe NIKE Inflict 4 - Weiß,40,https://phantom-athletics.com/products/wrestling-shoes-nike-inflict-4-white
 NISHOE9674-100-75,in_stock,94.99,Ringerschuhe NIKE Inflict 4 - Weiß,40.5,https://phantom-athletics.com/products/wrestling-shoes-nike-inflict-4-white
@@ -2309,8 +2309,8 @@ NISHOE2831-900-12,out_of_stock,89.99,Boxschuhe NIKE Machomai 3 - SE,46,https://p
 NISHOE2831-900-125,out_of_stock,89.99,Boxschuhe NIKE Machomai 3 - SE,47,https://phantom-athletics.com/products/boxing-shoes-nike-machomai-3-se
 NISHOE2831-900-13,out_of_stock,89.99,Boxschuhe NIKE Machomai 3 - SE,47.5,https://phantom-athletics.com/products/boxing-shoes-nike-machomai-3-se
 PHBG2329-4,in_stock,32.99,Kinder Boxhandschuhe MUAY THAI,4 OZ (4-5 Jahre),https://phantom-athletics.com/products/kids-boxing-gloves-muay-thai
-PHBG2329-6,out_of_stock,32.99,Kinder Boxhandschuhe MUAY THAI,6 Oz (6-8 Jahre),https://phantom-athletics.com/products/kids-boxing-gloves-muay-thai
-PHBG2329-8,out_of_stock,32.99,Kinder Boxhandschuhe MUAY THAI,8 Oz (9-10 Jahre),https://phantom-athletics.com/products/kids-boxing-gloves-muay-thai
+PHBG2329-6,in_stock,32.99,Kinder Boxhandschuhe MUAY THAI,6 Oz (6-8 Jahre),https://phantom-athletics.com/products/kids-boxing-gloves-muay-thai
+PHBG2329-8,in_stock,32.99,Kinder Boxhandschuhe MUAY THAI,8 Oz (9-10 Jahre),https://phantom-athletics.com/products/kids-boxing-gloves-muay-thai
 PHBG2025-4,in_stock,22.99,Kinder Boxhandschuhe APEX,4 OZ (4-5 Jahre),https://phantom-athletics.com/products/kids-boxing-gloves-apex
 PHBG2025-6,in_stock,22.99,Kinder Boxhandschuhe APEX,6 Oz (6-8 Jahre),https://phantom-athletics.com/products/kids-boxing-gloves-apex
 PHBG2025-8,in_stock,22.99,Kinder Boxhandschuhe APEX,8 Oz (9-10 Jahre),https://phantom-athletics.com/products/kids-boxing-gloves-apex
@@ -2385,8 +2385,8 @@ PHBG3508-12,in_stock,49.99,Boxhandschuhe MEXICO - Silber/Grün/Rot,12 OZ,https:/
 PHBG3508-14,in_stock,49.99,Boxhandschuhe MEXICO - Silber/Grün/Rot,14 OZ,https://phantom-athletics.com/products/boxing-gloves-mexico-silver
 PHBG3508-16,in_stock,49.99,Boxhandschuhe MEXICO - Silber/Grün/Rot,16 OZ,https://phantom-athletics.com/products/boxing-gloves-mexico-silver
 PHMMAG3480-SM,out_of_stock,39.99,Sparring Handschuhe Muay Thai - Army,S/M,https://phantom-athletics.com/products/sparring-handschuhe-muay-thai-army
-PHMMAG3480-LXL,out_of_stock,39.99,Sparring Handschuhe Muay Thai - Army,L/XL,https://phantom-athletics.com/products/sparring-handschuhe-muay-thai-army
-PHMMAG3483-SM,out_of_stock,44.99,Sparring Handschuhe Muay Thai - Sandgrau,S/M,https://phantom-athletics.com/products/sparring-gloves-muay-thai-sand
+PHMMAG3480-LXL,in_stock,39.99,Sparring Handschuhe Muay Thai - Army,L/XL,https://phantom-athletics.com/products/sparring-handschuhe-muay-thai-army
+PHMMAG3483-SM,in_stock,44.99,Sparring Handschuhe Muay Thai - Sandgrau,S/M,https://phantom-athletics.com/products/sparring-gloves-muay-thai-sand
 PHMMAG3483-LXL,in_stock,44.99,Sparring Handschuhe Muay Thai - Sandgrau,L/XL,https://phantom-athletics.com/products/sparring-gloves-muay-thai-sand
 PHSG3481-SM,in_stock,51.99,Schienbeinschutz Muay Thai - Army,S/M,https://phantom-athletics.com/products/shinpads-muay-thai-army
 PHSG3481-LXL,in_stock,51.99,Schienbeinschutz Muay Thai - Army,L/XL,https://phantom-athletics.com/products/shinpads-muay-thai-army
@@ -2417,11 +2417,11 @@ PHSH3509-M,in_stock,19.99,T-Shirt Germany - Schwarz,M,https://phantom-athletics.
 PHSH3509-L,in_stock,19.99,T-Shirt Germany - Schwarz,L,https://phantom-athletics.com/products/t-shirt-germany-25-black
 PHSH3509-XL,in_stock,19.99,T-Shirt Germany - Schwarz,XL,https://phantom-athletics.com/products/t-shirt-germany-25-black
 PHSH3509-XXL,in_stock,19.99,T-Shirt Germany - Schwarz,XXL,https://phantom-athletics.com/products/t-shirt-germany-25-black
-PHEG3476-SM,out_of_stock,42.99,Ellbogenschützer RIOT Pro,S/M,https://phantom-athletics.com/products/elbowpads-riot-pro
+PHEG3476-SM,in_stock,42.99,Ellbogenschützer RIOT Pro,S/M,https://phantom-athletics.com/products/elbowpads-riot-pro
 PHEG3476-LXL,in_stock,44.99,Ellbogenschützer RIOT Pro,L/XL,https://phantom-athletics.com/products/elbowpads-riot-pro
 PHEG3476-XXL,in_stock,29.99,Ellbogenschützer RIOT Pro,XXL,https://phantom-athletics.com/products/elbowpads-riot-pro
 PHHG3482,in_stock,48.99,Kopfschutz Muay Thai - Army,Einheitsgröße,https://phantom-athletics.com/products/headguard-muay-thai-army
-PHHG3485,out_of_stock,69.99,Kopfschutz Muay Thai - Sandgrau,Einheitsgröße,https://phantom-athletics.com/products/headguard-muay-thai-sand
+PHHG3485,in_stock,69.99,Kopfschutz Muay Thai - Sandgrau,Einheitsgröße,https://phantom-athletics.com/products/headguard-muay-thai-sand
 PHBAG1739,in_stock,29.99,Sporttasche TEAM MMA Is Not A Crime,Default Title,https://phantom-athletics.com/products/gymbag-team-mma-is-not-a-crime
 PHBAG1738,in_stock,32.99,Sporttasche TEAM Boxing,Default Title,https://phantom-athletics.com/products/gymbag-team-boxing
 PHBAG1740,in_stock,32.99,Sporttasche TEAM Muay Thai,Default Title,https://phantom-athletics.com/products/gymbag-tactic-muay-thai
@@ -2567,15 +2567,15 @@ PHSHO1624-XL,out_of_stock,39.99,Trainingsshorts Shadow - Camo,XL,https://phantom
 PHSHO1624-XXL,out_of_stock,39.99,Trainingsshorts Shadow - Camo,XXL,https://phantom-athletics.com/products/training-shorts-shadow-1
 PHSG3478-SM,out_of_stock,49.99,Schienbeinschutz Muay Thai - Frost White,S/M,https://phantom-athletics.com/products/shinpads-muay-thai-frost-white
 PHSG3478-LXL,in_stock,49.99,Schienbeinschutz Muay Thai - Frost White,L/XL,https://phantom-athletics.com/products/shinpads-muay-thai-frost-white
-PHHG3479,out_of_stock,55.99,Kopfschutz Muay Thai - Frost White,Einheitsgröße,https://phantom-athletics.com/products/headguard-muay-thai-frost-white
+PHHG3479,in_stock,55.99,Kopfschutz Muay Thai - Frost White,Einheitsgröße,https://phantom-athletics.com/products/headguard-muay-thai-frost-white
 PHMMAG3477-SM,in_stock,35.99,Sparring Handschuhe Muay Thai - Frost White,S/M,https://phantom-athletics.com/products/sparring-gloves-muay-thai-frost-white
 PHMMAG3477-LXL,in_stock,35.99,Sparring Handschuhe Muay Thai - Frost White,L/XL,https://phantom-athletics.com/products/sparring-gloves-muay-thai-frost-white
 PHBG3444-10,in_stock,62.99,Boxhandschuhe Muay Thai - Frost White,10 OZ,https://phantom-athletics.com/products/boxing-gloves-muay-thai-frost-white
 PHBG3444-12,in_stock,59.99,Boxhandschuhe Muay Thai - Frost White,12 OZ,https://phantom-athletics.com/products/boxing-gloves-muay-thai-frost-white
 PHBG3444-14,in_stock,62.99,Boxhandschuhe Muay Thai - Frost White,14 OZ,https://phantom-athletics.com/products/boxing-gloves-muay-thai-frost-white
 PHBG3444-16,in_stock,62.99,Boxhandschuhe Muay Thai - Frost White,16 OZ,https://phantom-athletics.com/products/boxing-gloves-muay-thai-frost-white
-PHPAD3383,out_of_stock,38.99,Handpratzen MEXICO - Schwarz,Default Title,https://phantom-athletics.com/products/handpratzen-mexico-schwarz
-PHPAD3384,out_of_stock,38.99,Handpratzen MEXICO - Rot,Default Title,https://phantom-athletics.com/products/focus-pads-mexico-red
+PHPAD3383,in_stock,38.99,Handpratzen MEXICO - Schwarz,Default Title,https://phantom-athletics.com/products/handpratzen-mexico-schwarz
+PHPAD3384,in_stock,38.99,Handpratzen MEXICO - Rot,Default Title,https://phantom-athletics.com/products/focus-pads-mexico-red
 PHBG3318-10,in_stock,49.99,Boxhandschuhe MEXICO - Weiß/Grün/Rot,10 OZ,https://phantom-athletics.com/products/boxing-gloves-mexico-green-white-red
 PHBG3318-12,in_stock,49.99,Boxhandschuhe MEXICO - Weiß/Grün/Rot,12 OZ,https://phantom-athletics.com/products/boxing-gloves-mexico-green-white-red
 PHBG3318-14,in_stock,49.99,Boxhandschuhe MEXICO - Weiß/Grün/Rot,14 OZ,https://phantom-athletics.com/products/boxing-gloves-mexico-green-white-red
@@ -2618,7 +2618,7 @@ ASSHOEA051_022-44,out_of_stock,61.99,Ringerschuhe ASICS Matflex 7 - Grau,44,http
 ASSHOEA051_022-445,out_of_stock,61.99,Ringerschuhe ASICS Matflex 7 - Grau,44.5,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-gray
 ASSHOEA051_022-45,out_of_stock,61.99,Ringerschuhe ASICS Matflex 7 - Grau,45,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-gray
 ASSHOEA051_022-46,out_of_stock,61.99,Ringerschuhe ASICS Matflex 7 - Grau,46,https://phantom-athletics.com/products/wrestling-shoes-asics-matflex-7-gray
-SJVENOM-S,out_of_stock,23.99,Safejawz Zahnschutz - Marvel Venom,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-marvel-venom
+SJVENOM-S,in_stock,23.99,Safejawz Zahnschutz - Marvel Venom,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-marvel-venom
 NISHOE4475-900-7,out_of_stock,159.99,Boxschuhe NIKE HyperKO 2 SE - Oly Grau,40,https://phantom-athletics.com/products/boxschuhe-nike-hyperko-2-se-oly-grau
 NISHOE4475-900-75,out_of_stock,159.99,Boxschuhe NIKE HyperKO 2 SE - Oly Grau,40.5,https://phantom-athletics.com/products/boxschuhe-nike-hyperko-2-se-oly-grau
 NISHOE4475-900-8,out_of_stock,159.99,Boxschuhe NIKE HyperKO 2 SE - Oly Grau,41,https://phantom-athletics.com/products/boxschuhe-nike-hyperko-2-se-oly-grau
@@ -2667,11 +2667,11 @@ NISHOE325256-007-11,out_of_stock,99.99,Ringerschuhe NIKE Inflict 3 - Schwarz/Neo
 NISHOE325256-007-115,out_of_stock,99.99,Ringerschuhe NIKE Inflict 3 - Schwarz/Neon,45.5,https://phantom-athletics.com/products/wrestling-shoes-nike-inflict-3-black-neon
 NISHOE325256-007-12,out_of_stock,99.99,Ringerschuhe NIKE Inflict 3 - Schwarz/Neon,46,https://phantom-athletics.com/products/wrestling-shoes-nike-inflict-3-black-neon
 OPPLATINUM-RS,out_of_stock,29.99,OPRO Zahnschutz - UFC Platinum Level - Fangz - Rot/Silber,Default Title,https://phantom-athletics.com/products/opro-mouthguard-ufc-platinum-level-fangz-red-silver
-SJSPRAY-50,out_of_stock,9.99,Zahnschutz Desinfektion / Hygiene Spray,Default Title,https://phantom-athletics.com/products/mouthguard-desinfection-hygiene-spray
+SJSPRAY-50,in_stock,9.99,Zahnschutz Desinfektion / Hygiene Spray,Default Title,https://phantom-athletics.com/products/mouthguard-desinfection-hygiene-spray
 SJEXTROMO-W,out_of_stock,19.99,Safejawz Zahnschutz - Extro Series Moustache - Weiß,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-extro-series-moustache-white
 SJINTRO-P,out_of_stock,11.99,Safejawz Zahnschutz - Intro Series - Pink,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-intro-series-pink
-SJINTRO-C,out_of_stock,11.99,Safejawz Zahnschutz - Intro Series - Clear,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-intro-series-clear
-SJINTRO-B,out_of_stock,11.99,Safejawz Zahnschutz - Intro Series - Blau,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-intro-series-blue
+SJINTRO-C,in_stock,11.99,Safejawz Zahnschutz - Intro Series - Clear,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-intro-series-clear
+SJINTRO-B,in_stock,11.99,Safejawz Zahnschutz - Intro Series - Blau,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-intro-series-blue
 SJEXTROVIPER-R,out_of_stock,19.99,Safejawz Zahnschutz - Extro Series Viper - Rot,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-extro-series-viper-red
 SJEXTROSHARK-B,out_of_stock,19.99,Safejawz Zahnschutz - Extro Series Shark - Blau,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-extro-series-shark-blue
 SJEXTROICE-B,out_of_stock,19.99,Safejawz Zahnschutz - Extro Series Ice - Blau,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-extro-series-ice-blue
@@ -2682,7 +2682,7 @@ PHBG3401-16,in_stock,52.99,Boxhandschuhe Muay Thai - Grau,16 OZ,https://phantom-
 PHSG3403-SM,in_stock,67.99,Schienbeinschutz Muay Thai - Grau,S/M,https://phantom-athletics.com/products/shinguards-muay-thai-gray
 PHSG3403-LXL,out_of_stock,67.99,Schienbeinschutz Muay Thai - Grau,L/XL,https://phantom-athletics.com/products/shinguards-muay-thai-gray
 PHHG3404,out_of_stock,69.99,Kopfschutz Muay Thai - Grau,Einheitsgröße,https://phantom-athletics.com/products/headguard-muay-thai-gray
-PHMMAG3402-SM,out_of_stock,47.99,Sparring Handschuhe Muay Thai - Grau,S/M,https://phantom-athletics.com/products/sparring-gloves-muay-thai-gray
+PHMMAG3402-SM,in_stock,47.99,Sparring Handschuhe Muay Thai - Grau,S/M,https://phantom-athletics.com/products/sparring-gloves-muay-thai-gray
 PHMMAG3402-LXL,in_stock,29.99,Sparring Handschuhe Muay Thai - Grau,L/XL,https://phantom-athletics.com/products/sparring-gloves-muay-thai-gray
 PHSHO3392-S,out_of_stock,50.99,Fightshorts FUSION-R 2in1 RANKED - Weiß,S,https://phantom-athletics.com/products/fightshorts-fusion-r-ranked-white
 PHSHO3392-M,in_stock,50.99,Fightshorts FUSION-R 2in1 RANKED - Weiß,M,https://phantom-athletics.com/products/fightshorts-fusion-r-ranked-white
@@ -2713,25 +2713,25 @@ TWBGBGVL3AIR-R10,out_of_stock,164.99,Boxhandschuhe TWINS Muay Thai - BGVL 3 AIR 
 TWBGBGVL3AIR-R12,out_of_stock,164.99,Boxhandschuhe TWINS Muay Thai - BGVL 3 AIR - Rot,12 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-3-air-red
 TWBGBGVL3AIR-R14,out_of_stock,164.99,Boxhandschuhe TWINS Muay Thai - BGVL 3 AIR - Rot,14 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-3-air-red
 TWBGBGVL3AIR-R16,out_of_stock,164.99,Boxhandschuhe TWINS Muay Thai - BGVL 3 AIR - Rot,16 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-3-air-red
-TWBGBGVL3-W10,out_of_stock,148.99,Boxhandschuhe TWINS Muay Thai - BGVL 3 - Weiß,10 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-3-white
-TWBGBGVL3-W12,out_of_stock,148.99,Boxhandschuhe TWINS Muay Thai - BGVL 3 - Weiß,12 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-3-white
-TWBGBGVL3-W14,out_of_stock,148.99,Boxhandschuhe TWINS Muay Thai - BGVL 3 - Weiß,14 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-3-white
-TWBGBGVL3-W16,out_of_stock,148.99,Boxhandschuhe TWINS Muay Thai - BGVL 3 - Weiß,16 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-3-white
+TWBGBGVL3-W10,in_stock,148.99,Boxhandschuhe TWINS Muay Thai - BGVL 3 - Weiß,10 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-3-white
+TWBGBGVL3-W12,in_stock,148.99,Boxhandschuhe TWINS Muay Thai - BGVL 3 - Weiß,12 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-3-white
+TWBGBGVL3-W14,in_stock,148.99,Boxhandschuhe TWINS Muay Thai - BGVL 3 - Weiß,14 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-3-white
+TWBGBGVL3-W16,in_stock,148.99,Boxhandschuhe TWINS Muay Thai - BGVL 3 - Weiß,16 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-3-white
 TWBGBGVL3-R10,in_stock,148.99,Boxhandschuhe TWINS Muay Thai - BGVL 3 - Rot,10 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-3-red
-TWBGBGVL3-R12,out_of_stock,148.99,Boxhandschuhe TWINS Muay Thai - BGVL 3 - Rot,12 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-3-red
-TWBGBGVL3-R14,out_of_stock,148.99,Boxhandschuhe TWINS Muay Thai - BGVL 3 - Rot,14 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-3-red
-TWBGBGVL3-R16,out_of_stock,148.99,Boxhandschuhe TWINS Muay Thai - BGVL 3 - Rot,16 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-3-red
+TWBGBGVL3-R12,in_stock,148.99,Boxhandschuhe TWINS Muay Thai - BGVL 3 - Rot,12 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-3-red
+TWBGBGVL3-R14,in_stock,148.99,Boxhandschuhe TWINS Muay Thai - BGVL 3 - Rot,14 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-3-red
+TWBGBGVL3-R16,in_stock,148.99,Boxhandschuhe TWINS Muay Thai - BGVL 3 - Rot,16 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-3-red
 FXBSG-S,out_of_stock,119.99,Schienbeinschoner FAIRTEX Muay Thai - FXB-SG,S,https://phantom-athletics.com/products/shinguards-fairtex-muay-thai-fxb-sg
 FXBSG-M,out_of_stock,107.99,Schienbeinschoner FAIRTEX Muay Thai - FXB-SG,M,https://phantom-athletics.com/products/shinguards-fairtex-muay-thai-fxb-sg
-FXBSG-L,in_stock,107.99,Schienbeinschoner FAIRTEX Muay Thai - FXB-SG,L,https://phantom-athletics.com/products/shinguards-fairtex-muay-thai-fxb-sg
+FXBSG-L,out_of_stock,107.99,Schienbeinschoner FAIRTEX Muay Thai - FXB-SG,L,https://phantom-athletics.com/products/shinguards-fairtex-muay-thai-fxb-sg
 FXBSG-XL,out_of_stock,119.99,Schienbeinschoner FAIRTEX Muay Thai - FXB-SG,XL,https://phantom-athletics.com/products/shinguards-fairtex-muay-thai-fxb-sg
 FXBBP-S,out_of_stock,125.99,Bellypad / Bauchgürtel Fairtex Muay Thai - FXB-BP - Schwarz,Default Title,https://phantom-athletics.com/products/fairtex-bellypad-fxb-bp-black
-FXBHG,out_of_stock,125.99,Kopfschutz Fairtex Muay Thai - FXB-HG,Default Title,https://phantom-athletics.com/products/fairtex-muay-thai-headguard-fxb-hg
+FXBHG,in_stock,125.99,Kopfschutz Fairtex Muay Thai - FXB-HG,Default Title,https://phantom-athletics.com/products/fairtex-muay-thai-headguard-fxb-hg
 FXBKP,out_of_stock,239.99,Kickpads Fairtex Muay Thai - FXB-KP,Default Title,https://phantom-athletics.com/products/fairtex-kickpads-fxb-kp
-FXBBP,out_of_stock,125.99,Bellypad / Bauchgürtel Fairtex Muay Thai - FXB-BP - Schwarz/Weiß,Default Title,https://phantom-athletics.com/products/fairtex-bellypad-fxb-bp
+FXBBP,in_stock,125.99,Bellypad / Bauchgürtel Fairtex Muay Thai - FXB-BP - Schwarz/Weiß,Default Title,https://phantom-athletics.com/products/fairtex-bellypad-fxb-bp
 FXBBGV2-SW10,in_stock,142.99,Boxhandschuhe FAIRTEX Muay Thai - FXB-BG-V2 - Schwarz/Weiß,10 OZ,https://phantom-athletics.com/products/boxing-gloves-fairtex-muay-thai-fxb-bg-v2-black-white
-FXBBGV2-SW12,out_of_stock,142.99,Boxhandschuhe FAIRTEX Muay Thai - FXB-BG-V2 - Schwarz/Weiß,12 OZ,https://phantom-athletics.com/products/boxing-gloves-fairtex-muay-thai-fxb-bg-v2-black-white
-FXBBGV2-SW14,out_of_stock,142.99,Boxhandschuhe FAIRTEX Muay Thai - FXB-BG-V2 - Schwarz/Weiß,14 OZ,https://phantom-athletics.com/products/boxing-gloves-fairtex-muay-thai-fxb-bg-v2-black-white
+FXBBGV2-SW12,in_stock,142.99,Boxhandschuhe FAIRTEX Muay Thai - FXB-BG-V2 - Schwarz/Weiß,12 OZ,https://phantom-athletics.com/products/boxing-gloves-fairtex-muay-thai-fxb-bg-v2-black-white
+FXBBGV2-SW14,in_stock,142.99,Boxhandschuhe FAIRTEX Muay Thai - FXB-BG-V2 - Schwarz/Weiß,14 OZ,https://phantom-athletics.com/products/boxing-gloves-fairtex-muay-thai-fxb-bg-v2-black-white
 FXBBGV2-SW16,out_of_stock,142.99,Boxhandschuhe FAIRTEX Muay Thai - FXB-BG-V2 - Schwarz/Weiß,16 OZ,https://phantom-athletics.com/products/boxing-gloves-fairtex-muay-thai-fxb-bg-v2-black-white
 NISHOE9729-060-6,out_of_stock,114.99,Boxschuhe NIKE Air Max Box - Pink,36.5,https://phantom-athletics.com/products/boxing-shoes-nike-air-max-box-pink
 NISHOE9729-060-7,out_of_stock,114.99,Boxschuhe NIKE Air Max Box - Pink,38,https://phantom-athletics.com/products/boxing-shoes-nike-air-max-box-pink
@@ -2773,7 +2773,7 @@ PHGI00535-SA3,in_stock,64.99,BJJ Gi Tactic 2.0 - Schwarz,A3,https://phantom-athl
 PHGI00535-SA4,in_stock,64.99,BJJ Gi Tactic 2.0 - Schwarz,A4,https://phantom-athletics.com/products/bjj-gi-tactic-2-0-black
 PHGI00535-SA5,in_stock,64.99,BJJ Gi Tactic 2.0 - Schwarz,A5,https://phantom-athletics.com/products/bjj-gi-tactic-2-0-black
 PHGI00534-BA1,in_stock,71.99,BJJ Gi Tactic 2.0 - Blau,A1,https://phantom-athletics.com/products/bjj-gi-tactic-2-0-blue
-PHGI00534-BA2,out_of_stock,71.99,BJJ Gi Tactic 2.0 - Blau,A2,https://phantom-athletics.com/products/bjj-gi-tactic-2-0-blue
+PHGI00534-BA2,in_stock,71.99,BJJ Gi Tactic 2.0 - Blau,A2,https://phantom-athletics.com/products/bjj-gi-tactic-2-0-blue
 PHGI00534-BA3,out_of_stock,71.99,BJJ Gi Tactic 2.0 - Blau,A3,https://phantom-athletics.com/products/bjj-gi-tactic-2-0-blue
 PHGI00534-BA4,in_stock,71.99,BJJ Gi Tactic 2.0 - Blau,A4,https://phantom-athletics.com/products/bjj-gi-tactic-2-0-blue
 PHGI00534-BA5,out_of_stock,71.99,BJJ Gi Tactic 2.0 - Blau,A5,https://phantom-athletics.com/products/bjj-gi-tactic-2-0-blue
@@ -2812,16 +2812,16 @@ KPBMG,out_of_stock,9.99,KPB / King Pro Boxing Zahnschutz,Default Title,https://p
 OPPLATINUM-SGR,out_of_stock,29.99,OPRO Zahnschutz - UFC Platinum Level - Fangz - Schwarz/Gold/Rot,Default Title,https://phantom-athletics.com/products/opro-mouthguard-ufc-platinum-level-black-gold
 OPGOLD-S,in_stock,21.99,OPRO Zahnschutz - UFC Gold Level - Schwarz,Default Title,https://phantom-athletics.com/products/opro-mouthguard-ufc-gold-level-black
 OPGOLD-RS,in_stock,21.99,OPRO Zahnschutz - UFC Gold Level - Rot/Silber,Default Title,https://phantom-athletics.com/products/opro-mouthguard-ufc-gold-level-red-silver
-OPGOLDBRACES-S,out_of_stock,22.99,OPRO Zahnschutz für Zahnspange - UFC Gold Level - Schwarz,Default Title,https://phantom-athletics.com/products/opro-mouthguard-braces-ufc-gold-level-black
-OPSILVER-RS,out_of_stock,13.99,OPRO Zahnschutz - UFC Silver Level - Rot/Schwarz,Default Title,https://phantom-athletics.com/products/opro-mouthguard-ufc-silver-level-red-black
-OPSILVER-SR,out_of_stock,13.99,OPRO Zahnschutz - UFC Silver Level - Schwarz/Rot,Default Title,https://phantom-athletics.com/products/opro-zahnschutz-ufc-silver-level-black-red
-OPBRONZE-W,out_of_stock,9.99,OPRO Zahnschutz - UFC Bronze Level - Weiß,Default Title,https://phantom-athletics.com/products/opro-mouthguard-ufc-bronze-level-white
-OPBRONZE-S,out_of_stock,8.99,OPRO Zahnschutz - UFC Bronze Level - Schwarz,Default Title,https://phantom-athletics.com/products/opro-mouthguard-ufc-bronze-level-black
+OPGOLDBRACES-S,in_stock,22.99,OPRO Zahnschutz für Zahnspange - UFC Gold Level - Schwarz,Default Title,https://phantom-athletics.com/products/opro-mouthguard-braces-ufc-gold-level-black
+OPSILVER-RS,in_stock,13.99,OPRO Zahnschutz - UFC Silver Level - Rot/Schwarz,Default Title,https://phantom-athletics.com/products/opro-mouthguard-ufc-silver-level-red-black
+OPSILVER-SR,in_stock,13.99,OPRO Zahnschutz - UFC Silver Level - Schwarz/Rot,Default Title,https://phantom-athletics.com/products/opro-zahnschutz-ufc-silver-level-black-red
+OPBRONZE-W,in_stock,9.99,OPRO Zahnschutz - UFC Bronze Level - Weiß,Default Title,https://phantom-athletics.com/products/opro-mouthguard-ufc-bronze-level-white
+OPBRONZE-S,in_stock,8.99,OPRO Zahnschutz - UFC Bronze Level - Schwarz,Default Title,https://phantom-athletics.com/products/opro-mouthguard-ufc-bronze-level-black
 SJCAPTAIN-B,out_of_stock,19.99,Safejawz Zahnschutz - Marvel Captain America,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-marvel-captain-america
-SJPANTHER-S,out_of_stock,21.99,Safejawz Zahnschutz - Marvel Black Panther,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-marvel-black-panther
+SJPANTHER-S,in_stock,21.99,Safejawz Zahnschutz - Marvel Black Panther,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-marvel-black-panther
 SJHULK-G,out_of_stock,21.99,Safejawz Zahnschutz - Marvel Hulk,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-marvel-hulk
-SJDEADPOOL-R,out_of_stock,21.99,Safejawz Zahnschutz - Marvel Deadpool,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-marvel-deadpool
-SJORTHOVENOM-S,out_of_stock,26.99,Safejawz Ortho Zahnschutz für Zahnspangen - Marvel Venom,Default Title,https://phantom-athletics.com/products/safejawz-ortho-mouthguard-braces-marvel-venom
+SJDEADPOOL-R,in_stock,21.99,Safejawz Zahnschutz - Marvel Deadpool,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-marvel-deadpool
+SJORTHOVENOM-S,in_stock,26.99,Safejawz Ortho Zahnschutz für Zahnspangen - Marvel Venom,Default Title,https://phantom-athletics.com/products/safejawz-ortho-mouthguard-braces-marvel-venom
 SJEXTROFANGZ-S,out_of_stock,21.99,Safejawz Zahnschutz - Extro Series Fangz - Schwarz,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-extro-series-fangz-black
 SJINTRO-W,in_stock,11.99,Safejawz Zahnschutz - Intro Series - Weiß,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-intro-series-white
 SJINTRO-S,out_of_stock,11.99,Safejawz Zahnschutz - Intro Series - Schwarz,Default Title,https://phantom-athletics.com/products/safejawz-mouthguard-intro-series-black
@@ -2830,41 +2830,41 @@ KPBSG2-M,in_stock,107.99,Schienbeinschutz KPB / King Pro Boxing - SG-2,M,https:/
 KPBSG2-L,in_stock,107.99,Schienbeinschutz KPB / King Pro Boxing - SG-2,L,https://phantom-athletics.com/products/shinguards-kpb-king-pro-boxing-sg-2
 KPBSG2-XL,in_stock,107.99,Schienbeinschutz KPB / King Pro Boxing - SG-2,XL,https://phantom-athletics.com/products/shinguards-kpb-king-pro-boxing-sg-2
 KPBSGREVO4-S,out_of_stock,73.99,Schienbeinschutz KPB / King Pro Boxing - Revo 4,S,https://phantom-athletics.com/products/shinguard-kpb-king-pro-boxing-revo-4
-KPBSGREVO4-M,out_of_stock,66.99,Schienbeinschutz KPB / King Pro Boxing - Revo 4,M,https://phantom-athletics.com/products/shinguard-kpb-king-pro-boxing-revo-4
-KPBSGREVO4-L,out_of_stock,66.99,Schienbeinschutz KPB / King Pro Boxing - Revo 4,L,https://phantom-athletics.com/products/shinguard-kpb-king-pro-boxing-revo-4
+KPBSGREVO4-M,in_stock,66.99,Schienbeinschutz KPB / King Pro Boxing - Revo 4,M,https://phantom-athletics.com/products/shinguard-kpb-king-pro-boxing-revo-4
+KPBSGREVO4-L,in_stock,66.99,Schienbeinschutz KPB / King Pro Boxing - Revo 4,L,https://phantom-athletics.com/products/shinguard-kpb-king-pro-boxing-revo-4
 KPBSGREVO4-XL,out_of_stock,73.99,Schienbeinschutz KPB / King Pro Boxing - Revo 4,XL,https://phantom-athletics.com/products/shinguard-kpb-king-pro-boxing-revo-4
 KPBBGSPARTAN1-10,in_stock,105.99,Boxhandschuhe KPB / King Pro Boxing - Spartan 1 - Schwarz,10 OZ,https://phantom-athletics.com/products/boxing-gloves-kpb-king-pro-boxing-spartan-1-black
 KPBBGSPARTAN1-12,in_stock,105.99,Boxhandschuhe KPB / King Pro Boxing - Spartan 1 - Schwarz,12 OZ,https://phantom-athletics.com/products/boxing-gloves-kpb-king-pro-boxing-spartan-1-black
 KPBBGSPARTAN1-14,in_stock,105.99,Boxhandschuhe KPB / King Pro Boxing - Spartan 1 - Schwarz,14 OZ,https://phantom-athletics.com/products/boxing-gloves-kpb-king-pro-boxing-spartan-1-black
 KPBBGSPARTAN1-16,out_of_stock,105.99,Boxhandschuhe KPB / King Pro Boxing - Spartan 1 - Schwarz,16 OZ,https://phantom-athletics.com/products/boxing-gloves-kpb-king-pro-boxing-spartan-1-black
 FXBBGV2-10,in_stock,142.99,Boxhandschuhe FAIRTEX Muay Thai - FXB-BG-V2 - Schwarz,10 OZ,https://phantom-athletics.com/products/boxing-gloves-fairtex-muay-thai-fxb-bg-v2-black
-FXBBGV2-12,out_of_stock,142.99,Boxhandschuhe FAIRTEX Muay Thai - FXB-BG-V2 - Schwarz,12 OZ,https://phantom-athletics.com/products/boxing-gloves-fairtex-muay-thai-fxb-bg-v2-black
-FXBBGV2-14,out_of_stock,142.99,Boxhandschuhe FAIRTEX Muay Thai - FXB-BG-V2 - Schwarz,14 OZ,https://phantom-athletics.com/products/boxing-gloves-fairtex-muay-thai-fxb-bg-v2-black
+FXBBGV2-12,in_stock,142.99,Boxhandschuhe FAIRTEX Muay Thai - FXB-BG-V2 - Schwarz,12 OZ,https://phantom-athletics.com/products/boxing-gloves-fairtex-muay-thai-fxb-bg-v2-black
+FXBBGV2-14,in_stock,142.99,Boxhandschuhe FAIRTEX Muay Thai - FXB-BG-V2 - Schwarz,14 OZ,https://phantom-athletics.com/products/boxing-gloves-fairtex-muay-thai-fxb-bg-v2-black
 FXBBGV2-16,out_of_stock,142.99,Boxhandschuhe FAIRTEX Muay Thai - FXB-BG-V2 - Schwarz,16 OZ,https://phantom-athletics.com/products/boxing-gloves-fairtex-muay-thai-fxb-bg-v2-black
 TWBGBGVL6-10,in_stock,159.99,Boxhandschuhe TWINS Muay Thai - BGVL 6 - Schwarz,10 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-6-black
 TWBGBGVL6-12,in_stock,159.99,Boxhandschuhe TWINS Muay Thai - BGVL 6 - Schwarz,12 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-6-black
-TWBGBGVL6-14,out_of_stock,159.99,Boxhandschuhe TWINS Muay Thai - BGVL 6 - Schwarz,14 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-6-black
-TWBGBGVL6-16,out_of_stock,159.99,Boxhandschuhe TWINS Muay Thai - BGVL 6 - Schwarz,16 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-6-black
+TWBGBGVL6-14,in_stock,159.99,Boxhandschuhe TWINS Muay Thai - BGVL 6 - Schwarz,14 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-6-black
+TWBGBGVL6-16,in_stock,159.99,Boxhandschuhe TWINS Muay Thai - BGVL 6 - Schwarz,16 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-6-black
 TWBGBGVF-10,in_stock,147.99,Boxhandschuhe TWINS Muay Thai - BGVF - Schwarz,10 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvf-black
 TWBGBGVF-12,out_of_stock,147.99,Boxhandschuhe TWINS Muay Thai - BGVF - Schwarz,12 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvf-black
 TWBGBGVF-14,out_of_stock,147.99,Boxhandschuhe TWINS Muay Thai - BGVF - Schwarz,14 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvf-black
 TWBGBGVF-16,in_stock,147.99,Boxhandschuhe TWINS Muay Thai - BGVF - Schwarz,16 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvf-black
-TWBGBGVL3-10,out_of_stock,148.99,Boxhandschuhe TWINS Muay Thai - BGVL 3 - Schwarz,10 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-3-black
-TWBGBGVL3-12,out_of_stock,148.99,Boxhandschuhe TWINS Muay Thai - BGVL 3 - Schwarz,12 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-3-black
-TWBGBGVL3-14,out_of_stock,148.99,Boxhandschuhe TWINS Muay Thai - BGVL 3 - Schwarz,14 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-3-black
-TWBGBGVL3-16,out_of_stock,148.99,Boxhandschuhe TWINS Muay Thai - BGVL 3 - Schwarz,16 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-3-black
+TWBGBGVL3-10,in_stock,148.99,Boxhandschuhe TWINS Muay Thai - BGVL 3 - Schwarz,10 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-3-black
+TWBGBGVL3-12,in_stock,148.99,Boxhandschuhe TWINS Muay Thai - BGVL 3 - Schwarz,12 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-3-black
+TWBGBGVL3-14,in_stock,148.99,Boxhandschuhe TWINS Muay Thai - BGVL 3 - Schwarz,14 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-3-black
+TWBGBGVL3-16,in_stock,148.99,Boxhandschuhe TWINS Muay Thai - BGVL 3 - Schwarz,16 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bgvl-3-black
 TWSGL7-S,out_of_stock,123.99,Schienbeinschutz TWINS Muay Thai - SGL-7 / SGMC-10,S,https://phantom-athletics.com/products/shinguards-twins-muay-thai-sgl-7-sgmc-10
-TWSGL7-M,out_of_stock,111.99,Schienbeinschutz TWINS Muay Thai - SGL-7 / SGMC-10,M,https://phantom-athletics.com/products/shinguards-twins-muay-thai-sgl-7-sgmc-10
-TWSGL7-L,out_of_stock,111.99,Schienbeinschutz TWINS Muay Thai - SGL-7 / SGMC-10,L,https://phantom-athletics.com/products/shinguards-twins-muay-thai-sgl-7-sgmc-10
-TWSGL7-XL,out_of_stock,111.99,Schienbeinschutz TWINS Muay Thai - SGL-7 / SGMC-10,XL,https://phantom-athletics.com/products/shinguards-twins-muay-thai-sgl-7-sgmc-10
+TWSGL7-M,in_stock,111.99,Schienbeinschutz TWINS Muay Thai - SGL-7 / SGMC-10,M,https://phantom-athletics.com/products/shinguards-twins-muay-thai-sgl-7-sgmc-10
+TWSGL7-L,in_stock,111.99,Schienbeinschutz TWINS Muay Thai - SGL-7 / SGMC-10,L,https://phantom-athletics.com/products/shinguards-twins-muay-thai-sgl-7-sgmc-10
+TWSGL7-XL,in_stock,111.99,Schienbeinschutz TWINS Muay Thai - SGL-7 / SGMC-10,XL,https://phantom-athletics.com/products/shinguards-twins-muay-thai-sgl-7-sgmc-10
 TWBGBGNV2-10,in_stock,148.99,Boxhandschuhe TWINS Muay Thai - BG-N V2 - Schwarz,10 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bg-n-v2-black
-TWBGBGNV2-12,out_of_stock,148.99,Boxhandschuhe TWINS Muay Thai - BG-N V2 - Schwarz,12 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bg-n-v2-black
-TWBGBGNV2-14,out_of_stock,148.99,Boxhandschuhe TWINS Muay Thai - BG-N V2 - Schwarz,14 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bg-n-v2-black
-TWBGBGNV2-16,out_of_stock,148.99,Boxhandschuhe TWINS Muay Thai - BG-N V2 - Schwarz,16 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bg-n-v2-black
+TWBGBGNV2-12,in_stock,148.99,Boxhandschuhe TWINS Muay Thai - BG-N V2 - Schwarz,12 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bg-n-v2-black
+TWBGBGNV2-14,in_stock,148.99,Boxhandschuhe TWINS Muay Thai - BG-N V2 - Schwarz,14 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bg-n-v2-black
+TWBGBGNV2-16,in_stock,148.99,Boxhandschuhe TWINS Muay Thai - BG-N V2 - Schwarz,16 OZ,https://phantom-athletics.com/products/boxing-gloves-twins-muay-thai-bg-n-v2-black
 ADSHOE2730-75,out_of_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz,41 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black
 ADSHOE2730-8,out_of_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz,42,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black
 ADSHOE2730-85,in_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz,42 2/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black
-ADSHOE2730-9,out_of_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz,43 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black
+ADSHOE2730-9,in_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz,43 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black
 ADSHOE2730-95,in_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz,44,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black
 ADSHOE2730-10,in_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz,44 2/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black
 ADSHOE2730-105,in_stock,78.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz,45 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black
@@ -2908,8 +2908,8 @@ PHBG2214-10,out_of_stock,59.99,Boxhandschuhe APEX - Gold,10 OZ,https://phantom-a
 PHBG2214-12,out_of_stock,59.99,Boxhandschuhe APEX - Gold,12 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-gold
 PHBG2214-14,out_of_stock,59.99,Boxhandschuhe APEX - Gold,14 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-gold
 PHBG2214-16,out_of_stock,59.99,Boxhandschuhe APEX - Gold,16 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-gold
-PHMMAG2059-SM,out_of_stock,35.99,MMA Sparring Handschuhe RIOT - Blackout Edition,S/M,https://phantom-athletics.com/products/mma-gloves-riot-blackout-edition
-PHMMAG2059-LXL,out_of_stock,35.99,MMA Sparring Handschuhe RIOT - Blackout Edition,L/XL,https://phantom-athletics.com/products/mma-gloves-riot-blackout-edition
+PHMMAG2059-SM,in_stock,35.99,MMA Sparring Handschuhe RIOT - Blackout Edition,S/M,https://phantom-athletics.com/products/mma-gloves-riot-blackout-edition
+PHMMAG2059-LXL,in_stock,35.99,MMA Sparring Handschuhe RIOT - Blackout Edition,L/XL,https://phantom-athletics.com/products/mma-gloves-riot-blackout-edition
 DCMG028,in_stock,39.99,Damage Control Zahnschutz - Extreme Impact Series - Ninja,Default Title,https://phantom-athletics.com/products/damage-control-zahnschutz-extreme-impact-series-ninja
 DCMG027,in_stock,39.99,Damage Control Zahnschutz - Extreme Impact Series - Giga Bite,Default Title,https://phantom-athletics.com/products/damage-control-zahnschutz-extreme-impact-series-giga-bite
 DCMG026,out_of_stock,39.99,Damage Control Zahnschutz - Extreme Impact Series - Sick Ass Foo,Default Title,https://phantom-athletics.com/products/damage-control-zahnschutz-extreme-impact-series-sick-ass-foo
@@ -2934,7 +2934,7 @@ ADSHOE6869-95,out_of_stock,69.99,Ringerschuhe ADIDAS Havoc - Schwarz/Gold,44,htt
 ADSHOE6869-10,out_of_stock,69.99,Ringerschuhe ADIDAS Havoc - Schwarz/Gold,44 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-black-gold
 ADSHOE6869-105,in_stock,69.99,Ringerschuhe ADIDAS Havoc - Schwarz/Gold,45 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-black-gold
 ADSHOE6869-11,in_stock,69.99,Ringerschuhe ADIDAS Havoc - Schwarz/Gold,46,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-black-gold
-ADSHOE6869-115,in_stock,69.99,Ringerschuhe ADIDAS Havoc - Schwarz/Gold,46 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-black-gold
+ADSHOE6869-115,out_of_stock,69.99,Ringerschuhe ADIDAS Havoc - Schwarz/Gold,46 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-havoc-black-gold
 PHWR2786,in_stock,5.99,Boxbandagen - Camo (250/400 cm),250cm,https://phantom-athletics.com/products/boxbandagen-camo
 PHWR2787,in_stock,5.99,Boxbandagen - Camo (250/400 cm),400cm,https://phantom-athletics.com/products/boxbandagen-camo
 PHWR2788,in_stock,5.99,Boxbandagen - Muay Thai (250/400 cm),250cm,https://phantom-athletics.com/products/boxing-handwraps-muay-thai
@@ -3145,7 +3145,7 @@ PHSHOE3102-33,in_stock,39.99,Kinder Ringerschuhe Phantom TACTIC - Weiß,33,https
 PHSHOE3102-34,in_stock,39.99,Kinder Ringerschuhe Phantom TACTIC - Weiß,34,https://phantom-athletics.com/products/kids-wrestling-shoes-tactic-white
 PHSHOE3102-35,in_stock,39.99,Kinder Ringerschuhe Phantom TACTIC - Weiß,35,https://phantom-athletics.com/products/kids-wrestling-shoes-tactic-white
 PHSHOE3102-36,in_stock,39.99,Kinder Ringerschuhe Phantom TACTIC - Weiß,36,https://phantom-athletics.com/products/kids-wrestling-shoes-tactic-white
-PHHO3207-S,out_of_stock,52.99,Trainingsjacke DMC - Team RAKIC,S,https://phantom-athletics.com/products/track-jacket-dmc-team-rakic
+PHHO3207-S,in_stock,52.99,Trainingsjacke DMC - Team RAKIC,S,https://phantom-athletics.com/products/track-jacket-dmc-team-rakic
 PHHO3207-M,in_stock,52.99,Trainingsjacke DMC - Team RAKIC,M,https://phantom-athletics.com/products/track-jacket-dmc-team-rakic
 PHHO3207-L,in_stock,52.99,Trainingsjacke DMC - Team RAKIC,L,https://phantom-athletics.com/products/track-jacket-dmc-team-rakic
 PHHO3207-XL,in_stock,52.99,Trainingsjacke DMC - Team RAKIC,XL,https://phantom-athletics.com/products/track-jacket-dmc-team-rakic
@@ -3262,8 +3262,8 @@ PHBG2061-14,in_stock,47.99,Boxhandschuhe Elite ATF - Blackout Edition,14 OZ,http
 PHBG2061-16,in_stock,47.99,Boxhandschuhe Elite ATF - Blackout Edition,16 OZ,https://phantom-athletics.com/products/boxing-gloves-elite-atf-blackout-edition
 PHBG2060-10,in_stock,29.99,Boxhandschuhe MT-Pro - Blackout Edition,10 OZ,https://phantom-athletics.com/products/boxhandschuhe-mt-pro-blackout-edition
 PHBG2060-12,in_stock,29.99,Boxhandschuhe MT-Pro - Blackout Edition,12 OZ,https://phantom-athletics.com/products/boxhandschuhe-mt-pro-blackout-edition
-PHBG2060-14,out_of_stock,29.99,Boxhandschuhe MT-Pro - Blackout Edition,14 OZ,https://phantom-athletics.com/products/boxhandschuhe-mt-pro-blackout-edition
-PHBG2060-16,out_of_stock,29.99,Boxhandschuhe MT-Pro - Blackout Edition,16 OZ,https://phantom-athletics.com/products/boxhandschuhe-mt-pro-blackout-edition
+PHBG2060-14,in_stock,29.99,Boxhandschuhe MT-Pro - Blackout Edition,14 OZ,https://phantom-athletics.com/products/boxhandschuhe-mt-pro-blackout-edition
+PHBG2060-16,in_stock,29.99,Boxhandschuhe MT-Pro - Blackout Edition,16 OZ,https://phantom-athletics.com/products/boxhandschuhe-mt-pro-blackout-edition
 DCMG015,out_of_stock,36.99,Damage Control Zahnschutz - High Impact Series - Sick Ass Foo,Default Title,https://phantom-athletics.com/products/damage-control-mouthguard-sick-ass-foo
 DCMG014,out_of_stock,26.99,Damage Control Zahnschutz - High Impact Series - Bleeding Fangs,Default Title,https://phantom-athletics.com/products/damage-control-mouthguard-bleeding-fangs
 DCMG013,out_of_stock,29.99,Damage Control Zahnschutz - High Impact Series - USA Flag,Default Title,https://phantom-athletics.com/products/damage-control-mouthguard-usa-flag
@@ -3370,14 +3370,14 @@ ADSHOE25909-35,out_of_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc - Weiß/Rot/B
 ADSHOE25909-4,out_of_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc - Weiß/Rot/Blau,36.5,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-havoc-white-red-blue
 ADSHOE25909-45,out_of_stock,49.99,Kinder Ringerschuhe ADIDAS Havoc - Weiß/Rot/Blau,37 1/3,https://phantom-athletics.com/products/kids-wrestling-shoes-adidas-havoc-white-red-blue
 PHMMAG3057-SM,in_stock,38.99,MMA Sparring Handschuhe Serious,S/M,https://phantom-athletics.com/products/mma-sparring-gloves-serious
-PHMMAG3057-LXL,out_of_stock,38.99,MMA Sparring Handschuhe Serious,L/XL,https://phantom-athletics.com/products/mma-sparring-gloves-serious
+PHMMAG3057-LXL,in_stock,38.99,MMA Sparring Handschuhe Serious,L/XL,https://phantom-athletics.com/products/mma-sparring-gloves-serious
 PHBG3058-10,in_stock,32.99,Boxhandschuhe Serious,10 OZ,https://phantom-athletics.com/products/boxing-gloves-serious
 PHBG3058-12,in_stock,32.99,Boxhandschuhe Serious,12 OZ,https://phantom-athletics.com/products/boxing-gloves-serious
 PHBG3058-14,in_stock,32.99,Boxhandschuhe Serious,14 OZ,https://phantom-athletics.com/products/boxing-gloves-serious
 PHBG3058-16,in_stock,32.99,Boxhandschuhe Serious,16 OZ,https://phantom-athletics.com/products/boxing-gloves-serious
 PHSG3061-SM,in_stock,79.99,Schienbeinschutz Muay Thai - Limited Silver Edition,S/M,https://phantom-athletics.com/products/shinguards-muay-thai-limited-silver-edition
 PHSG3061-LXL,in_stock,79.99,Schienbeinschutz Muay Thai - Limited Silver Edition,L/XL,https://phantom-athletics.com/products/shinguards-muay-thai-limited-silver-edition
-PHHG3062,out_of_stock,69.99,Kopfschutz Muay Thai - Limited Silver Edition,Einheitsgröße,https://phantom-athletics.com/products/headguard-muay-thai-limited-silver-edition
+PHHG3062,in_stock,69.99,Kopfschutz Muay Thai - Limited Silver Edition,Einheitsgröße,https://phantom-athletics.com/products/headguard-muay-thai-limited-silver-edition
 PHSG3063-SM,out_of_stock,71.99,Schienbeinschutz Muay Thai - Limited Black Edition,S/M,https://phantom-athletics.com/products/shinguards-muay-thai-limited-black-edition
 PHSG3063-LXL,in_stock,71.99,Schienbeinschutz Muay Thai - Limited Black Edition,L/XL,https://phantom-athletics.com/products/shinguards-muay-thai-limited-black-edition
 PHHG3064,in_stock,52.99,Kopfschutz Muay Thai - Limited Black Edition,Einheitsgröße,https://phantom-athletics.com/products/headguard-muay-thai-limited-black-edition
@@ -3671,7 +3671,7 @@ PHSHO3007-L,in_stock,39.99,Fightshorts FUSION-R MGS Skull Camo,L,https://phantom
 PHSHO3007-XL,in_stock,39.99,Fightshorts FUSION-R MGS Skull Camo,XL,https://phantom-athletics.com/products/fightshorts-fusion-r-mgs-skull-camo
 PHSHO3007-XXL,in_stock,39.99,Fightshorts FUSION-R MGS Skull Camo,XXL,https://phantom-athletics.com/products/fightshorts-fusion-r-mgs-skull-camo
 PHSHO3006-S,in_stock,42.99,Fightshorts FUSION-R MGS Inferno,S,https://phantom-athletics.com/products/fightshorts-fusion-r-mgs-inferno
-PHSHO3006-M,out_of_stock,42.99,Fightshorts FUSION-R MGS Inferno,M,https://phantom-athletics.com/products/fightshorts-fusion-r-mgs-inferno
+PHSHO3006-M,in_stock,42.99,Fightshorts FUSION-R MGS Inferno,M,https://phantom-athletics.com/products/fightshorts-fusion-r-mgs-inferno
 PHSHO3006-L,in_stock,32.99,Fightshorts FUSION-R MGS Inferno,L,https://phantom-athletics.com/products/fightshorts-fusion-r-mgs-inferno
 PHSHO3006-XL,in_stock,42.99,Fightshorts FUSION-R MGS Inferno,XL,https://phantom-athletics.com/products/fightshorts-fusion-r-mgs-inferno
 PHSHO3006-XXL,in_stock,32.99,Fightshorts FUSION-R MGS Inferno,XXL,https://phantom-athletics.com/products/fightshorts-fusion-r-mgs-inferno
@@ -3681,7 +3681,7 @@ PHSHO3005-L,in_stock,42.99,Fightshorts FUSION-R MGS Desert Tiger,L,https://phant
 PHSHO3005-XL,in_stock,42.99,Fightshorts FUSION-R MGS Desert Tiger,XL,https://phantom-athletics.com/products/fightshorts-fusion-r-mgs-desert-tiger
 PHSHO3005-XXL,in_stock,42.99,Fightshorts FUSION-R MGS Desert Tiger,XXL,https://phantom-athletics.com/products/fightshorts-fusion-r-mgs-desert-tiger
 PHSHO3004-S,out_of_stock,37.99,Fightshorts FUSION-R MGS Hornet,S,https://phantom-athletics.com/products/fightshorts-fusion-r-mgs-hornet
-PHSHO3004-M,out_of_stock,37.99,Fightshorts FUSION-R MGS Hornet,M,https://phantom-athletics.com/products/fightshorts-fusion-r-mgs-hornet
+PHSHO3004-M,in_stock,37.99,Fightshorts FUSION-R MGS Hornet,M,https://phantom-athletics.com/products/fightshorts-fusion-r-mgs-hornet
 PHSHO3004-L,out_of_stock,37.99,Fightshorts FUSION-R MGS Hornet,L,https://phantom-athletics.com/products/fightshorts-fusion-r-mgs-hornet
 PHSHO3004-XL,out_of_stock,37.99,Fightshorts FUSION-R MGS Hornet,XL,https://phantom-athletics.com/products/fightshorts-fusion-r-mgs-hornet
 PHSHO3004-XXL,in_stock,37.99,Fightshorts FUSION-R MGS Hornet,XXL,https://phantom-athletics.com/products/fightshorts-fusion-r-mgs-hornet
@@ -3705,7 +3705,7 @@ PHMMAG2928-LXL,in_stock,33.99,MMA Sparring Handschuhe APEX - Camo,L/XL,https://p
 PHBG2927-10,in_stock,39.99,Boxhandschuhe Camo - Schwarz,10 OZ,https://phantom-athletics.com/products/boxing-gloves-camo
 PHBG2927-12,in_stock,39.99,Boxhandschuhe Camo - Schwarz,12 OZ,https://phantom-athletics.com/products/boxing-gloves-camo
 PHBG2927-14,in_stock,55.99,Boxhandschuhe Camo - Schwarz,14 OZ,https://phantom-athletics.com/products/boxing-gloves-camo
-PHBG2927-16,out_of_stock,55.99,Boxhandschuhe Camo - Schwarz,16 OZ,https://phantom-athletics.com/products/boxing-gloves-camo
+PHBG2927-16,in_stock,55.99,Boxhandschuhe Camo - Schwarz,16 OZ,https://phantom-athletics.com/products/boxing-gloves-camo
 ADSHOE5307-75,out_of_stock,74.99,Boxschuhe ADIDAS Box Hog 3 - Schwarz/Gold,41 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-3-black-gold
 ADSHOE5307-8,out_of_stock,74.99,Boxschuhe ADIDAS Box Hog 3 - Schwarz/Gold,42,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-3-black-gold
 ADSHOE5307-85,out_of_stock,74.99,Boxschuhe ADIDAS Box Hog 3 - Schwarz/Gold,42 2/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-3-black-gold
@@ -3728,7 +3728,7 @@ NISHOE316403-100-12,in_stock,89.99,Ringerschuhe NIKE Freek - Weiß/Gold,46,https
 ADSHOE6116-75,out_of_stock,93.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz/Gold,41 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black-gold
 ADSHOE6116-8,out_of_stock,93.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz/Gold,42,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black-gold
 ADSHOE6116-85,out_of_stock,93.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz/Gold,42 2/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black-gold
-ADSHOE6116-9,out_of_stock,93.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz/Gold,43 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black-gold
+ADSHOE6116-9,in_stock,93.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz/Gold,43 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black-gold
 ADSHOE6116-95,out_of_stock,93.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz/Gold,44,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black-gold
 ADSHOE6116-10,out_of_stock,93.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz/Gold,44 2/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black-gold
 ADSHOE6116-105,in_stock,93.99,Boxschuhe ADIDAS Box Hog 4 - Schwarz/Gold,45 1/3,https://phantom-athletics.com/products/boxing-shoes-adidas-box-hog-4-black-gold
@@ -3823,7 +3823,7 @@ PHSHO2995-XXL,in_stock,34.99,Fightshorts FUSION Mexico,XXL,https://phantom-athle
 PHSHEVO2994-S,in_stock,31.99,Trainingsshirt EVO Mexico,S,https://phantom-athletics.com/products/training-shirt-evo-mexico
 PHSHEVO2994-M,in_stock,31.99,Trainingsshirt EVO Mexico,M,https://phantom-athletics.com/products/training-shirt-evo-mexico
 PHSHEVO2994-L,out_of_stock,31.99,Trainingsshirt EVO Mexico,L,https://phantom-athletics.com/products/training-shirt-evo-mexico
-PHSHEVO2994-XL,out_of_stock,31.99,Trainingsshirt EVO Mexico,XL,https://phantom-athletics.com/products/training-shirt-evo-mexico
+PHSHEVO2994-XL,in_stock,31.99,Trainingsshirt EVO Mexico,XL,https://phantom-athletics.com/products/training-shirt-evo-mexico
 PHSHEVO2994-XXL,out_of_stock,31.99,Trainingsshirt EVO Mexico,XXL,https://phantom-athletics.com/products/training-shirt-evo-mexico
 PHSHO2978-S,in_stock,44.99,Fightshorts FUSION 2in1 Camo Tiger - Grau,S,https://phantom-athletics.com/products/fightshorts-fusion-2in1-camo-tiger-gray
 PHSHO2978-M,in_stock,44.99,Fightshorts FUSION 2in1 Camo Tiger - Grau,M,https://phantom-athletics.com/products/fightshorts-fusion-2in1-camo-tiger-gray
@@ -3851,7 +3851,7 @@ PHBG2975-10,in_stock,38.99,Boxhandschuhe Camo Tiger - Grau,10 OZ,https://phantom
 PHBG2975-12,in_stock,38.99,Boxhandschuhe Camo Tiger - Grau,12 OZ,https://phantom-athletics.com/products/boxing-gloves-camo-tiger-gray
 PHBG2975-14,in_stock,38.99,Boxhandschuhe Camo Tiger - Grau,14 OZ,https://phantom-athletics.com/products/boxing-gloves-camo-tiger-gray
 PHBG2975-16,in_stock,38.99,Boxhandschuhe Camo Tiger - Grau,16 OZ,https://phantom-athletics.com/products/boxing-gloves-camo-tiger-gray
-PHSG2976-SM,in_stock,45.99,Schienbeinschutz Camo Tiger - Grau,S/M,https://phantom-athletics.com/products/shinguards-camo-tiger-gray
+PHSG2976-SM,out_of_stock,45.99,Schienbeinschutz Camo Tiger - Grau,S/M,https://phantom-athletics.com/products/shinguards-camo-tiger-gray
 PHSG2976-LXL,in_stock,45.99,Schienbeinschutz Camo Tiger - Grau,L/XL,https://phantom-athletics.com/products/shinguards-camo-tiger-gray
 PHBAG1776,in_stock,49.99,Phantom Training Bag,Default Title,https://phantom-athletics.com/products/phantom-training-bag
 PHSH2872-92,in_stock,16.99,Kinder T-Shirt Punchy - Schwarz,Kids - 92,https://phantom-athletics.com/products/kids-t-shirt-punchy-black
@@ -3891,7 +3891,7 @@ PHSHO2960-L,in_stock,37.99,Fightshorts FUSION Tiger,L,https://phantom-athletics.
 PHSHO2960-XL,in_stock,37.99,Fightshorts FUSION Tiger,XL,https://phantom-athletics.com/products/fightshorts-fusion-tiger
 PHSHO2960-XXL,in_stock,37.99,Fightshorts FUSION Tiger,XXL,https://phantom-athletics.com/products/fightshorts-fusion-tiger
 PHSHO2959-S,in_stock,34.99,Muay Thai Shorts Sak Yant - Schwarz/Gold,S,https://phantom-athletics.com/products/muay-thai-shorts-sak-yant-black-gold
-PHSHO2959-M,in_stock,39.99,Muay Thai Shorts Sak Yant - Schwarz/Gold,M,https://phantom-athletics.com/products/muay-thai-shorts-sak-yant-black-gold
+PHSHO2959-M,out_of_stock,39.99,Muay Thai Shorts Sak Yant - Schwarz/Gold,M,https://phantom-athletics.com/products/muay-thai-shorts-sak-yant-black-gold
 PHSHO2959-L,in_stock,34.99,Muay Thai Shorts Sak Yant - Schwarz/Gold,L,https://phantom-athletics.com/products/muay-thai-shorts-sak-yant-black-gold
 PHSHO2959-XL,in_stock,37.99,Muay Thai Shorts Sak Yant - Schwarz/Gold,XL,https://phantom-athletics.com/products/muay-thai-shorts-sak-yant-black-gold
 PHSHO2959-XXL,in_stock,34.99,Muay Thai Shorts Sak Yant - Schwarz/Gold,XXL,https://phantom-athletics.com/products/muay-thai-shorts-sak-yant-black-gold
@@ -3990,7 +3990,7 @@ NISHOE9729-005-135,out_of_stock,120.99,Boxschuhe NIKE Air Max Box - Schwarz/Purp
 PHBG2702-10,in_stock,24.99,Boxhandschuhe Reaper,10 OZ,https://phantom-athletics.com/products/boxing-gloves-reaper
 PHBG2702-12,in_stock,29.99,Boxhandschuhe Reaper,12 OZ,https://phantom-athletics.com/products/boxing-gloves-reaper
 PHBG2702-14,in_stock,29.99,Boxhandschuhe Reaper,14 OZ,https://phantom-athletics.com/products/boxing-gloves-reaper
-PHBG2702-16,out_of_stock,29.99,Boxhandschuhe Reaper,16 OZ,https://phantom-athletics.com/products/boxing-gloves-reaper
+PHBG2702-16,in_stock,29.99,Boxhandschuhe Reaper,16 OZ,https://phantom-athletics.com/products/boxing-gloves-reaper
 ADSHOE5391-7,out_of_stock,59.99,Ringerschuhe ADIDAS Mat Hog 2 - Schwarz/Grau,40 2/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-mat-hog-2-black-gray
 ADSHOE5391-75,out_of_stock,59.99,Ringerschuhe ADIDAS Mat Hog 2 - Schwarz/Grau,41 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-mat-hog-2-black-gray
 ADSHOE5391-8,out_of_stock,59.99,Ringerschuhe ADIDAS Mat Hog 2 - Schwarz/Grau,42,https://phantom-athletics.com/products/wrestling-shoes-adidas-mat-hog-2-black-gray
@@ -4053,23 +4053,23 @@ PHSH2900-L,in_stock,17.99,T-Shirt Sak Yant - Schwarz,L,https://phantom-athletics
 PHSH2900-XL,in_stock,17.99,T-Shirt Sak Yant - Schwarz,XL,https://phantom-athletics.com/products/t-shirt-sak-yant24
 PHSH2900-XXL,in_stock,24.99,T-Shirt Sak Yant - Schwarz,XXL,https://phantom-athletics.com/products/t-shirt-sak-yant24
 PHPATCH00584,in_stock,0.99,Patch Logo,Default Title,https://phantom-athletics.com/products/patch-logo
-PHPAD2583,out_of_stock,104.99,Kick Pads RIOT Pro,Default Title,https://phantom-athletics.com/products/kick-pads-riot-pro
-PHPAD2582,out_of_stock,55.99,Handpratzen RIOT Pro,Default Title,https://phantom-athletics.com/products/focus-pads-riot-pro
+PHPAD2583,in_stock,104.99,Kick Pads RIOT Pro,Default Title,https://phantom-athletics.com/products/kick-pads-riot-pro
+PHPAD2582,in_stock,55.99,Handpratzen RIOT Pro,Default Title,https://phantom-athletics.com/products/focus-pads-riot-pro
 PHBBAG2821-80,out_of_stock,118.99,Boxsack MUAY THAI mit Füllung (80/180 cm),80cm,https://phantom-athletics.com/products/heavy-bag-muay-thai-filled
 PHBBAG2821-180,in_stock,161.99,Boxsack MUAY THAI mit Füllung (80/180 cm),180cm,https://phantom-athletics.com/products/heavy-bag-muay-thai-filled
 PHMMAG2301-SM,in_stock,24.99,MMA Sparring Handschuhe APEX - Neon,S/M,https://phantom-athletics.com/products/mma-neon-apex-sparring-neon
-PHMMAG2301-LXL,out_of_stock,24.99,MMA Sparring Handschuhe APEX - Neon,L/XL,https://phantom-athletics.com/products/mma-neon-apex-sparring-neon
-PHHO2943-S,out_of_stock,45.99,Trainingsjacke DMC - Team Germany,S,https://phantom-athletics.com/products/trackjacket-dmc-team-germany
+PHMMAG2301-LXL,in_stock,24.99,MMA Sparring Handschuhe APEX - Neon,L/XL,https://phantom-athletics.com/products/mma-neon-apex-sparring-neon
+PHHO2943-S,in_stock,45.99,Trainingsjacke DMC - Team Germany,S,https://phantom-athletics.com/products/trackjacket-dmc-team-germany
 PHHO2943-M,in_stock,39.99,Trainingsjacke DMC - Team Germany,M,https://phantom-athletics.com/products/trackjacket-dmc-team-germany
 PHHO2943-L,in_stock,39.99,Trainingsjacke DMC - Team Germany,L,https://phantom-athletics.com/products/trackjacket-dmc-team-germany
-PHHO2943-XL,out_of_stock,45.99,Trainingsjacke DMC - Team Germany,XL,https://phantom-athletics.com/products/trackjacket-dmc-team-germany
-PHHO2943-XXL,out_of_stock,45.99,Trainingsjacke DMC - Team Germany,XXL,https://phantom-athletics.com/products/trackjacket-dmc-team-germany
+PHHO2943-XL,in_stock,45.99,Trainingsjacke DMC - Team Germany,XL,https://phantom-athletics.com/products/trackjacket-dmc-team-germany
+PHHO2943-XXL,in_stock,45.99,Trainingsjacke DMC - Team Germany,XXL,https://phantom-athletics.com/products/trackjacket-dmc-team-germany
 PHHO2943-XXXL,in_stock,45.99,Trainingsjacke DMC - Team Germany,XXXL,https://phantom-athletics.com/products/trackjacket-dmc-team-germany
 PHMMAG2939-SM,in_stock,35.99,Sparring Handschuhe Muay Thai - Limited Black Edition,S/M,https://phantom-athletics.com/products/sparring-gloves-muay-thai-black-gold
 PHMMAG2939-LXL,in_stock,35.99,Sparring Handschuhe Muay Thai - Limited Black Edition,L/XL,https://phantom-athletics.com/products/sparring-gloves-muay-thai-black-gold
 PHWR2765,in_stock,5.99,Boxbandagen - Sak Yant - Weiß (250/400 cm),250cm,https://phantom-athletics.com/products/boxing-handwraps-sak-yant-white
 PHWR2766,in_stock,5.99,Boxbandagen - Sak Yant - Weiß (250/400 cm),400cm,https://phantom-athletics.com/products/boxing-handwraps-sak-yant-white
-PHWR2759,out_of_stock,5.99,Boxbandagen - Sak Yant (250/400 cm),250cm,https://phantom-athletics.com/products/boxing-handwraps-sak-yant-black
+PHWR2759,in_stock,5.99,Boxbandagen - Sak Yant (250/400 cm),250cm,https://phantom-athletics.com/products/boxing-handwraps-sak-yant-black
 PHWR2760,in_stock,5.99,Boxbandagen - Sak Yant (250/400 cm),400cm,https://phantom-athletics.com/products/boxing-handwraps-sak-yant-black
 SDMG6200,in_stock,15.99,Shock Doctor Zahnschutz Gel Max - Pink,Default Title,https://phantom-athletics.com/products/mouthguard-gel-max-pink
 SDMG6150,in_stock,15.99,Shock Doctor Zahnschutz Gel Max - Blau,Default Title,https://phantom-athletics.com/products/mouthguard-gel-max-blue
@@ -4273,7 +4273,7 @@ PHRG2862-L,in_stock,29.99,Rashguard EVO Camo Tiger,L,https://phantom-athletics.c
 PHRG2862-XL,in_stock,29.99,Rashguard EVO Camo Tiger,XL,https://phantom-athletics.com/products/rashguard-evo-camo-tiger
 PHRG2862-XXL,in_stock,29.99,Rashguard EVO Camo Tiger,XXL,https://phantom-athletics.com/products/rashguard-evo-camo-tiger
 PHSHOCOMP2863-S,in_stock,44.99,Tights Camo Tiger,S,https://phantom-athletics.com/products/tights-tiger-camo
-PHSHOCOMP2863-M,out_of_stock,44.99,Tights Camo Tiger,M,https://phantom-athletics.com/products/tights-tiger-camo
+PHSHOCOMP2863-M,in_stock,44.99,Tights Camo Tiger,M,https://phantom-athletics.com/products/tights-tiger-camo
 PHSHOCOMP2863-L,in_stock,44.99,Tights Camo Tiger,L,https://phantom-athletics.com/products/tights-tiger-camo
 PHSHOCOMP2863-XL,in_stock,44.99,Tights Camo Tiger,XL,https://phantom-athletics.com/products/tights-tiger-camo
 PHSHOCOMP2863-XXL,in_stock,44.99,Tights Camo Tiger,XXL,https://phantom-athletics.com/products/tights-tiger-camo
@@ -4553,7 +4553,7 @@ PHRG2724-M,in_stock,32.99,Rashguard EVO Apex - RED,M,https://phantom-athletics.c
 PHRG2724-L,in_stock,32.99,Rashguard EVO Apex - RED,L,https://phantom-athletics.com/products/rashguard-evo-apex-red
 PHRG2724-XL,in_stock,32.99,Rashguard EVO Apex - RED,XL,https://phantom-athletics.com/products/rashguard-evo-apex-red
 PHRG2724-XXL,in_stock,32.99,Rashguard EVO Apex - RED,XXL,https://phantom-athletics.com/products/rashguard-evo-apex-red
-PHWR2777,out_of_stock,7.99,Boxbandagen Apex - Rot (250/400 cm),250cm,https://phantom-athletics.com/products/boxing-handwraps-apex-red
+PHWR2777,in_stock,7.99,Boxbandagen Apex - Rot (250/400 cm),250cm,https://phantom-athletics.com/products/boxing-handwraps-apex-red
 PHWR2778,in_stock,7.99,Boxbandagen Apex - Rot (250/400 cm),400cm,https://phantom-athletics.com/products/boxing-handwraps-apex-red
 PHBAG2732,out_of_stock,44.99,Rucksack APEX - RED,Default Title,https://phantom-athletics.com/products/backpack-apex-red
 PHSG2730-SM,in_stock,69.99,Schienbeinschutz APEX Striking - RED,S/M,https://phantom-athletics.com/products/shinguards-apex-striking-red
@@ -4569,7 +4569,7 @@ PHSHO2650-L,in_stock,31.99,Fightshorts FUSION Germany,L,https://phantom-athletic
 PHSHO2650-XL,in_stock,31.99,Fightshorts FUSION Germany,XL,https://phantom-athletics.com/products/fightshorts-fusion-germany
 PHSHO2650-XXL,in_stock,31.99,Fightshorts FUSION Germany,XXL,https://phantom-athletics.com/products/fightshorts-fusion-germany
 PHSHO2648-S,out_of_stock,29.99,Fightshorts FUSION Team,S,https://phantom-athletics.com/products/fightshorts-fusion-team
-PHSHO2648-M,out_of_stock,29.99,Fightshorts FUSION Team,M,https://phantom-athletics.com/products/fightshorts-fusion-team
+PHSHO2648-M,in_stock,29.99,Fightshorts FUSION Team,M,https://phantom-athletics.com/products/fightshorts-fusion-team
 PHSHO2648-L,out_of_stock,29.99,Fightshorts FUSION Team,L,https://phantom-athletics.com/products/fightshorts-fusion-team
 PHSHO2648-XL,in_stock,29.99,Fightshorts FUSION Team,XL,https://phantom-athletics.com/products/fightshorts-fusion-team
 PHSHO2648-XXL,in_stock,29.99,Fightshorts FUSION Team,XXL,https://phantom-athletics.com/products/fightshorts-fusion-team
@@ -4607,7 +4607,7 @@ PHSG2679-SM,out_of_stock,59.99,Schienbeinschutz Muay Thai - Limited Edition,S/M,
 PHSG2679-LXL,out_of_stock,59.99,Schienbeinschutz Muay Thai - Limited Edition,L/XL,https://phantom-athletics.com/products/shinguards-muay-thai-limited-edition
 PHSG2678-SM,in_stock,51.99,Schienbeinschutz Muay Thai - Rot,S/M,https://phantom-athletics.com/products/shinguards-muay-thai-red
 PHSG2678-LXL,in_stock,51.99,Schienbeinschutz Muay Thai - Rot,L/XL,https://phantom-athletics.com/products/shinguards-muay-thai-red
-PHSG2677-SM,out_of_stock,51.99,Schienbeinschutz Muay Thai - Blau,S/M,https://phantom-athletics.com/products/shinguards-muay-thai-blue
+PHSG2677-SM,in_stock,51.99,Schienbeinschutz Muay Thai - Blau,S/M,https://phantom-athletics.com/products/shinguards-muay-thai-blue
 PHSG2677-LXL,out_of_stock,51.99,Schienbeinschutz Muay Thai - Blau,L/XL,https://phantom-athletics.com/products/shinguards-muay-thai-blue
 PHSG2676-SM,in_stock,55.99,Schienbeinschutz Muay Thai - Weiß,S/M,https://phantom-athletics.com/products/shinguards-muay-thai-white
 PHSG2676-LXL,in_stock,55.99,Schienbeinschutz Muay Thai - Weiß,L/XL,https://phantom-athletics.com/products/shinguards-muay-thai-white
@@ -4619,7 +4619,7 @@ PHMMAG2706-SM,in_stock,29.99,Sparring Handschuhe Muay Thai - Limited Edition,S/M
 PHMMAG2706-LXL,in_stock,38.99,Sparring Handschuhe Muay Thai - Limited Edition,L/XL,https://phantom-athletics.com/products/sparring-gloves-muay-thai-limited-edition
 PHMMAG2704-SM,in_stock,29.99,Sparring Handschuhe Muay Thai - Blau,S/M,https://phantom-athletics.com/products/sparring-gloves-muay-thai-blue
 PHMMAG2704-LXL,in_stock,29.99,Sparring Handschuhe Muay Thai - Blau,L/XL,https://phantom-athletics.com/products/sparring-gloves-muay-thai-blue
-PHMMAG2705-SM,out_of_stock,38.99,Sparring Handschuhe Muay Thai - Rot,S/M,https://phantom-athletics.com/products/sparring-gloves-muay-thai-red
+PHMMAG2705-SM,in_stock,38.99,Sparring Handschuhe Muay Thai - Rot,S/M,https://phantom-athletics.com/products/sparring-gloves-muay-thai-red
 PHMMAG2705-LXL,in_stock,38.99,Sparring Handschuhe Muay Thai - Rot,L/XL,https://phantom-athletics.com/products/sparring-gloves-muay-thai-red
 PHSHOST00612-SGS,out_of_stock,69.99,Fightshorts STORM Nitro,S,https://phantom-athletics.com/products/fightshorts-storm-nitro
 PHSHOST00612-SGM,out_of_stock,69.99,Fightshorts STORM Nitro,M,https://phantom-athletics.com/products/fightshorts-storm-nitro
@@ -4706,7 +4706,7 @@ NISHOE2416-401-85,in_stock,69.99,Ringerschuhe NIKE Fury - Blau,42,https://phanto
 NISHOE2416-401-9,out_of_stock,69.99,Ringerschuhe NIKE Fury - Blau,42.5,https://phantom-athletics.com/products/wrestling-shoes-nike-fury-blue
 NISHOE2416-401-95,out_of_stock,69.99,Ringerschuhe NIKE Fury - Blau,43,https://phantom-athletics.com/products/wrestling-shoes-nike-fury-blue
 NISHOE2416-401-10,out_of_stock,69.99,Ringerschuhe NIKE Fury - Blau,44,https://phantom-athletics.com/products/wrestling-shoes-nike-fury-blue
-NISHOE2416-401-105,out_of_stock,69.99,Ringerschuhe NIKE Fury - Blau,44.5,https://phantom-athletics.com/products/wrestling-shoes-nike-fury-blue
+NISHOE2416-401-105,in_stock,69.99,Ringerschuhe NIKE Fury - Blau,44.5,https://phantom-athletics.com/products/wrestling-shoes-nike-fury-blue
 NISHOE2416-401-11,out_of_stock,69.99,Ringerschuhe NIKE Fury - Blau,45,https://phantom-athletics.com/products/wrestling-shoes-nike-fury-blue
 NISHOE2416-401-115,out_of_stock,69.99,Ringerschuhe NIKE Fury - Blau,45.5,https://phantom-athletics.com/products/wrestling-shoes-nike-fury-blue
 NISHOE2416-401-12,out_of_stock,69.99,Ringerschuhe NIKE Fury - Blau,46,https://phantom-athletics.com/products/wrestling-shoes-nike-fury-blue
@@ -4922,7 +4922,7 @@ ADSHOE2470-10,out_of_stock,99.99,Ringerschuhe ADIDAS Tech Fall 2 - Weiß/Schwarz
 ADSHOE2470-105,out_of_stock,99.99,Ringerschuhe ADIDAS Tech Fall 2 - Weiß/Schwarz,45 1/3,https://phantom-athletics.com/products/wrestling-shoes-adidas-tech-fall-2-white-black
 ADSHOE2470-11,out_of_stock,99.99,Ringerschuhe ADIDAS Tech Fall 2 - Weiß/Schwarz,46,https://phantom-athletics.com/products/wrestling-shoes-adidas-tech-fall-2-white-black
 SDMG6210Y,out_of_stock,12.99,Kinder Zahnschutz Shock Doctor Gel Max,Default Title,https://phantom-athletics.com/products/kids-mouthguard-gel-max
-PHWR2553,out_of_stock,7.99,Boxbandagen APEX (250/400 cm),250cm,https://phantom-athletics.com/products/handwraps-apex
+PHWR2553,in_stock,7.99,Boxbandagen APEX (250/400 cm),250cm,https://phantom-athletics.com/products/handwraps-apex
 PHWR2554,in_stock,7.99,Boxbandagen APEX (250/400 cm),400cm,https://phantom-athletics.com/products/handwraps-apex
 PHSP2341,out_of_stock,29.99,BCAA Amino Pulver - Orange,Default Title,https://phantom-athletics.com/products/bcaa-amino-powder-orange
 PHSG2615-SM,out_of_stock,55.99,Schienbeinschutz APEX Striking - Sand,S/M,https://phantom-athletics.com/products/schienbeinschutz-apex-striking-sand
@@ -4936,7 +4936,7 @@ PHBG2613-16,in_stock,34.99,Boxhandschuhe Muay Thai - Sandgrau,16 OZ,https://phan
 PHBG2612-10,in_stock,39.99,Boxhandschuhe Muay Thai - Army,10 OZ,https://phantom-athletics.com/products/boxing-gloves-muay-thai-army
 PHBG2612-12,in_stock,39.99,Boxhandschuhe Muay Thai - Army,12 OZ,https://phantom-athletics.com/products/boxing-gloves-muay-thai-army
 PHBG2612-14,in_stock,39.99,Boxhandschuhe Muay Thai - Army,14 OZ,https://phantom-athletics.com/products/boxing-gloves-muay-thai-army
-PHBG2612-16,out_of_stock,39.99,Boxhandschuhe Muay Thai - Army,16 OZ,https://phantom-athletics.com/products/boxing-gloves-muay-thai-army
+PHBG2612-16,in_stock,39.99,Boxhandschuhe Muay Thai - Army,16 OZ,https://phantom-athletics.com/products/boxing-gloves-muay-thai-army
 PHBG2590-10,in_stock,45.99,Boxhandschuhe Muay Thai - Limited Edition,10 OZ,https://phantom-athletics.com/products/boxhandschuhe-muay-thai-weiss-gold
 PHBG2590-12,in_stock,45.99,Boxhandschuhe Muay Thai - Limited Edition,12 OZ,https://phantom-athletics.com/products/boxhandschuhe-muay-thai-weiss-gold
 PHBG2590-14,in_stock,45.99,Boxhandschuhe Muay Thai - Limited Edition,14 OZ,https://phantom-athletics.com/products/boxhandschuhe-muay-thai-weiss-gold
@@ -4951,7 +4951,7 @@ PHSHOCOMP2603-M,in_stock,29.99,Tights Germany,M,https://phantom-athletics.com/pr
 PHSHOCOMP2603-L,in_stock,29.99,Tights Germany,L,https://phantom-athletics.com/products/tights-germany-1
 PHSHOCOMP2603-XL,in_stock,29.99,Tights Germany,XL,https://phantom-athletics.com/products/tights-germany-1
 PHSHOCOMP2603-XXL,out_of_stock,29.99,Tights Germany,XXL,https://phantom-athletics.com/products/tights-germany-1
-PHRG2593-S,out_of_stock,28.99,Rashguard Germany - Langarm,S,https://phantom-athletics.com/products/rashguard-germany-longsleeve
+PHRG2593-S,in_stock,28.99,Rashguard Germany - Langarm,S,https://phantom-athletics.com/products/rashguard-germany-longsleeve
 PHRG2593-M,in_stock,28.99,Rashguard Germany - Langarm,M,https://phantom-athletics.com/products/rashguard-germany-longsleeve
 PHRG2593-L,in_stock,28.99,Rashguard Germany - Langarm,L,https://phantom-athletics.com/products/rashguard-germany-longsleeve
 PHRG2593-XL,in_stock,28.99,Rashguard Germany - Langarm,XL,https://phantom-athletics.com/products/rashguard-germany-longsleeve
@@ -4976,16 +4976,16 @@ PHSHOCOMP00594-SM,in_stock,44.99,Tights Domination,M,https://phantom-athletics.c
 PHSHOCOMP00594-SL,in_stock,44.99,Tights Domination,L,https://phantom-athletics.com/products/tights-domination-black
 PHSHOCOMP00594-SXL,in_stock,44.99,Tights Domination,XL,https://phantom-athletics.com/products/tights-domination-black
 PHSHOCOMP00594-SXXL,out_of_stock,44.99,Tights Domination,XXL,https://phantom-athletics.com/products/tights-domination-black
-PHJOG2476-S,out_of_stock,35.99,Trainingshose DMC - Schwarz,S,https://phantom-athletics.com/products/track-pants-dmc
-PHJOG2476-M,out_of_stock,35.99,Trainingshose DMC - Schwarz,M,https://phantom-athletics.com/products/track-pants-dmc
-PHJOG2476-L,out_of_stock,35.99,Trainingshose DMC - Schwarz,L,https://phantom-athletics.com/products/track-pants-dmc
-PHJOG2476-XL,out_of_stock,35.99,Trainingshose DMC - Schwarz,XL,https://phantom-athletics.com/products/track-pants-dmc
-PHJOG2476-XXL,out_of_stock,35.99,Trainingshose DMC - Schwarz,XXL,https://phantom-athletics.com/products/track-pants-dmc
-PHJOG2476-XXXL,out_of_stock,35.99,Trainingshose DMC - Schwarz,XXXL,https://phantom-athletics.com/products/track-pants-dmc
-PHHO2475-S,out_of_stock,48.99,Trainingsjacke DMC - Schwarz,S,https://phantom-athletics.com/products/track-jacket-dmc
-PHHO2475-M,out_of_stock,48.99,Trainingsjacke DMC - Schwarz,M,https://phantom-athletics.com/products/track-jacket-dmc
-PHHO2475-L,out_of_stock,48.99,Trainingsjacke DMC - Schwarz,L,https://phantom-athletics.com/products/track-jacket-dmc
-PHHO2475-XL,out_of_stock,48.99,Trainingsjacke DMC - Schwarz,XL,https://phantom-athletics.com/products/track-jacket-dmc
+PHJOG2476-S,in_stock,35.99,Trainingshose DMC - Schwarz,S,https://phantom-athletics.com/products/track-pants-dmc
+PHJOG2476-M,in_stock,35.99,Trainingshose DMC - Schwarz,M,https://phantom-athletics.com/products/track-pants-dmc
+PHJOG2476-L,in_stock,35.99,Trainingshose DMC - Schwarz,L,https://phantom-athletics.com/products/track-pants-dmc
+PHJOG2476-XL,in_stock,35.99,Trainingshose DMC - Schwarz,XL,https://phantom-athletics.com/products/track-pants-dmc
+PHJOG2476-XXL,in_stock,35.99,Trainingshose DMC - Schwarz,XXL,https://phantom-athletics.com/products/track-pants-dmc
+PHJOG2476-XXXL,in_stock,35.99,Trainingshose DMC - Schwarz,XXXL,https://phantom-athletics.com/products/track-pants-dmc
+PHHO2475-S,in_stock,48.99,Trainingsjacke DMC - Schwarz,S,https://phantom-athletics.com/products/track-jacket-dmc
+PHHO2475-M,in_stock,48.99,Trainingsjacke DMC - Schwarz,M,https://phantom-athletics.com/products/track-jacket-dmc
+PHHO2475-L,in_stock,48.99,Trainingsjacke DMC - Schwarz,L,https://phantom-athletics.com/products/track-jacket-dmc
+PHHO2475-XL,in_stock,48.99,Trainingsjacke DMC - Schwarz,XL,https://phantom-athletics.com/products/track-jacket-dmc
 PHHO2475-XXL,in_stock,48.99,Trainingsjacke DMC - Schwarz,XXL,https://phantom-athletics.com/products/track-jacket-dmc
 PHHO2475-XXXL,in_stock,48.99,Trainingsjacke DMC - Schwarz,XXXL,https://phantom-athletics.com/products/track-jacket-dmc
 PHBAG2601,out_of_stock,59.99,Rucksack DELTA - Sand,Default Title,https://phantom-athletics.com/products/backpack-delta-sand
@@ -5012,10 +5012,10 @@ PHSHEVO2567-M,in_stock,27.99,Trainingsshirt EVO Warfare - Urban Camo,M,https://p
 PHSHEVO2567-L,out_of_stock,27.99,Trainingsshirt EVO Warfare - Urban Camo,L,https://phantom-athletics.com/products/training-shirt-evo-warfare-urban-camo
 PHSHEVO2567-XL,out_of_stock,27.99,Trainingsshirt EVO Warfare - Urban Camo,XL,https://phantom-athletics.com/products/training-shirt-evo-warfare-urban-camo
 PHSHEVO2567-XXL,in_stock,27.99,Trainingsshirt EVO Warfare - Urban Camo,XXL,https://phantom-athletics.com/products/training-shirt-evo-warfare-urban-camo
-PHKG2543-SM,out_of_stock,29.99,Knieschützer RIOT Pro,S/M,https://phantom-athletics.com/products/kneeguards-riot-pro
-PHKG2543-LXL,out_of_stock,29.99,Knieschützer RIOT Pro,L/XL,https://phantom-athletics.com/products/kneeguards-riot-pro
+PHKG2543-SM,in_stock,29.99,Knieschützer RIOT Pro,S/M,https://phantom-athletics.com/products/kneeguards-riot-pro
+PHKG2543-LXL,in_stock,29.99,Knieschützer RIOT Pro,L/XL,https://phantom-athletics.com/products/kneeguards-riot-pro
 PHSG2532-SM,out_of_stock,58.99,Schienbeinschutz RIOT Pro,S/M,https://phantom-athletics.com/products/shinguards-riot-pro
-PHSG2532-LXL,out_of_stock,58.99,Schienbeinschutz RIOT Pro,L/XL,https://phantom-athletics.com/products/shinguards-riot-pro
+PHSG2532-LXL,in_stock,58.99,Schienbeinschutz RIOT Pro,L/XL,https://phantom-athletics.com/products/shinguards-riot-pro
 PHBG2540-10,in_stock,43.99,Boxhandschuhe RIOT Pro,10 OZ,https://phantom-athletics.com/products/boxing-gloves-riot-pro
 PHBG2540-12,in_stock,43.99,Boxhandschuhe RIOT Pro,12 OZ,https://phantom-athletics.com/products/boxing-gloves-riot-pro
 PHBG2540-14,in_stock,60.99,Boxhandschuhe RIOT Pro,14 OZ,https://phantom-athletics.com/products/boxing-gloves-riot-pro
@@ -5032,8 +5032,8 @@ PHSHEVO2546-L,in_stock,25.99,Trainingsshirt EVO Tiger Unit - Schwarz,L,https://p
 PHSHEVO2546-XL,out_of_stock,25.99,Trainingsshirt EVO Tiger Unit - Schwarz,XL,https://phantom-athletics.com/products/training-shirt-tiger-unit
 PHSHEVO2546-XXL,out_of_stock,25.99,Trainingsshirt EVO Tiger Unit - Schwarz,XXL,https://phantom-athletics.com/products/training-shirt-tiger-unit
 PHSHEVO2544-S,out_of_stock,23.99,Trainingsshirt EVO Supporter - Schwarz,S,https://phantom-athletics.com/products/training-shirt-supporter
-PHSHEVO2544-M,out_of_stock,23.99,Trainingsshirt EVO Supporter - Schwarz,M,https://phantom-athletics.com/products/training-shirt-supporter
-PHSHEVO2544-L,out_of_stock,23.99,Trainingsshirt EVO Supporter - Schwarz,L,https://phantom-athletics.com/products/training-shirt-supporter
+PHSHEVO2544-M,in_stock,23.99,Trainingsshirt EVO Supporter - Schwarz,M,https://phantom-athletics.com/products/training-shirt-supporter
+PHSHEVO2544-L,in_stock,23.99,Trainingsshirt EVO Supporter - Schwarz,L,https://phantom-athletics.com/products/training-shirt-supporter
 PHSHEVO2544-XL,out_of_stock,23.99,Trainingsshirt EVO Supporter - Schwarz,XL,https://phantom-athletics.com/products/training-shirt-supporter
 PHSHEVO2544-XXL,out_of_stock,23.99,Trainingsshirt EVO Supporter - Schwarz,XXL,https://phantom-athletics.com/products/training-shirt-supporter
 PHSAUNA2542-SM,in_stock,29.99,Schwitzjacke Nomax-S,S/M,https://phantom-athletics.com/products/sauna-jacket-nomax-s
@@ -5068,7 +5068,7 @@ PHSHO2518-S,out_of_stock,42.99,Fightshorts EVO Muay Thai - Schwarz,S,https://pha
 PHSHO2518-M,in_stock,42.99,Fightshorts EVO Muay Thai - Schwarz,M,https://phantom-athletics.com/products/fightshorts-evo-muay-thai
 PHSHO2518-L,out_of_stock,42.99,Fightshorts EVO Muay Thai - Schwarz,L,https://phantom-athletics.com/products/fightshorts-evo-muay-thai
 PHSHO2518-XL,in_stock,42.99,Fightshorts EVO Muay Thai - Schwarz,XL,https://phantom-athletics.com/products/fightshorts-evo-muay-thai
-PHSHO2518-XXL,out_of_stock,42.99,Fightshorts EVO Muay Thai - Schwarz,XXL,https://phantom-athletics.com/products/fightshorts-evo-muay-thai
+PHSHO2518-XXL,in_stock,42.99,Fightshorts EVO Muay Thai - Schwarz,XXL,https://phantom-athletics.com/products/fightshorts-evo-muay-thai
 PHSHEVO2526-S,out_of_stock,25.99,Trainingsshirt EVO Muay Thai - Schwarz,S,https://phantom-athletics.com/products/training-shirt-muay-thai
 PHSHEVO2526-M,out_of_stock,25.99,Trainingsshirt EVO Muay Thai - Schwarz,M,https://phantom-athletics.com/products/training-shirt-muay-thai
 PHSHEVO2526-L,out_of_stock,25.99,Trainingsshirt EVO Muay Thai - Schwarz,L,https://phantom-athletics.com/products/training-shirt-muay-thai
@@ -5120,7 +5120,7 @@ PHWS2464-L,in_stock,37.99,Ringertrikot APEX - Blau,L,https://phantom-athletics.c
 PHWS2464-XL,in_stock,37.99,Ringertrikot APEX - Blau,XL,https://phantom-athletics.com/products/wrestling-singlet-apex-blue
 PHWS2464-XXL,in_stock,37.99,Ringertrikot APEX - Blau,XXL,https://phantom-athletics.com/products/wrestling-singlet-apex-blue
 PHWS2463-S,in_stock,39.99,Ringertrikot APEX - Rot,S,https://phantom-athletics.com/products/wrestling-singlet-apex-red
-PHWS2463-M,out_of_stock,39.99,Ringertrikot APEX - Rot,M,https://phantom-athletics.com/products/wrestling-singlet-apex-red
+PHWS2463-M,in_stock,39.99,Ringertrikot APEX - Rot,M,https://phantom-athletics.com/products/wrestling-singlet-apex-red
 PHWS2463-L,in_stock,39.99,Ringertrikot APEX - Rot,L,https://phantom-athletics.com/products/wrestling-singlet-apex-red
 PHWS2463-XL,in_stock,39.99,Ringertrikot APEX - Rot,XL,https://phantom-athletics.com/products/wrestling-singlet-apex-red
 PHWS2463-XXL,in_stock,39.99,Ringertrikot APEX - Rot,XXL,https://phantom-athletics.com/products/wrestling-singlet-apex-red
@@ -5199,7 +5199,7 @@ PHMASK1012-M,in_stock,79.99,Phantom Trainingsmaske - Carbon Edition,M,https://ph
 PHMASK1012-L,out_of_stock,79.99,Phantom Trainingsmaske - Carbon Edition,L,https://phantom-athletics.com/products/phantom-trainingsmaske-carbon-edition
 PHBBAGHPERF-SW80,in_stock,97.99,Boxsack HIGH PERFORMANCE mit Füllung (80/120/150/180 cm),80cm,https://phantom-athletics.com/products/boxing-bag-high-performance
 PHBBAGHPERF-SW120,in_stock,143.99,Boxsack HIGH PERFORMANCE mit Füllung (80/120/150/180 cm),120cm,https://phantom-athletics.com/products/boxing-bag-high-performance
-PHBBAGHPERF-SW150,in_stock,161.99,Boxsack HIGH PERFORMANCE mit Füllung (80/120/150/180 cm),150cm,https://phantom-athletics.com/products/boxing-bag-high-performance
+PHBBAGHPERF-SW150,out_of_stock,161.99,Boxsack HIGH PERFORMANCE mit Füllung (80/120/150/180 cm),150cm,https://phantom-athletics.com/products/boxing-bag-high-performance
 PHBBAGHPERF-SW180,in_stock,149.99,Boxsack HIGH PERFORMANCE mit Füllung (80/120/150/180 cm),180cm,https://phantom-athletics.com/products/boxing-bag-high-performance
 PHSP2446,in_stock,12.99,Iso Fit Sport Drink - Johannisbeere,Default Title,https://phantom-athletics.com/products/iso-fit-sport-drink-black-currant
 PHSP2445,in_stock,12.99,Iso Fit Sport Drink - Himbeer Zitrone,Default Title,https://phantom-athletics.com/products/iso-fit-sport-drink-rasperry
@@ -5212,8 +5212,8 @@ PHSP2452,in_stock,19.99,EAA Amino Pulver - Schwarze Johannisbeere,Default Title,
 PHSAUNA2365-SM,in_stock,29.99,Schwitzanzug Nomax-S,S/M,https://phantom-athletics.com/products/sauna-suit-nomax-s
 PHSAUNA2365-LXL,in_stock,29.99,Schwitzanzug Nomax-S,L/XL,https://phantom-athletics.com/products/sauna-suit-nomax-s
 PHSAUNA2365-XXL,in_stock,29.99,Schwitzanzug Nomax-S,XXL,https://phantom-athletics.com/products/sauna-suit-nomax-s
-PHSG2440,in_stock,26.99,Schienbeinschutz Impact - Army,Default Title,https://phantom-athletics.com/products/shinpads-impact-army
-PHSG2439,in_stock,26.99,Schienbeinschutz Impact - Rot,Default Title,https://phantom-athletics.com/products/shinpads-impact-red
+PHSG2440,out_of_stock,26.99,Schienbeinschutz Impact - Army,Default Title,https://phantom-athletics.com/products/shinpads-impact-army
+PHSG2439,out_of_stock,26.99,Schienbeinschutz Impact - Rot,Default Title,https://phantom-athletics.com/products/shinpads-impact-red
 PHSG2438,in_stock,21.99,Schienbeinschutz Impact - Blau,Default Title,https://phantom-athletics.com/products/shinpads-impact-blue
 PHRG2462-S,in_stock,34.99,Rashguard EVO Tiger Unit,S,https://phantom-athletics.com/products/rashguard-evo-tiger-unit
 PHRG2462-M,in_stock,34.99,Rashguard EVO Tiger Unit,M,https://phantom-athletics.com/products/rashguard-evo-tiger-unit
@@ -5227,7 +5227,7 @@ PHSHO2469-XL,in_stock,34.99,Fightshorts EVO Tiger Unit,XL,https://phantom-athlet
 PHSHO2469-XXL,in_stock,34.99,Fightshorts EVO Tiger Unit,XXL,https://phantom-athletics.com/products/fightshorts-evo-tiger-unit
 PHBG2189-10,in_stock,29.99,Boxhandschuhe Germany Flag,10 OZ,https://phantom-athletics.com/products/boxing-gloves-germany
 PHBG2189-12,in_stock,29.99,Boxhandschuhe Germany Flag,12 OZ,https://phantom-athletics.com/products/boxing-gloves-germany
-PHBG2189-14,out_of_stock,32.99,Boxhandschuhe Germany Flag,14 OZ,https://phantom-athletics.com/products/boxing-gloves-germany
+PHBG2189-14,in_stock,32.99,Boxhandschuhe Germany Flag,14 OZ,https://phantom-athletics.com/products/boxing-gloves-germany
 PHBG2189-16,in_stock,51.99,Boxhandschuhe Germany Flag,16 OZ,https://phantom-athletics.com/products/boxing-gloves-germany
 PHBG2323-10,in_stock,29.99,Boxhandschuhe German Eagle,10 OZ,https://phantom-athletics.com/products/boxing-gloves-germany-2
 PHBG2323-12,in_stock,29.99,Boxhandschuhe German Eagle,12 OZ,https://phantom-athletics.com/products/boxing-gloves-germany-2
@@ -5263,7 +5263,7 @@ PHSHO2416-L,in_stock,32.99,Fightshorts EVO Apex,L,https://phantom-athletics.com/
 PHSHO2416-XL,in_stock,32.99,Fightshorts EVO Apex,XL,https://phantom-athletics.com/products/fightshorts-evo-apex-black
 PHSHO2416-XXL,in_stock,32.99,Fightshorts EVO Apex,XXL,https://phantom-athletics.com/products/fightshorts-evo-apex-black
 PHSHOCOMP2423-S,out_of_stock,29.99,Tights APEX - Sand,S,https://phantom-athletics.com/products/tights-apex-sand
-PHSHOCOMP2423-M,out_of_stock,29.99,Tights APEX - Sand,M,https://phantom-athletics.com/products/tights-apex-sand
+PHSHOCOMP2423-M,in_stock,29.99,Tights APEX - Sand,M,https://phantom-athletics.com/products/tights-apex-sand
 PHSHOCOMP2423-L,out_of_stock,29.99,Tights APEX - Sand,L,https://phantom-athletics.com/products/tights-apex-sand
 PHSHOCOMP2423-XL,in_stock,29.99,Tights APEX - Sand,XL,https://phantom-athletics.com/products/tights-apex-sand
 PHSHOCOMP2423-XXL,in_stock,29.99,Tights APEX - Sand,XXL,https://phantom-athletics.com/products/tights-apex-sand
@@ -5329,7 +5329,7 @@ PHBG2437-16,in_stock,29.99,Boxhandschuhe Elite ATF - Army,16 OZ,https://phantom-
 PHMMAG2404-SM,in_stock,32.99,MMA Sparring Handschuhe APEX - Sandgrau,S/M,https://phantom-athletics.com/products/mma-gloves-apex-sparring-sand
 PHMMAG2404-LXL,in_stock,32.99,MMA Sparring Handschuhe APEX - Sandgrau,L/XL,https://phantom-athletics.com/products/mma-gloves-apex-sparring-sand
 PHSP2457,out_of_stock,16.99,Magnesium Citrat,Default Title,https://phantom-athletics.com/products/magnesium-citrat
-PHHG2402,out_of_stock,37.99,Kopfschutz APEX Full Face - Army,Default Title,https://phantom-athletics.com/products/headguard-apex-full-face-army
+PHHG2402,in_stock,37.99,Kopfschutz APEX Full Face - Army,Default Title,https://phantom-athletics.com/products/headguard-apex-full-face-army
 PHBG2400-10,in_stock,35.99,Boxhandschuhe APEX - Army,10 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-army
 PHBG2400-12,in_stock,35.99,Boxhandschuhe APEX - Army,12 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-army
 PHBG2400-14,in_stock,35.99,Boxhandschuhe APEX - Army,14 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-army
@@ -5344,7 +5344,7 @@ PHSP2451,in_stock,25.99,FIGHT Protein - Salted Caramel - 1000g,Default Title,htt
 PHSP2450,in_stock,25.99,FIGHT Protein - Pistazie - 1000g,Default Title,https://phantom-athletics.com/products/fight-protein-pistachio
 PHMMAG2409-SM,in_stock,29.99,MMA Sparring Handschuhe Fight Squad - Army,S/M,https://phantom-athletics.com/products/mma-gloves-fight-squad-army
 PHMMAG2409-LXL,in_stock,29.99,MMA Sparring Handschuhe Fight Squad - Army,L/XL,https://phantom-athletics.com/products/mma-gloves-fight-squad-army
-PHHG2406,out_of_stock,34.99,Kopfschutz APEX Full Face - Sandgrau,Default Title,https://phantom-athletics.com/products/headguard-apex-full-face-sand
+PHHG2406,in_stock,34.99,Kopfschutz APEX Full Face - Sandgrau,Default Title,https://phantom-athletics.com/products/headguard-apex-full-face-sand
 PHBG2407-10,in_stock,24.99,Boxhandschuhe Fight Squad - Sandgrau,10 OZ,https://phantom-athletics.com/products/boxing-gloves-fight-squad-sand
 PHBG2407-12,in_stock,24.99,Boxhandschuhe Fight Squad - Sandgrau,12 OZ,https://phantom-athletics.com/products/boxing-gloves-fight-squad-sand
 PHBG2407-14,in_stock,24.99,Boxhandschuhe Fight Squad - Sandgrau,14 OZ,https://phantom-athletics.com/products/boxing-gloves-fight-squad-sand
@@ -5363,7 +5363,7 @@ PHBBAGHPERFUF-SW80,out_of_stock,47.99,Boxsack HIGH PERFORMANCE ohne Füllung (80
 PHBBAGHPERFUF-SW120,in_stock,59.99,Boxsack HIGH PERFORMANCE ohne Füllung (80/120/150/180 cm),120cm,https://phantom-athletics.com/products/boxing-bag-high-performance-unfilled
 PHBBAGHPERFUF-SW150,in_stock,65.99,Boxsack HIGH PERFORMANCE ohne Füllung (80/120/150/180 cm),150cm,https://phantom-athletics.com/products/boxing-bag-high-performance-unfilled
 PHBBAGHPERFUF-SW180,in_stock,77.99,Boxsack HIGH PERFORMANCE ohne Füllung (80/120/150/180 cm),180cm,https://phantom-athletics.com/products/boxing-bag-high-performance-unfilled
-PHMMAG2327-SM,out_of_stock,29.99,MMA Sparring Handschuhe APEX - Army,S/M,https://phantom-athletics.com/products/mma-gloves-apex-sparring-army
+PHMMAG2327-SM,in_stock,29.99,MMA Sparring Handschuhe APEX - Army,S/M,https://phantom-athletics.com/products/mma-gloves-apex-sparring-army
 PHMMAG2327-LXL,in_stock,29.99,MMA Sparring Handschuhe APEX - Army,L/XL,https://phantom-athletics.com/products/mma-gloves-apex-sparring-army
 PHBAG2245,out_of_stock,79.99,Rucksack TACTIC-S - Woodland Camo,Default Title,https://phantom-athletics.com/products/backpack-tactic-s-woodland-camo
 PHBAG2183,in_stock,55.99,Rucksack TACTIC-S,Default Title,https://phantom-athletics.com/products/backpack-tactic-s
@@ -5410,7 +5410,7 @@ PHRG2309-XL,in_stock,34.99,Rashguard EVO Neon,XL,https://phantom-athletics.com/p
 PHRG2309-XXL,in_stock,34.99,Rashguard EVO Neon,XXL,https://phantom-athletics.com/products/rashguard-neon
 PHBG2300-10,in_stock,29.99,Boxhandschuhe APEX - Neon,10 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-neon
 PHBG2300-12,in_stock,29.99,Boxhandschuhe APEX - Neon,12 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-neon
-PHBG2300-14,out_of_stock,29.99,Boxhandschuhe APEX - Neon,14 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-neon
+PHBG2300-14,in_stock,29.99,Boxhandschuhe APEX - Neon,14 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-neon
 PHBG2300-16,in_stock,29.99,Boxhandschuhe APEX - Neon,16 OZ,https://phantom-athletics.com/products/boxing-gloves-apex-neon
 PHSHO2146-S,out_of_stock,29.99,Fightshorts FLEX-S Muay Thai,S,https://phantom-athletics.com/products/fightshorts-flex-s-muay-thai
 PHSHO2146-M,out_of_stock,29.99,Fightshorts FLEX-S Muay Thai,M,https://phantom-athletics.com/products/fightshorts-flex-s-muay-thai
@@ -5443,11 +5443,11 @@ PHPLAN2292,in_stock,4.99,Trainingsplan - Calisthenics,PDF Download,https://phant
 PHPLAN2293,in_stock,4.99,Trainingsplan - Laufen,PDF Download,https://phantom-athletics.com/products/training-plan-6-weeks-laufen
 PHPLAN2294,in_stock,4.99,Trainingsplan - Bodyweight,PDF Download,https://phantom-athletics.com/products/training-plan-6-weeks-bodyweight
 PHSP2187,out_of_stock,34.99,Kreatin Kautabletten,Default Title,https://phantom-athletics.com/products/creatine-chewing-tabs
-PHPAD2135,out_of_stock,37.99,Boxing Paddles,Default Title,https://phantom-athletics.com/products/boxing-paddles
+PHPAD2135,in_stock,37.99,Boxing Paddles,Default Title,https://phantom-athletics.com/products/boxing-paddles
 PHHG2026,in_stock,39.99,Kopfschutz APEX Full Face - Schwarz,Default Title,https://phantom-athletics.com/products/headguard-apex-full-face
-PHHG2028,out_of_stock,34.99,Kopfschutz APEX Open Face,Default Title,https://phantom-athletics.com/products/headguard-apex-open-face
-PHHG2029,out_of_stock,34.99,Kopfschutz APEX Face Saver,Default Title,https://phantom-athletics.com/products/headguard-apex-face-saver
-PHHG2027,out_of_stock,32.99,Kopfschutz APEX Cage,Default Title,https://phantom-athletics.com/products/headguard-apex-cage
+PHHG2028,in_stock,34.99,Kopfschutz APEX Open Face,Default Title,https://phantom-athletics.com/products/headguard-apex-open-face
+PHHG2029,in_stock,34.99,Kopfschutz APEX Face Saver,Default Title,https://phantom-athletics.com/products/headguard-apex-face-saver
+PHHG2027,in_stock,32.99,Kopfschutz APEX Cage,Default Title,https://phantom-athletics.com/products/headguard-apex-cage
 PHBG2025-10,in_stock,29.99,Boxhandschuhe APEX,10 OZ,https://phantom-athletics.com/products/boxing-gloves-apex
 PHBG2025-12,in_stock,29.99,Boxhandschuhe APEX,12 OZ,https://phantom-athletics.com/products/boxing-gloves-apex
 PHBG2025-14,in_stock,47.99,Boxhandschuhe APEX,14 OZ,https://phantom-athletics.com/products/boxing-gloves-apex
@@ -5462,18 +5462,18 @@ PHMMAG2022-SM,in_stock,33.99,MMA Hybrid Handschuhe APEX,S/M,https://phantom-athl
 PHMMAG2022-LXL,in_stock,33.99,MMA Hybrid Handschuhe APEX,L/XL,https://phantom-athletics.com/products/mma-gloves-apex-hybrid
 PHMMAG2023-SM,in_stock,20.99,MMA Fight Handschuhe APEX,S/M,https://phantom-athletics.com/products/mma-gloves-apex
 PHMMAG2023-LXL,in_stock,20.99,MMA Fight Handschuhe APEX,L/XL,https://phantom-athletics.com/products/mma-gloves-apex
-PHGG2034-SM,out_of_stock,14.99,Tiefschutz APEX,S/M,https://phantom-athletics.com/products/groinguard-apex
+PHGG2034-SM,in_stock,14.99,Tiefschutz APEX,S/M,https://phantom-athletics.com/products/groinguard-apex
 PHGG2034-LXL,in_stock,13.99,Tiefschutz APEX,L/XL,https://phantom-athletics.com/products/groinguard-apex
 PHGG2035-SM,out_of_stock,17.99,Tiefschutz APEX Titan,S/M,https://phantom-athletics.com/products/groinguard-apex-titan
-PHGG2035-LXL,out_of_stock,17.99,Tiefschutz APEX Titan,L/XL,https://phantom-athletics.com/products/groinguard-apex-titan
-PHPAD2033,out_of_stock,27.99,Handpratzen APEX,Default Title,https://phantom-athletics.com/products/boxing-pads-apex
+PHGG2035-LXL,in_stock,17.99,Tiefschutz APEX Titan,L/XL,https://phantom-athletics.com/products/groinguard-apex-titan
+PHPAD2033,in_stock,27.99,Handpratzen APEX,Default Title,https://phantom-athletics.com/products/boxing-pads-apex
 PHPAD2032,out_of_stock,59.99,Kick Pads APEX,Default Title,https://phantom-athletics.com/products/kick-pads-apex
 PHSG2030-SM,in_stock,66.99,Schienbeinschutz APEX Hybrid,S/M,https://phantom-athletics.com/products/shinguards-apex-hybrid
 PHSG2030-LXL,in_stock,66.99,Schienbeinschutz APEX Hybrid,L/XL,https://phantom-athletics.com/products/shinguards-apex-hybrid
 PHSG2031-SM,in_stock,62.99,Schienbeinschutz APEX Striking,S/M,https://phantom-athletics.com/products/shinguards-apex-striking
 PHSG2031-LXL,in_stock,62.99,Schienbeinschutz APEX Striking,L/XL,https://phantom-athletics.com/products/shinguards-apex-striking
-PHKG2037-SM,out_of_stock,20.99,Knieschützer APEX Grappling,S/M,https://phantom-athletics.com/products/kneeguards-apex-grappling
-PHKG2037-LXL,out_of_stock,20.99,Knieschützer APEX Grappling,L/XL,https://phantom-athletics.com/products/kneeguards-apex-grappling
+PHKG2037-SM,in_stock,20.99,Knieschützer APEX Grappling,S/M,https://phantom-athletics.com/products/kneeguards-apex-grappling
+PHKG2037-LXL,in_stock,20.99,Knieschützer APEX Grappling,L/XL,https://phantom-athletics.com/products/kneeguards-apex-grappling
 PHKG2036-SM,out_of_stock,28.99,Knieschützer APEX Striking,S/M,https://phantom-athletics.com/products/kneeguards-apex-striking
 PHKG2036-LXL,in_stock,28.99,Knieschützer APEX Striking,L/XL,https://phantom-athletics.com/products/kneeguards-apex-striking
 PHBD005-S-20,out_of_stock,419.00,Ultimate Set,S / MIT 9KG (20LB),https://phantom-athletics.com/products/ultimate-set
@@ -5518,7 +5518,7 @@ PHSHEVO00590-NCXL,out_of_stock,31.99,Trainingsshirt EVO Warfare - Navy Camo,XL,h
 PHSHEVO00590-NCXXL,in_stock,31.99,Trainingsshirt EVO Warfare - Navy Camo,XXL,https://phantom-athletics.com/products/trainingsshirt-evo-navy-camo
 PHSHEVO00587-GCS,in_stock,29.99,Trainingsshirt EVO Warfare - Army Camo,S,https://phantom-athletics.com/products/trainingsshirt-evo-woodland-camo
 PHSHEVO00587-GCM,in_stock,29.99,Trainingsshirt EVO Warfare - Army Camo,M,https://phantom-athletics.com/products/trainingsshirt-evo-woodland-camo
-PHSHEVO00587-GCL,out_of_stock,29.99,Trainingsshirt EVO Warfare - Army Camo,L,https://phantom-athletics.com/products/trainingsshirt-evo-woodland-camo
+PHSHEVO00587-GCL,in_stock,29.99,Trainingsshirt EVO Warfare - Army Camo,L,https://phantom-athletics.com/products/trainingsshirt-evo-woodland-camo
 PHSHEVO00587-GCXL,out_of_stock,29.99,Trainingsshirt EVO Warfare - Army Camo,XL,https://phantom-athletics.com/products/trainingsshirt-evo-woodland-camo
 PHSHEVO00587-GCXXL,in_stock,29.99,Trainingsshirt EVO Warfare - Army Camo,XXL,https://phantom-athletics.com/products/trainingsshirt-evo-woodland-camo
 PHSHEVO00593-BCS,out_of_stock,31.99,Trainingsshirt EVO Warfare - Desert Camo,S,https://phantom-athletics.com/products/trainingsshirt-evo-desert-camo
@@ -5605,7 +5605,7 @@ PHSHO1742-M,out_of_stock,34.99,Trainingsshorts Shadow,M,https://phantom-athletic
 PHSHO1742-L,out_of_stock,34.99,Trainingsshorts Shadow,L,https://phantom-athletics.com/products/training-shorts-shadow-army
 PHSHO1742-XL,out_of_stock,34.99,Trainingsshorts Shadow,XL,https://phantom-athletics.com/products/training-shorts-shadow-army
 PHSHO1742-XXL,out_of_stock,34.99,Trainingsshorts Shadow,XXL,https://phantom-athletics.com/products/training-shorts-shadow-army
-PHBALL1757,out_of_stock,32.99,Phantom Training Ball,Default Title,https://phantom-athletics.com/products/training-ball
+PHBALL1757,in_stock,32.99,Phantom Training Ball,Default Title,https://phantom-athletics.com/products/training-ball
 PHSTRIKE1801,in_stock,49.99,Phantom Strike Trainer,Default Title,https://phantom-athletics.com/products/phantom-strike-trainer
 PHWR1726,in_stock,14.99,Boxbandagen Set Impact (250/400 cm),250cm,https://phantom-athletics.com/products/boxing-handwraps-set-impact
 PHWR1725,in_stock,13.99,Boxbandagen Set Impact (250/400 cm),400 cm,https://phantom-athletics.com/products/boxing-handwraps-set-impact
@@ -5754,13 +5754,13 @@ SDGG213-S,in_stock,22.99,Tiefschutz Core mit Bioflex Cup,S,https://phantom-athle
 SDGG213-M,in_stock,22.99,Tiefschutz Core mit Bioflex Cup,M,https://phantom-athletics.com/products/shock-doctor-supporter-core-bioflex
 SDGG213-L,in_stock,22.99,Tiefschutz Core mit Bioflex Cup,L,https://phantom-athletics.com/products/shock-doctor-supporter-core-bioflex
 SDGG213-XL,in_stock,22.99,Tiefschutz Core mit Bioflex Cup,XL,https://phantom-athletics.com/products/shock-doctor-supporter-core-bioflex
-SDGG213-XXL,out_of_stock,22.99,Tiefschutz Core mit Bioflex Cup,XXL,https://phantom-athletics.com/products/shock-doctor-supporter-core-bioflex
+SDGG213-XXL,in_stock,22.99,Tiefschutz Core mit Bioflex Cup,XXL,https://phantom-athletics.com/products/shock-doctor-supporter-core-bioflex
 PHMASK1428,in_stock,10.99,Phantom Trainingsmaske Cover - Neon,Default Title,https://phantom-athletics.com/products/phantom-training-mask-cover-neon
 PHMASK1007-S,in_stock,79.99,Phantom Trainingsmaske - Neon,S,https://phantom-athletics.com/products/phantom-training-mask-neon
 PHMASK1007-M,in_stock,79.99,Phantom Trainingsmaske - Neon,M,https://phantom-athletics.com/products/phantom-training-mask-neon
 PHMASK1007-L,in_stock,79.99,Phantom Trainingsmaske - Neon,L,https://phantom-athletics.com/products/phantom-training-mask-neon
 PHSAUNA1649-SM,in_stock,38.99,Schwitzanzug Nomax,S/M,https://phantom-athletics.com/products/sweatsuit-nomax
-PHSAUNA1649-LXL,out_of_stock,38.99,Schwitzanzug Nomax,L/XL,https://phantom-athletics.com/products/sweatsuit-nomax
+PHSAUNA1649-LXL,in_stock,38.99,Schwitzanzug Nomax,L/XL,https://phantom-athletics.com/products/sweatsuit-nomax
 PHSAUNA1649-XXL,in_stock,38.99,Schwitzanzug Nomax,XXL,https://phantom-athletics.com/products/sweatsuit-nomax
 PHWR1637,out_of_stock,9.99,Handgelenksbandagen Tactic,Default Title,https://phantom-athletics.com/products/boxing-handwraps-tactic
 PHSH1619-S,out_of_stock,17.99,Trainingsshirt Tactic-V - Langarm - Schwarz,S,https://phantom-athletics.com/products/training-shirt-tactic-v-longsleeve-black
@@ -5778,7 +5778,7 @@ NMOIL-120,in_stock,14.99,Namman Muay Thai Sport Öl,120 ml,https://phantom-athle
 NMOIL-450,out_of_stock,24.99,Namman Muay Thai Sport Öl,450 ml,https://phantom-athletics.com/products/namman-sports-oil
 NMCREME-30,out_of_stock,8.90,Namman Muay Thai Sport Creme & Salbe,30 Gramm,https://phantom-athletics.com/products/namman-sports-creme
 NMCREME-100,in_stock,14.99,Namman Muay Thai Sport Creme & Salbe,100 Gramm,https://phantom-athletics.com/products/namman-sports-creme
-PHEG1654,out_of_stock,17.99,Ellbogenschutz Impact,Default Title,https://phantom-athletics.com/products/elbow-guard-impact
+PHEG1654,in_stock,17.99,Ellbogenschutz Impact,Default Title,https://phantom-athletics.com/products/elbow-guard-impact
 PHJR00533,in_stock,6.99,Springseil Tactic,Default Title,https://phantom-athletics.com/products/jumprope-tactic
 PHPAD1658,out_of_stock,89.99,Kick Pads High Performance,Default Title,https://phantom-athletics.com/products/thai-pads-high-performance
 PHCAP00954-S,in_stock,22.99,Cap Sonic - Schwarz,Default Title,https://phantom-athletics.com/products/cap-sonic-black
@@ -5847,7 +5847,7 @@ PHSG1641,out_of_stock,26.99,Schienbeinschutz Impact - Schwarz,Default Title,http
 PHSG1645,out_of_stock,15.99,Schienbeinschutz Impact SO,Default Title,https://phantom-athletics.com/products/shinguards-impact-so
 PHMG520,in_stock,10.99,Zahnschutz Impact - Schwarz,Schwarz,https://phantom-athletics.com/products/mouthguard-impact
 PHPADKICK00514-S,out_of_stock,69.99,Schlagpolster High Performance,Default Title,https://phantom-athletics.com/products/kickpads-high-performance
-PHPAD1647,out_of_stock,48.99,Handpratzen High Performance,Default Title,https://phantom-athletics.com/products/boxing-pads
+PHPAD1647,in_stock,48.99,Handpratzen High Performance,Default Title,https://phantom-athletics.com/products/boxing-pads
 PHMMAG1642-SM,in_stock,38.99,MMA Sparring Handschuhe RIOT,S/M,https://phantom-athletics.com/products/mma-gloves-riot
 PHMMAG1642-LXL,in_stock,38.99,MMA Sparring Handschuhe RIOT,L/XL,https://phantom-athletics.com/products/mma-gloves-riot
 PHMMAG1648-SM,in_stock,13.99,MMA Fight Handschuhe Blackout,S/M,https://phantom-athletics.com/products/mma-gloves-blackout
